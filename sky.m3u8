@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="skytg24" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_519_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky Intrattenimento",Sky TG24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115df8d6727807787e98c0ceae1ee6c:f4b9e52e3f31f1fa41850de4799ca4e3
-https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1768121016_s~d314e858-e055-4909-8380-d7a60f6e9cae_u~03256a1841f10a33e7aabd69ccb0dc73b285ca6550e90e6ae9fe63ee522de65c_l~50_x~31234bdf588032429636b48ce0c5befcb2ba387320519b5d1e8806d442cf785d/nowitlin1/Content/CMAF_CTR_S1/Live/channel(tg24)/master_2hr-aac.mpd
-
 #EXTINF:-1 tvg-id="skyuno" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_477_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky Intrattenimento",Sky Uno
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115a568be30b057adb2e881b248b374:58e0e2e94e17e78f4814afb28aa06634
