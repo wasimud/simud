@@ -11,7 +11,7 @@ HEADER = {
     "author": "Only Mobile",
     "info": "Aggiornata",
     "image": "https://static.wikia.nocookie.net/logopedia/images/0/0c/DAZN_PPV_print.svg/revision/latest/scale-to-width-down/250?cb=20240911135312",
-    "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/EventiS.w3u",
+    "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiS.w3u",
     "stations": []
 }
 
