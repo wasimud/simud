@@ -1,0 +1,29 @@
+{
+    "name": "Eventi Sportsonline (ITA)",
+    "author": "Only Mobile",
+    "info": "Aggiornata – solo canali italiani (HD7 / HD8)",
+    "image": "https://static.wikia.nocookie.net/logopedia/images/0/0c/DAZN_PPV_print.svg/revision/latest/scale-to-width-down/250?cb=20240911135312",
+    "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/EventiS2.w3u",
+    "stations": [
+        {
+            "name": "Roma x Genoa",
+            "info": "19:45",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportsonline.click/channels/hd/hd7.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Nottingham Forest x Everton",
+            "info": "19:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://sportsonline.click/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        }
+    ]
+}

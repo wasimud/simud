@@ -1,0 +1,30 @@
+{
+  "name": "Live TV",
+  "author": "Aggiornata 26/11/25",
+  "image": "https://media0.giphy.com/media/Q2uk5XNnlATqumoDF7/200w.gif?cid=6c09b9527ye9agpzw5eroab1islf6rfc1kiweuec63nhb1jc&ep=v1_stickers_search&rid=200w.gif&ct=s",
+  "info": "Aggiornata 26/11/25",
+  "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/LiveTV.w3u",
+  "groups": [
+    {
+      "name": "Sky Full",
+      "author": "Simud",
+      "image": "https://variety.com/wp-content/uploads/2016/03/sky-tv-logo.jpg?w=1000&h=587&crop=1",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/SkyVegeta.m3u8",
+      "import": true
+    },
+    {
+      "name": "Sky Full 2",
+      "author": "Simud",
+      "image": "https://variety.com/wp-content/uploads/2016/03/sky-tv-logo.jpg?w=1000&h=587&crop=1",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/SkyVegeta2.m3u8",
+      "import": true
+    },
+    {
+      "name": "Digitale Terrestre",
+      "author": "Simud",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1200px-Logo_of_RAI_%282016%29.svg.png",
+      "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/digitale.m3u8",
+      "import": true
+    }
+  ]
+}
