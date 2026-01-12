@@ -57,11 +57,17 @@ https://dct-ak-livedazn.akamaized.net/@st%3D1768104004~exp%3D1768190404~acl%3D%2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd|0000
 
-#EXTINF:-1 tvg-id="1830genoavscagliariitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 GENOA vs CAGLIARI (ITA - MPD)
+#EXTINF:-1 tvg-id="2045juventusvscremoneseitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 JUVENTUS vs CREMONESE  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8164c6dfe85053799b09cbcab4a66cfc:5b28067cdf2c28af35924006ec7e1ba9
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1768237203~exp%3D1768323603~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dpath%3D1s%2C1d%23hashp%3D6b332519cdde4bb817772d6da377b1731485b7459b3f20ad2248e4b30cf53b9a%23wm%3D0~hmac%3D1fe049fbfbbd85f5f2dca63deafac47fb29e4bb092afa394ddfa84848549498a/1puytew3flnc612e8h0v0x5j3s/web/stream.mpd?channel=1347&mta=it&outlet=dazn-italy&plang=it
+#KODIPROP:inputstream.adaptive.license_key=e5f5bf0584d65a8ebd2285f2f197d02f:192034d990a83803688ee395ba3a932b
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1768244403~exp%3D1768330803~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dpath%3D1s%2C1d%23hashp%3Dc565c4e31aae90dc97326b679200c5c8e98d73e7fcf5539d5686f5b0a745cc11%23wm%3D1%23wmd%3D1152~hmac%3D9a0acda8ad1465fcb8f4a4fed9a8b13626a08388b379244c58a47662491e1c0a/rzh3x106sduy14yhdi1x9y5wc/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2045juventusvscremoneseitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 JUVENTUS vs CREMONESE  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118ce2b78fd7584cc69bd7cb4631dba:279eafb801531365bd99955a9d05971b
+https://g004-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1768327248_f~0_g~1_s~20f68c4e-905d-4242-98d1-98476cedf127_u~cb97319d35d69ac5e32b24ef5fe7cb5bd268f61e271cba8420fbe70061a6a88d_k~A_l~57_x~720432965df45f913d9fb76f574b8eac/nowitlin1/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="2000barcellonavsrealmadridpolmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:00 BARCELLONA vs REAL MADRID (POL - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
