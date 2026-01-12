@@ -1,0 +1,63 @@
+name: Vix Serie Scraper
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */24 * * *'  # Ogni 24 ore
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository with custom token
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACTIONS_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dotenv
+
+      - name: Delete old VixSerie.m3u8 file
+        run: |
+          if [ -f "VixSerie.m3u8" ]; then
+            rm VixSerie.m3u8
+            echo "File VixSerie.m3u8 eliminato."
+          else
+            echo "Nessun file VixSerie.m3u8 da eliminare."
+          fi
+
+      - name: Run Vix Serie Scraper
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+        run: |
+          python VixSerie.py
+
+      - name: Check generated VixSerie.m3u8
+        run: |
+          echo "Contenuto della directory corrente:"
+          ls -lh
+
+          if [ ! -f "VixSerie.m3u8" ]; then
+            echo "ERRORE: VixSerie.m3u8 NON è stato generato dallo script!"
+            exit 1
+          fi
+
+          echo "OK: VixSerie.m3u8 generato correttamente:"
+          ls -lh VixSerie.m3u8
+
+      - name: Commit and push updated M3U8 file
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add VixSerie.m3u8
+          git commit -m "Rigenerato VixSerie.m3u8 con nuovi flussi" || echo "Nessun cambiamento da committare"
+          git push origin main --force
+        continue-on-error: true
