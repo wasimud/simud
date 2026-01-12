@@ -7,7 +7,7 @@ import os
 URL = "https://hattrick.cc/"
 
 OUTPUT_FILE = "W3U/EventiH.w3u"
-RAW_URL = "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/EventiH.w3u"
+RAW_URL = "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiH.w3u"
 
 
 def estrai_eventi():
