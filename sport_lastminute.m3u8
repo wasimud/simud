@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dct-ak-livedazn.akamaized.net/@st%3D1768104004~exp%3D1768190404~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23asn%3D3269%2C3352%2C1267%2C35612%2C12874%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3D22e32a307d14c9416b9f002d3c724cc4bad1954fc799394a4d4a8053b4dcd791/dash/dazn-linear-206/stream.mpd?p=web
+https://dcs-ac-live.cdn.indazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjpmYWxzZSwiaXAiOmZhbHNlLCJhc24iOlsiMzI2OSIsIjI5NDQ3IiwiMTI2NyJdLCJpbnRzaWciOiI3NGpFX2tROWZrb3Vtd1lSWElmUFhIQXZzTHdWaEVyUzl0a2l2NU5NV1dRIiwiaWF0IjoxNzY4Mjk4ODExLCJleHAiOjE3NjgzODUyMTF9.t7XcOZ-OTivtmOwugqTAG1HDItc43e43NbTMAqxhoBQ/dash/dazn-linear-206/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="beinsport1frampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Bein Sport 1 (FRA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -46,6 +46,12 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-pr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-id="2000varesevstriestelbatv6mpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:00 Varese vs Trieste (LBATV6 - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb6fce8df9b2300887c84f1aabf22319:3c49f225d443e1b27b85fa0731a75df2
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-06-prd-l-v2/dash-ch-06-prd-l-hd/index.mpd
 
 #EXTINF:-1 tvg-id="1700trentinovsveronaitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",17:00 TRENTINO vs VERONA (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
