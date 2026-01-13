@@ -78,8 +78,6 @@ https://5926fc9c7c5b2.streamlock.net/9356/9356/chunklist_w323160537.m3u8
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 #EXTINF:-1 tvg-name="RSO Radio" tvg-id="" tvg-logo="" group-title="Musica",RSO Radio
 https://585b674743bbb.streamlock.net/9056/9056/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio PoPizz" tvg-id="" tvg-logo="" group-title="Musica", Radio Popizz
-https://stream3.aswifi.it/radiopopizz/live/index.m3u8
 #EXTINF:-1 tvg-name="Radio Marte Tv" tvg-id="" tvg-logo="" group-title="Musica", Radio Marte Tv
 https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Studiopiù 60/70/80" tvg-id="" tvg-logo="" group-title="Musica", Studiopiù 60/70/80
@@ -105,5 +103,3 @@ https://stream.rcs.revma.com/w231bbg39yuvv
 https://stream.rcs.revma.com/8v44n4fqk2uvv
 #EXTINF:-1 tvg-name="Radio Sunbeat" group-title="Radio", Radio Sunbeat
 https://stream.rcs.revma.com/2vke97f39yuvv
-#EXTINF:-1 tvg-name="Radio 906 90/00" group-title="Radio", Radio 906 90/00
-https://stream.rcs.revma.com/f29yes56dwuvv
