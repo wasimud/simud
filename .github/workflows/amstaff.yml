@@ -37,5 +37,5 @@ jobs:
           git config --global user.email "action@github.com"
           git add sport_lastminute.m3u8
           git commit -m "Aggiornato file M3U8 con nuovi flussi" || echo "Nessun cambiamento da committare"
-          git push
+          git push origin main --force
         continue-on-error: true
