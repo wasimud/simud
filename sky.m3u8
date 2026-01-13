@@ -180,6 +180,11 @@ https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1768303148_s~88c6b
 #KODIPROP:inputstream.adaptive.license_key=11158627294fcbd5e724e2b521c87aeb:c26bc6e33e8f39dc748f66885935a63f
 https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1768303168_f~0_g~1_s~512654f8-f123-458c-b885-5a234009f85a_u~03256a1841f10a33e7aabd69ccb0dc73b285ca6550e90e6ae9fe63ee522de65c_k~A_l~57_x~8645375af11628806b2ef737f895651f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport259)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-id="dazn1" tvg-logo="https://skygo.sky.it/etc/designs/skygo/img/sky-logo@2x.png" group-title="Altro",DAZN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dcs-ac-live.cdn.indazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjpmYWxzZSwiaXAiOmZhbHNlLCJhc24iOlsiMzI2OSIsIjI5NDQ3IiwiMTI2NyJdLCJpbnRzaWciOiI3NGpFX2tROWZrb3Vtd1lSWElmUFhIQXZzTHdWaEVyUzl0a2l2NU5NV1dRIiwiaWF0IjoxNzY4Mjk4ODExLCJleHAiOjE3NjgzODUyMTF9.t7XcOZ-OTivtmOwugqTAG1HDItc43e43NbTMAqxhoBQ/dash/dazn-linear-206/stream.mpd?p=web
+
 #EXTINF:-1 tvg-id="skycinemauno" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_202_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky Cinema",Sky Cinema Uno
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=111571675d8183ed169725564cded6d9:e077dedf383c8aed73d38567a8e6a046
