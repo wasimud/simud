@@ -6,15 +6,11 @@
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
 https://dcs-ac-live.cdn.indazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjpmYWxzZSwiaXAiOmZhbHNlLCJhc24iOlsiMzI2OSIsIjI5NDQ3IiwiMTI2NyJdLCJpbnRzaWciOiI3NGpFX2tROWZrb3Vtd1lSWElmUFhIQXZzTHdWaEVyUzl0a2l2NU5NV1dRIiwiaWF0IjoxNzY4Mjk4ODExLCJleHAiOjE3NjgzODUyMTF9.t7XcOZ-OTivtmOwugqTAG1HDItc43e43NbTMAqxhoBQ/dash/dazn-linear-206/stream.mpd?p=web
 
-#EXTINF:-1 tvg-id="beinsport1frampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",Bein Sport 1 (FRA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-
-#EXTINF:-1 tvg-id="seventvengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",SEVEN TV (ENG - MPD)
+#EXTINF:-1 tvg-id="semifinaliengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",SEMIFINALI (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000065340a:88a5d26b2dc54896693dea815df7c592
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
 
 #EXTINF:-1 tvg-id="1600trevisovareselbatv1mpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",16:00 Treviso - Varese (LBATV1 - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -53,39 +49,17 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-pr
 #KODIPROP:inputstream.adaptive.license_key=cb6fce8df9b2300887c84f1aabf22319:3c49f225d443e1b27b85fa0731a75df2
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-06-prd-l-v2/dash-ch-06-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="1700trentinovsveronaitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",17:00 TRENTINO vs VERONA (ITA - MPD)
+#EXTINF:-1 tvg-id="1830napolivsparmaengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 NAPOLI vs PARMA  (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dct-ak-livedazn.akamaized.net/@st%3D1768104004~exp%3D1768190404~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23asn%3D3269%2C3352%2C1267%2C35612%2C12874%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3D22e32a307d14c9416b9f002d3c724cc4bad1954fc799394a4d4a8053b4dcd791/dash/dazn-linear-206/stream.mpd?p=web
+https://amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
-#EXTINF:-1 tvg-id="1800perugiavsmodenaitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:00 PERUGIA vs MODENA (ITA - MPD)
+#EXTINF:-1 tvg-id="1830napolivsparmaitaespmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 NAPOLI vs PARMA  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd|0000
+https://amstaff@@https://aca-live-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd|faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
 
-#EXTINF:-1 tvg-id="2045juventusvscremoneseitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 JUVENTUS vs CREMONESE  (ITA - MPD)
+#EXTINF:-1 tvg-id="2045intervslecceengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 INTER vs LECCE  (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5f5bf0584d65a8ebd2285f2f197d02f:192034d990a83803688ee395ba3a932b
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1768244403~exp%3D1768330803~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dpath%3D1s%2C1d%23hashp%3Dc565c4e31aae90dc97326b679200c5c8e98d73e7fcf5539d5686f5b0a745cc11%23wm%3D1%23wmd%3D1152~hmac%3D9a0acda8ad1465fcb8f4a4fed9a8b13626a08388b379244c58a47662491e1c0a/rzh3x106sduy14yhdi1x9y5wc/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="2045juventusvscremoneseitampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 JUVENTUS vs CREMONESE  (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118ce2b78fd7584cc69bd7cb4631dba:279eafb801531365bd99955a9d05971b
-https://g004-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1768327248_f~0_g~1_s~20f68c4e-905d-4242-98d1-98476cedf127_u~cb97319d35d69ac5e32b24ef5fe7cb5bd268f61e271cba8420fbe70061a6a88d_k~A_l~57_x~720432965df45f913d9fb76f574b8eac/nowitlin1/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="2000barcellonavsrealmadridpolmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:00 BARCELLONA vs REAL MADRID (POL - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=751db0bb03145084973c6cf9c85fa16e:6571153c39eed18c29cdc63eb83c553a,4853dbe4c4cf51f3ba95424c6e6f69c7:39c0346198bc9b1614eb319115afdb84,fd9b5f8ae64a51edacd4f245ef515287:c867d24646b170b5c0e0556b56b291d7
-https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
-
-#EXTINF:-1 tvg-id="2000barcellonavsrealmadridespmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:00 BARCELLONA vs REAL MADRID  (ESP - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
-https://aca-live-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
+https://amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 #EXTINF:-1 tvg-id="nbatvengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",NBA TV (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
