@@ -304,6 +304,16 @@
             "url": "https://www.hattrick.cc/live105.htm",
             "embed": "true",
             "isHost": ""
+        },
+        {
+            "name": "Albacete - Real Madrid - Live 129",
+            "info": "21:00 Â· Copa del Rey",
+            "online": "true",
+            "image": "https://imagecache.365scores.com/image/upload/f_png,w_250,h_250,c_limit,q_auto:eco,d_Countries:Round:2.png/v5/Competitions/13",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live129.htm",
+            "embed": "true",
+            "isHost": ""
         }
     ]
 }
