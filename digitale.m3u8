@@ -424,6 +424,8 @@ https://streamcdng1-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel2/manifest
 https://streamcdng1-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="Sport",Supertennis+ Extra 4
 https://streamcdng1-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd
+#EXTINF:-1 tvg-name="dazn1" tvg-id="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/500px-DAZN_1_Logo.svg.png" group-title="Sport",Dazn 1 FHD
+http://greanvica.org/live/CaldariAli4/AqJ9CwquRmzT/322341.ts
 #EXTINF:-1 group-title="Sport",Inter TV
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 group-title="Sport",Lazio Style Channel
