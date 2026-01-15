@@ -6,67 +6,27 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiH.w3u",
     "stations": [
         {
-            "name": "Scandicci - Le Cannet - Sport Arena HD",
-            "info": "18:00 Â· CEV CUP",
+            "name": "Dubai - Virtus Bologna - Sport 1 HD",
+            "info": "17:00 Â· Eurolega",
             "online": "true",
-            "image": "https://i.namu.wiki/i/E1qO1Rokd9o2nT_WIwo7EaFmv929MnP9NAjPkhF9TBuk2Cx9hkxh_Pu_HKl8mKn78TmIyy3YjBitN5IZb8lSAw.webp",
+            "image": "https://p7.hiclipart.com/preview/687/150/339/baloncesto-malaga-2017-18-euroleague-eurocup-basketball-2018-19-euroleague-bc-%C5%BDalgiris-basketball-thumbnail.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportarena.htm",
+            "url": "https://www.hattrick.cc/sportuno.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Scandicci - Le Cannet - Sport Arena (backup)",
-            "info": "18:00 Â· CEV CUP",
+            "name": "Dubai - Virtus Bologna - Sport 1 (backup)",
+            "info": "17:00 Â· Eurolega",
             "online": "true",
-            "image": "https://i.namu.wiki/i/E1qO1Rokd9o2nT_WIwo7EaFmv929MnP9NAjPkhF9TBuk2Cx9hkxh_Pu_HKl8mKn78TmIyy3YjBitN5IZb8lSAw.webp",
+            "image": "https://p7.hiclipart.com/preview/687/150/339/baloncesto-malaga-2017-18-euroleague-eurocup-basketball-2018-19-euroleague-bc-%C5%BDalgiris-basketball-thumbnail.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/arena.htm",
+            "url": "https://www.hattrick.cc/uno.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Senegal - Egitto - Sport Italia",
-            "info": "18:00 Â· Coppa d'Africa",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/archive/5/58/20240114051051%21Coppa_delle_nazioni_africane_2023_logo.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportitalia.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Wolfsburg - St Pauli. - Calcio",
-            "info": "18:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://icon2.cleanpng.com/20180629/xch/kisspng-201718-bundesliga-2-bundesliga-germany-nationa-bul-5b36a3bca70ec6.6235408915303075166843.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/calcio.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Wolfsburg - St Pauli. - Calcio HD (backup)",
-            "info": "18:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://icon2.cleanpng.com/20180629/xch/kisspng-201718-bundesliga-2-bundesliga-germany-nationa-bul-5b36a3bca70ec6.6235408915303075166843.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/calciohd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Wolfsburg - St Pauli. - Live 111",
-            "info": "18:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://icon2.cleanpng.com/20180629/xch/kisspng-201718-bundesliga-2-bundesliga-germany-nationa-bul-5b36a3bca70ec6.6235408915303075166843.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live111.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Napoli - Parma - Live 2",
+            "name": "Verona - Bologna - Live 2",
             "info": "18:30 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -76,7 +36,7 @@
             "isHost": ""
         },
         {
-            "name": "Napoli - Parma - Live 147",
+            "name": "Verona - Bologna - Live 147",
             "info": "18:30 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -86,7 +46,7 @@
             "isHost": ""
         },
         {
-            "name": "Napoli - Parma - Live 147 b",
+            "name": "Verona - Bologna - Live 147 b",
             "info": "18:30 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -96,7 +56,7 @@
             "isHost": ""
         },
         {
-            "name": "Napoli - Parma - Live 147 c",
+            "name": "Verona - Bologna - Live 147 c",
             "info": "18:30 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -106,7 +66,7 @@
             "isHost": ""
         },
         {
-            "name": "Napoli - Parma - Live 7",
+            "name": "Verona - Bologna - Live 7",
             "info": "18:30 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -116,7 +76,7 @@
             "isHost": ""
         },
         {
-            "name": "Napoli - Parma - Live 137",
+            "name": "Verona - Bologna - Live 137",
             "info": "18:30 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -126,7 +86,7 @@
             "isHost": ""
         },
         {
-            "name": "Napoli - Parma - Live 137 b",
+            "name": "Verona - Bologna - Live 137 b",
             "info": "18:30 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -136,7 +96,7 @@
             "isHost": ""
         },
         {
-            "name": "Napoli - Parma - Dazn 1 HD",
+            "name": "Verona - Bologna - Dazn 1 HD",
             "info": "18:30 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -146,57 +106,47 @@
             "isHost": ""
         },
         {
-            "name": "Colonia - Bayern Monaco - Calcio",
+            "name": "Milano - Stella Rossa - Sport 1 HD",
+            "info": "20:30 Â· Eurolega",
+            "online": "true",
+            "image": "https://p7.hiclipart.com/preview/687/150/339/baloncesto-malaga-2017-18-euroleague-eurocup-basketball-2018-19-euroleague-bc-%C5%BDalgiris-basketball-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/sportuno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milano - Stella Rossa - Sport 1 (backup)",
+            "info": "20:30 Â· Eurolega",
+            "online": "true",
+            "image": "https://p7.hiclipart.com/preview/687/150/339/baloncesto-malaga-2017-18-euroleague-eurocup-basketball-2018-19-euroleague-bc-%C5%BDalgiris-basketball-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Augsburg - Union Berlino - Calcio",
             "info": "20:30 Â· Bundesliga",
             "online": "true",
-            "image": "https://icon2.cleanpng.com/20180629/xch/kisspng-201718-bundesliga-2-bundesliga-germany-nationa-bul-5b36a3bca70ec6.6235408915303075166843.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/calcio.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Colonia - Bayern Monaco - Calcio HD (backup)",
+            "name": "Augsburg - Union Berlino - Calcio HD (backup)",
             "info": "20:30 Â· Bundesliga",
             "online": "true",
-            "image": "https://icon2.cleanpng.com/20180629/xch/kisspng-201718-bundesliga-2-bundesliga-germany-nationa-bul-5b36a3bca70ec6.6235408915303075166843.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/1200px-Bundesliga_-_Logo_2017.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/calciohd.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Colonia - Bayern Monaco - Live 112",
-            "info": "20:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://icon2.cleanpng.com/20180629/xch/kisspng-201718-bundesliga-2-bundesliga-germany-nationa-bul-5b36a3bca70ec6.6235408915303075166843.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live112.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lipsia - Friburgo - Live 113",
-            "info": "20:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://icon2.cleanpng.com/20180629/xch/kisspng-201718-bundesliga-2-bundesliga-germany-nationa-bul-5b36a3bca70ec6.6235408915303075166843.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live113.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Hoffenheim - Borussia M'gladbach - Live 114",
-            "info": "20:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://icon2.cleanpng.com/20180629/xch/kisspng-201718-bundesliga-2-bundesliga-germany-nationa-bul-5b36a3bca70ec6.6235408915303075166843.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live114.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Inter - Lecce - Live 2",
+            "name": "Como - Milan - Live 2",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -206,7 +156,7 @@
             "isHost": ""
         },
         {
-            "name": "Inter - Lecce - Live 147",
+            "name": "Como - Milan - Live 147",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -216,7 +166,7 @@
             "isHost": ""
         },
         {
-            "name": "Inter - Lecce - Live 147 b",
+            "name": "Como - Milan - Live 147 b",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -226,7 +176,7 @@
             "isHost": ""
         },
         {
-            "name": "Inter - Lecce - Live 147 c",
+            "name": "Como - Milan - Live 147 c",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -236,7 +186,7 @@
             "isHost": ""
         },
         {
-            "name": "Inter - Lecce - Live 7",
+            "name": "Como - Milan - Live 7",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -246,7 +196,7 @@
             "isHost": ""
         },
         {
-            "name": "Inter - Lecce - Live 137",
+            "name": "Como - Milan - Live 137",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -256,7 +206,7 @@
             "isHost": ""
         },
         {
-            "name": "Inter - Lecce - Live 137 b",
+            "name": "Como - Milan - Live 137 b",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -266,7 +216,7 @@
             "isHost": ""
         },
         {
-            "name": "Inter - Lecce - Dazn 1 HD",
+            "name": "Como - Milan - Dazn 1 HD",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
@@ -276,40 +226,20 @@
             "isHost": ""
         },
         {
-            "name": "Nigeria - Marocco - Sport Italia",
-            "info": "21:00 Â· Coppa d'Africa",
+            "name": "Masterchef - Live 1",
+            "info": "21:15 Â· TV",
             "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/archive/5/58/20240114051051%21Coppa_delle_nazioni_africane_2023_logo.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportitalia.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Chelsea - Arsenal - Live 1",
-            "info": "21:00 Â· EFL CUP",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png",
+            "image": "https://www.maglietteria.com/pic_brands/87/RESIZE_87.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live1.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Chelsea - Arsenal - Live 105",
-            "info": "21:00 Â· EFL CUP",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/EFL_%28Carabao%29_Cup_Logo.svg/960px-EFL_%28Carabao%29_Cup_Logo.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live105.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Albacete - Real Madrid - Live 129",
+            "name": "Racing Santander - Barcelona - Live 129",
             "info": "21:00 Â· Copa del Rey",
             "online": "true",
-            "image": "https://imagecache.365scores.com/image/upload/f_png,w_250,h_250,c_limit,q_auto:eco,d_Countries:Round:2.png/v5/Competitions/13",
+            "image": "https://brandlogos.net/wp-content/uploads/2025/04/copa_del_rey-logo_brandlogos.net_sk2jk.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live129.htm",
             "embed": "true",
