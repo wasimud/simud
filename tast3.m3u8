@@ -1,1 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ch02itaespmpd" tvg-logo="https://cdn.aptoide.com/imgs/c/4/7/c47f3187ae8f955a18b130ba84a1f1f8_fgraphic.png" group-title="LAST MINUTE",CH 02  (ITA/ESP - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfa3eb86c9cc5d991019dbea120cd77d:a202ef83bc950ba2be18ea893b62b996
+https://amstaff@@https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qkausaazvn/out/v1/1387f8615d604ebc884fd139bd9fadc7/cenc.mpd
