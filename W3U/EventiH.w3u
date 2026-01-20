@@ -86,82 +86,12 @@
             "isHost": ""
         },
         {
-            "name": "Kairat - Bruges - Sport 1 HD",
-            "info": "16:30 Â· Champions League",
+            "name": "Real Madrid - Milano - Live 21",
+            "info": "20:45 Â· Eurolega",
             "online": "true",
-            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
+            "image": "https://www.euroleaguebasketball.net/images/logo-default.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Kairat - Bruges - Sport 1 (backup)",
-            "info": "16:30 Â· Champions League",
-            "online": "true",
-            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Kairat - Bruges - Live 4",
-            "info": "16:30 Â· Champions League",
-            "online": "true",
-            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live4.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Kairat - Bruges - Live 3",
-            "info": "16:30 Â· Champions League",
-            "online": "true",
-            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live3.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bodo/Glimt - Manchester City - Live 2",
-            "info": "18:45 Â· Champions League",
-            "online": "true",
-            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bodo/Glimt - Manchester City - Sport 1 HD",
-            "info": "18:45 Â· Champions League",
-            "online": "true",
-            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bodo/Glimt - Manchester City - Sport 1 (backup)",
-            "info": "18:45 Â· Champions League",
-            "online": "true",
-            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bodo/Glimt - Manchester City - Live 4",
-            "info": "18:45 Â· Champions League",
-            "online": "true",
-            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live4.htm",
+            "url": "https://www.hattrick.cc/live21.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -202,6 +132,16 @@
             "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live14.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Arsenal - Live 4",
+            "info": "21:00 Â· Champions League",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live4.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -252,6 +192,26 @@
             "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Arsenal - Live 138",
+            "info": "21:00 Â· Champions League",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live138.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Arsenal - Live 138 b",
+            "info": "21:00 Â· Champions League",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live138b.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -366,6 +326,36 @@
             "isHost": ""
         },
         {
+            "name": "Copenhagen - Napoli - Live 20",
+            "info": "21:00 Â· Champions League",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live20.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Copenhagen - Napoli - Live 139",
+            "info": "21:00 Â· Champions League",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live139.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Copenhagen - Napoli - Live 139 b",
+            "info": "21:00 Â· Champions League",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live139b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Copenhagen - Napoli - Live 8",
             "info": "21:00 Â· Champions League",
             "online": "true",
@@ -446,6 +436,16 @@
             "isHost": ""
         },
         {
+            "name": "Real Madrid - Monaco - Live 6",
+            "info": "21:00 Â· Champions League",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live6.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Real Madrid - Monaco - Live 17",
             "info": "21:00 Â· Champions League",
             "online": "true",
@@ -506,12 +506,12 @@
             "isHost": ""
         },
         {
-            "name": "Sporting L. - PSG - Live 6",
+            "name": "Sporting L. - PSG - Live 16",
             "info": "21:00 Â· Champions League",
             "online": "true",
             "image": "https://www.calciozz.it/img/logos/competicoes/27_imgbank_lc_20250314102703.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live6.htm",
+            "url": "https://www.hattrick.cc/live16.htm",
             "embed": "true",
             "isHost": ""
         },
