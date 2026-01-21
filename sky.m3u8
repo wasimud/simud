@@ -180,6 +180,11 @@ https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1769103806_s~88526
 #KODIPROP:inputstream.adaptive.license_key=11158627294fcbd5e724e2b521c87aeb:c26bc6e33e8f39dc748f66885935a63f
 https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1769103826_f~0_g~1_s~08ea6fc1-46e8-4202-a5a6-68943f567e8f_u~03256a1841f10a33e7aabd69ccb0dc73b285ca6550e90e6ae9fe63ee522de65c_k~A_l~57_x~2a2a3c852670612b90ea19e43d31cb87/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport259)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-id="primevideo" tvg-logo="https://skygo.sky.it/etc/designs/skygo/img/sky-logo@2x.png" group-title="Altro",PRIME VIDEO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c53947b4be2025415fea71d378ac6a5:e7990a5809933be29ad14ba63d21fa61
+https://ABCNNGCAAAAAAAAMMUIOWB7EV7YFL.OTTB.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/edcbd7vo2r/out/v1/b3f7eecb2417462892c7907de3ba43c3/cenc.mpd
+
 #EXTINF:-1 tvg-id="dazn1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/500px-DAZN_1_Logo.svg.png" group-title="Sky Sport",Dazn 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
