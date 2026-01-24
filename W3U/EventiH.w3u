@@ -86,216 +86,6 @@
             "isHost": ""
         },
         {
-            "name": "Manchester City - Wolverhampton - Sport 1 HD",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Manchester City - Wolverhampton - Sport 1 (backup)",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Manchester City - Wolverhampton - Live 107",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live107.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Burnley - Tottenham - Sport Max HD",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportmaxhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Burnley - Tottenham - Sport Max",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportmax.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Burnley - Tottenham - Live 110",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live110.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fulham - Brighton - Sport Mix HD",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportmixhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fulham - Brighton - Sport Mix (backup)",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportmix.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fulham - Brighton - Live 109",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live109.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Valencia - Espanyol - Live 106",
-            "info": "16:15 Â· Liga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live106.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Modena - Palermo - Live 1",
-            "info": "17:15 Â· Serie B",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Cagliari - Dazn 1 HD (ext chrome)",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/dazn1hd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Cagliari - Live 9",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live9.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Cagliari - Live 147",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live147.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Cagliari - Live 147 b",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live147b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Cagliari - Live 147 c",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live147c.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Cagliari - Dazn 1 HD",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/dazn1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Cagliari - Live 137",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live137.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Cagliari - Live 137 b",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live137b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Cagliari - Live 7",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Napoli - Tortona - Sport Basket",
-            "info": "18:15 Â· A1",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/1/12/Logo_Lega_Basket_2018.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportbasket.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Union Berlino - Borussia Dortmund - Sport Arena HD",
             "info": "18:30 Â· Bundesliga",
             "online": "true",
@@ -376,6 +166,16 @@
             "isHost": ""
         },
         {
+            "name": "Lecce - Lazio - Calcio HD (EXT CHROME)",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/calcio1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Lecce - Lazio - Live 2",
             "info": "20:45 Â· Serie A",
             "online": "true",
@@ -432,6 +232,26 @@
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live147c.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lecce - Lazio - Live 138",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live138.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lecce - Lazio - Live 138 b",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live138b.htm",
             "embed": "true",
             "isHost": ""
         },
