@@ -1,40 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1300atleticomadridmaiorcampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",13:00 Atletico Madrid - Maiorca (MPD)
+#EXTINF:-1 tvg-id="1730realsociedadceltavigompd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",17:30 Real Sociedad - Celta Vigo (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60e16aa374cc5350a49155076af5efe5:42c6b11c25d09bff7c62ab5657d011a7
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769345405~exp%3D1769431805~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6781434dfbe52827ae3e389dab3b6b5893fc4f7235090e725c9177cfdd659aeb%23wm%3D0~hmac%3D21442d627b03091fec687c45a95b9903b24ec0fa0a7cabb1143d1855bdc9f9ee/3nlr7tdu45x71fmtadw34oe9v/web/stream.mpd?channel=3933&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="1515barcellonarealoviedompd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:15 Barcellona - Real Oviedo (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92257c565e265c7dabf88d4b01ac3df0:e2d12f254b564e81cea8518a3d8bedb4
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769353504~exp%3D1769439904~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Da40bb1586b1ac9104c029770e559589fe05334cca6a6da9d8c591bbfba4da999%23wm%3D1%23wmd%3D1152~hmac%3Db1cded0fc4301f004ade05c8149b3734568c4811ee0ca5c97a35a7b556bee82f/1jeeaz3pyuuvg1sgnfm4skw0sq/web/stream.mpd?channel=3937&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="1111sassuolocremonesempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",11:11 Sassuolo - Cremonese (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47575a00159b53b698a1c82cd66e655d:70f4cc98e5349112586abba5925bd5cc
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769339703~exp%3D1769426103~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D59620b71a11f210aa54e948c5f93a129924fb8a7f61e70168ef876f5f79d129d%23wm%3D0~hmac%3D3a2d8a3621288ac88f3d4a9d183218cb9ec5c2ba259020523c9b060abff4ca68/10fgcx5kc8ypb1sio7v8ls3c0u/web/stream.mpd?channel=1344&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="1326atalantaparmampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",13:26 Atalanta - Parma (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b4503a7571b52ba8fd442e7ea111b2b:03169c09641015874784290d03bab2e6
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1769347803~exp%3D1769434203~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D0e936d425d9d8190693dfa4a40b4e64043d467ef704ccb18e120a66eb12b26aa%23wm%3D0~hmac%3De146cfe045a12b3be82c87d4d03c4710ab5f4711e6e64faeb15073057a98bd73/6f2feyiuouyh1ql44s246gk87/web/stream.mpd?channel=1345&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="1341genoabolognampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",13:41 Genoa - Bologna (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca5e1e286c55554b86eb282320907992:50575515ac522df048948174492aa5fb
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769348714~exp%3D1769435114~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D974f94548ba36752fbd60b29bf0ecd80e61212f1625230e24ea04a2ca15f5b32%23wm%3D0~hmac%3Da195294fc5b9141997e011fa26b44f6829dfb930504c58859f4c36d34cd1a3e3/hhz7sqes2x6v1i9aiclu0da9i/web/stream.mpd?channel=1346&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="1400zonaserieaeniliveatapargenbolmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",14:00 Zona Serie A Enilive | ATA-PAR GEN-BOL (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39b6e2ceea2c5072a6b633a5094ae002:f6134a3cd401f0f8fef4cb9b3de755f9
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769348712~exp%3D1769435112~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D3e5e83ac2c990408cabbed0dccc3fc41eb9859b6a0189dfe7f890adb8de127d2%23wm%3D0~hmac%3D70b709f556849c20acb89ac019a592606a0f8616a1ccead70143f09a63e3f109/xfro5uajgky71bbe2ltcfwp10/web/stream.mpd?channel=1347&mta=it&outlet=dazn-italy&plang=it
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769361605~exp%3D1769448005~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dfa324684e6e876e7679158028b8e6ffebe01282f1733587d6669cf129d1a6f70~hmac%3D65f5e65677de6663b2949e0eb9f123b93e11b4ac90b1f5a5222a2586a8db8c18/17ra9fe9558jd1tuqwse529t22/web/stream.mpd?channel=3733&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="1556juventusnapolimpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:56 Juventus - Napoli (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -47,6 +17,12 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1769356803~exp%3D1769443203~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118ce2b78fd7584cc69bd7cb4631dba:279eafb801531365bd99955a9d05971b
 https://g004-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1769440680_s~c2174432-62b9-451d-852f-ede25b598015_u~b9227a75798d921500455258e76ae285233af6aaa8fb3e64d17e6efea473621d4eed6b2e22befee08031c75e2b5a45df_l~57_x~a4f99208b1740248d933066ee313c6d85083f747cba967d2e5da58248c36f590/nowitlin1/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="1826romamilanmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:26 Roma - Milan (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=deb93fe4a4785e8280ffea98a6d116f9:bef5851f2dbb5a0691c8f2a1aebffebd
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769365804~exp%3D1769452204~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D95c9ad26968385886d380f3fec74199637cda146226175b8d277c27617cdb2b4%23wm%3D1%23wmd%3D1152~hmac%3D112195e18945106653bade3390704b897c95e29e137b4ef85d701613d23f296d/j786i0xxwrai1gi0c1qtz6g1q/web/stream.mpd?channel=1382&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="1400sdtirolpadovampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",14:00 Südtirol - Padova (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
