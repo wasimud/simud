@@ -86,107 +86,57 @@
             "isHost": ""
         },
         {
-            "name": "Union Berlino - Borussia Dortmund - Sport Arena HD",
-            "info": "18:30 Â· Bundesliga",
+            "name": "Vicenza - Cittadella - Sport Max HD",
+            "info": "20:30 Â· Serie C",
             "online": "true",
-            "image": "https://static.vecteezy.com/system/resources/previews/010/994/305/non_2x/bundesliga-logo-symbol-white-design-germany-football-european-countries-football-teams-illustration-with-red-background-free-vector.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportarena.htm",
+            "url": "https://www.hattrick.cc/sportmaxhd.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Union Berlino - Borussia Dortmund - Sport Arena (backup)",
-            "info": "18:30 Â· Bundesliga",
+            "name": "Vicenza - Cittadella - Sport Max",
+            "info": "20:30 Â· Serie C",
             "online": "true",
-            "image": "https://static.vecteezy.com/system/resources/previews/010/994/305/non_2x/bundesliga-logo-symbol-white-design-germany-football-european-countries-football-teams-illustration-with-red-background-free-vector.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/arena.htm",
+            "url": "https://www.hattrick.cc/sportmax.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Union Berlino - Borussia Dortmund - Live 111",
-            "info": "18:30 Â· Bundesliga",
+            "name": "Lecco - Inter U23 - Sport 1 HD",
+            "info": "20:30 Â· Serie C",
             "online": "true",
-            "image": "https://static.vecteezy.com/system/resources/previews/010/994/305/non_2x/bundesliga-logo-symbol-white-design-germany-football-european-countries-football-teams-illustration-with-red-background-free-vector.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live111.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bournemouth - Liverpool - Sport 1 HD",
-            "info": "18:30 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/sportuno.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Bournemouth - Liverpool - Sport 1 (backup)",
-            "info": "18:30 Â· Premier L.",
+            "name": "Lecco - Inter U23 - Sport 1 (backup)",
+            "info": "20:30 Â· Serie C",
             "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/uno.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Bournemouth - Liverpool - Live 110",
-            "info": "18:30 Â· Premier L.",
+            "name": "Cremona - Virtus Bologna - Sport Basket",
+            "info": "20:30 Â· A1",
             "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
+            "image": "https://upload.wikimedia.org/wikipedia/it/1/12/Logo_Lega_Basket_2018.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live110.htm",
+            "url": "https://www.hattrick.cc/sportbasket.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Siviglia - Athletic B. - Live 106",
-            "info": "18:30 Â· Liga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live106.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Spezia - Avellino - Live 1",
-            "info": "19:30 Â· Serie B",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Lazio - Calcio HD (EXT CHROME)",
-            "info": "20:45 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/calcio1hd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Lazio - Live 2",
-            "info": "20:45 Â· Serie A",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Lazio - Calcio",
+            "name": "Verona - Udinese - Calcio",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
@@ -196,7 +146,7 @@
             "isHost": ""
         },
         {
-            "name": "Lecce - Lazio - Calcio HD (backup)",
+            "name": "Verona - Udinese - Calcio HD (backup)",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
@@ -206,7 +156,7 @@
             "isHost": ""
         },
         {
-            "name": "Lecce - Lazio - Live 147",
+            "name": "Verona - Udinese - Live 147",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
@@ -216,7 +166,7 @@
             "isHost": ""
         },
         {
-            "name": "Lecce - Lazio - Live 147 b",
+            "name": "Verona - Udinese - Live 147 b",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
@@ -226,7 +176,7 @@
             "isHost": ""
         },
         {
-            "name": "Lecce - Lazio - Live 147 c",
+            "name": "Verona - Udinese - Live 147 c",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
@@ -236,27 +186,27 @@
             "isHost": ""
         },
         {
-            "name": "Lecce - Lazio - Live 138",
+            "name": "Verona - Udinese - Live 137",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live138.htm",
+            "url": "https://www.hattrick.cc/live137.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Lecce - Lazio - Live 138 b",
+            "name": "Verona - Udinese - Live 137 b",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live138b.htm",
+            "url": "https://www.hattrick.cc/live137b.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Lecce - Lazio - Live 7",
+            "name": "Verona - Udinese - Live 7",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/500px-Serie_A.svg.png",
@@ -266,37 +216,27 @@
             "isHost": ""
         },
         {
-            "name": "Villarreal - Real Madrid - Dazn 1 HD (ext chrome)",
-            "info": "21:00 Â· Liga",
+            "name": "Everton - Leeds - Sport Arena HD",
+            "info": "21:00 Â· Premier L.",
             "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
+            "image": "https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/dazn1hd.htm",
+            "url": "https://www.hattrick.cc/sportarena.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Villarreal - Real Madrid - Live 9 (it)",
-            "info": "21:00 Â· Liga",
+            "name": "Everton - Leeds - Sport Arena (backup)",
+            "info": "21:00 Â· Premier L.",
             "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
+            "image": "https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live9.htm",
+            "url": "https://www.hattrick.cc/arena.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Villarreal - Real Madrid - Dazn 1 HD",
-            "info": "21:00 Â· Liga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/dazn1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Villarreal - Real Madrid - Live 106",
+            "name": "Girona - Getafe - Live 106",
             "info": "21:00 Â· Liga",
             "online": "true",
             "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
@@ -306,32 +246,102 @@
             "isHost": ""
         },
         {
-            "name": "Marsiglia - Lens - Sport 1 HD",
-            "info": "21:00 Â· Ligue 1",
+            "name": "Ankara - Conegliano - Sport 1 HD",
+            "info": "16:00 Â· CEV Cup",
             "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
+            "image": "https://dietrolanotizia.eu/wp-content/uploads/2021/02/Cev-Champions-League.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/sportuno.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Marsiglia - Lens - Sport 1 (backup)",
-            "info": "21:00 Â· Ligue 1",
+            "name": "Ankara - Conegliano - Sport 1 (backup)",
+            "info": "16:00 Â· CEV Cup",
             "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
+            "image": "https://dietrolanotizia.eu/wp-content/uploads/2021/02/Cev-Champions-League.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/uno.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Philadelphia 76ers - New York Knicks - Sport Basket",
-            "info": "21:00 Â· NBA",
+            "name": "Cucine Lube Civitanova - Volley Haasrode Leuven - Sport 1 HD",
+            "info": "20:30 Â· CEV Cup",
             "online": "true",
-            "image": "https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F348%2FPNG%2F512%2FNBA_35964.png&id=35964&pack_or_individual=pack",
+            "image": "https://dietrolanotizia.eu/wp-content/uploads/2021/02/Cev-Champions-League.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportbasket.htm",
+            "url": "https://www.hattrick.cc/sportuno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Cucine Lube Civitanova - Volley Haasrode Leuven - Sport 1 (backup)",
+            "info": "20:30 Â· CEV Cup",
+            "online": "true",
+            "image": "https://dietrolanotizia.eu/wp-content/uploads/2021/02/Cev-Champions-League.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Latina - Renate - Sport 1 HD",
+            "info": "14:30 Â· Coppa Italia Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/c/ca/CoppaItaliaC_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/sportuno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Latina - Renate - Sport 1 (backup)",
+            "info": "14:30 Â· Coppa Italia Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/c/ca/CoppaItaliaC_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Potenza - Ternana - Sport Arena HD",
+            "info": "18:00 Â· Coppa Italia Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/c/ca/CoppaItaliaC_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/sportarena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Potenza - Ternana - Sport Arena (backup)",
+            "info": "18:00 Â· Coppa Italia Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/c/ca/CoppaItaliaC_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/arena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - Juventus - Sport 1 HD",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/sportuno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - Juventus - Sport 1 (backup)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/uno.htm",
             "embed": "true",
             "isHost": ""
         }
