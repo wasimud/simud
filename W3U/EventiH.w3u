@@ -86,42 +86,12 @@
             "isHost": ""
         },
         {
-            "name": "Latina - Renate - Sport 1 HD",
-            "info": "14:30 Â· Coppa Italia Serie C",
+            "name": "Diretta Goal - Calcio 1 HD (eXT CHROME)",
+            "info": "21:00 Â· Champions L.",
             "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/c/ca/CoppaItaliaC_2024.png",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Latina - Renate - Sport 1 (backup)",
-            "info": "14:30 Â· Coppa Italia Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/c/ca/CoppaItaliaC_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Potenza - Ternana - Sport Arena HD",
-            "info": "18:00 Â· Coppa Italia Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/c/ca/CoppaItaliaC_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportarena.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Potenza - Ternana - Sport Arena (backup)",
-            "info": "18:00 Â· Coppa Italia Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/c/ca/CoppaItaliaC_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/arena.htm",
+            "url": "https://www.hattrick.cc/calcio1hd.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -306,6 +276,16 @@
             "isHost": ""
         },
         {
+            "name": "Napoli - Chelsea - Live 16",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live16.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Napoli - Chelsea - Live 104",
             "info": "21:00 Â· Champions L.",
             "online": "true",
@@ -432,6 +412,16 @@
             "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live8.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Borussia Dortmund - Inter - Live 17",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live17.htm",
             "embed": "true",
             "isHost": ""
         },
