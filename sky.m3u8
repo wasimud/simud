@@ -240,6 +240,11 @@ https://dcs-ak-livedazn.akamaized.net/@st%3D1769572803~exp%3D1769659203~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
 https://dcs-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Njk2NzY2MzIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI3MGQyYTJkNmRiM2QiLCJnZW8iOiJpdCIsImFzbiI6WyIzMjY5IiwiMjk0NDciLCIxMjY3Il0sInVhIjoiZWUwZjQ5NTU5NjJhYmU2MTQ3YTc2MTEyYmVlNGFhY2Q3YWJjMjE3MCIsImlhdCI6MTc2OTU5MDIzMn0.xSaEWe2eogj4mFaUBpV1VFk-M1cSisTDpyIYhT-ZLqo/dash/dazn-linear-206/stream.mpd?p=web
 
+#EXTINF:-1 tvg-id="amazonprime" tvg-logo="https://skygo.sky.it/etc/designs/skygo/img/sky-logo@2x.png" group-title="Altro",AMAZON PRIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=136210e4560f2861d2ba40a24c0d304e:b0b10c67ef5a11fe575443ca7e0aa379
+https://abcnngcaaaaaaaammuiowb7ev7yfl.ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9yf4sk90yd/out/v1/4ae889e5f5f245339b44f01e86f21285/cenc.mpd
+
 #EXTINF:-1 tvg-id="skycinemauno" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_202_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky Cinema",Sky Cinema Uno
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=111571675d8183ed169725564cded6d9:e077dedf383c8aed73d38567a8e6a046
