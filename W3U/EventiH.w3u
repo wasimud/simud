@@ -86,86 +86,6 @@
             "isHost": ""
         },
         {
-            "name": "Cucine Lube Civitanova - Volley Haasrode Leuven - Sport 1 HD",
-            "info": "20:30 Â· CEV Cup",
-            "online": "true",
-            "image": "https://dietrolanotizia.eu/wp-content/uploads/2021/02/Cev-Champions-League.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Cucine Lube Civitanova - Volley Haasrode Leuven - Sport 1 (backup)",
-            "info": "20:30 Â· CEV Cup",
-            "online": "true",
-            "image": "https://dietrolanotizia.eu/wp-content/uploads/2021/02/Cev-Champions-League.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "St. Pauli - Lipsia - Calcio",
-            "info": "20:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/calcio.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "St. Pauli - Lipsia - Calcio HD (backup)",
-            "info": "20:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/calciohd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Werder Brema - Hoffenheim - Sport Mix HD",
-            "info": "20:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportmixhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Werder Brema - Hoffenheim - Sport Mix (backup)",
-            "info": "20:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportmix.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Como - Live 7",
-            "info": "21:00 Â· Coppa Italia",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/960px-Coccarda_Coppa_Italia.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Fiorentina - Como - Italia 1 HD (ext crhome)",
-            "info": "21:00 Â· Coppa Italia",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/960px-Coccarda_Coppa_Italia.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/italia1hd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Latina - Renate - Sport 1 HD",
             "info": "14:30 Â· Coppa Italia Serie C",
             "online": "true",
@@ -212,6 +132,26 @@
             "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Live 3 (ENG, ALL MATCHES)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live3.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - Juventus - Calcio 2 HD (eXT CHROME)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/calcio2hd.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -266,12 +206,52 @@
             "isHost": ""
         },
         {
+            "name": "Monaco - Juventus - Live 140",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live140.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - Juventus - Live 140 b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live140b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Monaco - Juventus - Live 7",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - Juventus - Live 15",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live15.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Napoli - Chelsea - Prime HD (eXT CHROME)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/primehd.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -286,12 +266,82 @@
             "isHost": ""
         },
         {
+            "name": "Napoli - Chelsea - Live 137",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live137.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Napoli - Chelsea - Live 137 b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live137b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Napoli - Chelsea - Live 6",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live6.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Napoli - Chelsea - Live 10",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live10.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Napoli - Chelsea - Live 104",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live104.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Napoli - Chelsea - Live 11",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live11.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Napoli - Chelsea - Live 12",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live12.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Borussia Dortmund - Inter - Calcio 3 HD (eXT CHROME)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/calcio3hd.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -346,12 +396,52 @@
             "isHost": ""
         },
         {
+            "name": "Borussia Dortmund - Inter - Live 138",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live138.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Borussia Dortmund - Inter - Live 138 b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live138b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Borussia Dortmund - Inter - Live 14",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live14.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Borussia Dortmund - Inter - Live 8",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live8.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Union SG - Atalanta - Calcio 4 HD (eXT CHROME)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/calcio4hd.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -406,6 +496,26 @@
             "isHost": ""
         },
         {
+            "name": "Union SG - Atalanta - Live 141",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live141.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Union SG - Atalanta - Live 141 b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live141b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Eintracht Francoforte - Tottenham - Sport Mix HD",
             "info": "21:00 Â· Champions L.",
             "online": "true",
@@ -442,6 +552,26 @@
             "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/tnt2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Liverpool - Qarabag - Live 4",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live4.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "PSG - Newcastle - Live 5",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://www.nencinisport.it/images/width-250/end/articoli/stilscreen-patch-starball-champions-league-stilscreen-449282-thumb.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live5.htm",
             "embed": "true",
             "isHost": ""
         },
