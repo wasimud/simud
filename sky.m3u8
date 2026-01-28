@@ -245,6 +245,11 @@ https://dcs-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJl
 #KODIPROP:inputstream.adaptive.license_key=136210e4560f2861d2ba40a24c0d304e:b0b10c67ef5a11fe575443ca7e0aa379
 https://abcnngcaaaaaaaammuiowb7ev7yfl.ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9yf4sk90yd/out/v1/4ae889e5f5f245339b44f01e86f21285/cenc.mpd
 
+#EXTINF:-1 tvg-id="amazonprime" tvg-logo="https://skygo.sky.it/etc/designs/skygo/img/sky-logo@2x.png" group-title="Altro",AMAZON PRIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c53947b4be2025415fea71d378ac6a5:e7990a5809933be29ad14ba63d21fa61
+https://ABCNNGCAAAAAAAAMMUIOWB7EV7YFL.OTTB.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kxa2ld0gmx/out/v1/5ac557d1824340d1b031adec4cfc2549/cenc.mpd
+
 #EXTINF:-1 tvg-id="skycinemauno" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_202_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky Cinema",Sky Cinema Uno
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=111571675d8183ed169725564cded6d9:e077dedf383c8aed73d38567a8e6a046
