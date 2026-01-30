@@ -97,7 +97,7 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1769791543_s~0ac3d
 
 #EXTINF:-1 tvg-id="skysportbasket" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_764_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky Sport",Sky Sport Basket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115aa559a055d58704e7e89900e437b:c8f266dffa3e63910c317ca235d72d84
+#KODIPROP:inputstream.adaptive.license_key=1115b07f797683f8bd1b04981fb620b1:b673c34da69e6d72ddda0c0a490a5dad
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1769791543_s~846a5dfe-4180-4b52-accc-95fd1bd77830_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~2b50ae1929a404924c59d5651e425f5f9ca2fe2c795df5ba7ec8fedb79fa3ff7/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportbasket)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="skysportmax" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_248_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky Sport",Sky Sport Max
@@ -183,12 +183,12 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1769791544_s~a2f75
 #EXTINF:-1 tvg-id="dazn1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/500px-DAZN_1_Logo.svg.png" group-title="Sky Sport",Dazn 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dcs-ac-live.cdn.indazn.com/dugongeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDYiXSwiZXhjIjpbXSwiaGVhZGVycyI6W10sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIxMjY3IiwiMTI4NzQiLCIzMjY5IiwiMzA3MjIiLCIxNjIzMiJdLCJpbnRzaWciOiJuczFaWXVZUE00V1hIbUltOGlqT2hxN3JLMzM4Tk5UaDBfR0lCMUw1ZmcwIiwiaWF0IjoxNzY5NjU5MjA0LCJleHAiOjE3Njk3NDU2MDR9.Y7dOv6Gwu3NnLfIJFuCldl8riY_28_pCVuzvYBumjt8/dash/dazn-linear-206/stream.mpd?p=web
+https://dct-ak-livedazn.akamaized.net/@st%3D1769745604~exp%3D1769832004~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23asn%3D1267%2C12874%2C3269%2C30722%2C16232%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3Dcdec6bdfd064efeefb6a4f3a5b527fc62dfdf9671e626d5d5c7d4c932f520201/dash/dazn-linear-206/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="dazn1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/500px-DAZN_1_Logo.svg.png" group-title="Sky Sport",Dazn 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dct-ac-live.cdn.indazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6InV1aWRfMSJ9.eyJwYXRocyI6WyIvZGFzaC9kYXpuLWxpbmVhci0yMDYiXSwiZXhjIjpbXSwiaGVhZGVycyI6WyJ1c2VyLWFnZW50Il0sImNvIjp0cnVlLCJpcCI6ZmFsc2UsImFzbiI6WyIzMjY5IiwiMjk0NDciLCIxMjY3Il0sImludHNpZyI6IkwzRnRyZkJUamNPenJKc2R3QjhwV1kwbFZ5Y1hLR2NwNkJEUGEwSTJteG8iLCJpYXQiOjE3Njk2NDA4MzEsImV4cCI6MTc2OTcyNzIzMX0.yyTusEcORz8G5KGGX3I3b6zOfjn41T9HG3CBsa6nPGA/dash/dazn-linear-206/stream.mpd?p=web
+https://dct-ak-livedazn.akamaized.net/@st%3D1769767890~exp%3D1769854290~acl%3D%2F*~id%3D70d2a2d6db3d~data%3Dcountry%3Dit%23asn%3D3269%2C29447%2C1267%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D816147bedd84317a66534e444e60842858f0f2a3b3fa43710b4ef836da4252d2~hmac%3Deab24896a4b3c11f9c89e16d26937c9c76383d4e6763d59c5006f2de9ee99378/dash/dazn-linear-206/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="skycinemauno" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_202_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky Cinema",Sky Cinema Uno
 #KODIPROP:inputstream.adaptive.license_type=clearkey
