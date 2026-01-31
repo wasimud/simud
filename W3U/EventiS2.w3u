@@ -6,32 +6,12 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiS2.w3u",
     "stations": [
         {
-            "name": "Bari 1908 x Palermo",
-            "info": "19:30",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sportsonline.cv/channels/hd/hd8.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lazio x Genoa",
-            "info": "19:45",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sportsonline.cv/channels/hd/hd7.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Young Africans x Al Ahly",
             "info": "13:00",
             "online": "true",
             "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sportsonline.cv/channels/hd/hd8.php",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
             "embed": "true",
             "isHost": ""
         },
@@ -41,7 +21,7 @@
             "online": "true",
             "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sportsonline.cv/channels/hd/hd7.php",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd7.php",
             "embed": "true",
             "isHost": ""
         },
@@ -51,7 +31,7 @@
             "online": "true",
             "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sportsonline.cv/channels/hd/hd8.php",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
             "embed": "true",
             "isHost": ""
         },
@@ -61,7 +41,7 @@
             "online": "true",
             "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sportsonline.cv/channels/hd/hd7.php",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd7.php",
             "embed": "true",
             "isHost": ""
         },
@@ -71,7 +51,7 @@
             "online": "true",
             "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sportsonline.cv/channels/hd/hd8.php",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
             "embed": "true",
             "isHost": ""
         },
@@ -81,7 +61,7 @@
             "online": "true",
             "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sportsonline.cv/channels/hd/hd7.php",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd7.php",
             "embed": "true",
             "isHost": ""
         },
@@ -91,7 +71,97 @@
             "online": "true",
             "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sportsonline.cv/channels/hd/hd8.php",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Torino x Lecce",
+            "info": "11:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd7.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Pro Patria x Vicenza",
+            "info": "11:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta B x Benevento",
+            "info": "13:30",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Como x Atalanta",
+            "info": "14:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd7.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Cremonese x Internazionale",
+            "info": "17:00",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Parma x Juventus",
+            "info": "19:45",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd7.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Deportivo Cali x Deportivo Pasto",
+            "info": "21:10",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Once Caldas x Jaguares de CÃ³rdoba",
+            "info": "23:20",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Millonarios x MedellÃ­n",
+            "info": "01:10",
+            "online": "true",
+            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
             "embed": "true",
             "isHost": ""
         }
