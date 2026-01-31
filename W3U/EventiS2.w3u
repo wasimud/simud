@@ -6,36 +6,6 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiS2.w3u",
     "stations": [
         {
-            "name": "Young Africans x Al Ahly",
-            "info": "13:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Pisa x Sassuolo",
-            "info": "14:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www2.sportsonline.cv/channels/hd/hd7.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "AtlÃ©tico Petroleos x Stade Malien",
-            "info": "15:50",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www2.sportsonline.cv/channels/hd/hd8.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Napoli x Fiorentina",
             "info": "17:00",
             "online": "true",
