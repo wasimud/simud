@@ -249,6 +249,12 @@ https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/cli
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
+#EXTINF:-1 tvg-id="1500comovsatalantampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Como vs Atalanta (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7617d713f9065cb1908139dce1c79500:4fbebd52e4a64c9cc99f152fd159b6c3
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1769952604~exp%3D1770039004~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D5c2f2c2e69af00e897dc242035764b054d0a00b2fe0b5ca7a9b850ef53a48951%23wm%3D0~hmac%3D9deadbdc9303e673849a45fd4833918b3534cdef8d4ec8a75fe29405d4f97d1c/oinz31nuch111p0ce7846r116/web/stream.mpd?channel=1350&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="1500comovsatalantampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Como vs Atalanta  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/de0qdofgeu/out/v1/cd6064403fe14278bbe5946a54139df0/cenc.mpd|5b9d8fafb9da8aa84fb708e131744e6b:bcb2019a92fdf9fd03b0da92566c11ff
@@ -281,9 +287,11 @@ https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/das
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
-#EXTINF:-1 tvg-id="2030barivspalermoengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:30 BARI vs PALERMO (ENG - MPD)
+#EXTINF:-1 tvg-id="1500reggianajuvestabiampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 Reggiana - Juve Stabia (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd|11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccfe43f0c3285e01b57486fbe8c9a0bc:0dfd3b1fb45cd776bea6a7a072a500d5
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769953804~exp%3D1770040204~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D38f82b0e5212ca73ba0ac0c4a761d45cf161bbbb8e3bdae903d10be3112f9936%23wm%3D0~hmac%3D2e35b9f74911be0fb5dc20ae43ceb558adfaaf09fee62e878c1dbccee1bf5d92/979c91i1dtd01ol0oob08alaf/web/stream.mpd?channel=3946&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="1200pakistanvsaustraliampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:00 - Pakistan vs Australia  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
