@@ -269,6 +269,12 @@ https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/cli
 
 #EXTINF:-1 tvg-id="1830cremonesevsintermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Cremonese vs Inter  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f31b1b3fbe6e57b1878bc6212dc3bd8c:a2d8310663d7adeb8f122eeb39e1e343
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769962503~exp%3D1770048903~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D283ecac078a7da5f67f50cb964ef68bf2ebffffd4e230a76186e6fa1d87ef351%23wm%3D1%23wmd%3D1152~hmac%3D33f9a2f21a0b6965f3ba665aa5108de6b48462dce7d67ae18047bdfdfd2e2119/avm8d5879csg17l561spk59mf/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1830cremonesevsintermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Cremonese vs Inter  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 
 #EXTINF:-1 tvg-id="1830cremonesevsintermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Cremonese vs Inter  (MPD)
@@ -292,6 +298,12 @@ https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/cli
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ccfe43f0c3285e01b57486fbe8c9a0bc:0dfd3b1fb45cd776bea6a7a072a500d5
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769953804~exp%3D1770040204~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D38f82b0e5212ca73ba0ac0c4a761d45cf161bbbb8e3bdae903d10be3112f9936%23wm%3D0~hmac%3D2e35b9f74911be0fb5dc20ae43ceb558adfaaf09fee62e878c1dbccee1bf5d92/979c91i1dtd01ol0oob08alaf/web/stream.mpd?channel=3946&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1715padovamonzampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",17:15 Padova - Monza (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f887d56b17375a3b9a560c284de855a2:93a2811fef941db9c144c9087ee4175e
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1769961903~exp%3D1770048303~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D3c5bc37abcc63d5eff7b69839895d419b858d228cd9c9aa9c9884a3c0dd4e8a8%23wm%3D0~hmac%3De93f5ca142f400e8fa6a45395edb09369430e43e2024c5141b0e7206fd5d8859/1nrbgr1gcwhqu1l8dgh29b6als/web/stream.mpd?channel=3953&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="1200pakistanvsaustraliampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:00 - Pakistan vs Australia  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
