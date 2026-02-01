@@ -10,11 +10,19 @@ https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/das
 
 #EXTINF:-1 tvg-id="0930australiaopenvsaustraliaopenmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",09:30 - Australia Open  vs Australia Open   (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://abm5x5xaaaaaaaamfnzlkys25m7a5.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mrskysvotx/out/v1/ad58961bd8fd48d2944e461c034b8914/cenc.mpd|d9097a1b7d04b7786b29f2b0e155316d:279695ebe0fb1bc5787422b6b59ce8a8
+https://amstaff@@https://abm5x5xaaaaaaaampk3nj4fzz34qg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irtfdsri14/out/v1/165128c314e944faa3d79e107974b323/cenc.mpd|e1aa4c4daf6222a04f7ae80130495ea1:31bb1ee9a8d088f62b0103550c301449
 
-#EXTINF:-1 tvg-id="0930australiaopenvsaustraliaopenmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",09:30 - Australia Open  vs Australia Open   (MPD)
+#EXTINF:-1 tvg-id="1730borussiadortmundvsfcheidenheimmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",17:30 - Borussia Dortmund vs FC Heidenheim  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/cqqofdluoh/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd|8ce20e2a4b3dd04e0a6e5469b7cb47be:163c323b65d0597b13f037641fd67b1e
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/avzfx4tqhl/out/v1/87b848ce4f9845b196b6ec1bc8b88aed/cenc.mpd|f5e8c0375db46e8b292ad2e8ed683f14:c9a2eeff644840465d28f6a420bd78a2
+
+#EXTINF:-1 tvg-id="1730borussiadortmundvsfcheidenheimmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",17:30 - Borussia Dortmund vs FC Heidenheim  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/szmus1u1h0/out/v1/6d3245aa41e0455489ec87d3a144abea/cenc.mpd|67905848180231a8a51a6539670d6e8d:50cec07ba1ff5395e451ed2950d39fb2
+
+#EXTINF:-1 tvg-id="1730borussiadortmundvsfcheidenheimmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",17:30 - Borussia Dortmund vs FC Heidenheim  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -82,21 +90,73 @@ https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rlisfyx9vd/out/v1/61b8f61b22ac469297cbd4f1224f0ec8/cenc.mpd
 
-#EXTINF:-1 tvg-id="1830levanteudvsatlticomadridmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Levante UD vs Atlético Madrid  (MPD)
+#EXTINF:-1 tvg-id="0830indiaunder19vspakistanunder19mpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",08:30 - India Under-19 vs Pakistan Under-19  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rlisfyx9vd/out/v1/61b8f61b22ac469297cbd4f1224f0ec8/cenc.mpd|f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
+
+#EXTINF:-1 tvg-id="0830indiaunder19vspakistanunder19mpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",08:30 - India Under-19 vs Pakistan Under-19  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+
+#EXTINF:-1 tvg-id="0830indiaunder19vspakistanunder19mpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",08:30 - India Under-19 vs Pakistan Under-19  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/i4rn3tduv3/out/v1/c2ee44b063d346b88580cdf321ddb10f/cenc.mpd|4cb29952285e00a4ec015c725451cd02:6cab6791fa424b6e2ab93a23448e44a0
+
+#EXTINF:-1 tvg-id="1400realmadridvsrayovallecanompd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",14:00 - Real Madrid vs Rayo Vallecano  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/u1oppiwemi/out/v1/4862205da4fa4b11a70b991563a98e38/cenc.mpd|464b178e11fb22b514bd90d54f8cc4f6:702cd4e0fcd87b03a1ccf60b503f3262
+
+#EXTINF:-1 tvg-id="1400realmadridvsrayovallecanompd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",14:00 - Real Madrid vs Rayo Vallecano  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
-#EXTINF:-1 tvg-id="1830levanteudvsatlticomadridmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Levante UD vs Atlético Madrid  (MPD)
+#EXTINF:-1 tvg-id="1400realmadridvsrayovallecanompd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",14:00 - Real Madrid vs Rayo Vallecano  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 
-#EXTINF:-1 tvg-id="2100elchevsbarcelonampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",21:00 - Elche vs Barcelona  (MPD)
+#EXTINF:-1 tvg-id="1615realbetisvsvalenciampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",16:15 - Real Betis vs Valencia ] (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cjnkd3q8nd/out/v1/c1c253632e124a5dab63dd9d230f698f/cenc.mpd|d3f94e091082011e489bb502a220a10f:22413c8e7d19428dcbd9a8aec4cdfc4a
+
+#EXTINF:-1 tvg-id="1615realbetisvsvalenciampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",16:15 - Real Betis vs Valencia  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 
-#EXTINF:-1 tvg-id="2100elchevsbarcelonampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",21:00 - Elche vs Barcelona  (MPD)
+#EXTINF:-1 tvg-id="1615realbetisvsvalenciampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",16:15 - Real Betis vs Valencia  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+
+#EXTINF:-1 tvg-id="1830getafevsceltavigompd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Getafe vs Celta Vigo  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bdz8otm3xo/out/v1/f32ee9f21a83450ebb54fefd0c46dc80/cenc.mpd|8f31a02f12566efbcd90c5a0a11010cc:2c9c4465641878f5bc25c5c4e198154f
+
+#EXTINF:-1 tvg-id="1830getafevsceltavigompd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Getafe vs Celta Vigo  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+
+#EXTINF:-1 tvg-id="1830getafevsceltavigompd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Getafe vs Celta Vigo  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+
+#EXTINF:-1 tvg-id="2100athleticclubvsrealsociedadmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",21:00 - Athletic Club vs Real Sociedad  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/dash/enc/fpndxmzw6o/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd|620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+
+#EXTINF:-1 tvg-id="2100athleticclubvsrealsociedadmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",21:00 - Athletic Club vs Real Sociedad  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+
+#EXTINF:-1 tvg-id="1500olympiquelyonnaisvslillempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Olympique Lyonnais vs Lille  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/r3pe33oci8/out/v1/74dc73ff73a449a7a2dd961c3ecb2667/cenc.mpd|345b7df66d0f18ce1c3601e5360d5695:6ff03c8cc6833b8773ea05de9059e719
+
+#EXTINF:-1 tvg-id="1715toulousevsauxerrempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",17:15 - Toulouse vs Auxerre  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd|11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+
+#EXTINF:-1 tvg-id="2045strasbourgvsparissaintgermainmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 - Strasbourg vs Paris Saint-Germain  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/n4beot7xxx/out/v1/d82ba96e6df3474689adb1c24fdef06c/cenc.mpd|7d0eede38465f63be9cdc0bed343e5cb:c7026fb7aa579b30f47be205ac99a823
 
 #EXTINF:-1 tvg-id="lbatv1itampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",LBATV1 (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -135,37 +195,107 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-pr
 #KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="1800napolivsfiorentinampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:00 - Napoli vs Fiorentina  (MPD)
+#EXTINF:-1 tvg-id="1500astonvillavsbrentfordmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Aston Villa vs Brentford  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+
+#EXTINF:-1 tvg-id="1500manchesterunitedvsfulhammpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Manchester United vs Fulham  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zkdlf0jcwb/out/v1/21587035ccf44508a25fe54d1a96abad/cenc.mpd|791dd848da949453a0cc3baa1a7783b6:70e237797740d48d287f239b361c741e
+
+#EXTINF:-1 tvg-id="1500manchesterunitedvsfulhammpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Manchester United vs Fulham  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://abe4mdzaaaaaaaampzanwc57oxzti.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd|ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
+
+#EXTINF:-1 tvg-id="1500nottinghamforestvscrystalpalacempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Nottingham Forest vs Crystal Palace  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/39pdxu2c9d/out/v1/8568039930fe48c5ac249642f167e694/cenc.mpd|c1e7601b13d9674e6824ef26f578766c:7c94319f024f378ea751039224f6d618
+
+#EXTINF:-1 tvg-id="1500nottinghamforestvscrystalpalacempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Nottingham Forest vs Crystal Palace  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/1vhoncnbnh/out/v1/b24234ed28dd47429c17bfd6c61fd5a3/cenc.mpd|eb56cbe6fee3e43bca68899a812d3b25:ca0b6c9e8fb93572f4084f45ae1b39b9
+
+#EXTINF:-1 tvg-id="1730tottenhamhotspurvsmanchestercitympd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",17:30 - Tottenham Hotspur vs Manchester City  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+
+#EXTINF:-1 tvg-id="1230torinovsleccempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:30 - Torino vs Lecce  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
-#EXTINF:-1 tvg-id="1800napolivsfiorentinampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:00 - Napoli vs Fiorentina  (MPD)
+#EXTINF:-1 tvg-id="1230torinovsleccempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:30 - Torino vs Lecce  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ywiyqwtr6u/out/v1/53781d47275b46ee9eccd6e03d992df6/cenc.mpd|f5e8c0375db46e8b292ad2e8ed683f14:c9a2eeff644840465d28f6a420bd78a2
+
+#EXTINF:-1 tvg-id="1230torinovsleccempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:30 - Torino vs Lecce  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/odb7padbg3/out/v1/a391d4e45c244e4c8bae2c236dfed40f/cenc.mpd|0ed65ada705072e71ed1d25b5fb5aba7:b9baed4ec4b806b2a6e25d3f1199aff5
+
+#EXTINF:-1 tvg-id="1230torinovsleccempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:30 - Torino vs Lecce  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e66de120d0625a9ab69ef0f2b8780d11:96283e57044073d68ddcbc1addb17bc4
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1769943603~exp%3D1770030003~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Df7a95387e746a4ff0f6489675b989c613acd6a12a851e4d68af235f7641f55dd%23wm%3D0~hmac%3D34c71e9662ff9a5cd49a3002edadc3ed5635878caeb6739af6fc4e1dd05d9c70/17wpdim0ylqg91go4ccmw2bfhq/web/stream.mpd?channel=1349&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1230torinovsleccempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:30 - Torino vs Lecce  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 
-#EXTINF:-1 tvg-id="1800napolivsfiorentinampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:00 - Napoli vs Fiorentina  (MPD)
+#EXTINF:-1 tvg-id="1230torinovsleccempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:30 - Torino vs Lecce  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/2xif2bwkzi/out/v1/f40957e224134ba688843ce8fb243f0a/cenc.mpd|dca43028ad4c552498304ef8db8ec2fe:739e82ca63a3cbbb342b695f113e92dd
+
+#EXTINF:-1 tvg-id="1230torinovsleccempd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:30 - Torino vs Lecce  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
-#EXTINF:-1 tvg-id="2045cagliarivshellasveronampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 - Cagliari vs Hellas Verona  (MPD)
+#EXTINF:-1 tvg-id="1500comovsatalantampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Como vs Atalanta  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/de0qdofgeu/out/v1/cd6064403fe14278bbe5946a54139df0/cenc.mpd|5b9d8fafb9da8aa84fb708e131744e6b:bcb2019a92fdf9fd03b0da92566c11ff
+
+#EXTINF:-1 tvg-id="1500comovsatalantampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Como vs Atalanta  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+
+#EXTINF:-1 tvg-id="1830cremonesevsintermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Cremonese vs Inter  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
-#EXTINF:-1 tvg-id="2045cagliarivshellasveronampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 - Cagliari vs Hellas Verona  (MPD)
+#EXTINF:-1 tvg-id="1830cremonesevsintermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Cremonese vs Inter  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 
-#EXTINF:-1 tvg-id="2045cagliarivshellasveronampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 - Cagliari vs Hellas Verona  (MPD)
+#EXTINF:-1 tvg-id="1830cremonesevsintermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Cremonese vs Inter  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sccpp1pgwc/out/v1/7c14d4fa8c0b45fc907517a20c68f4b9/cenc.mpd|86d4cc03bcf4c20ba4331fee897fb8d6:5c11f325545bf085f48dbf259252a0b2
+
+#EXTINF:-1 tvg-id="1830cremonesevsintermpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:30 - Cremonese vs Inter  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+
+#EXTINF:-1 tvg-id="2045parmavsjuventusmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 - Parma vs Juventus  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+
+#EXTINF:-1 tvg-id="2045parmavsjuventusmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:45 - Parma vs Juventus  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 
 #EXTINF:-1 tvg-id="2030barivspalermoengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",20:30 BARI vs PALERMO (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://amstaff@@https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd|11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
 
-#EXTINF:-1 tvg-id="1700southafricavswestindiesmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",17:00 - South Africa vs West Indies  (MPD)
+#EXTINF:-1 tvg-id="1200pakistanvsaustraliampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:00 - Pakistan vs Australia  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/lxi9oqjipk/out/v1/154e7df2de41447e8fd071922a46dc04/cenc.mpd|3f43db27fbb60d58ac106768bbf55f10:297a0bb01e2920e7a9f6379fa8b05401
+https://amstaff@@https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd|4e8b5ddac5332a4e66c002b4c0f22322:d06de29b0eacb81ac6e3f325849047e8
+
+#EXTINF:-1 tvg-id="1200pakistanvsaustraliampd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",12:00 - Pakistan vs Australia  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/8b3rab76lp/out/v1/fd323a3ac6344f8687783a6bb203842c/cenc.mpd|cc3cf593b8823335295bb28e203882b4:b664651763373d311b8b736faba117a8
+
+#EXTINF:-1 tvg-id="1430srilankavsenglandmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",14:30 - Sri Lanka vs England  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
 
 #EXTINF:-1 tvg-id="nbatvengmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",NBA TV (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -184,23 +314,11 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 #EXTINF:-1 tvg-id="videolinaitam3u8" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",VIDEOLINA (ITA - M3U8)
 https://ffmpeg@@https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8|referer=https://www.videolina.it/
 
-#EXTINF:-1 tvg-id="2300alexandervolkanovskivsdiegolopesmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",23:00 - Alexander Volkanovski vs Diego Lopes  (MPD)
+#EXTINF:-1 tvg-id="1500delhicapitalsvsupwarriorzmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Delhi Capitals vs UP Warriorz  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/wafubl9ljj/out/v1/852cf76f94634a4baa8ea8da481f8493/cenc.mpd|39bc65e1b683db44460338d881c5577e:ad1762308040904c1ac40dff5c52eb78
+https://amstaff@@https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd|1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
-#EXTINF:-1 tvg-id="2300alexandervolkanovskivsdiegolopesmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",23:00 - Alexander Volkanovski vs Diego Lopes  (MPD)
+#EXTINF:-1 tvg-id="1500delhicapitalsvsupwarriorzmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",15:00 - Delhi Capitals vs UP Warriorz  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/zdixenzgj1/out/v1/93add4a89bd54ad882fbf4bdb091cf99/cenc.mpd|63867ca40427cb9b64ac1ac34c8b7283:b361070c4ba4efd0a90b98294efe8632
-
-#EXTINF:-1 tvg-id="2300alexandervolkanovskivsdiegolopesmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",23:00 - Alexander Volkanovski vs Diego Lopes  (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/gxfoiwuf5f/out/v1/27764d13c6574b75b3f556360c2b3f13/cenc.mpd|86e99aa029d030dd92c44a050371b53d:c069758538c001e48eb8b36c2db2d515
-
-#EXTINF:-1 tvg-id="2300alexandervolkanovskivsdiegolopesmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",23:00 - Alexander Volkanovski vs Diego Lopes  (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fkj2zkrtyq/out/v1/c199e9dc29cd49ed83ba244b44b45cb2/cenc.mpd|3753b270f2173bbca574618c0e6e6ad0:0e403e8322a621ab9858e9b33f3d4cd4
-
-#EXTINF:-1 tvg-id="2300alexandervolkanovskivsdiegolopesmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",23:00 - Alexander Volkanovski vs Diego Lopes  (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|d0f2e5c39e70c18f29bf77768a1ad89a:d6853c51fcf37a18905f0609972395d7
+https://amstaff@@https://a122aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zzaelfwrst/out/v1/69c9e99e5ba0463f955d66c1bcf8e942/cenc.mpd|1ab6e31daffd2aad9ce3b949bf91e2bc:a77b1f8758c3c4685224c6f0b1b60db0
 
