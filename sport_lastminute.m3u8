@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1856bolognamilanmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",18:56 Bologna - Milan (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=917b880e370d5d9281d0dd370491e7d3:604d408984f015ee269ca7dc58eb835b
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770145203~exp%3D1770231603~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D705c913f389722a3a7847592e5b7437252a13ba905ce688d21a9ff57f56993ad%23wm%3D1%23wmd%3D1152~hmac%3D3f5e4e58fc18c2c5c8abbe718756d5975abbe351e7f634091961be0a39d30eab/1g39nerlmfsqp15eqf9ha7webo/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://i.postimg.cc/Y0j20CJr/Chat-GPT-Image-24-dic-2025-12-21-01.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
