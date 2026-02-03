@@ -86,12 +86,22 @@
             "isHost": ""
         },
         {
-            "name": "Arsenal - Chelsea - Sky Main",
-            "info": "21:00 Â· Efl Cup",
+            "name": "Bayer Leverkusen - St. Pauli - Live 111",
+            "info": "20:45 Â· DFB Pokal",
             "online": "true",
-            "image": "https://image-service.onefootball.com/transform?w=256&dpr=2&image=https://images.onefootball.com/icons/leagueColoredCompetition/128/41.png",
+            "image": "https://cdn.footystats.org/img/competitions/germany-dfb-pokal.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/skymain.htm",
+            "url": "https://www.hattrick.cc/live111.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Albacete - Barcelona - Live 106",
+            "info": "21:00 Â· Copa del Rey",
+            "online": "true",
+            "image": "https://www.mediapason.it/wp-content/uploads/2024/01/55.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live106.htm",
             "embed": "true",
             "isHost": ""
         },
