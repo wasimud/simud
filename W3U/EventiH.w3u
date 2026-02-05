@@ -104,6 +104,36 @@
             "url": "https://www.hattrick.cc/live7.htm",
             "embed": "true",
             "isHost": ""
+        },
+        {
+            "name": "Betis - Atl Madrid - Live 130",
+            "info": "21:00 Â· Coppa del Rey",
+            "online": "true",
+            "image": "https://brandlogos.net/wp-content/uploads/2025/04/copa_del_rey-logo_brandlogos.net_sk2jk.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live130.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Strasburgo - Monaco - Live 151",
+            "info": "21:00 Â· Coppa di Francia",
+            "online": "true",
+            "image": "https://images.fotmob.com/image_resources/logo/leaguelogo/134.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live151.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Masterchef - Live 2",
+            "info": "21:15 Â· TV",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/d/d1/MasterchefSpain-logo.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live2.htm",
+            "embed": "true",
+            "isHost": ""
         }
     ]
 }
