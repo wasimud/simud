@@ -6,7 +6,87 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiH.w3u",
     "stations": [
         {
-            "name": "Inter - Torino - Italia 1 HD (ext chrome)",
+            "name": "Milano-Cortina 2026 - Eurosport 1 (ext chrome)",
+            "info": "09:00 Â· Olympic Winter",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/eurosport1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milano-Cortina 2026 - Eurosport 2 (ext chrome)",
+            "info": "09:00 Â· Olympic Winter",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/eurosport2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milano-Cortina 2026 - Eurosport 3 (ext chrome)",
+            "info": "09:00 Â· Olympic Winter",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/eurosport3.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milano-Cortina 2026 - Eurosport 4 (ext chrome)",
+            "info": "09:00 Â· Olympic Winter",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/eurosport4.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milano-Cortina 2026 - Eurosport 5 (ext chrome)",
+            "info": "09:00 Â· Olympic Winter",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/eurosport5.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milano-Cortina 2026 - Eurosport 6 (ext chrome)",
+            "info": "09:00 Â· Olympic Winter",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/eurosport5.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milano-Cortina 2026 - Eurosport 1",
+            "info": "09:00 Â· Olympic Winter",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/euro1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milano-Cortina 2026 - Eurosport 2",
+            "info": "09:00 Â· Olympic Winter",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/2026_Winter_Olympics_logo.svg/250px-2026_Winter_Olympics_logo.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/euro2hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta - Juventus - Italia 1 HD (ext chrome)",
             "info": "21:00 Â· Coppa Italia",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/a/a7/TIM_Cup_Logo.png",
@@ -16,22 +96,12 @@
             "isHost": ""
         },
         {
-            "name": "Inter - Torino - Live 7",
+            "name": "Atalanta - Juventus - Live 7",
             "info": "21:00 Â· Coppa Italia",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/a/a7/TIM_Cup_Logo.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Manchester City - Newcastle United - Sky Main",
-            "info": "21:00 Â· Efl Cup",
-            "online": "true",
-            "image": "https://image-service.onefootball.com/transform?w=256&dpr=2&image=https://images.onefootball.com/icons/leagueColoredCompetition/128/41.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/skymain.htm",
             "embed": "true",
             "isHost": ""
         }
