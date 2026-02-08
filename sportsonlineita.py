@@ -5,7 +5,7 @@ URL_SOURCE = "https://sportsonline.st/prog.txt"
 OUTPUT_TXT = "sportsonline.txt"
 
 # Immagine base (quella che vuoi te)
-IMAGE_DEFAULT = "https://11contro11.it/wp-content/uploads/2024/10/serie-a-11-2024-696x392.png"
+IMAGE_DEFAULT = "https://i.postimg.cc/hPwWVN4r/Chat-GPT-Image-8-feb-2026-12-11-19.png"
 
 # Regex: parte canali e parte eventi
 CHANNEL_REGEX = re.compile(r'^(HD|BR)(\d+)\s+(.*)$')
