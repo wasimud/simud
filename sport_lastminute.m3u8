@@ -1,15 +1,27 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1230bolognavsparmaitampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",12:30 BOLOGNA vs PARMA   (ITA - MPD)
+#EXTINF:-1 tvg-id="1300alavsgetafempd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",13:00 Alavés - Getafe (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770555003~exp%3D1770641403~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D3ca9c723a6b3e04bccb41f3f2eb625794cff741c7a8c0b834639ae842fa74a9f~hmac%3De3e75c81c39e06d5ccb7a299497e051f47152355b62761f0a84572bd01226879/1fbv0rylv21wd190u346wsy683/web/stream.mpd?channel=3740&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1500leccevsudineseitampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",15:00 LECCE vs UDINESE  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.stream_headers=dazn-token=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36&user-agent=Mozilla/5.0&referer=https://www.dazn.com/&origin=https://www.dazn.com
 https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
 
-#EXTINF:-1 tvg-id="1230bolognaparmaitampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",12:30 Bologna - Parma (ITA - MPD)
+#EXTINF:-1 tvg-id="1500lecceudinesempd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",15:00 Lecce - Udinese (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22757ecaaeed5ae8bcd42a2d010bfb7f:ad2bef5925a579e2986b68493edebba3
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770548403~exp%3D1770634803~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc9c6d0c70b7586346bc5198ebc4c5839788de2f2c732a62336fc3a860abd06aa%23wm%3D0~hmac%3D307ea808f307329c355d2f4ca66275d58c14f70ab4f3b2b9e16b6e7ff9e9f93b/132vsm7a98tz1jcb0qb3zbz72/web/stream.mpd?channel=1346&mta=it&outlet=dazn-italy&plang=it
+#KODIPROP:inputstream.adaptive.license_key=8d9d0a69c78d5f6daf0b6ce50b1929ce:05a165510f01ac7a91bc4416302ef7e0
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770558304~exp%3D1770644704~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D5792ee616fef36c8e8293a1d0a605b755c373a37ead639bd1f9e110bc2e72be1%23wm%3D0~hmac%3Daae4db3cb7226a4d44aa1f837367416f0e6406ad92cc934518cc21a42a92c2d0/16m6qpij27p3n1tdxq7xl2m2s5/web/stream.mpd?channel=1347&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1500monzaavellinompd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",15:00 Monza - Avellino (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1d1b66d6a3c5528bca49511a93b4c8d:520ebaf1d959daaa86a0ef3961cbba56
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770558603~exp%3D1770645003~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3De31f3e9b62ce896fed81bc46e09699ecaea4844d0930a7e463438fcff9404318%23wm%3D0~hmac%3D94d91137a0c2b2c2c79122dc3b607ff5e9520ae57353ac8d1a4c344de36f7115/1ab8l88vw6t11mmjhpl5wlosb/web/stream.mpd?channel=3941&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
