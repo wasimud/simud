@@ -5,7 +5,7 @@ URL_SOURCE = "https://sportsonline.st/prog.txt"
 OUTPUT_TXT = "sportsonlinecompleto.txt"
 
 # Immagine base (quella che vuoi te)
-IMAGE_DEFAULT = "https://programmi.sky.it/images/cc/upload/f_webp/v1/sport/mktserieaEni_2025_26_b8hv80"
+IMAGE_DEFAULT = "https://i.postimg.cc/hPwWVN4r/Chat-GPT-Image-8-feb-2026-12-11-19.png"
 
 # Regex eventi
 EVENT_REGEX = re.compile(r'^(\d{1,2}:\d{2})\s+(.*?)\s*\|\s*(https?://\S+)$')
