@@ -1,22 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1515barcellonamaiorcampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",15:15 Barcellona - Maiorca (MPD)
+#EXTINF:-1 tvg-id="1230bolognavsparmaitampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",12:30 BOLOGNA vs PARMA   (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4d267289021509da84291ccc0331d7c:2d5c446b5a2100ef9a7a88d079543250
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1770476703~exp%3D1770563103~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dae27069b70bc380917b467639ad17b123b65ba0cbd6760203372b90fde60d04b%23wm%3D0~hmac%3D114cd1ba6e682de6dbec1f44f5bf57f00b12fa9a21f9d2a52cb001acbabcc996/1es58nj4krjw71ndvwgchze63e/web/stream.mpd?channel=3943&mta=it&outlet=dazn-italy&plang=it
+#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36&user-agent=Mozilla/5.0&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
 
-#EXTINF:-1 tvg-id="1556genoanapolimpd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",15:56 Genoa - Napoli (MPD)
+#EXTINF:-1 tvg-id="1230bolognaparmaitampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",12:30 Bologna - Parma (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=314ecf7b8c3056f9a29550baa3f8615a:094ade8bad03c0fa75ba8e64d976bfac
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1770480005~exp%3D1770566405~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6e704e3ff039e1bcd9ddba7b514c1dcdc3bb4a2b02034677a434932af17cad20%23wm%3D1%23wmd%3D1152~hmac%3D82ee8c9e9289a1763644879041480987772d422e46ec3e294c2671aecef0bb44/1qg5vovscipc11nm40b6vkfxsy/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="1615palermoempolimpd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",16:15 Palermo - Empoli (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b66b7b3dbbc4526c8246f24e64c77e51:c7b28e5c5b2a3b29323b423f98ad6ab7
-https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1770480304~exp%3D1770566704~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dd3086e6cb1620a8dd21c1398498363d7437df1ea34ded28b20c87b922e154baf%23wm%3D0~hmac%3D1a4a9a8637d2b2cd5eb2eb8d70c7c196079e67b2982fedd02b2191938e62f9ac/tz2s26jiy77p15sw052xx7br7/web/stream.mpd?channel=3932&mta=it&outlet=dazn-italy&plang=it
+#KODIPROP:inputstream.adaptive.license_key=22757ecaaeed5ae8bcd42a2d010bfb7f:ad2bef5925a579e2986b68493edebba3
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770548403~exp%3D1770634803~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc9c6d0c70b7586346bc5198ebc4c5839788de2f2c732a62336fc3a860abd06aa%23wm%3D0~hmac%3D307ea808f307329c355d2f4ca66275d58c14f70ab4f3b2b9e16b6e7ff9e9f93b/132vsm7a98tz1jcb0qb3zbz72/web/stream.mpd?channel=1346&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
