@@ -86,176 +86,6 @@
             "isHost": ""
         },
         {
-            "name": "Koln - Lipsia - Sport Arena HD",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportarena.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Koln - Lipsia - Sport Arena (backup)",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/arena.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Koln - Lipsia - Nova Sport 3",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/novasport3.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Ath Bilbao - Siviglia - Nova Sport 1",
-            "info": "16:15 Â· Liga",
-            "online": "true",
-            "image": "https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/novasport1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Ath Bilbao - Siviglia - Live 106",
-            "info": "16:15 Â· Liga",
-            "online": "true",
-            "image": "https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live106.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Multicast - Live 120",
-            "info": "17:15 Â· Ligue 1",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live120.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bayern Monaco - Hoffenheim - Nova Sport 2",
-            "info": "17:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/novasport2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Liverpool - Manchester City - Sport 1 HD",
-            "info": "17:30 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Liverpool - Manchester City - Sport 1 (backup)",
-            "info": "17:30 Â· Premier L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sassuolo - Inter - Live 2",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-Uww4g7G7zW5SMK43FGO6HwJIbuvgC06g&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sassuolo - Inter - Calcio",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-Uww4g7G7zW5SMK43FGO6HwJIbuvgC06g&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/calcio.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sassuolo - Inter - Calcio HD (backup)",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-Uww4g7G7zW5SMK43FGO6HwJIbuvgC06g&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/calciohd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sassuolo - Inter - Live 147",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-Uww4g7G7zW5SMK43FGO6HwJIbuvgC06g&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live147.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sassuolo - Inter - Live 147 b",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-Uww4g7G7zW5SMK43FGO6HwJIbuvgC06g&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live147b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sassuolo - Inter - Live 138",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-Uww4g7G7zW5SMK43FGO6HwJIbuvgC06g&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live138.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sassuolo - Inter - Live 138 b",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-Uww4g7G7zW5SMK43FGO6HwJIbuvgC06g&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live138b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sassuolo - Inter - Live 7",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-Uww4g7G7zW5SMK43FGO6HwJIbuvgC06g&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www.hattrick.cc/live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Atl Madrid - Betis - Nova Sport 1",
             "info": "18:30 Â· Liga",
             "online": "true",
@@ -272,6 +102,26 @@
             "image": "https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://www.hattrick.cc/live106.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Juventus - Lazio - Dazn 1 (ext chrome)",
+            "info": "20:30 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-Uww4g7G7zW5SMK43FGO6HwJIbuvgC06g&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/dazn1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Juventus - Lazio - Live 2",
+            "info": "20:30 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWU-Uww4g7G7zW5SMK43FGO6HwJIbuvgC06g&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://www.hattrick.cc/live2.htm",
             "embed": "true",
             "isHost": ""
         },
