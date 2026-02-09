@@ -1,9 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="2045juventusvslazioitampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",20:45 JUVENTUS vs LAZIO  (ITA - MPD)
+#EXTINF:-1 tvg-id="1830atalantavscremoneseitampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",18:30 ATALANTA vs CREMONESE (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=dazn-token=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36&user-agent=Mozilla/5.0&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=735262bc523b52cf916f905ee4b39340:a996a4f5a646fce076931ea4e668f548
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770656404~exp%3D1770742804~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D85574c14f74da621395df77df45a263ec4bb515a5c2377dd762e388dd70f4d43%23wm%3D0~hmac%3D75a1aa936f1b953c891ac045798fd827b7e6e414c5bd855d1d670ddb30a6b1ef/vw7mosl97n1n1owpjbvkiuw60/web/stream.mpd?channel=1389&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2045romavscagliariitampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",20:45 ROMA vs CAGLIARI  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7969ac2565be54ecb28c3f27f644c0c9:97112ca488a0e9d19bbebbd49e1ccd95
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770663605~exp%3D1770750005~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D269e54e5cca20fb494b647661e1903075fd1fe47f122befe085c885edf4e76fc%23wm%3D1%23wmd%3D1152~hmac%3D8e3761ab02cf3f50d220e4cb7e5f62b82b084b88c6d6001a7dc0eb958580144f/z5d77xnbzicl16truqaxy8c38/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2045romavscagliariitampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",20:45 ROMA vs CAGLIARI  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115d2e9d2fc7e91a17a49a32fa1d7c5:3091d57e19d4cd64d0a7860fd51a407b
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1770682326_s~c63552cf-0b99-49e3-90a5-3dcc173689b4_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~60_x~949832146da827f617d9a4a3f0d40276fbed2eb7229f6ba9b08c2b0ff424829f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
