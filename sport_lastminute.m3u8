@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1900sampdoriapalermompd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",19:00 Sampdoria - Palermo (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c82d6534d99152a4ada724aff449566c:7c6e8e4dfd25b05009ef716664843b0d
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1770745803~exp%3D1770832203~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D8e3e4d524d9eba5a96e36e79310190aa7a83855ad9ca4188da91bd88af359260%23wm%3D0~hmac%3De77afff5ef2fdb70dfbd13440af5374a290b5a26389672ea88ac647ac0235bca/16llurubibolo1o6s3waeubd7q/web/stream.mpd?channel=3936&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2000padovacarraresempd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",20:00 Padova - Carrarese (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7ccc4e106b95209a1a316b39a1ed3b8:159f05f7e78660688fa8c144f5217c52
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770749406~exp%3D1770835806~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Df5b01d247b32ffa1c9a53497187234bd524a207e8d5134349ab948dc3920d347%23wm%3D0~hmac%3D59d1b411cf1c0a286a3ea8ecabd001545fd95d688120e20c2489d6a4ddfd92bc/1qgkl2qoy66yj1bfep5ecd0g7t/web/stream.mpd?channel=3934&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2000pescaracatanzarompd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",20:00 Pescara - Catanzaro (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6dd9521aff355138d2f0424c18d74a8:17024e0d29578ec6d726edfaaed75f57
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770749408~exp%3D1770835808~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D0fcfc7bdafdc969b6b4b9a887563b814ea64e497582fe6ea72cb910196dd55c8%23wm%3D0~hmac%3D8bc90150ea9931055b788acea3721999501f3250e1f8902bed2c452a306bdf66/18yzqpv0h6u281ms5qf2yiecrd/web/stream.mpd?channel=3935&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2000reggianamantovampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",20:00 Reggiana - Mantova (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adbb518f06425fa29bd10a5e5c5e1448:e52f00e59e1126bfe636b9f3bea1b7ec
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770749410~exp%3D1770835810~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Df0c5b615aaa9eb43dcc42c1bc792a59883b5859edaedc1f80940d86f48b6e64a%23wm%3D0~hmac%3D3356a2501614247fa9378d1fe9f4630a40d66982efd38fe6317832b44d200b86/jzxsjc1o9wiy1stdh4jeprgib/web/stream.mpd?channel=3931&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2000veneziamodenampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",20:00 Venezia - Modena (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5be61c7ec79e55939d929a1a1d3f1aae:ddaf715fbd8dabc8f7c1155c22847024
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770749404~exp%3D1770835804~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dacf65fe07805e819da5ccb619908f5499deedd8ca972b3d41eecc0f0cf99de54%23wm%3D0~hmac%3D6b96ef65f0a27503bfff04e48b65f3215e53b2c254882a0a1b1b55cce74c896e/7wokn6m3c4eh1kowbn49flh2d/web/stream.mpd?channel=3933&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2000virtusentellacesenampd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",20:00 Virtus Entella - Cesena (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c67966d11ad59d986c6a26a61a743fb:2810fca8c5f34ec75a849ffc4ac96616
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770749412~exp%3D1770835812~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D66603d032a3aa16d2c123bd444ac2835d30aedabea5de9c14deab8f5744c5bd0%23wm%3D0~hmac%3D5b0a38c31d497561c97da0dde1ac0429c38644eb04aba9f6c5016df8fabd3437/15yuzpfqo39vt1odwikubcsfo1/web/stream.mpd?channel=3932&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2000zonaseriebktmpd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",20:00 Zona Serie BKT (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b82680d25f15f10b8ac06b1e98db6f5:ff63f113877cdd02ad0a7656637cfa03
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770749403~exp%3D1770835803~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3De05c9440fc792e91da10e53499595c2d9d8dd943bc317b44808443cb2c96c941%23wm%3D0~hmac%3D5aaa2f43647af933d7c01c9d295c8bd574bcb02cd900fd491288597e4fa1ddb3/1xnwjws6etzd91mwfmrmjmhmmv/web/stream.mpd?channel=3938&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
