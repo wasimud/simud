@@ -9,7 +9,7 @@ import requests
 
 DEBUG = True
 
-DEFAULT_LOGO = "https://i.postimg.cc/GmJKbs5Z/Chat_GPT_Image_8_feb_2026_12_05_03.png"
+DEFAULT_LOGO = "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png"
 OUTPUT_M3U = "sport_lastminute.m3u8"
 
 HOME_URL = "https://test34344.herokuapp.com/filter.php"
