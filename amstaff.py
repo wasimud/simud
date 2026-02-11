@@ -9,7 +9,7 @@ import requests
 
 DEBUG = True
 
-DEFAULT_LOGO = "https://toppng.com/uploads/preview/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk.png"
+DEFAULT_LOGO = "https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png"
 OUTPUT_M3U = "sport_lastminute.m3u8"
 
 HOME_URL = "https://test34344.herokuapp.com/filter.php"
