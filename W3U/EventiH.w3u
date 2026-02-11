@@ -156,12 +156,12 @@
             "isHost": ""
         },
         {
-            "name": "Diretta Goal - Live 1",
+            "name": "Diretta Goal - Live 2",
             "info": "20:00 Â· Serie B",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "http://htsport.ws/live1.htm",
+            "url": "http://htsport.ws/live2.htm",
             "embed": "true",
             "isHost": ""
         },
