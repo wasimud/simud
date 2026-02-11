@@ -146,12 +146,82 @@
             "isHost": ""
         },
         {
+            "name": "Sud Tirol - Monza - Live 9",
+            "info": "19:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/live9.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Diretta Goal - Live 1",
             "info": "20:00 Â· Serie B",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "http://htsport.ws/live1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Avellino - Frosinone - Live 10",
+            "info": "20:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/live10.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Bari - Spezia - Live 11",
+            "info": "20:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/live11.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Bari - Spezia - Live 5",
+            "info": "20:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/live5.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Empoli - Juve Stabia - Live 12",
+            "info": "20:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/live12.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Empoli - Juve Stabia - Live 4",
+            "info": "20:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/live4.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Multicast - Live 6",
+            "info": "20:30 Â· Premier L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/live6.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -196,6 +266,26 @@
             "isHost": ""
         },
         {
+            "name": "Aston Villa - Brighton - Live 103",
+            "info": "20:30 Â· Premier L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/live103.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Crystal Palace - Burnley - Live 105",
+            "info": "20:30 Â· Premier L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/28/2/premier-league-new-logo-png_seeklogo-286461.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/live105.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Pro Vercelli - Vicenza - Calcio",
             "info": "20:30 Â· Serie C",
             "online": "true",
@@ -212,6 +302,36 @@
             "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "http://htsport.ws/calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Brescia - Virtus Verona - Calcio 2",
+            "info": "20:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/calcio2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter U23 - Lumezzane - Calcio 3",
+            "info": "20:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/calcio3.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Bayern M. - Lipsia - Live 116",
+            "info": "20:45 Â· DFB Pokal",
+            "online": "true",
+            "image": "https://www.horizont.net/news/media/17/DFB-Pokal-Logo-neu-160499-detailp.jpeg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "http://htsport.ws/live116.htm",
             "embed": "true",
             "isHost": ""
         },
