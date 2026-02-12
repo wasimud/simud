@@ -1,34 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1900sdtirolmonzampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",19:00 Südtirol - Monza (MPD)
+#EXTINF:-1 tvg-id="2000semifinaleandataatleticomadridbarcellonampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:00 Semifinale andata | Atletico Madrid - Barcellona (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62c5d9d70346535cace5dee8e5fa59bc:dda86c3bd76aacff69f7242764887564
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770834173~exp%3D1770920573~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D5c38690d7c705373414d792e3e06823d534d7ba74545aaa6ce1fa16157c5fea5%23wm%3D0~hmac%3D12462c20f0f51e84250d2e16781bc055cbf2e5e444c5d3bf8e0e371024339aca/wb2gsfbp0u1f1gkkxid83hs98/web/stream.mpd?channel=3934&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="2000avellinofrosinonempd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:00 Avellino - Frosinone (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67b7bb70f7b65fa3b9bcde14d2c5825b:fc94a8a65d028b8beca13f068524e057
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770835812~exp%3D1770922212~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D8d61cb5c18549dda87dabfbe7cfa99bae0b7f6cc82557fbdfa94647331a0a67a%23wm%3D0~hmac%3D5a731abfcfdcc34480ee5ac06c6e6b5804df64486b6eea92a8138ad733e17350/6cw770xibz1q1ljqndzqnerkz/web/stream.mpd?channel=3931&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="2000barispeziampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:00 Bari - Spezia (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5c110f26ecf58f6a0f35eae82ffde46:3ff7104b5a202cd0fb399002e8efd489
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770835814~exp%3D1770922214~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D61921ec140f877efd418883f4203da2f5a51b8688fcb4eaf9c867513a87e11dd%23wm%3D0~hmac%3Dd2d8313edfa869f0b0b33758f1142f7dbb90ab65351a9503193295c5ce46ff5d/1n247gb42f67310380ereng17g/web/stream.mpd?channel=3933&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="2000empolijuvestabiampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:00 Empoli - Juve Stabia (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9512dac49ca6545f874973748f9e6cd4:9328d6b03437b28cf610da3c652b7ad8
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770835810~exp%3D1770922210~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D83acfa38a1f1cd5225b0a8a8d27eff4d356a977b8f7a7c57632febe2e75ffc0e%23wm%3D0~hmac%3D0611a96d674a5a12bfc8ba3b069622403b61b2ec38dc78a374427c62c5d9ddc5/6hzc5n7c27cy15xnd686yfv7v/web/stream.mpd?channel=3932&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="2000zonaseriebktmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:00 Zona Serie BKT (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fcd94f2aa4a5c6b9d712b28380f2ec4:99b2156ebcb6cb348453508acc49e286
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770835808~exp%3D1770922208~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D906d896c5cf648bd9f5bff4f094082423bc9c8b9dc332331b87d3f66bbea859f%23wm%3D0~hmac%3Dc233a6c04688a0f0dc2a6e5f234207dee56f867c9caf58b91feaafb7a0ca8679/f67j9i6bnahi1idc306pmq921/web/stream.mpd?channel=3949&mta=it&outlet=dazn-italy&plang=it
+#KODIPROP:inputstream.adaptive.license_key=81ecd5f9dc1b5ed2ac5d5116ce8467fe:9489fc246ec58e6c2fd0e312e9f077d9
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1770925507~exp%3D1771011907~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Da00d459dbea49675e491e374447d4d9a9c42130cc8f81afeb420cd0af3f70700%23wm%3D0~hmac%3Daa1fa6e9d00f5838f02c8a3037eb404b7393dcd6a5092e4424df0f6b70c2b950/18m72ukdweqsc199c14rw0h2o2/web/stream.mpd?channel=3917&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
