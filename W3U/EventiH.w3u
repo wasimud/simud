@@ -86,6 +86,56 @@
             "isHost": ""
         },
         {
+            "name": "Rennes - PSG - Calcio",
+            "info": "19:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Rennes - PSG - Calcio HD (backup)",
+            "info": "19:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Rennes - PSG - Live 6",
+            "info": "19:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live6.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Borussia Dortmund - Mainz 05 - Live 5",
+            "info": "20:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live5.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Pisa - Milan - Live 2",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Pisa - Milan - Live 3",
             "info": "20:45 Â· Serie A",
             "online": "true",
@@ -152,6 +202,56 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "live137b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Hull City - Chelsea - Live 4",
+            "info": "20:45 Â· FA CUP",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/FA_Cup_logo_%282020%29.svg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live4.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - Nantes - Calcio",
+            "info": "21:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - Nantes - Calcio HD (backup)",
+            "info": "21:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - Nantes - Live 6",
+            "info": "21:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live6.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Elche - Osasuna - Live 106",
+            "info": "21:00 Â· Liga",
+            "online": "true",
+            "image": "https://logoeps.com/wp-content/uploads/2025/02/la_liga-logo.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live106.htm",
             "embed": "true",
             "isHost": ""
         }
