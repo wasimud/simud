@@ -6,26 +6,6 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiS.w3u",
     "stations": [
         {
-            "name": "Perth Glory x Newcastle Jets",
-            "info": "10:45",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://streamphis.xyz/?id=875",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Tennis - ATP World Tour: Rotterdam 500",
-            "info": "12:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://ww2.sportzonline.click/channels/pt/sporttv3.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Al Hilal x Al Ittifaq",
             "info": "15:25",
             "online": "true",
