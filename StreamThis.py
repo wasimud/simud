@@ -69,7 +69,7 @@ data = {
 }
 
 # Write to file
-with open('EventiStream.w3u', 'w', encoding='utf-8') as f:
+with open('W3U/EventiStream.w3u', 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=4, ensure_ascii=False)
 
 print("File EventiStream.w3u created successfully.")
