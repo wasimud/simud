@@ -25,6 +25,13 @@
       "image": "https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png",
       "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiS.w3u",
       "import": true
+    },
+    {
+      "name": "Eventi SportsOnline Multi",
+      "author": "Simud",
+      "image": "https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png",
+      "url": "https://github.com/wasimud/simud/raw/refs/heads/main/W3U/EventiStream.w3u",
+      "import": true
     }
   ]
 }
