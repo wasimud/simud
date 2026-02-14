@@ -80,11 +80,6 @@ http://178.23.88.55/Eurosport_1/index.m3u8
 #EXTINF:-1 tvg-id="olympicgames1200eurosport2pe" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Olympics winter",Olympic Games 12:00 (Eurosport 2 PE)
 http://178.23.88.55/Eurosport_2/index.m3u8
 
-#EXTINF:-1 tvg-id="alriyadhvsalkhaleej1455thmanyahfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Riyadh vs Al-Khaleej 14:55 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6737/index.mpd
-
 #EXTINF:-1 tvg-id="alfatehvsalnassr1830daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Fateh vs Al-Nassr 18:30 (DAZN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=805dcf1a6b3dcc0e89e754ace90f0433:30ed8918c1891d9fced6c67d3e0168e2
@@ -198,15 +193,10 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #EXTINF:-1 tvg-id="vfbstuttgartvskln1830skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",VfB Stuttgart vs Köln 18:30 (SKY BUNDESLIGA)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
-#EXTINF:-1 tvg-id="marseillevsstrasbourg1700daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Marseille vs Strasbourg 17:00 (DAZN SPORTS)
+#EXTINF:-1 tvg-id="lillevsstadebrestois1900daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Lille vs Stade Brestois 19:00 (DAZN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0853db0290ce7512764007f80e89a375:f948f699b9fbed00ed1cf64af47d2392
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/npbslnhxvj/out/v1/d8eb95ce97294cd6962a1699bd108ce1/cenc.mpd
-
-#EXTINF:-1 tvg-id="marseillevsstrasbourg1700ligue1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Marseille vs Strasbourg 17:00 (Ligue1 )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2083/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=af34073fef9bd7767f6b595630ee15fa:098f3fe90241ffe93cd77fb356ac13b2
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/torsoqgi9p/out/v1/75700a1336e644c8b6c8dc0996ab9fa3/cenc.mpd
 
 #EXTINF:-1 tvg-id="lillevsstadebrestois1900ligue1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Lille vs Stade Brestois 19:00 (Ligue1 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -242,11 +232,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/76
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
-#EXTINF:-1 tvg-id="southamptonvsleicestercity1600daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Southampton vs Leicester City 16:00 (DAZN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94150c6f44a75a20dadec51b23b93bd3:97fc6221ad9cb615fc2914c20ce84ffa
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/61e7qocrjb/out/v1/6b8cc642d4a74634b55687912feb1be0/cenc.mpd
-
 #EXTINF:-1 tvg-id="astonvillavsnewcastleunited1845daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Aston Villa vs Newcastle United 18:45 (DAZN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd62e69a2c90f7d8f7bced3c1a384b7d:4f94a613ec15f976c458bcf1b4ac75f2
@@ -258,12 +243,10 @@ https://grand-s-v2.faggotsports.tv/pl_120/207676-6808156-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="astonvillavsnewcastleunited1845tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Aston Villa vs Newcastle United 18:45 (TNT SPORTS)
 https://601.lifesharper.com/tnt3.m3u8
 
+#EXTINF:-1 tvg-id="astonvillavsnewcastleunited1845beinarabichevc" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Aston Villa vs Newcastle United 18:45 (beIN ARABIC HEVC)
+https://cors-proxy.cooks.fyi/http://xcarscharge.pro:8080/bn1hevc/mono.m3u8
+
 #EXTINF:-1 tvg-id="scotlandvsengland1740itv1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Rugby",Scotland vs England 17:40 (ITV 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/yfsmgtnygz/out/v1/272d43358d1f41feb4dc2e9c61733628/cenc.mpd
-
-#EXTINF:-1 tvg-id="alnajmascvsalkholood1635thmanyahfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Najma SC vs Al-Kholood 16:35 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1403/index.mpd
