@@ -247,6 +247,17 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/76
 #KODIPROP:inputstream.adaptive.license_key=94150c6f44a75a20dadec51b23b93bd3:97fc6221ad9cb615fc2914c20ce84ffa
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/61e7qocrjb/out/v1/6b8cc642d4a74634b55687912feb1be0/cenc.mpd
 
+#EXTINF:-1 tvg-id="astonvillavsnewcastleunited1845daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Aston Villa vs Newcastle United 18:45 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd62e69a2c90f7d8f7bced3c1a384b7d:4f94a613ec15f976c458bcf1b4ac75f2
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/6vhb7ttizf/out/v1/e55282bf9caa4f6b8cd03b6f4b7706c3/cenc.mpd
+
+#EXTINF:-1 tvg-id="astonvillavsnewcastleunited1845tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Aston Villa vs Newcastle United 18:45 (TNT SPORTS FHD)
+https://grand-s-v2.faggotsports.tv/pl_120/207676-6808156-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="astonvillavsnewcastleunited1845tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Aston Villa vs Newcastle United 18:45 (TNT SPORTS)
+https://601.lifesharper.com/tnt3.m3u8
+
 #EXTINF:-1 tvg-id="scotlandvsengland1740itv1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Rugby",Scotland vs England 17:40 (ITV 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0763c867523cdae498b2ad5a8ed66c4:fbca9fa0d6d784be974170f82c155938
