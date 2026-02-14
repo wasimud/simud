@@ -1,0 +1,80 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1 tvg-id="olympicgames1200spxolympics" tvg-logo="https://i.postimg.cc/c1YdxvG2/Chat-GPT-Image-14-feb-2026-16-44-11.png" group-title="Serie A",Olympic Games 12:00 (SPX - Olympics)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8
+
+#EXTINF:-1 tvg-id="olympicgames1200nbcsports" tvg-logo="https://i.postimg.cc/c1YdxvG2/Chat-GPT-Image-14-feb-2026-16-44-11.png" group-title="Serie A",Olympic Games 12:00 (NBC SPORTS)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nbc.m3u8
+
+#EXTINF:-1 tvg-id="olympicgames1200usatvfhd" tvg-logo="https://i.postimg.cc/c1YdxvG2/Chat-GPT-Image-14-feb-2026-16-44-11.png" group-title="Serie A",Olympic Games 12:00 (USA TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6fe4b567ec9b467a888a089600c93f55:b8612265451c8c462fb6b55ad3a6b6d8
+https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-external-dash-primary-v1/Content/DASH_DASH_ENC/Live/channel(4e41f6af-4b86-2aac-c351-c1250b14b344)/master.mpd
+
+#EXTINF:-1 tvg-id="olympicgames1200tntsports2" tvg-logo="https://i.postimg.cc/c1YdxvG2/Chat-GPT-Image-14-feb-2026-16-44-11.png" group-title="Serie A",Olympic Games 12:00 (TNT SPORTS 2)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8
+
+#EXTINF:-1 tvg-id="olympicgames1200tntsports4" tvg-logo="https://i.postimg.cc/c1YdxvG2/Chat-GPT-Image-14-feb-2026-16-44-11.png" group-title="Serie A",Olympic Games 12:00 (TNT SPORTS 4)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8
+
+#EXTINF:-1 tvg-id="olympicgames1200eurosport1pe" tvg-logo="https://i.postimg.cc/c1YdxvG2/Chat-GPT-Image-14-feb-2026-16-44-11.png" group-title="Serie A",Olympic Games 12:00 (Eurosport 1 PE)
+http://178.23.88.55/Eurosport_1/index.m3u8
+
+#EXTINF:-1 tvg-id="olympicgames1200eurosport2pe" tvg-logo="https://i.postimg.cc/c1YdxvG2/Chat-GPT-Image-14-feb-2026-16-44-11.png" group-title="Serie A",Olympic Games 12:00 (Eurosport 2 PE)
+http://178.23.88.55/Eurosport_2/index.m3u8
+
+#EXTINF:-1 tvg-id="comovsfiorentina1500paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/comofiorentina.png" group-title="Serie A",Como vs Fiorentina 15:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e14a851287d12d3a915af8b82ffb469:04e3e8c3de798e703446d0d763e3fe1e
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ldxihp11nw/out/v1/3988f4abbeec4bdab66bb2a2cdebde94/cenc.mpd
+
+#EXTINF:-1 tvg-id="comovsfiorentina1500daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/comofiorentina.png" group-title="Serie A",Como vs Fiorentina 15:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ace70df3bf3cd7fdcdd42e25d5e70153:55cae875bf9bbbfac64d5171a5edb1fe
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/bdmciqnnsi/out/v1/04cf94ac32c544029e51a3e26e2a8bdf/cenc.mpd
+
+#EXTINF:-1 tvg-id="comovsfiorentina1500daznitalian" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/comofiorentina.png" group-title="Serie A",Como vs Fiorentina 15:00 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cab9e616591c10261fd31e0dec9e681:892034d802e8ad8f231cda88aeddfd1b
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/xf32wmwjxu/out/v1/790accd61dfb4e78b561c92070b36fdd/cenc.mpd
+
+#EXTINF:-1 tvg-id="comovsfiorentina1500beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/comofiorentina.png" group-title="Serie A",Como vs Fiorentina 15:00 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="comovsfiorentina1500foxdeportes" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/comofiorentina.png" group-title="Serie A",Como vs Fiorentina 15:00 (Fox Deportes)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="laziovsatalanta1800paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lazioatalanta.png" group-title="Serie A",Lazio vs Atalanta 18:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b90b91259e53a3f70da8b6c5c8c9e0e:b2d64f54107f98b13d5f6555242c7f3c
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/jvqfw81iqs/out/v1/adf82a04a38c42a48e57b62278d5ca32/cenc.mpd
+
+#EXTINF:-1 tvg-id="laziovsatalanta1800fubosports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lazioatalanta.png" group-title="Serie A",Lazio vs Atalanta 18:00 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f79a91bfd389470067cfb2e2102137c1:3dbc6263a452be5db25eaa86586cce13
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/c8vkzuz9ak/out/v1/13ae04ebeb824856ba2f42be17628ddb/cenc.mpd
+
+#EXTINF:-1 tvg-id="laziovsatalanta1800beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lazioatalanta.png" group-title="Serie A",Lazio vs Atalanta 18:00 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="laziovsatalanta1800cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lazioatalanta.png" group-title="Serie A",Lazio vs Atalanta 18:00 (CBS Golazo)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="laziovsatalanta1800foxdeportes" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lazioatalanta.png" group-title="Serie A",Lazio vs Atalanta 18:00 (Fox Deportes)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="intervsjuventus2045beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/interjuventus.png" group-title="Serie A",Inter vs Juventus 20:45 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
