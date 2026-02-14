@@ -106,102 +106,12 @@
             "isHost": ""
         },
         {
-            "name": "Burton Albion - West Ham - Live 4",
-            "info": "13:15 Â· FA CUP",
+            "name": "Como - Fiorentina - Dazn 1 HD (EXT CHROME)",
+            "info": "15:00 Â· Serie A",
             "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/FA_Cup_logo_%282020%29.svg",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live4.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Espanyol - Celta - Live 106",
-            "info": "14:00 Â· Liga",
-            "online": "true",
-            "image": "https://logoeps.com/wp-content/uploads/2025/02/la_liga-logo.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live106.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Cavese - Salernitana - Live 10 (ytb)",
-            "info": "14:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live10.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Cavese - Salernitana - Calcio",
-            "info": "14:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "calcio.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Cavese - Salernitana - Calcio HD (backup)",
-            "info": "14:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "calciohd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Giugliano - Trapani - Calcio 6",
-            "info": "14:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "calcio6.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Casarano - Casertana - Calcio 4",
-            "info": "14:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "calcio4.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Benevento - Latina - Calcio 2",
-            "info": "14:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "calcio2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Cosenza - Cerignola - Calcio 3",
-            "info": "14:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "calcio3.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Monopoli - Sorrento - Calcio 5",
-            "info": "14:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "calcio5.htm",
+            "url": "dazn1hd.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -276,18 +186,28 @@
             "isHost": ""
         },
         {
-            "name": "Palermo - Entella - Live 1",
-            "info": "15:00 Â· Serie C",
+            "name": "Palermo - Entella - Live 2",
+            "info": "15:00 Â· Serie B",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live1.htm",
+            "url": "live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Sampdoria - Padova - Dazn 2 HD (EXT CHROME)",
+            "info": "15:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "dazn2hd.htm",
             "embed": "true",
             "isHost": ""
         },
         {
             "name": "Sampdoria - Padova - Live 183",
-            "info": "15:00 Â· Serie C",
+            "info": "15:00 Â· Serie B",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -297,11 +217,41 @@
         },
         {
             "name": "Sampdoria - Padova - Live 12",
-            "info": "15:00 Â· Serie C",
+            "info": "15:00 Â· Serie B",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "live12.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Irlanda - Italia - Sport 1 (EXT CHROME)",
+            "info": "15:00 Â· Rugby",
+            "online": "true",
+            "image": "https://www.digital-news.it/UserFiles/RBS6N%20RGB%2030mm%20SPOT.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Irlanda - Italia - Sport 1 HD",
+            "info": "15:00 Â· Rugby",
+            "online": "true",
+            "image": "https://www.digital-news.it/UserFiles/RBS6N%20RGB%2030mm%20SPOT.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "sportuno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Irlanda - Italia - Sport 1 (backup)",
+            "info": "15:00 Â· Rugby",
+            "online": "true",
+            "image": "https://www.digital-news.it/UserFiles/RBS6N%20RGB%2030mm%20SPOT.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "uno.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -382,6 +332,396 @@
             "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "live9.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Man City - Salford City - Live 101",
+            "info": "16:00 Â· FA CUP",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/FA_Cup_logo_%282020%29.svg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live101.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Southampton - Leicester - Live 134",
+            "info": "16:00 Â· FA CUP",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/FA_Cup_logo_%282020%29.svg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live134.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Getafe - Villarreal - Live 106",
+            "info": "16:15 Â· Liga",
+            "online": "true",
+            "image": "https://logoeps.com/wp-content/uploads/2025/02/la_liga-logo.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live106.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Marsiglia - Strasburgo - Live 139",
+            "info": "17:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-gJwFoN8-UX589bDvPZTSzpJPE7g9Jic1Q&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live139.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Marsiglia - Strasburgo - Live 13",
+            "info": "17:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-gJwFoN8-UX589bDvPZTSzpJPE7g9Jic1Q&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live13.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Siracusa - Catania - Live 10 (YTB(",
+            "info": "17:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live10.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Siracusa - Catania - Calcio",
+            "info": "17:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Siracusa - Catania - Calcio HD (backup)",
+            "info": "17:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Foggia - Atalanta U23 - Sport Max HD",
+            "info": "17:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "sportmaxhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Foggia - Atalanta U23 - Sport Max",
+            "info": "17:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "sportmax.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Scozia - Inghilterra - Sport 1 (EXT CHROME)",
+            "info": "17:40 Â· Rugby",
+            "online": "true",
+            "image": "https://www.digital-news.it/UserFiles/RBS6N%20RGB%2030mm%20SPOT.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Scozia - Inghilterra - Sport 1 HD",
+            "info": "17:40 Â· Rugby",
+            "online": "true",
+            "image": "https://www.digital-news.it/UserFiles/RBS6N%20RGB%2030mm%20SPOT.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "sportuno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Scozia - Inghilterra - Sport 1 (backup)",
+            "info": "17:40 Â· Rugby",
+            "online": "true",
+            "image": "https://www.digital-news.it/UserFiles/RBS6N%20RGB%2030mm%20SPOT.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lazio - Atalanta - Dazn 1 HD (EXT CHROME)",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "dazn1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lazio - Atalanta - Live 2",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lazio - Atalanta - Live 3",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live3.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lazio - Atalanta - Dazn 1",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "dazn1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lazio - Atalanta - Live 7",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lazio - Atalanta - Live 147",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lazio - Atalanta - Live 147b",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live147b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lazio - Atalanta - Live 137",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live137.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lazio - Atalanta - Live 137b",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live137b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Stoccarda - Colonia - Sport Arena HD",
+            "info": "18:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "sportarena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Stoccarda - Colonia - Sport Arena (backup)",
+            "info": "18:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "arena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Stoccarda - Colonia - Live 6",
+            "info": "18:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live6.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Siviglia - Alaves - Live 106",
+            "info": "18:30 Â· Liga",
+            "online": "true",
+            "image": "https://logoeps.com/wp-content/uploads/2025/02/la_liga-logo.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live106.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Aston Villa - Newcastle - Live 103",
+            "info": "18:45 Â· FA CUP",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/FA_Cup_logo_%282020%29.svg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live103.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lille - Brest - Live 139",
+            "info": "19:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-gJwFoN8-UX589bDvPZTSzpJPE7g9Jic1Q&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live139.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lille - Brest - Live 13",
+            "info": "19:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-gJwFoN8-UX589bDvPZTSzpJPE7g9Jic1Q&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live13.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Juventus - Sport 1 (EXT CHROME)",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Juventus - Sport 1 HD",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "sportuno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Juventus - Sport 1 (backup)",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Juventus - Live 2",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Juventus - Live 7",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Juventus - Live 147",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Juventus - Live 147b",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live147b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Juventus - Live 138",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live138.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Juventus - Live 138b",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live138b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Liverpool - Brighton - Live 101",
+            "info": "21:00 Â· FA CUP",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/FA_Cup_logo_%282020%29.svg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live101.htm",
             "embed": "true",
             "isHost": ""
         }
