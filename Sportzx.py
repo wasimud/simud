@@ -338,7 +338,7 @@ if __name__ == "__main__":
         client.generate_m3u(
             channels=canali,
             filename="Sportzx.m3u8",
-            generic_logo="https://via.placeholder.com/512/000000/FFFFFF?text=Sportzx"
+            generic_logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png"
         )
     else:
         print("Nessun canale trovato")
