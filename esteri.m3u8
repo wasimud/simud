@@ -1,24 +1,24 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="espn1br" tvg-logo="https://i.postimg.cc/1zwZ9dLN/46-460784-espn-logo-black-and-white-hd-png-download-removebg-preview.png" group-title="Serie A Estera",ESPN 1 (BR)
+#EXTINF:-1 tvg-id="espn1br" tvg-logo="https://i.postimg.cc/QCV4M9Hz/pn-white-png-logo-18.png" group-title="Serie A Estera",ESPN 1 (BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
 
-#EXTINF:-1 tvg-id="espn2br" tvg-logo="https://i.postimg.cc/1zwZ9dLN/46-460784-espn-logo-black-and-white-hd-png-download-removebg-preview.png" group-title="Serie A Estera",ESPN 2 (BR)
+#EXTINF:-1 tvg-id="espn2br" tvg-logo="https://i.postimg.cc/QCV4M9Hz/pn-white-png-logo-18.png" group-title="Serie A Estera",ESPN 2 (BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nog-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
 
-#EXTINF:-1 tvg-id="espn3br" tvg-logo="https://i.postimg.cc/1zwZ9dLN/46-460784-espn-logo-black-and-white-hd-png-download-removebg-preview.png" group-title="Serie A Estera",ESPN 3 (BR)
+#EXTINF:-1 tvg-id="espn3br" tvg-logo="https://i.postimg.cc/QCV4M9Hz/pn-white-png-logo-18.png" group-title="Serie A Estera",ESPN 3 (BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=10580600369dbd7ac029f7e737247917:24ef48adb31daa130675c2a502da6982
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://nog-live1-ott.izzigo.tv/6/out/u/dash/ESPN3HDH265/default.mpd
 
-#EXTINF:-1 tvg-id="espn4br" tvg-logo="https://i.postimg.cc/1zwZ9dLN/46-460784-espn-logo-black-and-white-hd-png-download-removebg-preview.png" group-title="Serie A Estera",ESPN 4 (BR)
+#EXTINF:-1 tvg-id="espn4br" tvg-logo="https://i.postimg.cc/QCV4M9Hz/pn-white-png-logo-18.png" group-title="Serie A Estera",ESPN 4 (BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d2d7f1116eeec62d19943a892d721f7:033b809769a3c248af7383aa817fce72
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
