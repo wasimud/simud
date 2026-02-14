@@ -140,10 +140,20 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=c31bc563b2a652856b9120da673c2290:1b71da7f00a31c4921fdff8bab560938
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/nh8mkaw1fz/out/v1/4e1fe79c650c48e78fcae3cdfcded402/cenc.mpd
 
+#EXTINF:-1 tvg-id="intervsjuventus2045fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Inter vs Juventus 20:45 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bulymuiev4/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd
+
 #EXTINF:-1 tvg-id="intervsjuventus2045beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Inter vs Juventus 20:45 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="intervsjuventus2045daznitalian" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Inter vs Juventus 20:45 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ded66cb82e7e81374758ef98a0afab3:c40884e6ad1c912d71c25fea6fa9fdf9
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/lpawgeubp7/out/v1/8295b095c8534b24aeb71d0e6bd83faf/cenc.mpd
 
 #EXTINF:-1 tvg-id="vfbstuttgartvskln1830skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",VfB Stuttgart vs Köln 18:30 (SKY BUNDESLIGA)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
@@ -184,19 +194,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/76
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
-#EXTINF:-1 tvg-id="astonvillavsnewcastleunited1845daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Aston Villa vs Newcastle United 18:45 (DAZN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd62e69a2c90f7d8f7bced3c1a384b7d:4f94a613ec15f976c458bcf1b4ac75f2
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/6vhb7ttizf/out/v1/e55282bf9caa4f6b8cd03b6f4b7706c3/cenc.mpd
-
-#EXTINF:-1 tvg-id="astonvillavsnewcastleunited1845tntsportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Aston Villa vs Newcastle United 18:45 (TNT SPORTS FHD)
-https://grand-s-v2.faggotsports.tv/pl_120/207676-6808156-1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="astonvillavsnewcastleunited1845tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Aston Villa vs Newcastle United 18:45 (TNT SPORTS)
-https://601.lifesharper.com/tnt3.m3u8
-
-#EXTINF:-1 tvg-id="astonvillavsnewcastleunited1845beinarabichevc" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Aston Villa vs Newcastle United 18:45 (beIN ARABIC HEVC)
-https://cors-proxy.cooks.fyi/http://xcarscharge.pro:8080/bn1hevc/mono.m3u8
+#EXTINF:-1 tvg-id="liverpoolvsbrighton2100tntsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Liverpool vs Brighton 21:00 (TNT SPORTS HD)
+https://grand-s-v2.faggotsports.tv/pl_120/207676-6808260-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsengland1740itv1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Rugby",Scotland vs England 17:40 (ITV 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
