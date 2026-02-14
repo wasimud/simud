@@ -12,6 +12,12 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771073411~exp%3D1771159811~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=d735028fa32a556f821c9be83e0c493d:d1e42a372e0ec14466af661482083da5
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771075806~exp%3D1771162206~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Df1483a2c7b4812d976c09eed4bafe762a5eabc09f32aed582ab1596f0201fcfa%23wm%3D0~hmac%3D665f994a592b40e0d399064fb6c20e5833ee40b68120317caedc1f9d161576b8/11mylx79e68vf1dkg7qojf4y8b/web/stream.mpd?channel=1350&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 tvg-id="2045intervsjuventusitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 INTER vs JUVENTUS  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11185f84bab9fd3be9371bd8e5a171dc:5d5c574a697b172bc9c6ba56c389cfdd
+https://g004-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771166093_s~e6151d7b-b6a8-4d46-b481-897decd4ae85_u~b6e573e05e6003c1af434652421cbd3886aa76c3a57c6a5aa5e58fc24b4d9b8bcea9790c4d55c827af07d2f2d0e5768a_l~57_x~81c36df37fdd86d00fd97199400b46c8eafc393375f2312a9aabc5c50147aeb9/nowitlin1/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
+
 #EXTINF:-1 tvg-id="1500modenacarraresempd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",15:00 Modena - Carrarese (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
