@@ -6,7 +6,17 @@
 #KODIPROP:inputstream.adaptive.license_key=c31bc563b2a652856b9120da673c2290:1b71da7f00a31c4921fdff8bab560938
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/nh8mkaw1fz/out/v1/4e1fe79c650c48e78fcae3cdfcded402/cenc.mpd
 
+#EXTINF:-1 tvg-id="intervsjuventus2045fubosports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/interjuventus.png" group-title="Serie A",Inter vs Juventus 20:45 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bulymuiev4/out/v1/ea41a1e234e248daa9ebb1dce896ac26/cenc.mpd
+
 #EXTINF:-1 tvg-id="intervsjuventus2045beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/interjuventus.png" group-title="Serie A",Inter vs Juventus 20:45 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="intervsjuventus2045daznitalian" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/interjuventus.png" group-title="Serie A",Inter vs Juventus 20:45 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ded66cb82e7e81374758ef98a0afab3:c40884e6ad1c912d71c25fea6fa9fdf9
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/lpawgeubp7/out/v1/8295b095c8534b24aeb71d0e6bd83faf/cenc.mpd
