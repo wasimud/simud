@@ -118,15 +118,15 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/yjt
 #KODIPROP:inputstream.adaptive.license_key=8fb5bc3065d06d9cc3482dd5ca1c5197:ebd1c7b5e61a653a5935876741d645dc
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/w78ek04aj7/out/v1/2eb42c5327d54f8f994c9c0987e44f96/cenc.mpd
 
-#EXTINF:-1 tvg-id="realmadridvsrealsociedad2100laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Real Madrid vs Real Sociedad 21:00 (Laliga TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
 #EXTINF:-1 tvg-id="realmadridvsrealsociedad2100beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Real Madrid vs Real Sociedad 21:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="realmadridvsrealsociedad2100laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Real Madrid vs Real Sociedad 21:00 (Laliga TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
 #EXTINF:-1 tvg-id="realmadridvsrealsociedad2100fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Real Madrid vs Real Sociedad 21:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -156,26 +156,15 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=0ded66cb82e7e81374758ef98a0afab3:c40884e6ad1c912d71c25fea6fa9fdf9
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/lpawgeubp7/out/v1/8295b095c8534b24aeb71d0e6bd83faf/cenc.mpd
 
-#EXTINF:-1 tvg-id="vfbstuttgartvskln1830skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",VfB Stuttgart vs Köln 18:30 (SKY BUNDESLIGA)
-https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
-
-#EXTINF:-1 tvg-id="lillevsstadebrestois1900daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Lille vs Stade Brestois 19:00 (DAZN SPORTS)
+#EXTINF:-1 tvg-id="parisfcvsrclens2105daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Paris FC vs RC Lens 21:05 (DAZN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af34073fef9bd7767f6b595630ee15fa:098f3fe90241ffe93cd77fb356ac13b2
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/torsoqgi9p/out/v1/75700a1336e644c8b6c8dc0996ab9fa3/cenc.mpd
-
-#EXTINF:-1 tvg-id="lillevsstadebrestois1900ligue1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Lille vs Stade Brestois 19:00 (Ligue1 )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2083/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7ce5afa85633c554c0923f1f9d72211e:7dc627e91e4d35c1e4778f74482bfe03
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qxtqv1xaya/out/v1/e5e778c279034cb8a025f5246b707ada/cenc.mpd
 
 #EXTINF:-1 tvg-id="parisfcvsrclens2105ligue1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Paris FC vs RC Lens 21:05 (Ligue1 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
-
-#EXTINF:-1 tvg-id="excelsiorvsazalkmaar1845espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Excelsior vs AZ Alkmaar 18:45 (ESPN NL)
-https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8
 
 #EXTINF:-1 tvg-id="ajaxvsfortunasittard2000sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Ajax vs Fortuna Sittard 20:00 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -184,11 +173,6 @@ https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live
 
 #EXTINF:-1 tvg-id="ajaxvsfortunasittard2000espnnl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Ajax vs Fortuna Sittard 20:00 (ESPN NL)
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
-
-#EXTINF:-1 tvg-id="culturalleonesavszaragoza1830laligahypermotiones" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 2",Cultural Leonesa vs Zaragoza 18:30 (Laliga Hypermotion ES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-id="granadavsvalladolid2100laligahypermotiones" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 2",Granada vs Valladolid 21:00 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -199,9 +183,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/76
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cce2c421588f602f215c98c6424b0627:b9e0efa2a12ce193a634a34297c8a521
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/fjkwblv3wp/out/v1/fbc409b8caa843ecb6c1eaaea3cb1818/cenc.mpd
-
-#EXTINF:-1 tvg-id="liverpoolvsbrighton2100tntsportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Liverpool vs Brighton 21:00 (TNT SPORTS HD)
-https://grand-s-v2.faggotsports.tv/pl_120/207676-6808260-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="liverpoolvsbrighton2100tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Liverpool vs Brighton 21:00 (TNT SPORTS)
 https://storage.googleapis.com/murtenghinove1/mux_video_ts1/index-1.m3u8
