@@ -36,6 +36,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="torinovsbologna1800paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/torinobologna.png" group-title="Serie A",Torino vs Bologna 18:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b6c096e2840fa9504915a0de8d042d1:1d712aa6bdbf25f320b03d8e909cb330
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/hj9etcsfg5/out/v1/14a35db5c8b5448f8e724f7476a3d64e/cenc.mpd
+
 #EXTINF:-1 tvg-id="torinovsbologna1800beinsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/torinobologna.png" group-title="Serie A",Torino vs Bologna 18:00 (beIN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
