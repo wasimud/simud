@@ -30,11 +30,13 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771163106~exp%3D1771249506~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=65205a6b783e5149a9aa52d6f1e31aac:d850b9df596a8668b52155d470747ba0
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771163103~exp%3D1771249503~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dd61c8ce01cd2103d09c11ab2c52651678ea59bf29ea4b49d7ae9d7004ec67e74%23wm%3D0~hmac%3D90dff09b042c3bb322daefc2a856ac30d485bf9cd0f51640a2dfa3ea8f5ce835/1hgfcaeswm9j61kcqshhp0kai0/web/stream.mpd?channel=1352&mta=it&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-id="2045intervsjuventusitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 INTER vs JUVENTUS  (ITA - MPD)
+#EXTINF:-1 tvg-id="1800torinovsbolognaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:00 TORINO vs BOLOGNA  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11185f84bab9fd3be9371bd8e5a171dc:5d5c574a697b172bc9c6ba56c389cfdd
-https://g004-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771166093_s~e6151d7b-b6a8-4d46-b481-897decd4ae85_u~b6e573e05e6003c1af434652421cbd3886aa76c3a57c6a5aa5e58fc24b4d9b8bcea9790c4d55c827af07d2f2d0e5768a_l~57_x~81c36df37fdd86d00fd97199400b46c8eafc393375f2312a9aabc5c50147aeb9/nowitlin1/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
+https://amstaff@@https://swisslau1-3-dash-live.zahs.tv/HD_dazn_event_5_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZGQ3TGQRWHEZEGQZSIMZDGLJSGAZTQQSEINAUMQZRIRDEIRCCEZSHE3J5MV4HA2LSMF2GS33OHIYTONZRG43TENJYGETGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRQL5SDGOJTMZRWENDEGRQTANBRMQ4DENBYMEYTQMRTMY3GIZLFMQYDGJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIYTSNZRGE3DAJTWHUYA|0000
+
+#EXTINF:-1 tvg-id="2045napolivsromaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 NAPOLI vs ROMA  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://swisslau1-3-dash-live.zahs.tv/HD_dazn_event_1_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZGQ3TGQRWIRCTGOJTII4EILJRHE3TCQZTIVCTIMKEIVATIQ2DEZSHE3J5MV4HA2LSMF2GS33OHIYTONZRG43TENJYGITGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRQL43TENDFHEZTCMTCMJSGMYZXMYZWEMTDGQYTENJSMI2GKOJWGFTDEJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIYTSNZRGE3DAJTWHUYA|0000
 
 #EXTINF:-1 tvg-id="1400barisdtirolmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",14:00 Bari - Südtirol (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
