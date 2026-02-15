@@ -1,27 +1,22 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="torinovsbologna1800paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/torinobologna.png" group-title="Serie A",Torino vs Bologna 18:00 (PARAMOUNT  AQ)
+#EXTINF:-1 tvg-id="napolivsroma2045paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/napoliroma.png" group-title="Serie A",Napoli vs Roma 20:45 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b6c096e2840fa9504915a0de8d042d1:1d712aa6bdbf25f320b03d8e909cb330
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/hj9etcsfg5/out/v1/14a35db5c8b5448f8e724f7476a3d64e/cenc.mpd
-
-#EXTINF:-1 tvg-id="torinovsbologna1800beinsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/torinobologna.png" group-title="Serie A",Torino vs Bologna 18:00 (beIN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="torinovsbologna1800cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/torinobologna.png" group-title="Serie A",Torino vs Bologna 18:00 (CBS Golazo)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=4756d21bd5208edf19db2d5256779057:18bff879a4dd96f427b52e88a8a0e694
+https://ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/l7fcanqmfw/out/v1/d19c1363550c46cf97dace8f10bf4714/cenc.mpd
 
 #EXTINF:-1 tvg-id="napolivsroma2045beinsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/napoliroma.png" group-title="Serie A",Napoli vs Roma 20:45 (beIN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 tvg-id="napolivsroma2045daznsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/napoliroma.png" group-title="Serie A",Napoli vs Roma 20:45 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f434bace6a97f51a49fed7bd017c4dd7:d5e87948f50cc3bf346c8dfab4e96edf
+https://ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/oslf4kv7s6/out/v1/3d3152290b144707bf2feafd766ab9c7/cenc.mpd
+
 #EXTINF:-1 tvg-id="napolivsroma2045cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/napoliroma.png" group-title="Serie A",Napoli vs Roma 20:45 (CBS Golazo)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+https://ta.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
