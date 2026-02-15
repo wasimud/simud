@@ -165,10 +165,20 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="parmavshellasverona1500paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Parma vs Hellas Verona 15:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d508004df587fc2b7621d80f2655daf:11155cceb3ff946d6a51c3614ce872e6
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ap9rxoma8z/out/v1/40c90ca28d3042898b6f7d6fd418b0d4/cenc.mpd
+
 #EXTINF:-1 tvg-id="parmavshellasverona1500beinsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Parma vs Hellas Verona 15:00 (beIN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="cremonesevsgenoa1500paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Cremonese vs Genoa 15:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79c508d516f6494b374a803f1a2ac167:80e77d6f0becfa72f1bd52e51c1fcea7
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/lk3ipjuwvp/out/v1/0108d125ef7f41ae9ccfe18c63e2661f/cenc.mpd
 
 #EXTINF:-1 tvg-id="cremonesevsgenoa1500cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Cremonese vs Genoa 15:00 (CBS Golazo)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -199,6 +209,11 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="lehavrevstoulouse1500daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Le Havre vs Toulouse 15:00 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f094ee7b7763bf4e430e5033f15b7421:4b17069f7a10224c9339f05b443d5e39
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3jfu3ousua/out/v1/a841f1ade8704851ac40733b5bb5e8f0/cenc.mpd
 
 #EXTINF:-1 tvg-id="lehavrevstoulouse1500ligue1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Le Havre vs Toulouse 15:00 (Ligue1 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -239,6 +254,11 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/suf
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="grimsbytownvswolves1430daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Grimsby Town vs Wolves 14:30 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2644b872601f5394b711acd8d6c4599:1fc349c3eaff12ee481d585d3efe5342
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qvqwpxflqs/out/v1/4702dbfcc6d9406f9c1472c6e9522fdb/cenc.mpd
 
 #EXTINF:-1 tvg-id="feyenoordvsgaeagles1215premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Feyenoord vs GA Eagles 12:15 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
