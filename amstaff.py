@@ -171,6 +171,8 @@ def decode_stream(value):
         return extract_from_url(value)
 
     if ".mpd" in value or ".m3u8" in value:
+        if value.startswith('amstaff@@'):
+            value = value.replace('amstaff@@', '').replace('|0000', '')
         return extract_from_url(value if value.startswith("http") else "https://" + value)
 
     if value.startswith("{") and value.endswith("}"):
