@@ -205,6 +205,11 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3ydqzssvl8/out
 #KODIPROP:inputstream.adaptive.license_key=bd2fe838c42cf1730c9dc74b19745f5e:c7c54486675bc79df34b23e3828600c6
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/aprlgubukv/out/v1/b82ef1e387d84501b63ae2b1ee3fa46d/cenc.mpd
 
+#EXTINF:-1 tvg-id="rbleipzigvswolfsburg1730daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",RB Leipzig vs Wolfsburg 17:30 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa094e599e61db38320983b31ebc9196:3958a5977009540ba29418a46fef48da
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ao6aradqiq/out/v1/cb4bc9d9b4c04c0496251bb6baf64127/cenc.mpd
+
 #EXTINF:-1 tvg-id="lehavrevstoulouse1500daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Le Havre vs Toulouse 15:00 (DAZN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f094ee7b7763bf4e430e5033f15b7421:4b17069f7a10224c9339f05b443d5e39
@@ -215,10 +220,20 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3jfu3ousua/out
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
 
+#EXTINF:-1 tvg-id="lorientvsangers1715daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Lorient vs Angers 17:15 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e2647d598beafc8071b4cddcf3910ed:73a3af18b754737362f0f222f29a58db
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/7siommfvvz/out/v1/853d51a03b9e4630b646ac66921a85c1/cenc.mpd
+
 #EXTINF:-1 tvg-id="lorientvsangers1715ligue1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Lorient vs Angers 17:15 (Ligue1 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
+
+#EXTINF:-1 tvg-id="metzvsauxerre1715daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Metz vs Auxerre 17:15 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22f7137b6405a3b084096c9641a4b3ad:743c4afa875e565667c598a087a7e33c
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/xm8gudrfjq/out/v1/a11f37b4f0c94095bc907cbd6223bbff/cenc.mpd
 
 #EXTINF:-1 tvg-id="metzvsauxerre1715ligue1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Metz vs Auxerre 17:15 (Ligue1 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
