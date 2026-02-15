@@ -200,6 +200,15 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/76
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
+#EXTINF:-1 tvg-id="teamusastarsvsteamworld2300sportzxnba" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Team USA Stars vs Team World 23:00 (SportzX NBA)
+https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="teamusastarsvsteamworld2300fhdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Team USA Stars vs Team World 23:00 (FHD SERVER)
+https://601.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
+
+#EXTINF:-1 tvg-id="teamusastarsvsteamworld2300nbcfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Team USA Stars vs Team World 23:00 (NBC FHD)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nbc.m3u8
+
 #EXTINF:-1 tvg-id="sportingcpvsfamalico2130sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Liga portugal",Sporting CP vs Famalicão 21:30 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
