@@ -86,126 +86,6 @@
             "isHost": ""
         },
         {
-            "name": "Udinese - Sassuolo - Dazn 1 (EXT CHROME)",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "dazn1hd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Udinese - Sassuolo - Live 7",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Udinese - Sassuolo - Dazn 1",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "dazn1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Udinese - Sassuolo - Live 147",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live147.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Udinese - Sassuolo - Live 147b",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live147b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Udinese - Sassuolo - Live 137",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live137.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Udinese - Sassuolo - Live 137b",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live137b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Vicenza - Alcione - Calcio HD (EXT CHROME)",
-            "info": "12:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "calcioex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Vicenza - Alcione - Calcio",
-            "info": "12:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "calcio.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Triestina - Novara - Sport 1 (ext chrome)",
-            "info": "12:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "sportunoex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Triestina - Novara - Sport 1 (backup)",
-            "info": "12:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Birmingham City - Leeds United - Live 25",
-            "info": "13:00 Â· FA CUP",
-            "online": "true",
-            "image": "https://www.zerozero.com.mx//img/logos/edicoes/113349_imgbank_.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live25.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Oviedo - Ath Bilbao - Live 26",
             "info": "14:00 Â· Liga",
             "online": "true",
@@ -326,22 +206,22 @@
             "isHost": ""
         },
         {
-            "name": "Parma - Verona - Live 147",
+            "name": "Parma - Verona - Live 146",
             "info": "15:00 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live147.htm",
+            "url": "live146.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Parma - Verona - Live 147b",
+            "name": "Parma - Verona - Live 146b",
             "info": "15:00 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "live147b.htm",
+            "url": "live146b.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -372,6 +252,26 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Cremonese - Genoa - Live 147",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Cremonese - Genoa - Live 147b",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "live147b.htm",
             "embed": "true",
             "isHost": ""
         },
