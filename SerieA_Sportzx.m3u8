@@ -16,10 +16,20 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="parmavshellasverona1500paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/parmahellasverona.png" group-title="Serie A",Parma vs Hellas Verona 15:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d508004df587fc2b7621d80f2655daf:11155cceb3ff946d6a51c3614ce872e6
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ap9rxoma8z/out/v1/40c90ca28d3042898b6f7d6fd418b0d4/cenc.mpd
+
 #EXTINF:-1 tvg-id="parmavshellasverona1500beinsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/parmahellasverona.png" group-title="Serie A",Parma vs Hellas Verona 15:00 (beIN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="cremonesevsgenoa1500paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cremonesegenoa.png" group-title="Serie A",Cremonese vs Genoa 15:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79c508d516f6494b374a803f1a2ac167:80e77d6f0becfa72f1bd52e51c1fcea7
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/lk3ipjuwvp/out/v1/0108d125ef7f41ae9ccfe18c63e2661f/cenc.mpd
 
 #EXTINF:-1 tvg-id="cremonesevsgenoa1500cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cremonesegenoa.png" group-title="Serie A",Cremonese vs Genoa 15:00 (CBS Golazo)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
