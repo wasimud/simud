@@ -183,7 +183,7 @@ https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771163177_s~f1bca
 #EXTINF:-1 tvg-id="dazn1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Tv-channel-%E2%94%82-dazn-1.png" group-title="Sky Sport",Dazn 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-https://dcs-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzExMjgwMDQsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiOGViOTUwYjA5YmIxZjMzOTBlZDQ4ODgzN2VhZjk5ODY3MDc2OTRkMSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJnZW8iOiJpdCIsImFzbiI6WyIxMjY3Il0sImlhdCI6MTc3MTA0MTYwNH0.SIkSkf3vwbd-kujzYcVwbmLICQebMMPQNKxhy4uMY4M/dash/dazn-linear-206/stream.mpd?p=web
+https://dcs-ak-livedazn.akamaized.net/@st%3D1771128003~exp%3D1771214403~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23asn%3D3269%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d~hmac%3Dbd33f0d03f4a1650a6c77835f98c87df7556c1b18f9dfc9f115910a4ff8bffe4/dash/dazn-linear-206/stream.mpd?p=web
 
 #EXTINF:-1 tvg-id="skycinemauno" tvg-logo="https://pixel.disco.nowtv.it/logo/skychb_202_lightnow/LOGO_CHANNEL_DARK/4000?language=it-IT&proposition=NOWOTT" group-title="Sky Cinema",Sky Cinema Uno
 #KODIPROP:inputstream.adaptive.license_type=clearkey
