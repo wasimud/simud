@@ -155,6 +155,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="udinesevssassuolo1230daznithd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Udinese vs Sassuolo 12:30 (DAZN IT HD)
+https://aa.eryx68.shop/live.php?id=246b1fdf4715fc1d&token=guest__e36eFZ3zW1CGl1DekXo32DEdLOVWW214fZax96gAiY7-feHhxLqa0jb1oUi_o-LG9xLdx5HH4NbJblD-xQLhGLi6hdamAe1KpSWiY4M-_pQobAh5Sk3jYeq_XbuYXsMROUe7RtmsGpbzXfq5dsmFiH-7QecfDwV6q9jeElc8rcLi3xUcWcaRAOYzSh1NUwMbmWCTNY8UySqDg6tRDFiQqw8bbw2dcYwugNipKf_k-tZJBIM~&format=.m3u8
+
 #EXTINF:-1 tvg-id="parmavshellasverona1500beinsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Parma vs Hellas Verona 15:00 (beIN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -219,6 +222,16 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="birminghamvsleedsunited1300daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Birmingham vs Leeds United 13:00 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0a1ef9e6011c2241f79985f479d9d13:2104e8a9f2662547843eb050f1a44c33
+https://a122aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/sufqnxjaju/out/v1/7786139701874a1ea87acb67a154dc4a/cenc.mpd
+
+#EXTINF:-1 tvg-id="birminghamvsleedsunited1300novasports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Birmingham vs Leeds United 13:00 (NOVA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="feyenoordvsgaeagles1215premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Feyenoord vs GA Eagles 12:15 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
