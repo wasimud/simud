@@ -150,21 +150,6 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-id="udinesevssassuolo1230beinsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Udinese vs Sassuolo 12:30 (beIN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="udinesevssassuolo1230cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Udinese vs Sassuolo 12:30 (CBS Golazo)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1 tvg-id="udinesevssassuolo1230foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Udinese vs Sassuolo 12:30 (Fox Deportes)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
 #EXTINF:-1 tvg-id="parmavshellasverona1500paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Parma vs Hellas Verona 15:00 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d508004df587fc2b7621d80f2655daf:11155cceb3ff946d6a51c3614ce872e6
@@ -174,6 +159,16 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ap9rxoma8z/out
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="parmavshellasverona1500daznitalian" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Parma vs Hellas Verona 15:00 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaf9116289070f1fcdfd85903bb305ce:cf2bfecf12e001a5e89683a023005734
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/lghj5wfujm/out/v1/7bf1a48e6f3c40e3bd9409b0fadfbdec/cenc.mpd
+
+#EXTINF:-1 tvg-id="parmavshellasverona1500daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Parma vs Hellas Verona 15:00 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df843286a1c12ebb432b168db79ce898:c6368d3fad94ff4c4c413b112dde8c60
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/lj1w2tmepv/out/v1/21d3dc45d735483983dfffab6cdd2ecd/cenc.mpd
 
 #EXTINF:-1 tvg-id="cremonesevsgenoa1500paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Cremonese vs Genoa 15:00 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -209,6 +204,16 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="augsburgvsheidenheim1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Augsburg vs Heidenheim 15:30 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97fe21e6fe74b049622798e4d353122e:5f3a84e232b5fc8e7d6d1a215186508d
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3ydqzssvl8/out/v1/700fc5d368104c43988f251cde1ac8a1/cenc.mpd
+
+#EXTINF:-1 tvg-id="augsburgvsheidenheim1530dazngermany" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Augsburg vs Heidenheim 15:30 (DAZN GERMANY)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd2fe838c42cf1730c9dc74b19745f5e:c7c54486675bc79df34b23e3828600c6
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/aprlgubukv/out/v1/b82ef1e387d84501b63ae2b1ee3fa46d/cenc.mpd
 
 #EXTINF:-1 tvg-id="lehavrevstoulouse1500daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Le Havre vs Toulouse 15:00 (DAZN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -259,6 +264,16 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2644b872601f5394b711acd8d6c4599:1fc349c3eaff12ee481d585d3efe5342
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qvqwpxflqs/out/v1/4702dbfcc6d9406f9c1472c6e9522fdb/cenc.mpd
+
+#EXTINF:-1 tvg-id="oxfordunitedvssunderland1500daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Oxford United vs Sunderland 15:00 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed11cb89c28fbe629b88e2d946eb5ad9:b99908556af639e68b924b1b84e81223
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/dp7u5ppovn/out/v1/a97e3d59ed7b4590aa6f690cc79b3fac/cenc.mpd
+
+#EXTINF:-1 tvg-id="stokecityvsfulham1500daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Stoke City vs Fulham 15:00 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fafe6670d9346be57bad33b8188182c3:c18022134c79d5f2c28972c61779f4d1
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/cgcqflyshg/out/v1/fac9935ae0774f89b031b74713e38fdc/cenc.mpd
 
 #EXTINF:-1 tvg-id="feyenoordvsgaeagles1215premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Eredivisie",Feyenoord vs GA Eagles 12:15 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -343,3 +358,6 @@ https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b
 
 #EXTINF:-1 tvg-id="canadavsfrance1640tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Olympics winter",Canada vs France 16:40 (TNT SPORTS)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8
+
+#EXTINF:-1 tvg-id="castlefordtigersvswiganwarriors1600foxsoccer" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Rugby",Castleford Tigers vs Wigan Warriors 16:00 (FOX SOCCER )
+https://cdn-live-tv.ru/api/v1/channels/us-fox-soccer-plus/tracks-v1a1/mono.ts.m3u8
