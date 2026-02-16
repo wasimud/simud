@@ -122,6 +122,11 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8
 #EXTINF:-1 tvg-id="olympicgames0800tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Olympics winter",Olympic Games 08:00 (TNT SPORTS 4)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8
 
+#EXTINF:-1 tvg-id="gironafcvsbarcelona2100daznspanish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Girona FC vs Barcelona 21:00 (DAZN SPANISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb2bbd0a5f3bc3acc9e91e90675d6100:0fe39374225658d59fafd36e2ffaf169
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/cjkogpqmaj/out/v1/3e5c4c6b96294a6986e40f7f0c4e6714/cenc.mpd
+
 #EXTINF:-1 tvg-id="gironafcvsbarcelona2100laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Girona FC vs Barcelona 21:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
@@ -135,7 +140,7 @@ https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/mast
 #EXTINF:-1 tvg-id="gironafcvsbarcelona2100premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Girona FC vs Barcelona 21:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="gironafcvsbarcelona2100espnfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Girona FC vs Barcelona 21:00 (ESPN FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -146,6 +151,9 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bogcm0ojdo/out
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="gironafcvsbarcelona2100sportzxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Girona FC vs Barcelona 21:00 (SportzX HD)
+https://storage.googleapis.com/unifhefnceadf1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="cagliarivslecce2045paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Cagliari vs Lecce 20:45 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -170,6 +178,11 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/nuwuiotmum/out
 #EXTINF:-1 tvg-id="macclesfieldfcvsbrentford2030hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Macclesfield FC vs Brentford 20:30 (HD SERVER)
 https://daffodil.lifesharper.com/astro.m3u8
 
+#EXTINF:-1 tvg-id="coventrycityvsmiddlesbrough2100paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Coventry City vs Middlesbrough 21:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64ef17c8114034ddf072818e97a8e51:ec395901881ebe55aaac1e873f8b4fc6
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/aaaly10irz/out/v1/fc0d1df3fa7e41dea67318755df75b95/cenc.mpd
+
 #EXTINF:-1 tvg-id="coventrycityvsmiddlesbrough2100beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Coventry City vs Middlesbrough 21:00 (beIN English)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -179,6 +192,11 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a5135975978757b3458bb5b3b9dbf5e:eab16719fa7727ab371bd75aeaca9229
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd
+
+#EXTINF:-1 tvg-id="coventrycityvsmiddlesbrough2100espnespanol" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Coventry City vs Middlesbrough 21:00 (ESPN ESPANOL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
+https://aca-live1-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
 
 #EXTINF:-1 tvg-id="realsociedadiivsmlaga2030laligahypermotiones" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 2",Real Sociedad II vs Málaga 20:30 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -205,6 +223,3 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
 https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="kasmpaavsfatihkaragmrk1800beinsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Super lig",Kasımpaşa vs Fatih Karagümrük 18:00 (beIN SPORTS)
-https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
