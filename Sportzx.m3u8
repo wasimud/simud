@@ -155,6 +155,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/76
 #EXTINF:-1 tvg-id="alhilalvsalwahdafc1915spxsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Al-Hilal vs Al-Wahda FC 19:15 (SPX - SD)
 https://hls.theblacks.site/hls/03eb09ac-e4de-452b-9fff-0a9648ab6b67/index.m3u8
 
+#EXTINF:-1 tvg-id="alshortavsalduhail1915fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Al-Shorta vs Al Duhail 19:15 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
 #EXTINF:-1 tvg-id="alshortavsalduhail1915spxsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Al-Shorta vs Al Duhail 19:15 (SPX - SD)
 https://smarthard.click/hls/3QZg5SKsM1P0/index.m3u8
 
