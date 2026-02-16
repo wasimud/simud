@@ -86,57 +86,27 @@
             "isHost": ""
         },
         {
-            "name": "Levante - Valencia - Live 26",
-            "info": "18:30 Â· Liga",
-            "online": "true",
-            "image": "https://logoeps.com/wp-content/uploads/2025/02/la_liga-logo.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live26.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lione - Nizza - Live 24",
-            "info": "20:45 Â· Ligue 1",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-gJwFoN8-UX589bDvPZTSzpJPE7g9Jic1Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live24.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Napoli - Roma - Dazn 1 (EXT CHROME)",
+            "name": "Cagliari - Lecce - Calcio (EXT CHROME)",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn1hd.htm",
+            "url": "https://htsport.cc/calcioex.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Napoli - Roma - Dazn 2 (EXT CHROME)",
+            "name": "Cagliari - Lecce - Live 3",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn2hd.htm",
+            "url": "https://htsport.cc/live3.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Napoli - Roma - Live 2",
-            "info": "20:45 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Napoli - Roma - Live 7",
+            "name": "Cagliari - Lecce - Live 7",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
@@ -146,17 +116,17 @@
             "isHost": ""
         },
         {
-            "name": "Napoli - Roma - Dazn 1",
+            "name": "Cagliari - Lecce - Calcio",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn1.htm",
+            "url": "https://htsport.cc/calcio.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Napoli - Roma - Live 147",
+            "name": "Cagliari - Lecce - Live 147",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
@@ -166,7 +136,7 @@
             "isHost": ""
         },
         {
-            "name": "Napoli - Roma - Live 147b",
+            "name": "Cagliari - Lecce - Live 147b",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
@@ -176,22 +146,32 @@
             "isHost": ""
         },
         {
-            "name": "Napoli - Roma - Live 137",
+            "name": "Cagliari - Lecce - Live 138",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live137.htm",
+            "url": "https://htsport.cc/live138.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Napoli - Roma - Live 137b",
+            "name": "Cagliari - Lecce - Live 138b",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live137b.htm",
+            "url": "https://htsport.cc/live138b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Girona - Barcellona - Live 26",
+            "info": "21:00 Â· Liga",
+            "online": "true",
+            "image": "https://logoeps.com/wp-content/uploads/2025/02/la_liga-logo.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live26.htm",
             "embed": "true",
             "isHost": ""
         }
