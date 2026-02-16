@@ -127,15 +127,48 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
+#EXTINF:-1 tvg-id="gironafcvsbarcelona2100beinsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Girona FC vs Barcelona 21:00 (beIN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein1)/master.mpd
+
 #EXTINF:-1 tvg-id="gironafcvsbarcelona2100premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Girona FC vs Barcelona 21:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
+#EXTINF:-1 tvg-id="gironafcvsbarcelona2100espnfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Girona FC vs Barcelona 21:00 (ESPN FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9af87ecb9da0cda5af8ed8707b2c8052:803c20814a15883b206663ece3602310
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bogcm0ojdo/out/v1/32c03ea0e39e443a92cbcc0d21d0e1ed/cenc.mpd
+
 #EXTINF:-1 tvg-id="gironafcvsbarcelona2100fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Girona FC vs Barcelona 21:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="cagliarivslecce2045paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Cagliari vs Lecce 20:45 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a622f343e97ef638db07d63af040d80c:020c697cab8974c87a75eca414e9e1df
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/5kpt8feut3/out/v1/96ecbfc9461343b995d48874da26f01c/cenc.mpd
+
+#EXTINF:-1 tvg-id="cagliarivslecce2045daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Cagliari vs Lecce 20:45 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aaf3f632d9d356a18e6bcd7d60ad45d7:1b5e131e54a7435e426dab6de98515a7
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/nbzxfz0zay/out/v1/718d9deb3980465791caeb670edff04c/cenc.mpd
+
+#EXTINF:-1 tvg-id="cagliarivslecce2045daznitalian" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Cagliari vs Lecce 20:45 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8439a38a6ff2ce5145f3669e41416633:fcff724cafa25ba5c194bc88158ec320
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qtfw12i7yj/out/v1/6a77df01c34c4d998ef327d19404e2c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="macclesfieldfcvsbrentford2030daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Macclesfield FC vs Brentford 20:30 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d69a9822fdbdb46609244f1916322bb:bd62294ad9c4ccab9742679593dc5980
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/nuwuiotmum/out/v1/a0c5e6e21ef646c2a0c20983991d9908/cenc.mpd
+
+#EXTINF:-1 tvg-id="macclesfieldfcvsbrentford2030hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Fa cup",Macclesfield FC vs Brentford 20:30 (HD SERVER)
+https://daffodil.lifesharper.com/astro.m3u8
 
 #EXTINF:-1 tvg-id="coventrycityvsmiddlesbrough2100beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Coventry City vs Middlesbrough 21:00 (beIN English)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
