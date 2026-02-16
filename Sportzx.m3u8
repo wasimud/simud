@@ -55,12 +55,12 @@ https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/ind
 #EXTINF:-1 tvg-id="icct20wc021030primevideofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (PRIME VIDEO FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
-https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/dash/enc/qkp4pavybn/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpd
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/jiputaffgk/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021030willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (WILLOW  Ad Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc9e8f6e2baa1f258089bbb2206cf6dc:a99c7cfa3a9ca19d26517b51a10c56d8
-https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rf2blmjy0u/out/v1/2b2142a4f4c54a9b9782fc7c5e8e9196/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e4d4735fcdf0fff9e23c62ee17b6ffa1:23e374883cf1f0baecb444224cada559
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/yongsmtvly/out/v1/1db8ee9b9d0e4178b4e936ee0866dc90/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021030jiohotstar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
@@ -151,6 +151,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/ze8mlq7soh/out/v1/e5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="alshortavsalduhail1915sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Al-Shorta vs Al Duhail 19:15 (SportzX Live)
+https://smarthard.click/hls/3QZg5SKsM1P0/index.m3u8
 
 #EXTINF:-1 tvg-id="eastbengalvsnortheastunited1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",East Bengal vs NorthEast United 15:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
