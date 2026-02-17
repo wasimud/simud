@@ -228,7 +228,7 @@ class SportzxClient:
                     api=api_val,
                 ))
 
-        return channels_list  # ← sempre restituiamo la lista
+        return channels_list
 
     def _increase_time_by_one_hour(self, time_str: str) -> str:
         if not time_str or len(time_str) < 5 or ':' not in time_str:
@@ -269,14 +269,13 @@ class SportzxClient:
         self,
         channels: List[SportzxChannel],
         filename: str = "SerieA_Sportzx.m3u8",
-        generic_logo: str = "https://i.postimg.cc/c1YdxvG2/Chat-GPT-Image-14-feb-2026-16-44-11.png",
+        generic_logo: str = "https://i.postimg.cc/kMpRZ1dn/sportzx-combined.png",
         serie_a_only: bool = True,
         serie_a_keywords: List[str] = None
     ) -> str:
         base_logo_url = "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/"
 
         if serie_a_keywords is None:
-            # Lista molto restrittiva – riduce falsi positivi con Olimpiadi ecc.
             serie_a_keywords = [
                 "serie a",
                 "serie-a",
@@ -292,6 +291,7 @@ class SportzxClient:
         lines = ["#EXTM3U", "#EXT-X-VERSION:3", ""]
 
         included = 0
+        matched_channels = []
 
         for ch in channels:
             if not ch.stream_url or not ch.stream_url.lower().endswith((".mpd", ".m3u8")):
@@ -301,19 +301,21 @@ class SportzxClient:
             title_lower = ch.event_title.lower().strip()
             name_lower  = ch.event_name.lower().strip()
 
-            if serie_a_only:
+            is_match = False
+            if not serie_a_only:
+                is_match = True
+            else:
                 matching_info = []
-
-                for kw in sorted(keywords):  # sorted solo per output più leggibile
+                for kw in sorted(keywords):
                     found_in = []
                     if kw in cat_lower:   found_in.append("cat")
                     if kw in title_lower: found_in.append("title")
                     if kw in name_lower:  found_in.append("name")
                     if found_in:
                         matching_info.append(f"  • '{kw}' → {', '.join(found_in)}")
+                        is_match = True
 
                 if matching_info:
-                    # Debug: mostra perché è stato incluso
                     print("\n" + "═" * 80)
                     print(f"INCLUSO → {ch.event_title}")
                     print(f"  Cat:  {ch.event_cat}")
@@ -323,53 +325,69 @@ class SportzxClient:
                     for line in matching_info:
                         print(line)
                     print("═" * 80 + "\n")
-                else:
-                    # Non matcha → salta
-                    continue
 
-            included += 1
+            if is_match:
+                included += 1
+                matched_channels.append(ch)
 
-            custom_logo = self._get_custom_logo(ch.event_title, base_logo_url, generic_logo)
-
-            evento = (ch.event_title or "Evento").strip()
-
-            orario_originale = ""
-            if ch.event_time and len(ch.event_time) >= 11:
-                parti = ch.event_time.split()
-                if len(parti) >= 2:
-                    orario_originale = parti[1][:5]
-
-            orario_aumentato = self._increase_time_by_one_hour(orario_originale)
-            orario_part = f" {orario_aumentato}" if orario_aumentato else ""
-
-            canale = ""
-            if ch.channel_title and ch.channel_title.strip():
-                tit_canale = ch.channel_title.strip()
-                if tit_canale.lower() not in evento.lower():
-                    canale = f" ({tit_canale})"
-
-            nome_finale = f"{evento}{orario_part}{canale}".strip()
-            nome_pulito = re.sub(r'[^\w\s\-\:\(\)\,\.\']', ' ', nome_finale).strip()
-
-            gruppo = "Serie A" if serie_a_only else (ch.event_cat.capitalize() or "Sportzx")
-
-            tvg = re.sub(r'[^a-z0-9]', '', nome_pulito.lower())
-            tvg_id = tvg[:50] if tvg else f"seriea-{ch.event_id[:8]}"
-
-            extinf = (
-                f'#EXTINF:-1 tvg-id="{tvg_id}" '
-                f'tvg-logo="{custom_logo}" '
-                f'group-title="{gruppo}",{nome_pulito}'
+        # ────────────────────────────────────────────────
+        # SE NON C'È NESSUN CANALE → inseriamo placeholder
+        # ────────────────────────────────────────────────
+        if included == 0:
+            print("NESSUN evento trovato → genero playlist con placeholder 'Nessun Evento'")
+            
+            placeholder_line = (
+                '#EXTINF:-1 tvg-id="noevent" '
+                'tvg-logo="https://i.postimg.cc/fTHBgY5d/Chat-GPT-Image-9-feb-2026-13-35-25.png" '
+                'group-title="NoEvent",Nessun Evento'
             )
-
-            lines.append(extinf)
-
-            if ch.keyid and ch.key:
-                lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
-                lines.append(f"#KODIPROP:inputstream.adaptive.license_key={ch.keyid}:{ch.key}")
-
-            lines.append(ch.stream_url)
+            lines.append(placeholder_line)
+            lines.append("https://github.com/wasimud/simud/raw/refs/heads/main/Skymud.mp4")
             lines.append("")
+        else:
+            # Caso normale: aggiungiamo i canali che hanno matchato
+            for ch in matched_channels:
+                custom_logo = self._get_custom_logo(ch.event_title, base_logo_url, generic_logo)
+
+                evento = (ch.event_title or "Evento").strip()
+
+                orario_originale = ""
+                if ch.event_time and len(ch.event_time) >= 11:
+                    parti = ch.event_time.split()
+                    if len(parti) >= 2:
+                        orario_originale = parti[1][:5]
+
+                orario_aumentato = self._increase_time_by_one_hour(orario_originale)
+                orario_part = f" {orario_aumentato}" if orario_aumentato else ""
+
+                canale = ""
+                if ch.channel_title and ch.channel_title.strip():
+                    tit_canale = ch.channel_title.strip()
+                    if tit_canale.lower() not in evento.lower():
+                        canale = f" ({tit_canale})"
+
+                nome_finale = f"{evento}{orario_part}{canale}".strip()
+                nome_pulito = re.sub(r'[^\w\s\-\:\(\)\,\.\']', ' ', nome_finale).strip()
+
+                gruppo = "Serie A" if serie_a_only else (ch.event_cat.capitalize() or "Sportzx")
+
+                tvg = re.sub(r'[^a-z0-9]', '', nome_pulito.lower())
+                tvg_id = tvg[:50] if tvg else f"seriea-{ch.event_id[:8]}"
+
+                extinf = (
+                    f'#EXTINF:-1 tvg-id="{tvg_id}" '
+                    f'tvg-logo="{custom_logo}" '
+                    f'group-title="{gruppo}",{nome_pulito}'
+                )
+
+                lines.append(extinf)
+
+                if ch.keyid and ch.key:
+                    lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
+                    lines.append(f"#KODIPROP:inputstream.adaptive.license_key={ch.keyid}:{ch.key}")
+
+                lines.append(ch.stream_url)
+                lines.append("")
 
         contenuto = "\n".join(lines).rstrip()
 
@@ -377,7 +395,7 @@ class SportzxClient:
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(contenuto + "\n")
             print(f"\nPlaylist salvata: {filename}")
-            print(f"Canali inclusi: {included}\n")
+            print(f"Canali inclusi: {included if included > 0 else 1} (placeholder se zero)")
         except Exception as e:
             print(f"Errore durante il salvataggio: {e}")
 
@@ -393,11 +411,6 @@ if __name__ == "__main__":
     print("Recupero canali in corso...")
     canali = client.get_channels()
 
-    if canali is None:  # Non dovrebbe più succedere, ma per sicurezza
-        print("ERRORE CRITICO: get_channels() ha restituito None!")
-        print("Controlla il codice: deve sempre restituire una lista.")
-        exit(1)
-
     print(f"Trovati {len(canali)} canali/eventi in totale\n")
 
     if canali:
@@ -409,4 +422,11 @@ if __name__ == "__main__":
             serie_a_only=True,
         )
     else:
-        print("Nessun canale trovato (lista vuota)")
+        print("Nessun canale trovato → verrà generato placeholder 'Nessun Evento'")
+        # Forza comunque la generazione con lista vuota → scatterà il placeholder
+        client.generate_m3u(
+            channels=[],
+            filename="SerieA_Sportzx.m3u8",
+            generic_logo="https://i.postimg.cc/kMpRZ1dn/sportzx-combined.png",
+            serie_a_only=True,
+        )
