@@ -58,15 +58,15 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc010630lemartv" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 06:30 (LEMAR TV)
 https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 
-#EXTINF:-1 tvg-id="icct20wc021030primevideofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (PRIME VIDEO FHD)
+#EXTINF:-1 tvg-id="icct20wc021030primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/jiputaffgk/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021030willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (WILLOW  Ad Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4d4735fcdf0fff9e23c62ee17b6ffa1:23e374883cf1f0baecb444224cada559
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/yongsmtvly/out/v1/1db8ee9b9d0e4178b4e936ee0866dc90/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=8b61c1b25a5913b087f0fcd6f53386fe:ccd0784f68c3726cf601187eaa82c98d
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qznlhrlfxw/out/v1/c9797121dc0345c2a04d46bf43cf7752/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021030jiohotstar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
@@ -140,3 +140,21 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="seoulvssanfreccehiroshima1100sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Seoul vs Sanfrecce Hiroshima 11:00 (SportzX Live)
+https://live.alilicloud.com/live/f84835e501733d2407f194825236822b/playlist.m3u8
+
+#EXTINF:-1 tvg-id="seoulvssanfreccehiroshima1100beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Seoul vs Sanfrecce Hiroshima 11:00 (beIN ARABIC)
+https://smarthard.click/hls/YSEYx3pBdjwV/index.m3u8
+
+#EXTINF:-1 tvg-id="machidazvschengdu1100sportzxlive" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Machida Z vs Chengdu 11:00 (SportzX Live)
+https://live.alilicloud.com/live/8b5db703fe7dd436bcd919108a6ee1e4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="machidazvschengdu1100beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Machida Z vs Chengdu 11:00 (beIN ARABIC)
+https://smarthard.click/hls/bmsayauNByRO/index.m3u8
+
+#EXTINF:-1 tvg-id="buriramvsshanghaishenhua1315beinsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Buriram vs Shanghai Shenhua 13:15 (beIN SPORTS)
+https://smarthard.click/hls/bmsayauNByRO/index.m3u8
+
+#EXTINF:-1 tvg-id="jdtvsvisselkobe1315beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",JDT vs Vissel Kobe 13:15 (beIN ARABIC)
+https://smarthard.click/hls/YSEYx3pBdjwV/index.m3u8
