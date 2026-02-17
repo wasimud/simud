@@ -41,8 +41,13 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc010630primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 06:30 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=da661ad935054591590c7487368b26f3:10229bfa52d2e601b3e88b7951dc0bae
-https://a120live-pv-ta-amazon.akamaized.net/syd-nitro/live/dash/enc/gmgcjjmmtb/out/v1/b02b49b7e4244b4ebaf4f2d576a97228/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=77c7355985551e0e53b14794b7e0b877:ef86a1a5444585a103b8cce925ddc549
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bbwxgfum2o/out/v1/bedaa948e7a24dc0b5fd5d7b38534d8c/cenc.mpd
+
+#EXTINF:-1 tvg-id="icct20wc010630willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 06:30 (WILLOW  Ad Free )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e388fd9cf1c145acf6c73439ddd9008:4c4c4edae20d36abe959932d74f6f68f
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/6xiloeqm22/out/v1/455da68c5210476b9d77bc03ccf82163/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc010630jiohotstar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 06:30 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
@@ -95,6 +100,14 @@ https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-d
 
 #EXTINF:-1 tvg-id="icct20wc031430fancodeind" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 03 14:30 (FANCODE (IND))
 https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="accwomen0800willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Acc womens",ACC Women 08:00 (WILLOW FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2eb24d2012db5ff8672b7e02cbbb979f:e2fc8e3cfee99d99d959b7e3175914fd
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
+#EXTINF:-1 tvg-id="accwomen0800willowhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Acc womens",ACC Women 08:00 (WILLOW HD)
+https://usxt.bdstream.online/livedh25/852138.m3u8
 
 #EXTINF:-1 tvg-id="olympicgames0800spxolympics" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Olympics winter",Olympic Games 08:00 (SPX - Olympics)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8
