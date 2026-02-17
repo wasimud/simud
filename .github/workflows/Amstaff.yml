@@ -1,4 +1,4 @@
-name: Amstaff Scraper
+name: Amstaff Scraper Sky
 
 on:
   workflow_dispatch:  # Permette di eseguire il workflow manualmente
