@@ -122,40 +122,6 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8
 #EXTINF:-1 tvg-id="olympicgames0800tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Olympics winter",Olympic Games 08:00 (TNT SPORTS 4)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8
 
-#EXTINF:-1 tvg-id="galatasarayvsjuventus1845paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (PARAMOUNT  AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69687467dfd05ba3c9026fa243517bfc:efdd1d5044d53831eecf1ff8fef51b93
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w2qekixfc2/out/v1/a58dbea79180453eaf8446d282509928/cenc.mpd
-
-#EXTINF:-1 tvg-id="galatasarayvsjuventus1845daznenglishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (DAZN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81b9fd7f2e715e83714e2ab78635621f:d9e1a5138daa5fc7772aa56e2e475230
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bj4mvmoqnw/out/v1/6ab242dab57a479a8c60ccdae4d6ebfc/cenc.mpd
-
-#EXTINF:-1 tvg-id="galatasarayvsjuventus1845vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=216b937ebe35d2507cb430392b406940:12d9db46f82488e749e9275b27462a48
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/fvouycleca/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
-
-#EXTINF:-1 tvg-id="galatasarayvsjuventus1845cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (CBS GOLAZO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1 tvg-id="galatasarayvsjuventus1845tntbrasilaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (TNT BRASIL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6094a60d37616d66675bcb3685cfa00:a12fb287c1b4dcf30cf757b563a49c8e
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/i1r4p2lh20/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
-
-#EXTINF:-1 tvg-id="galatasarayvsjuventus1845spxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (SPX - FHD)
-https://grand-s-v2.faggotsports.tv/pl_120/207676-6812258-1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="galatasarayvsjuventus1845tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (TNT SPORTS)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt.m3u8
-
-#EXTINF:-1 tvg-id="galatasarayvsjuventus1845tntsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (TNT SPORTS SD)
-https://smarthard.click/hls/y1M7fzurUAHk/index.m3u8
-
 #EXTINF:-1 tvg-id="benficavsrealmadrid2100paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Benfica vs Real Madrid 21:00 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be71d7b093757efc7834adb222339f28:bb834cb20047eb9158a931f0e7c7020d
@@ -166,20 +132,85 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/jfkqetdrb4/out
 #KODIPROP:inputstream.adaptive.license_key=ed14e62410abc6aa7673e69a25cdbe24:bd1e225957fdb5ba4d54572f08e2095f
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/fhfbqhpmks/out/v1/e1d0ee60af224e6082595b3246592424/cenc.mpd
 
+#EXTINF:-1 tvg-id="benficavsrealmadrid2100daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Benfica vs Real Madrid 21:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0283226af8c3872f865366f64e0fc8a7:68cfecac6f148ec60bc605abfe63791b
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/kkrr6e4rig/out/v1/05274df180f94a7c91c1e3eee085b766/cenc.mpd
+
 #EXTINF:-1 tvg-id="benficavsrealmadrid2100primevisionaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Benfica vs Real Madrid 21:00 (PRIME VISION - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea32ba1890241e67ba644703b6873b36:28d424ae6714a5c5df5d13f351ffac70
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/zilohomt3q/out/v1/9b58141e35c0492b90b0041da4a89020/cenc.mpd
+
+#EXTINF:-1 tvg-id="benficavsrealmadrid2100daznsportsde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Benfica vs Real Madrid 21:00 (DAZN SPORTS DE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06097a31be73fd2dd21878da811d39e8:6a744aabf7a9fbfaf8891a1ebd15d803
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ckyqnf1yan/out/v1/bbdf8e26db574be2b189581c3ac26539/cenc.mpd
+
+#EXTINF:-1 tvg-id="benficavsrealmadrid2100tntbrasil" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Benfica vs Real Madrid 21:00 (TNT BRASIL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6094a60d37616d66675bcb3685cfa00:a12fb287c1b4dcf30cf757b563a49c8e
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/i1r4p2lh20/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="benficavsrealmadrid2100vixespanol" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Benfica vs Real Madrid 21:00 (VIX Espanol)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6083c747b04e7d330721a28c8f906c0:4f4c648c76160769280b6d7922fb3b5d
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/1qoitblfyh/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd
+
+#EXTINF:-1 tvg-id="benficavsrealmadrid2100daznfrench" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Benfica vs Real Madrid 21:00 (DAZN FRENCH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=082c3b562e316679054bb4794bc8bc68:11dcf2bacb835f0e541fb8bf807d1431
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/kkrr6e4rig/out/v1/05274df180f94a7c91c1e3eee085b766/cenc.mpd
 
 #EXTINF:-1 tvg-id="asmonacovspsg2100paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",AS Monaco vs PSG 21:00 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ff909a8f8a880d42d3f1ed79c4680c0d:84a57341726c1c75d22a77248586d622
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/dsplmpm3p2/out/v1/7bfeba2ef904488eb34384236bcde6a7/cenc.mpd
 
+#EXTINF:-1 tvg-id="asmonacovspsg2100daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",AS Monaco vs PSG 21:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f346a3ab4b4e97a204c01e3e271ac78:6fdf8dedec2f52a94cee9a6186895a94
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/rdrcttsatu/out/v1/ddcb68c5553e4b5e9dc7f7c0b5b92bc2/cenc.mpd
+
+#EXTINF:-1 tvg-id="asmonacovspsg2100daznsportsde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",AS Monaco vs PSG 21:00 (DAZN SPORTS DE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17117784735d8705c8ee218f16373ebd:5cb0971c0ce5ead0ab9ad609ac16358d
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/uphh3xqcjq/out/v1/4cdafe892faa435f97bbf878f53fa414/cenc.mpd
+
+#EXTINF:-1 tvg-id="asmonacovspsg2100tntbrasil" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",AS Monaco vs PSG 21:00 (TNT BRASIL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6858fe9f98f376951694837c7fe566ec:9a7b4fa423e369c9ce1a97ed436463d7
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3eyxxzlxgr/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
+
+#EXTINF:-1 tvg-id="borussiadortmundvsatalanta2100paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Borussia Dortmund vs Atalanta 21:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=691b9343d5a2923af3a682e08c2c5f9d:fefdf21c70c0c17846bd844c39766b07
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/buiovrxfzg/out/v1/e8afd4cf2e5e4ea78fdb2f9a44c8aef8/cenc.mpd
+
+#EXTINF:-1 tvg-id="borussiadortmundvsatalanta2100daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Borussia Dortmund vs Atalanta 21:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87c07ae429f32cbb0752d266ef268d06:45748c1acd324704a8f164bd32881cd4
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/uyvdnc8ztm/out/v1/87f0fbc01db445e9bda279e77b872d64/cenc.mpd
+
 #EXTINF:-1 tvg-id="borussiadortmundvsatalanta2100vixespanol" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Borussia Dortmund vs Atalanta 21:00 (VIX ESPANOL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34f96b320020002a436ab3f6ef8e6ac7:11cae3136e99b54c2998fdc2c4b6f5b8
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/gxqhy0qjwl/out/v1/3d2994f3d9c64fe5bb68338a540af489/cenc.mpd
+
+#EXTINF:-1 tvg-id="barnetvsswindontown2045paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Barnet vs Swindon Town 20:45 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebc1480f20448a3c13014576d607b875:ac15e66a9c54cddb20c03cb2f72ea36d
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qnyyupqbcu/out/v1/60a85c90d938461ca6fd2b6630c1ca5b/cenc.mpd
+
+#EXTINF:-1 tvg-id="bradfordcityvsstockportcounty2045paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bradford City vs Stockport County 20:45 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fceec4b0ad3fd90b5daad4065000d718:eebf101bdad1cc63872830f403360aba
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/b4lmitdfdg/out/v1/55940b6ccb814ec983328ecc68496eb9/cenc.mpd
+
+#EXTINF:-1 tvg-id="blackpoolvsmansfieldtown2100paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League one 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Blackpool vs Mansfield Town 21:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ee88c621dbe41e643177df4ec4e3113:089be0c0b05bd4d1c5217f82d1dafe75
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/cckftm2da7/out/v1/41af88d763b34ed784859a4c86e9da5f/cenc.mpd
 
 #EXTINF:-1 tvg-id="blackpoolvsmansfieldtown2100beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League one 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Blackpool vs Mansfield Town 21:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -200,6 +231,3 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/x8debf5bqc/out
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bedf852648d902da05e32e16fa8748e4:cdb99b8b7276650aeefd24b3050722d9
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/x8debf5bqc/out/v1/370b3447219048fca3a9ddd6bc2e6837/cenc.mpd
-
-#EXTINF:-1 tvg-id="alwaslvsalzawraa1700beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions two",Al Wasl vs Al-Zawraa 17:00 (beIN ARABIC)
-https://smarthard.click/hls/bmsayauNByRO/index.m3u8
