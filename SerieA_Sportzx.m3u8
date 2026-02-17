@@ -1,17 +1,2 @@
 #EXTM3U
 #EXT-X-VERSION:3
-
-#EXTINF:-1 tvg-id="cagliarivslecce2045paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliarilecce.png" group-title="Serie A",Cagliari vs Lecce 20:45 (PARAMOUNT  AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a622f343e97ef638db07d63af040d80c:020c697cab8974c87a75eca414e9e1df
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/5kpt8feut3/out/v1/96ecbfc9461343b995d48874da26f01c/cenc.mpd
-
-#EXTINF:-1 tvg-id="cagliarivslecce2045daznsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliarilecce.png" group-title="Serie A",Cagliari vs Lecce 20:45 (DAZN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aaf3f632d9d356a18e6bcd7d60ad45d7:1b5e131e54a7435e426dab6de98515a7
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/nbzxfz0zay/out/v1/718d9deb3980465791caeb670edff04c/cenc.mpd
-
-#EXTINF:-1 tvg-id="cagliarivslecce2045daznitalian" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliarilecce.png" group-title="Serie A",Cagliari vs Lecce 20:45 (DAZN ITALIAN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8439a38a6ff2ce5145f3669e41416633:fcff724cafa25ba5c194bc88158ec320
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qtfw12i7yj/out/v1/6a77df01c34c4d998ef327d19404e2c9/cenc.mpd
