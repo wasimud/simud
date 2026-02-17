@@ -133,37 +133,44 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69687467dfd05ba3c9026fa243517bfc:efdd1d5044d53831eecf1ff8fef51b93
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w2qekixfc2/out/v1/a58dbea79180453eaf8446d282509928/cenc.mpd
 
-#EXTINF:-1 tvg-id="galatasarayvsjuventus1845cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (CBS Golazo)
+#EXTINF:-1 tvg-id="galatasarayvsjuventus1845daznenglishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (DAZN ENGLISH - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81b9fd7f2e715e83714e2ab78635621f:d9e1a5138daa5fc7772aa56e2e475230
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bj4mvmoqnw/out/v1/6ab242dab57a479a8c60ccdae4d6ebfc/cenc.mpd
+
+#EXTINF:-1 tvg-id="galatasarayvsjuventus1845vixspanishaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (VIX SPANISH - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=216b937ebe35d2507cb430392b406940:12d9db46f82488e749e9275b27462a48
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/fvouycleca/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
+
+#EXTINF:-1 tvg-id="galatasarayvsjuventus1845cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (CBS GOLAZO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-id="galatasarayvsjuventus1845sportzxtvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (SportzX TV  FHD)
+#EXTINF:-1 tvg-id="galatasarayvsjuventus1845tntbrasilaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6094a60d37616d66675bcb3685cfa00:a12fb287c1b4dcf30cf757b563a49c8e
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/i1r4p2lh20/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="galatasarayvsjuventus1845spxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (SPX - FHD)
 https://grand-s-v2.faggotsports.tv/pl_120/207676-6812258-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="galatasarayvsjuventus1845tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (TNT SPORTS)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt.m3u8
 
-#EXTINF:-1 tvg-id="buriramvsshanghaishenhua1315fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Buriram vs Shanghai Shenhua 13:15 (FANCODE FHD)
+#EXTINF:-1 tvg-id="galatasarayvsjuventus1845tntsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (TNT SPORTS SD)
+https://smarthard.click/hls/y1M7fzurUAHk/index.m3u8
+
+#EXTINF:-1 tvg-id="blackpoolvsmansfieldtown2100beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League one 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Blackpool vs Mansfield Town 21:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="buriramvsshanghaishenhua1315beinsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Buriram vs Shanghai Shenhua 13:15 (beIN SPORTS)
-https://smarthard.click/hls/bmsayauNByRO/index.m3u8
-
-#EXTINF:-1 tvg-id="jdtvsvisselkobe1315fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",JDT vs Vissel Kobe 13:15 (FANCODE FHD)
+#EXTINF:-1 tvg-id="blackpoolvsmansfieldtown2100cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="League one 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Blackpool vs Mansfield Town 21:00 (CBS Golazo)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="jdtvsvisselkobe1315beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",JDT vs Vissel Kobe 13:15 (beIN ARABIC)
-https://smarthard.click/hls/YSEYx3pBdjwV/index.m3u8
-
-#EXTINF:-1 tvg-id="algharafavstractor1700fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Al-Gharafa vs Tractor 17:00 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
 #EXTINF:-1 tvg-id="alsaddvsalittihad1700fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Al-Sadd vs Al-Ittihad 17:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
