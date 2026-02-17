@@ -166,6 +166,26 @@
             "isHost": ""
         },
         {
+            "name": "Diretta Goal - Calcio (ext chrome)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcioex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Calcio",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Borussia Dt - Atalanta - Sport 1 (EXT CHROME)",
             "info": "21:00 Â· Champions L.",
             "online": "true",
@@ -242,6 +262,66 @@
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live138b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - PSG - Sport Mix",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmix.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - PSG - Live 144",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live144.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Monaco - PSG - Live 144b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live144b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Benfica - Real Madrid - Sport Arena",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/arena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Benfica - Real Madrid - Live 143",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live143.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Benfica - Real Madrid - Live 143b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live143b.htm",
             "embed": "true",
             "isHost": ""
         }
