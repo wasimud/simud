@@ -128,10 +128,21 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8
 #EXTINF:-1 tvg-id="olympicgames0800tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Olympics winter",Olympic Games 08:00 (TNT SPORTS 4)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8
 
+#EXTINF:-1 tvg-id="galatasarayvsjuventus1845paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69687467dfd05ba3c9026fa243517bfc:efdd1d5044d53831eecf1ff8fef51b93
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/w2qekixfc2/out/v1/a58dbea79180453eaf8446d282509928/cenc.mpd
+
 #EXTINF:-1 tvg-id="galatasarayvsjuventus1845cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (CBS Golazo)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="galatasarayvsjuventus1845sportzxtvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (SportzX TV  FHD)
+https://grand-s-v2.faggotsports.tv/pl_120/207676-6812258-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="galatasarayvsjuventus1845tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Galatasaray vs Juventus 18:45 (TNT SPORTS)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt.m3u8
 
 #EXTINF:-1 tvg-id="buriramvsshanghaishenhua1315fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Buriram vs Shanghai Shenhua 13:15 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
