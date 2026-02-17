@@ -1,115 +1,150 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="2045cagliarileccempd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Cagliari - Lecce  (MPD)
-https://aHR0cHM6Ly9kY2ItdG0tbGl2ZWRhem4uZGF6bi50aWNkbi5pdC9Ac3QlM0QxNzcxMjY4NDAzfmV4cCUzRDE3NzEzNTQ4MDN+YWNsJTNEJTJGKn5pZCUzREhqQkw1Qm9kS0c1cEU2Z0tFOXpVVFk3d3NQaExTR0tUZXAtWmdHdmpZUXQydmY5bHU0NzNlcnFHSkhPNHFsVEt+ZGF0YSUzRGNvdW50cnklM0RpdCUyM3BhdGglM0QxcyUyQzFkJTIzaGFzaHAlM0RmMTEyZWYyZmQ1MzU5NDI3MmQyY2U1MWVhODE1YzkyMmY5MmQyNjUxMGMxMzRiNDQ4NjU5Nzk3MmRhN2I2MjBmJTIzd20lM0QxJTIzd21kJTNEMTE1Mn5obWFjJTNEMWQ4OGQ0YzRmMzNiZmQ5ZjhkMzUzODZiNDFkZDYyYjdjMjNiM2YxODM5ZjlmN2ZmZTIzNzAxYzNlZTFmMjQ0MC8xZmpudWZzYjF6OWt5MWIxcmZodmdzb2phZC93ZWIvc3RyZWFtLm1wZD9jaGFubmVsPTEzODEmbXRhPWl0Jm91dGxldD1kYXpuLWl0YWx5JnBsYW5nPWl0fDBkZTJmNmYyZDkzYzVmNjA5NjExNzM3YzlkMTVkODliOmYwN2M1YTZlMGIzZGM0Mjc3Y2NkMGYwYTVhNDBhY2Nh
 
 #EXTINF:-1 tvg-id="2045cagliarileccempd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Cagliari - Lecce  (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://swisslau1-2-dash-live.zahs.tv/HD_dazn_event_5_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZGRBTCQSCG42TMM2CGVBTMLJXGFAUCRBSIJAUINCBIE3TKNCDEZSHE3J5MV4HA2LSMF2GS33OHIYTONZRHA2TQMZWGQTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRQL44DGYRZMM2DAOLDMZTDQODGMI2WENTFMFSDQZLDGIZTGYRVMI2DAJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIYTSNZRGE3DAJTWHUYA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de2f6f2d93c5f609611737c9d15d89b:f07c5a6e0b3dc4277ccd0f0a5a40acca
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771268403~exp%3D1771354803~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Df112ef2fd53594272d2ce51ea815c922f92d26510c134b4486597972da7b620f%23wm%3D1%23wmd%3D1152~hmac%3D1d88d4c4f33bfd9f8d35386b41dd62b7c23b3f1839f9f7ffe23701c3ee1f2440/1fjnufsb1z9ky1b1rfhvgsojad/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2045cagliarileccempd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Cagliari - Lecce  (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://amstaff@@https://swisslau1-2-dash-live.zahs.tv/HD_dazn_event_5_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZGRBTCQSCG42TMM2CGVBTMLJXGFAUCRBSIJAUINCBIE3TKNCDEZSHE3J5MV4HA2LSMF2GS33OHIYTONZRHA2TQMZWGQTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRQL44DGYRZMM2DAOLDMZTDQODGMI2WENTFMFSDQZLDGIZTGYRVMI2DAJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIYTSNZRGE3DAJTWHUYA|0000
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
-https://aHR0cHM6Ly9hY2EtbGl2ZS1vdHQuaXp6aWdvLnR2LzYvb3V0L3UvZGFzaC9FU1BOSERIMjY1L2RlZmF1bHQubXBkfDNmYjgxNjc5NTc2OTI4MzZlY2ExNDY0YjdmOTUyYjQ1OmYzMTA0MmU4MTY3ZWI0YjQ5Y2U4MTE3YzllNWYxZTg1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fb8167957692836eca1464b7f952b45:f31042e8167eb4b49ce8117c9e5f1e85
+https://aca-live-ott.izzigo.tv/6/out/u/dash/ESPNHDH265/default.mpd
 
 #EXTINF:-1 tvg-id="ch02itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 02  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
-https://aca-live-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd
+https://amstaff@@https://aca-live-ott.izzigo.tv/7/out/u/dash/ESPN2HDH265/default.mpd|faa2d2197cc44dc154650bbacb0dc238:9859d70c856660e20bbe6896f9cd3048
 
 #EXTINF:-1 tvg-id="ch03engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 03  (ENG - MPD)
-https://aHR0cHM6Ly9hYmE1c2RtYWFhYWFhYWFtaHEydzVvb3NyZjVhZS5vdHRlLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvc3lkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9xNHU1bndhb2d6L291dC92MS8xOGRlNmQzZTY1OTM0ZjNhOGRlNDM1OGU2OWVhYjg2Yy9jZW5jLm1wZHw3OTk1YzcyNGExMzc0OGVkOTcwODQwYThhYjViYjliMzo2N2JkYWYxZTIxNzViOWZmNjgyZmNkZjBlMjM1NGIxZQ==
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-id="ch04polmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 04  (POL - MPD)
-https://aHR0cHM6Ly9saW5lYXJ0di1jZG4udC1tb2JpbGUucGwvYnBrLXR2L2VsZXZlbnNwb3J0czEvZGVmYXVsdC9pbmRleC5tcGR8NzUxZGIwYmIwMzE0NTA4NDk3M2M2Y2Y5Yzg1ZmExNmU6NjU3MTE1M2MzOWVlZDE4YzI5Y2RjNjNlYjgzYzU1M2EsNDg1M2RiZTRjNGNmNTFmM2JhOTU0MjRjNmU2ZjY5Yzc6MzljMDM0NjE5OGJjOWIxNjE0ZWIzMTkxMTVhZmRiODQsZmQ5YjVmOGFlNjRhNTFlZGFjZDRmMjQ1ZWY1MTUyODc6Yzg2N2QyNDY0NmIxNzBiNWMwZTA1NTZiNTZiMjkxZDc=
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=751db0bb03145084973c6cf9c85fa16e:6571153c39eed18c29cdc63eb83c553a,4853dbe4c4cf51f3ba95424c6e6f69c7:39c0346198bc9b1614eb319115afdb84,fd9b5f8ae64a51edacd4f245ef515287:c867d24646b170b5c0e0556b56b291d7
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports1/default/index.mpd
 
 #EXTINF:-1 tvg-id="ch05polmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 05  (POL - MPD)
-https://aHR0cHM6Ly9saW5lYXJ0di1jZG4udC1tb2JpbGUucGwvYnBrLXR2L2VsZXZlbnNwb3J0czIvZGVmYXVsdC9pbmRleC5tcGR8YTExOGE5MjhlYTM5NTUyZjk3NmM4ZmFkNDM3ZjcxYWQ6ZjU4ZmI3YTUzZWU4NmRlOWQwYjk4MjM0NDZiYTk3NTYsNzhmODI2YWY3NTJmNTRkZGJjNGFkOTk1OWZmMmE0MmQ6YzE0NzlmZmFkYTI2MzAwMDczMGQ2MjdhOTg5ZTk2YWIsOTVjMmFlZmFkYjdlNTIyYzlkZWVlZDM5MzIwN2Y4NTM6MTZlODU3MjI0ZTE2YWIwMWEzYzU0OTIxMmNkYmRiYjg=
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a118a928ea39552f976c8fad437f71ad:f58fb7a53ee86de9d0b9823446ba9756,78f826af752f54ddbc4ad9959ff2a42d:c1479ffada263000730d627a989e96ab,95c2aefadb7e522c9deeed393207f853:16e857224e16ab01a3c549212cdbdbb8
+https://lineartv-cdn.t-mobile.pl/bpk-tv/elevensports2/default/index.mpd
 
 #EXTINF:-1 tvg-id="ch06engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 06  (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+https://amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 
 #EXTINF:-1 tvg-id="ch07itanedmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 07  (ITA/NED - MPD)
-https://aHR0cHM6Ly9tYWcwNC50dngucHJkLnR2Lm9kaWRvLm5sL3doN2Y0NTRjNDZ0dzI2NjExNzg4NF8tMTk3MjgxOTMxNi9QTFRWLzg2LzIyNC8zMjIxMjQxNTYwLzMyMjEyNDE1NjAubXBkP3pvbmVvZmZzZXQ9MCZkZXZrYnBzPTEtNzAwMCZzZXJ2aWNldHlwZT0xJmljcGlkPTg2JmFjY291bnR0eXBlPTEmbGltaXRmbHV4PS0xJmxpbWl0ZHVyPS0xJnRlbmFudElkPTMxMDMmYWNjb3VudGluZm89JTdFJTdFVjIuMCU3RU9oQTFERjRzdk9acHBLeGItdC1OZ3cxNDRjY2U0NDEyMWM2MzI4NGEzM2Q1NDUzNDkzZTVjOCU3RTFfRm1sdTVQZXZITVluRWk5Wl9IWDJnb0tBZDBWSFN1eFpNb0ljQVhjYXdZdkcxbWVxR3AyZVEySWJoanZoN2U1OWU3ZjZkZjNkNTdmMjNhMzIwMjRhZDY3ZjBmMTlkYyU3RUV4dEluZm81Um8zVnBwV2lVdXNqMmlwcHFVUGtRJTNEJTNENGEyZDJjOGNlMTMzZjQzMDI2ZDBlMzFiODIyYjg0NzQlM0EyMDI0MDYwMTAxMzE0MCUzQVVUQyUyQzEwMDAxMDAzMzI5MjIyJTJDODcuMjEyLjE0MC4xNzElMkMyMDI0MDYwMTAxMzE0MCUyQzMxMDNfU1AxViUyQzEwMDAxMDAzMzI5MjIyJTJDLTElMkMwJTJDMSUyQyUyQyUyQzIlMkMzMTAzX1Nwb3J0MSUyQyUyQyUyQzIlMkMxMDAwMDA0NDQ0NDMwMyUyQzAlMkMxMDAwMDAyNTA1MDI1NSUyQ05ERXpPRGcyTlRZM016RXdNekkyTnpNd05qTXdOVFklM0QlMkMlMkMlMkM1JTJDMSUyQ0VORCZHdWFyZEVuY1R5cGU9MiZfPTE3MTcyMDU1MDAyOTYmUlRTPTE3MTcyMDU1MDAmZnJvbT0xMSZobXNfZGV2aWQ9NTc5Jm9ubGluZT0xNzE3MjA1NTAwJm1hZ19obXM9NTc5fDNjZmE4NjI1ZjY1MDQwNmViZjZhNGQxZWE3MzdmNTcyOjA1MzRlNzQ3YzcwYjM2NGFhNzIxMGUxYmYzMTkxZGYw
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EOhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8%7E1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013140%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013140%2C3103_SP1V%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205500296&RTS=1717205500&from=11&hms_devid=579&online=1717205500&mag_hms=579
 
 #EXTINF:-1 tvg-id="ch08engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 08  (ENG - MPD)
-https://aHR0cHM6Ly9tYWcwMS50dngucHJkLnR2Lm9kaWRvLm5sL3doN2Y0NTRjNDZ0dzQwNzU1NjcwN18tMzgxNzM4MTExL1BMVFYvODYvMjI0LzMyMjEyNDE1MTEvMzIyMTI0MTUxMS5tcGQ/em9uZW9mZnNldD0wJmRldmticHM9MS03MDAwJnNlcnZpY2V0eXBlPTEmaWNwaWQ9ODYmYWNjb3VudHR5cGU9MSZsaW1pdGZsdXg9LTEmbGltaXRkdXI9LTEmdGVuYW50SWQ9MzEwMyZhY2NvdW50aW5mbz0lN0UlN0VWMi4wJTdFeVZpMGRNWDRpY081S2E5ZTkyRVFmZzg4MTJlMWMxMDQ0ZjdkMzU3MDY2NDcyZTNlZTk5ZWY0JTdFMmRSQjlFLXZEdG9BYllsMTY5TGJjSnB4VWdXVkp0YmVVX1BsaEdmTlVmbHBodmxqT2I1VmFFaHhydUVUWUc5cWNjY2FmNWM1YjY1NWJmNzUwNGVkN2VjNWExZGQ3OThmJTdFRXh0SW5mbzVSbzNWcHBXaVV1c2oyaXBwcVVQa1ElM0QlM0Q0YTJkMmM4Y2UxMzNmNDMwMjZkMGUzMWI4MjJiODQ3NCUzQTIwMjQwNjAxMDEzNDAxJTNBVVRDJTJDMTAwMDEwMDMzMjkyMjIlMkM4Ny4yMTIuMTQwLjE3MSUyQzIwMjQwNjAxMDEzNDAxJTJDMzEwM19TUDFHJTJDMTAwMDEwMDMzMjkyMjIlMkMtMSUyQzAlMkMxJTJDJTJDJTJDMiUyQzMxMDNfU3BvcnQxJTJDJTJDJTJDMiUyQzEwMDAwMDQ0NDQ0MzAzJTJDMCUyQzEwMDAwMDI1MDUwMjU1JTJDTkRFek9EZzJOVFkzTXpFd016STJOek13TmpNd05UWSUzRCUyQyUyQyUyQzUlMkMxJTJDRU5EJkd1YXJkRW5jVHlwZT0yJl89MTcxNzIwNTY0MTc1MiZSVFM9MTcxNzIwNTY0MSZmcm9tPTE2Jmhtc19kZXZpZD01Mzgmb25saW5lPTE3MTcyMDU2NDEmbWFnX2htcz01Mzh8NGRiZWE0YjU3MTNhNGFhMWFlM2EyNTQ0Y2Q1MjJmYzc6YTgzMjNlYTk5YjJkNjIwMGE0OGUxYmMyNzMyMmQ1NDg=
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EyVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4%7E2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601013401%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601013401%2C3103_SP1G%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717205641752&RTS=1717205641&from=16&hms_devid=538&online=1717205641&mag_hms=538
 
 #EXTINF:-1 tvg-id="ch10engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 10  (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+https://amstaff@@https://aba5sdmaaaaaaaamooyrewxky2c4j.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 
 #EXTINF:-1 tvg-id="ch11engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 11  (ENG - MPD)
-https://aHR0cHM6Ly9hYmE1c2RtYWFhYWFhYWFtZHd1amFzNWc2bWc0ci5vdHRlLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvc3lkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy84bThjZDQ2aTF0L291dC92MS84Mzk4NWM2OGU0MTc0ZTkwYTU4YTFmMmMwMjRiZTRjOS9jZW5jLm1wZHwwYjQyYmUyNjY0ZDdlODExZDA0ZjNlNTA0ZTA5MjRjNTphZTI0MDkwMTIzYjhjNzJhYzU0MDRkYzE1Mjg0N2NiOA==
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
 #EXTINF:-1 tvg-id="ch12engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 12  (ENG - MPD)
-https://aHR0cHM6Ly9hYm01eDV4YWFhYWFhYWFtamd1ZGV2NWs0NHFiMy5vdHRlLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvcGR4LW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy8zYjdxd2lxemszL291dC92MS85ZjE0ODk1YmFkY2E0M2U2YTcxNmRiMDIxZGNkMGMzMS9jZW5jLm1wZHxkYzY5YjYxNTlhMGY5ZjBhNGUwM2IzZmY5MWNiYWNkNTpkMGRjYmNkNzcyM2JjNDBkZjBiZjM0YzljMDkyZDUxZg==
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 #EXTINF:-1 tvg-id="ch13engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 13  (ENG - MPD)
-https://aHR0cHM6Ly9vdHRlLmxpdmUuZmx5Lnd3LmFpdi1jZG4ubmV0L2lhZC1uaXRyby9saXZlL2Rhc2gvZW5jL3JsaXNmeXg5dmQvb3V0L3YxLzYxYjhmNjFiMjJhYzQ2OTI5N2NiZDRmMTIyNGYwZWM4L2NlbmMubXBkfGYxNTkyNDFkNDBlNjU5ZDU4ZTgxYmMxN2NhMzBkYTMxOjZiN2ZlMjRmN2ExNjM0M2JkNDQ3YjBiMzBmNjhiN2Iy
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f159241d40e659d58e81bc17ca30da31:6b7fe24f7a16343bd447b0b30f68b7b2
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/rlisfyx9vd/out/v1/61b8f61b22ac469297cbd4f1224f0ec8/cenc.mpd
 
 #EXTINF:-1 tvg-id="ch14engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 14  (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
-https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
+https://amstaff@@https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd|8ab2332442854e62b0018eec3ee58484:37fdee8b6eef5c96001e8c6fc47bfc08
 
 #EXTINF:-1 tvg-id="ch15engmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 15  (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
-https://tr.live.cdn.cgates.lt/live/dash/561504/index.mpd
+https://amstaff@@https://tr.live.cdn.cgates.lt/live/dash/561504/index.mpd|9552bcbabfbd4ac19744422143bfb875:e6daacaced7eba147d2b667441060a4f
 
 #EXTINF:-1 tvg-id="lbatv1itampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",LBATV1 (ITA - MPD)
-https://aHR0cHM6Ly9saXZlLWQtMDEtbGJhLWV3LmFrYW1haXplZC5uZXQvb3V0L3YxL2wtcHJkL2NoLTAxLXByZC1sLXYyL2Rhc2gtY2gtMDEtcHJkLWwtaGQvaW5kZXgubXBkfDFkYzhlNDM5Nzg3MDNlMWNiODNlYzdiYWVjNGE1MjRmOjEyOTRmYTI1M2E3ZGVhZTdlZGIzODUzMmI2NzE5YWNk
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
 
 #EXTINF:-1 tvg-id="lbatv2itampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",LBATV2 (ITA - MPD)
-https://aHR0cHM6Ly9saXZlLWQtMDEtbGJhLWV3LmFrYW1haXplZC5uZXQvb3V0L3YxL2wtcHJkL2NoLTAyLXByZC1sLXYyL2Rhc2gtY2gtMDItcHJkLWwtaGQvaW5kZXgubXBkfGJjMGRkNjI5ZDQ4MzNiMDI5YmRkNGQ4MGE2MWY3YjBkOjc1ZWM0YmU3MzIxMmUzMDZkYTJmMjAxZGJmNDE0OTVh
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
 
 #EXTINF:-1 tvg-id="lbatv3itampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",LBATV3 (ITA - MPD)
-https://aHR0cHM6Ly9saXZlLWQtMDEtbGJhLWV3LmFrYW1haXplZC5uZXQvb3V0L3YxL2wtcHJkL2NoLTAzLXByZC1sLXYyL2Rhc2gtY2gtMDMtcHJkLWwtaGQvaW5kZXgubXBkfDk5ZjkwMjA1YzI0YzMxOWRiNTc0MzgyOTZhOTVjZWE1OmFhZWM2OTVjODg2OTJhYzlkZWIwYzBhNzFhMGFlYjg5Cg==
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99f90205c24c319db57438296a95cea5:aaec695c88692ac9deb0c0a71a0aeb89
+
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd
 
 #EXTINF:-1 tvg-id="lbatv4itampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",LBATV4 (ITA - MPD)
-https://aHR0cHM6Ly9saXZlLWQtMDEtbGJhLWV3LmFrYW1haXplZC5uZXQvb3V0L3YxL2wtcHJkL2NoLTA0LXByZC1sLXYyL2Rhc2gtY2gtMDQtcHJkLWwtaGQvaW5kZXgubXBkfDc0NDIwNzI4M2E5MTMzZGRiOWVhNzlhZjUyODAxODkzOmQxMTliOTQxYmIyZTFlYzFjZDQ2ZGJkN2M1YzM0ODNl
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd
 
 #EXTINF:-1 tvg-id="lbatv5itampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",LBATV5 (ITA - MPD)
-https://aHR0cHM6Ly9saXZlLWQtMDEtbGJhLWV3LmFrYW1haXplZC5uZXQvb3V0L3YxL2wtcHJkL2NoLTA1LXByZC1sLXYyL2Rhc2gtY2gtMDUtcHJkLWwtaGQvaW5kZXgubXBkfDRlMjI2NzdlOGFlYzNjOTNiOTJlOWQ0NWQyYmNhNmRlOjc2NGNlNmUwMWQyNTYzODg5OTliMmY5MzViOWMwOGEx
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd
 
 #EXTINF:-1 tvg-id="supertennis1itampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",SuperTennis 1 (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd
+https://amstaff@@https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd|0000
 
 #EXTINF:-1 tvg-id="supertennis2itampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",SuperTennis 2 (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel2/manifest.mpd
+https://amstaff@@https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel2/manifest.mpd|0000
 
 #EXTINF:-1 tvg-id="supertennis3itampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",SuperTennis 3 (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd
+https://amstaff@@https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd|0000
 
 #EXTINF:-1 tvg-id="supertennis4itampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",SuperTennis 4 (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd
+https://amstaff@@https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd|0000
 
 #EXTINF:-1 tvg-id="nbatvengmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",NBA TV (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
-https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd
+https://amstaff@@https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/qio4cutx9r/out/v1/c89ef71f801b42b7abe65c7777adc6c4/cenc.mpd|4ee9b41e5053ef434c13dbb783df9e32:a275236600bfaedf230286f7b71b0a99
 
 #EXTINF:-1 tvg-id="paramountengmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",PARAMOUNT+ (ENG - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+https://amstaff@@https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd|a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 
 #EXTINF:-1 tvg-id="seventvengmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",SEVEN TV (ENG - MPD)
-https://aHR0cHM6Ly9vbHNwLmxpdmUuZGFzaC5jNGFzc2V0cy5jb20vZGFzaF9pc29fc3BfdGwvbGl2ZS9jaGFubmVsKDRzKS9tYW5pZmVzdC5tcGR8MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAzNDczMGE6MTliZmI4M2UwZTBmNDBmNmVlZjRlY2NlZGJmYTdiYjg=
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
 #EXTINF:-1 tvg-id="videolinaitam3u8" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",VIDEOLINA (ITA - M3U8)
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ffmpeg@@https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8|referer=https://www.videolina.it/
 
