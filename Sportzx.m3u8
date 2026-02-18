@@ -151,6 +151,11 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8
 #EXTINF:-1 tvg-id="olympicgames0800tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Olympics winter",Olympic Games 08:00 (TNT SPORTS 4)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8
 
+#EXTINF:-1 tvg-id="qarabagvsnewcastleunited1845daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Qarabag vs Newcastle United 18:45 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a8a5da4e3f6e1712c8fde3141b4f82:b4b6aa386e16ae0cdb3eb3f8f264adce
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/nleayxtic9/out/v1/ba33fd033bad46a3a0a89d2fac1ec773/cenc.mpd
+
 #EXTINF:-1 tvg-id="qarabagvsnewcastleunited1845paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Qarabag vs Newcastle United 18:45 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bfa763a387abc81f13d01f7c1f329ab1:3af615ec6fae75c1f73c570a8ca681ca
@@ -160,6 +165,11 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/btfbosraxs/out
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="qarabagvsnewcastleunited1845vixespanol" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Qarabag vs Newcastle United 18:45 (VIX Espanol)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=76fbbbefbfbe5ce0c3b742a5fb49dc5c:2df91dd1cb997b9ee75dfae971a045b9
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/5vzsj7e9ni/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
 
 #EXTINF:-1 tvg-id="clubbruggevsatleticomadrid2100tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Club Brugge vs Atletico Madrid 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -200,6 +210,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="realmadridvsparisfc1845paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl womens",Real Madrid vs Paris FC 18:45 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d7338be93b0522ebf8de44390751fb2:9dee20b7fb748e87c9bd194506895787
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/d37ibisvfw/out/v1/83ed857845ce4b229fe5c743d76b2a53/cenc.mpd
 
 #EXTINF:-1 tvg-id="realmadridvsparisfc1845cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl womens",Real Madrid vs Paris FC 18:45 (CBS Golazo)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
