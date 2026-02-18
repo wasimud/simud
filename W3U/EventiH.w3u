@@ -86,8 +86,18 @@
             "isHost": ""
         },
         {
-            "name": "Diretta Goal - Calcio (ext chrome)",
-            "info": "21:00 Â· Champions L.",
+            "name": "Brescia - Udine - Sport Basket (EXT CHROME)",
+            "info": "18:00 Â· Coppa Italia",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Final_Eight_Coppa_Italia.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/basketex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Qarabag - Newcastle - Calcio (EXT CHROME)",
+            "info": "18:45 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -96,18 +106,8 @@
             "isHost": ""
         },
         {
-            "name": "Diretta Goal - Calcio 1 (ext chrome)",
-            "info": "21:00 Â· Champions L.",
-            "online": "true",
-            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calcio1ex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Diretta Goal - Calcio",
-            "info": "21:00 Â· Champions L.",
+            "name": "Qarabag - Newcastle - Calcio",
+            "info": "18:45 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -116,7 +116,117 @@
             "isHost": ""
         },
         {
-            "name": "Borussia Dt - Atalanta - Sport 1 (EXT CHROME)",
+            "name": "Qarabag - Newcastle - Live 146",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live146.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Qarabag - Newcastle - Live 146 b",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live146b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Levante - Villarreal - Live 30",
+            "info": "20:00 Â· Liga",
+            "online": "true",
+            "image": "https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live30.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Como - Dazn 1 HD (EXT CHROME)",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Como - Dazn 2 HD (EXT CHROME)",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn2hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Como - Live 2",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Como - Live 147",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Como - Live 147 b",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Como - Live 8",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live8.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Como - Dazn 1",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milano - Trieste - Sport Basket (EXT CHROME)",
+            "info": "20:45 Â· Coppa Italia",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Final_Eight_Coppa_Italia.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/basketex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Sport 1 (EXT CHROME)",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
@@ -126,27 +236,7 @@
             "isHost": ""
         },
         {
-            "name": "Borussia Dt - Atalanta - Live 2",
-            "info": "21:00 Â· Champions L.",
-            "online": "true",
-            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Borussia Dt - Atalanta - Live 7",
-            "info": "21:00 Â· Champions L.",
-            "online": "true",
-            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Borussia Dt - Atalanta - Sport 1",
+            "name": "Diretta Goal - Sport 1",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
@@ -156,117 +246,97 @@
             "isHost": ""
         },
         {
-            "name": "Borussia Dt - Atalanta - Live 147",
+            "name": "Bodo/Glimt - Inter - Live 1",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live147.htm",
+            "url": "https://htsport.cc/live1.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Borussia Dt - Atalanta - Live 147b",
+            "name": "Bodo/Glimt - Inter - Live 7",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live147b.htm",
+            "url": "https://htsport.cc/live7.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Borussia Dt - Atalanta - Live 138",
+            "name": "Bodo/Glimt - Inter - Live 101",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live138.htm",
+            "url": "https://htsport.cc/live101.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Borussia Dt - Atalanta - Live 138b",
+            "name": "Bodo/Glimt - Inter - Live 101 b",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live138b.htm",
+            "url": "https://htsport.cc/live101b.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Monaco - PSG - Sport Mix (ext chrome)",
+            "name": "Bruges - Atletico Madrid - Calcio (EXT CHROME)",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmixex.htm",
+            "url": "https://htsport.cc/calcioex.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Monaco - PSG - Sport Mix",
+            "name": "Bruges - Atletico Madrid - Calcio",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmix.htm",
+            "url": "https://htsport.cc/calcio.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Monaco - PSG - Live 144",
+            "name": "Bruges - Atletico Madrid - Live 146",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live144.htm",
+            "url": "https://htsport.cc/live146.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Monaco - PSG - Live 144b",
+            "name": "Bruges - Atletico Madrid - Live 146 b",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live144b.htm",
+            "url": "https://htsport.cc/live146b.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Monaco - PSG - Live 24",
+            "name": "Bruges - Atletico Madrid - Live 22",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live24.htm",
+            "url": "https://htsport.cc/live22.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Benfica - Real Madrid - Sport Arena (ext chrome)",
-            "info": "21:00 Â· Champions L.",
-            "online": "true",
-            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/arenaex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Benfica - Real Madrid - Sport Arena",
-            "info": "21:00 Â· Champions L.",
-            "online": "true",
-            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/arena.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Benfica - Real Madrid - Live 143",
+            "name": "Olimpiacos - Bayer Lev. - Live 143",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
@@ -276,7 +346,7 @@
             "isHost": ""
         },
         {
-            "name": "Benfica - Real Madrid - Live 143b",
+            "name": "Olimpiacos - Bayer Lev. - Live 143 b",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
@@ -286,12 +356,22 @@
             "isHost": ""
         },
         {
-            "name": "Benfica - Real Madrid - Live 22",
+            "name": "Olimpiacos - Bayer Lev. - Live 25",
             "info": "21:00 Â· Champions L.",
             "online": "true",
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live22.htm",
+            "url": "https://htsport.cc/live25.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Wolves - Arsenal - Live 31",
+            "info": "21:00 Â· Liga",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsbVT2MkwMkfFxTQzRnwb8PrWOMRB_Ce8G1w&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live31.htm",
             "embed": "true",
             "isHost": ""
         }
