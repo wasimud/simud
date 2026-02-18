@@ -66,7 +66,7 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/qznlhrlfxw/out
 https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc021030willowhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (Willow HD)
-https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
+https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc021030lemartv" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (LEMAR TV)
 https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
@@ -136,3 +136,20 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="melbournecityvsgangwon1100beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Melbourne City vs Gangwon 11:00 (beIN ARABIC)
+https://smarthard.click/hls/YSEYx3pBdjwV/index.m3u8
+
+#EXTINF:-1 tvg-id="shanghaiportvsulsan1100beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Shanghai Port vs Ulsan 11:00 (beIN ARABIC)
+https://smarthard.click/hls/bmsayauNByRO/index.m3u8
+
+#EXTINF:-1 tvg-id="persibvsratchaburi1315beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions two",Persib vs Ratchaburi 13:15 (beIN ARABIC)
+https://smarthard.click/hls/34odOKpad8oO/index.m3u8
+
+#EXTINF:-1 tvg-id="tampinesvscnganhni1315beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions two",Tampines vs Công An Hà Nội 13:15 (beIN ARABIC)
+https://smarthard.click/hls/bmsayauNByRO/index.m3u8
+
+#EXTINF:-1 tvg-id="alnassrvsarkadag1915sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions two",Al-Nassr vs Arkadag 19:15 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://abd5xpeaaaaaaaamn2tirj37mzzps.ottb.live.cf.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
