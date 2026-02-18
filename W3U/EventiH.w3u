@@ -136,12 +136,32 @@
             "isHost": ""
         },
         {
+            "name": "Qarabag - Newcastle - Live 5",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live5.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Levante - Villarreal - Live 30",
             "info": "20:00 Â· Liga",
             "online": "true",
             "image": "https://assets.laliga.com/assets/logos/LL_RGB_h_color/LL_RGB_h_color.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live30.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Catania - Trapani - Live 3",
+            "info": "20:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live3.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -196,6 +216,26 @@
             "isHost": ""
         },
         {
+            "name": "Milan - Como - Live 137",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live137.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Como - Live 137 b",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/250px-Serie_A.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live137b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Milan - Como - Live 8",
             "info": "20:45 Â· Serie A",
             "online": "true",
@@ -246,6 +286,16 @@
             "isHost": ""
         },
         {
+            "name": "Bodo/Glimt - Inter - Prime TV (EXT CHROME)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/primehd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Bodo/Glimt - Inter - Live 1",
             "info": "21:00 Â· Champions L.",
             "online": "true",
@@ -262,6 +312,16 @@
             "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Bodo/Glimt - Inter - Live 4",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144160.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live4.htm",
             "embed": "true",
             "isHost": ""
         },
