@@ -217,6 +217,9 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/q1o4xt2cqv/out
 #EXTINF:-1 tvg-id="bodglimtvsinter2100spxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (SPX - FHD)
 https://grand-s-v2.faggotsports.tv/pl_120/207676-6812260-1/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="bodglimtvsinter2100spxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (SPX - HD)
+https://storage.googleapis.com/westorevoer1/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="olympiacosvsbayerleverkusen2100paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Olympiacos vs Bayer Leverkusen 21:00 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95852502b812ee0f8407bd39efa86353:28213580e18104c07c4126ed906899d2
@@ -280,15 +283,18 @@ https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/p6mkzjidqg/out
 #KODIPROP:inputstream.adaptive.license_key=03cbb707ca0ad1acdf89b397eba09a29:69a7f897578571fe89155c09b6506693
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/khi1nimgep/out/v1/1b27d2e4f38346b7a7101684c20a4407/cenc.mpd
 
+#EXTINF:-1 tvg-id="wolvesvsarsenal2100peacockaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolves vs Arsenal 21:00 (PEACOCK - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=751d05e541414df2a8c53f3b6ebebc46:479e69d1a83b5c3b0c1a2823d95760ea
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/6ntttzeqvu/out/v1/f7e83ce4c5824e67ad2448f3454ce22a/cenc.mpd
+
 #EXTINF:-1 tvg-id="wolvesvsarsenal2100fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolves vs Arsenal 21:00 (FUBO SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73bf684d98ff371a8f859833f31eb125:df739c61f17cb9c6aec74b0075be8df4
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/jk4vvu0ioo/out/v1/794fe1c7b37d415db80f81555662fdb6/cenc.mpd
 
 #EXTINF:-1 tvg-id="wolvesvsarsenal2100peacockfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolves vs Arsenal 21:00 (PEACOCK FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=751d05e541414df2a8c53f3b6ebebc46:479e69d1a83b5c3b0c1a2823d95760ea
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/6ntttzeqvu/out/v1/f7e83ce4c5824e67ad2448f3454ce22a/cenc.mpd
+https://grand-s-v2.faggotsports.tv/pl_118/207676-6813930-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="wolvesvsarsenal2100spxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolves vs Arsenal 21:00 (SPX - HD)
 https://storage.googleapis.com/westorevoer2/mux_video_ts1/index-1.m3u8
