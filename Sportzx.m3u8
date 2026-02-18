@@ -171,20 +171,74 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/
 #KODIPROP:inputstream.adaptive.license_key=76fbbbefbfbe5ce0c3b742a5fb49dc5c:2df91dd1cb997b9ee75dfae971a045b9
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/5vzsj7e9ni/out/v1/84636269a21f441ab85f05c711253fe4/cenc.mpd
 
+#EXTINF:-1 tvg-id="clubbruggevsatleticomadrid2100paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Club Brugge vs Atletico Madrid 21:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56e64c64ed305928a734d3632b88660f:583346b9a590ce7f71420856c4f4feb4
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/o68if5sclm/out/v1/53b0d616dfc948249e9252a8882cc127/cenc.mpd
+
+#EXTINF:-1 tvg-id="clubbruggevsatleticomadrid2100daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Club Brugge vs Atletico Madrid 21:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=116b752f45a867962b18a1b330551f7f:e6c0611c38de3dd62e543193b2d1970a
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ayyrkzj0mr/out/v1/f1ef534e8cc7440fa7dd93e16c7f2e26/cenc.mpd
+
 #EXTINF:-1 tvg-id="clubbruggevsatleticomadrid2100tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Club Brugge vs Atletico Madrid 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="clubbruggevsatleticomadrid2100daznfrench" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Club Brugge vs Atletico Madrid 21:00 (DAZN FRENCH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6eb26027f4485bf20c3bc53aa8d8936c:84f2bab98c52e795bb05ffea7806a01b
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/0vvsyryjju/out/v1/736b49578a0c44a08fb10c268393d171/cenc.mpd
+
+#EXTINF:-1 tvg-id="clubbruggevsatleticomadrid2100spxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Club Brugge vs Atletico Madrid 21:00 (SPX - FHD)
+https://grand-s-v2.faggotsports.tv/pl_120/207676-6812264-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="bodglimtvsinter2100paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73fa62010a7e1a3d3239a81175cb2b48:55c4e06d8969171e0118be30574257db
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bfajkkco18/out/v1/0eae767339f648ad95fc9278a8021186/cenc.mpd
+
+#EXTINF:-1 tvg-id="bodglimtvsinter2100daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8fb6d351e6c40b814dd5b28a7cd8381:c33e0c00d8f95b0947233eb0ee9fa37b
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/jhqj6tpedb/out/v1/5e8bac8edb3c4ba58909493765578886/cenc.mpd
 
 #EXTINF:-1 tvg-id="bodglimtvsinter2100tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="bodglimtvsinter2100vixespanol" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (VIX Espanol)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d55963884cf1fc2abc0f0d8e69d1fb4b:a56b521bbb14c5f8ca26fcf48ecd7613
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/q1o4xt2cqv/out/v1/5ffdefde68be4b0cba143306037bbdf3/cenc.mpd
+
+#EXTINF:-1 tvg-id="bodglimtvsinter2100spxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (SPX - FHD)
+https://grand-s-v2.faggotsports.tv/pl_120/207676-6812260-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="olympiacosvsbayerleverkusen2100paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Olympiacos vs Bayer Leverkusen 21:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95852502b812ee0f8407bd39efa86353:28213580e18104c07c4126ed906899d2
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/mahg8ywrfn/out/v1/c4517fd7b62d46be826d0ab10139f4c6/cenc.mpd
+
+#EXTINF:-1 tvg-id="olympiacosvsbayerleverkusen2100daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Olympiacos vs Bayer Leverkusen 21:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33d26bd0c86fafca8db944cf4237c9d2:a468b87e9b1bb2b5fdd6c7186b25b85b
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/yug0tky4bj/out/v1/88ff34ece5074e8c9d7652b80ab2befd/cenc.mpd
+
 #EXTINF:-1 tvg-id="olympiacosvsbayerleverkusen2100tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Olympiacos vs Bayer Leverkusen 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="olympiacosvsbayerleverkusen2100vixespanol" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Olympiacos vs Bayer Leverkusen 21:00 (VIX Espanol)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f25ec3231cb136066f3223f8ecd6799:3005f120ac2599a4c5443ffcab08de85
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/204pwmno48/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd
+
+#EXTINF:-1 tvg-id="olympiacosvsbayerleverkusen2100spxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Olympiacos vs Bayer Leverkusen 21:00 (SPX - FHD)
+https://grand-s-v2.faggotsports.tv/pl_118/207676-6812262-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="levantevsvillarreal2000laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Levante vs Villarreal 20:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -206,10 +260,48 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bcj3iscpd6/o
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="cbssportsgolazoshow2055fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",CBS Sports Golazo Show 20:55 (FANCODE FHD)
+#EXTINF:-1 tvg-id="milanvscomo2045paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Milan vs Como 20:45 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=830fcdf63baf1f2baaf334299ad0fb67:a3082cb0aea0887e958eaeae12ede46b
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/2el59rsy6h/out/v1/19bc9fdf33af4af8a5cc183e436b8f7d/cenc.mpd
+
+#EXTINF:-1 tvg-id="milanvscomo2045daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Milan vs Como 20:45 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94306fb87a32b2a63f7c85224ee3ca7d:9a5db98e4a90e3e4c8d67aa4754601a0
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ropjgqd5ky/out/v1/a9df4c0d9bbb46aa8c89e4328c29edc2/cenc.mpd
+
+#EXTINF:-1 tvg-id="milanvscomo2045fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Milan vs Como 20:45 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/p6mkzjidqg/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd
+
+#EXTINF:-1 tvg-id="milanvscomo2045daznitalian" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Milan vs Como 20:45 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03cbb707ca0ad1acdf89b397eba09a29:69a7f897578571fe89155c09b6506693
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/khi1nimgep/out/v1/1b27d2e4f38346b7a7101684c20a4407/cenc.mpd
+
+#EXTINF:-1 tvg-id="wolvesvsarsenal2100fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolves vs Arsenal 21:00 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73bf684d98ff371a8f859833f31eb125:df739c61f17cb9c6aec74b0075be8df4
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/jk4vvu0ioo/out/v1/794fe1c7b37d415db80f81555662fdb6/cenc.mpd
+
+#EXTINF:-1 tvg-id="wolvesvsarsenal2100peacockfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolves vs Arsenal 21:00 (PEACOCK FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=751d05e541414df2a8c53f3b6ebebc46:479e69d1a83b5c3b0c1a2823d95760ea
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/6ntttzeqvu/out/v1/f7e83ce4c5824e67ad2448f3454ce22a/cenc.mpd
+
+#EXTINF:-1 tvg-id="wolvesvsarsenal2100spxhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolves vs Arsenal 21:00 (SPX - HD)
+https://storage.googleapis.com/westorevoer2/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="cbssportsgolazoshow2055paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",CBS Sports Golazo Show 20:55 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cf21d1c3d2565d555f7ba59315c419f:0d0ecfbcecc2d896eb688684fe35ce85
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/zr3kdnnbht/out/v1/5fa6b7e67173419fbdc2b43ca471c001/cenc.mpd
+
+#EXTINF:-1 tvg-id="cbssportsgolazoshow2055cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",CBS Sports Golazo Show 20:55 (CBS GOLAZO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cf21d1c3d2565d555f7ba59315c419f:0d0ecfbcecc2d896eb688684fe35ce85
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/zr3kdnnbht/out/v1/5fa6b7e67173419fbdc2b43ca471c001/cenc.mpd
 
 #EXTINF:-1 tvg-id="realmadridvsparisfc1845paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl womens",Real Madrid vs Paris FC 18:45 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
