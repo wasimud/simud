@@ -35,22 +35,22 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc010630primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 06:30 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77c7355985551e0e53b14794b7e0b877:ef86a1a5444585a103b8cce925ddc549
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bbwxgfum2o/out/v1/bedaa948e7a24dc0b5fd5d7b38534d8c/cenc.mpd
-
-#EXTINF:-1 tvg-id="icct20wc010630willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 06:30 (WILLOW  Ad Free )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e388fd9cf1c145acf6c73439ddd9008:4c4c4edae20d36abe959932d74f6f68f
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/6xiloeqm22/out/v1/455da68c5210476b9d77bc03ccf82163/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=700b2e693819b6193543a8ec20627383:39dbd9105095530793ea9dbfb6cc418a
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/cj4rwabldn/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc010630jiohotstar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 06:30 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc010630willowhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 06:30 (WILLOW HD)
-https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
+https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc010630lemartv" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 06:30 (LEMAR TV)
 https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
+
+#EXTINF:-1 tvg-id="icct20wc010630willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 06:30 (WILLOW  Ad Free )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e388fd9cf1c145acf6c73439ddd9008:4c4c4edae20d36abe959932d74f6f68f
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/6xiloeqm22/out/v1/455da68c5210476b9d77bc03ccf82163/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021030primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -122,12 +122,22 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8
 #EXTINF:-1 tvg-id="olympicgames0800tntsports4" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Olympics winter",Olympic Games 08:00 (TNT SPORTS 4)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tnt4.m3u8
 
-#EXTINF:-1 tvg-id="cbssportsgolazoshow2045paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",CBS Sports Golazo Show 20:45 (PARAMOUNT  AQ)
+#EXTINF:-1 tvg-id="bodglimtvsinter2100paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bedf852648d902da05e32e16fa8748e4:cdb99b8b7276650aeefd24b3050722d9
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/x8debf5bqc/out/v1/370b3447219048fca3a9ddd6bc2e6837/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ff909a8f8a880d42d3f1ed79c4680c0d:84a57341726c1c75d22a77248586d622
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/dsplmpm3p2/out/v1/7bfeba2ef904488eb34384236bcde6a7/cenc.mpd
 
-#EXTINF:-1 tvg-id="cbssportsgolazoshow2045cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",CBS Sports Golazo Show 20:45 (CBS GOLAZO)
+#EXTINF:-1 tvg-id="bodglimtvsinter2100daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (DAZN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bedf852648d902da05e32e16fa8748e4:cdb99b8b7276650aeefd24b3050722d9
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/x8debf5bqc/out/v1/370b3447219048fca3a9ddd6bc2e6837/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2f346a3ab4b4e97a204c01e3e271ac78:6fdf8dedec2f52a94cee9a6186895a94
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/rdrcttsatu/out/v1/ddcb68c5553e4b5e9dc7f7c0b5b92bc2/cenc.mpd
+
+#EXTINF:-1 tvg-id="bodglimtvsinter2100daznsportsde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (DAZN SPORTS DE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17117784735d8705c8ee218f16373ebd:5cb0971c0ce5ead0ab9ad609ac16358d
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/uphh3xqcjq/out/v1/4cdafe892faa435f97bbf878f53fa414/cenc.mpd
+
+#EXTINF:-1 tvg-id="bodglimtvsinter2100tntbrasil" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Bodø Glimt vs Inter 21:00 (TNT BRASIL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6858fe9f98f376951694837c7fe566ec:9a7b4fa423e369c9ce1a97ed436463d7
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/3eyxxzlxgr/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
