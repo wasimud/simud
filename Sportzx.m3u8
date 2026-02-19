@@ -84,12 +84,17 @@ https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/ind
 #EXTINF:-1 tvg-id="icct20wc021030primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/dznewfsjjw/out/v1/2298afadf64943adb0b44dc540ace1ce/cenc.mpd
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/108rikwly7/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021030willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (WILLOW  Ad Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ea6487ec80eb3fc447ecfd4d2406efb:b916380d8ba5b9ce213483b96dcf69fa
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/cd779s5txo/out/v1/04ec1a6c725d493c8a4e602cff34caa8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=96b9f1bddc286bf383458bae508674c1:4a0666f8b8c2f1edc8c6155629d3df97
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/t2buh3bwfz/out/v1/a11bc1e80b914e3da78bada1810e9088/cenc.mpd
+
+#EXTINF:-1 tvg-id="icct20wc021030mycofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (MyCO FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29256eae859c52928db4c3fc77b01588:0371f71ce2e897e893a9532e540fbc0f
+https://ml-pull-rtmp-pk1.myco.io/Clean2/dash/index.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021030jiohotstar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
@@ -199,3 +204,16 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="gambaosakavspohangsteelers1100beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Afc champions elite",Gamba Osaka vs Pohang Steelers 11:00 (beIN ARABIC)
+https://smarthard.click/hls/3QZg5SKsM1P0/index.m3u8
+
+#EXTINF:-1 tvg-id="mumbaicityvschennaiyin1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",Mumbai City vs Chennaiyin 15:00 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="mumbaicityvschennaiyin1500fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",Mumbai City vs Chennaiyin 15:00 (FANCODE - SD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
+https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
