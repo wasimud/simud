@@ -1,22 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="milanvscomo2045paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/milancomo.png" group-title="Serie A",Milan vs Como 20:45 (PARAMOUNT  AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=830fcdf63baf1f2baaf334299ad0fb67:a3082cb0aea0887e958eaeae12ede46b
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/2el59rsy6h/out/v1/19bc9fdf33af4af8a5cc183e436b8f7d/cenc.mpd
-
-#EXTINF:-1 tvg-id="milanvscomo2045daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/milancomo.png" group-title="Serie A",Milan vs Como 20:45 (DAZN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=94306fb87a32b2a63f7c85224ee3ca7d:9a5db98e4a90e3e4c8d67aa4754601a0
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ropjgqd5ky/out/v1/a9df4c0d9bbb46aa8c89e4328c29edc2/cenc.mpd
-
-#EXTINF:-1 tvg-id="milanvscomo2045fubosports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/milancomo.png" group-title="Serie A",Milan vs Como 20:45 (FUBO SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/p6mkzjidqg/out/v1/63f0844e26d046ab88a2b07df145e87c/cenc.mpd
-
-#EXTINF:-1 tvg-id="milanvscomo2045daznitalian" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/milancomo.png" group-title="Serie A",Milan vs Como 20:45 (DAZN ITALIAN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03cbb707ca0ad1acdf89b397eba09a29:69a7f897578571fe89155c09b6506693
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/khi1nimgep/out/v1/1b27d2e4f38346b7a7101684c20a4407/cenc.mpd
+#EXTINF:-1 tvg-id="noevent" tvg-logo="https://i.postimg.cc/fTHBgY5d/Chat-GPT-Image-9-feb-2026-13-35-25.png" group-title="NoEvent",Nessun Evento
+https://github.com/wasimud/simud/raw/refs/heads/main/Skymud.mp4
