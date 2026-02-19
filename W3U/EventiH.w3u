@@ -136,6 +136,26 @@
             "isHost": ""
         },
         {
+            "name": "Brann - Bologna - Live 147",
+            "info": "18:45 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.shutterstock.com/image-vector/cup-trophy-league-logo-symbol-260nw-2229032075.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Brann - Bologna - Live 147 b",
+            "info": "18:45 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.shutterstock.com/image-vector/cup-trophy-league-logo-symbol-260nw-2229032075.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Brann - Bologna - Live 7",
             "info": "18:45 Â· Europa L.",
             "online": "true",
@@ -212,6 +232,116 @@
             "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Final_Eight_Coppa_Italia.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/basketex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Calcio (EXT CHROME)",
+            "info": "21:00 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.shutterstock.com/image-vector/cup-trophy-league-logo-symbol-260nw-2229032075.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcioex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Calcio",
+            "info": "21:00 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.shutterstock.com/image-vector/cup-trophy-league-logo-symbol-260nw-2229032075.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Celtic - Stoccarda - Sport Max (EXT CHROME)",
+            "info": "21:00 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.shutterstock.com/image-vector/cup-trophy-league-logo-symbol-260nw-2229032075.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmaxex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Celtic - Stoccarda - Sport Max",
+            "info": "21:00 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.shutterstock.com/image-vector/cup-trophy-league-logo-symbol-260nw-2229032075.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmax.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lille - Stella Rossa - Sport Mix (EXT CHROME)",
+            "info": "21:00 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.shutterstock.com/image-vector/cup-trophy-league-logo-symbol-260nw-2229032075.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmixex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lille - Stella Rossa - Sport Mix",
+            "info": "21:00 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.shutterstock.com/image-vector/cup-trophy-league-logo-symbol-260nw-2229032075.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmix.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Jagiellonia - Fiorentina - Sport 1 (EXT CHROME)",
+            "info": "21:00 Â· Conference L.",
+            "online": "true",
+            "image": "https://www.zerozero.pt/img/logos/competicoes/5932_imgbank_ecl_20250220174704.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Jagiellonia - Fiorentina - Sport 1",
+            "info": "21:00 Â· Conference L.",
+            "online": "true",
+            "image": "https://www.zerozero.pt/img/logos/competicoes/5932_imgbank_ecl_20250220174704.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Jagiellonia - Fiorentina - Live 147",
+            "info": "21:00 Â· Conference L.",
+            "online": "true",
+            "image": "https://www.zerozero.pt/img/logos/competicoes/5932_imgbank_ecl_20250220174704.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Jagiellonia - Fiorentina - Live 147 b",
+            "info": "21:00 Â· Conference L.",
+            "online": "true",
+            "image": "https://www.zerozero.pt/img/logos/competicoes/5932_imgbank_ecl_20250220174704.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Jagiellonia - Fiorentina - Live 7",
+            "info": "21:00 Â· Conference L.",
+            "online": "true",
+            "image": "https://www.zerozero.pt/img/logos/competicoes/5932_imgbank_ecl_20250220174704.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live7.htm",
             "embed": "true",
             "isHost": ""
         }
