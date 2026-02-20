@@ -1,10 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="2045sassuolohellasveronaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Sassuolo - Hellas Verona (ITA - MPD)
+#EXTINF:-1 tvg-id="2000athleticbilbaoelchempd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:00 Athletic Bilbao - Elche (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce8060cfa1bf54ef9c7127b9871732b5:4b2de93205a2d056c2d1e1b80dddc9a2
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771617005~exp%3D1771703405~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6a11e342b207b06f295545cc7220f153ad4d239af986ab589763a3c13f26e84a%23wm%3D0~hmac%3D16cb414a3443902531c024607690a8bed00311100e50be3a7719634dd0bee5a5/7nqacqbhu0bq1x93rp9mjqh9k/web/stream.mpd?channel=3949&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2045sassuolohellasveronampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Sassuolo - Hellas Verona (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=148e45efdd3f59908431e54dffd788dc:2c760532d7d2a9b1d2995d101cfe9ccc
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771613103~exp%3D1771699503~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D75c1c9182d24a4efcbf710ad38ac9d9d5fcee936cc819d12e43d5821bc0e02a0%23wm%3D0~hmac%3D61e6ebf8be05524fab37c25600c77289d3c60712ea77977557e8ad2c917b4d8e/mv0b6feaoqg512fib3dk8f62r/web/stream.mpd?channel=1346&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2030frosinoneempolimpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:30 Frosinone - Empoli (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d79e4e65cf05665b4ea3787433c7d75:02f11d69e692dd74aaf266091188b068
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771615204~exp%3D1771701604~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Db1dcb18315437cd5d6506876f2903af6d6f4496cd1822ac69c1557315fdcc17d%23wm%3D0~hmac%3Df500fa2af251e2114a0db267e965fe77b9a299e9bdb0d86285ca0f7c792ab637/1gjhmetlb3ohr1gayu3o11hfn4/web/stream.mpd?channel=3932&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
