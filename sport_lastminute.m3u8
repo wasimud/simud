@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="2045sassuolohellasveronaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Sassuolo - Hellas Verona (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=148e45efdd3f59908431e54dffd788dc:2c760532d7d2a9b1d2995d101cfe9ccc
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771613103~exp%3D1771699503~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D75c1c9182d24a4efcbf710ad38ac9d9d5fcee936cc819d12e43d5821bc0e02a0%23wm%3D0~hmac%3D61e6ebf8be05524fab37c25600c77289d3c60712ea77977557e8ad2c917b4d8e/mv0b6feaoqg512fib3dk8f62r/web/stream.mpd?channel=1346&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
