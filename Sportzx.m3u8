@@ -87,15 +87,15 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key=baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a
 https://otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/0r0djhe3iq/out/v1/adc4f984bb244252b29bd96adb6a7b44/cenc.mpd
 
+#EXTINF:-1 tvg-id="icct20wc011430willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (WILLOW  Ad Free )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b51d13fb40e62690e1a22805e1ad502d:f18fe0dc180b7ce0c48e8145c30e7575
+https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mf6gto31kn/out/v1/156dae6f14124e108e532882262bc92f/cenc.mpd
+
 #EXTINF:-1 tvg-id="icct20wc011430mycofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (MyCO FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4966ba118d156f99abc0b9a46bbe176:6d2a810a83250a2a0c659fd0332063dc
 https://ml-pull-rtmp-pk1.myco.io/Clean1/dash/index.mpd
-
-#EXTINF:-1 tvg-id="icct20wc011430willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (WILLOW  Ad Free )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e9fd517a44b10834f914c2dd3ddd07f0:cc5e6232a1a5ef63be1618828e1b2ef7
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/wt1pltyb9z/out/v1/3542ef35fd004ae2b7c718829175e868/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc011430mycosd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (MyCO SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
