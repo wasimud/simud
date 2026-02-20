@@ -81,6 +81,11 @@ https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc011430lemartv" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (LEMAR TV)
 https://cors-proxy.cooks.fyi/https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 
+#EXTINF:-1 tvg-id="accwomen0800willowfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Acc womens",ACC Women 08:00 (WILLOW FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1956ed097d11cfd4e601ed67129e05c4:7aa69ffd6aab2bc09602d0d319ef689a
+https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/bl8d9lahcv/out/v1/5369dd05a5d24ead948cf9979a3c53f0/cenc.mpd
+
 #EXTINF:-1 tvg-id="olympicgames0800spxolympics" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Olympics winter",Olympic Games 08:00 (SPX - Olympics)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/olympics.m3u8
 
@@ -127,11 +132,29 @@ https://bbb.exoadash.com/TVD6737/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD1403/index.mpd
 
-#EXTINF:-1 tvg-id="goldenstatewarriorsvsbostonceltics0400sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Golden State Warriors vs Boston Celtics 04:00 (SD SERVER)
+#EXTINF:-1 tvg-id="charlottehornetsvsclevelandcavaliers0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Charlotte Hornets vs Cleveland Cavaliers 01:00 (SD SERVER)
 https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
 
-#EXTINF:-1 tvg-id="sacramentokingsvsorlandomagic0400sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Sacramento Kings vs Orlando Magic 04:00 (SD SERVER)
-https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
+#EXTINF:-1 tvg-id="memphisgrizzliesvsutahjazz0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Memphis Grizzlies vs Utah Jazz 01:00 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
 
-#EXTINF:-1 tvg-id="losangelesclippersvsdenvernuggets0430sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Los Angeles Clippers vs Denver Nuggets 04:30 (SD SERVER)
-https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
+#EXTINF:-1 tvg-id="washingtonwizardsvsindianapacers0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Washington Wizards vs Indiana Pacers 01:00 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="atlantahawksvsmiamiheat0130sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Atlanta Hawks vs Miami Heat 01:30 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="minnesotatimberwolvesvsdallasmavericks0130sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Minnesota Timberwolves vs Dallas Mavericks 01:30 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="neworleanspelicansvsmilwaukeebucks0200sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",New Orleans Pelicans vs Milwaukee Bucks 02:00 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="oklahomacitythundervsbrooklynnets0200sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Oklahoma City Thunder vs Brooklyn Nets 02:00 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="losangeleslakersvslosangelesclippers0400sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Los Angeles Lakers vs Los Angeles Clippers 04:00 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="portlandtrailblazersvsdenvernuggets0400sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Portland Trail Blazers vs Denver Nuggets 04:00 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
