@@ -24,6 +24,12 @@ https://swisszrh1-0-dash-pvr.zahs.tv/HD_dazn_event_2_ch/1771678915200/1771702200
 #KODIPROP:inputstream.adaptive.license_key=0000
 https://swisszrh1-0-dash-pvr.zahs.tv/HD_spalk_event_1_ch/1771678868800/1771702200000/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZGY2DIOJZII4EGQZZIVDDCLJVIE2TOOBQII3UCNSFIEYTCQKGEZSHE3J5MV4HA2LSMF2GS33OHIYTONZSGI4DGNZTGATGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHFPWEZLFMZRGMYTGMEZGGNZXHEYWIZJWMRSTKNZSHA3GMMZYGI3DQOJGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
 
+#EXTINF:-1 tvg-id="1800lecceintermpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:00 Lecce - Inter (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3a19b201aef535b984d6df3740f66f8:2c25fc67af2c9962f1399aa360be5b40
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771689604~exp%3D1771776004~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D5b661c3867fbb4a2250d589490d4077dd8051bbff9ddd9f4219d98f7fd3e258b%23wm%3D1%23wmd%3D1152~hmac%3Deb54ec61b0fbea75bf2107aa495d06e99738f90c5dcef7d6d993fbf98e9d5194/sfboe9vav0ui1mu9u19tqjq14/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="2045cagliarivslazioitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 CAGLIARI vs LAZIO  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
