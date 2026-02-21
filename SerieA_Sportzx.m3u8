@@ -1,31 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="sassuolovshellasverona2045paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/sassuolohellasverona.png" group-title="Serie A",Sassuolo vs Hellas Verona 20:45 (PARAMOUNT  AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e072a409fe782d5993a5b468a69ffca:4976cde1af8aef9ed753e930855bfcf6
-https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ujkfhxluhi/out/v1/16458b53b06447dc948ea3deda22795b/cenc.mpd
-
-#EXTINF:-1 tvg-id="sassuolovshellasverona2045beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/sassuolohellasverona.png" group-title="Serie A",Sassuolo vs Hellas Verona 20:45 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="sassuolovshellasverona2045daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/sassuolohellasverona.png" group-title="Serie A",Sassuolo vs Hellas Verona 20:45 (DAZN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a478e5d1cedcd244d92cf5326a6300ad:9f4d26595f278fe51efe9a979b0238e3
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/2sstrzlub6/out/v1/5912a3cb3ffd48ef9df62739d05f90e6/cenc.mpd
-
-#EXTINF:-1 tvg-id="sassuolovshellasverona2045daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/sassuolohellasverona.png" group-title="Serie A",Sassuolo vs Hellas Verona 20:45 (DAZN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cee18256b61a2d61db414dd0456e2dad:c493e9a5ad1d198762c4b6954b40e69d
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/phdxmg7d3e/out/v1/5492a3f8daf44690af442b117d65b1b3/cenc.mpd
-
-#EXTINF:-1 tvg-id="sassuolovshellasverona2045foxdeportes" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/sassuolohellasverona.png" group-title="Serie A",Sassuolo vs Hellas Verona 20:45 (Fox Deportes)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
 #EXTINF:-1 tvg-id="juventusvscomo1500paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6130559bb9bb7b9b98bab654f8a645a1:96c4c904d1cd4b7b7da76709af9d54f6
