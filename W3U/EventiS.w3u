@@ -6,46 +6,6 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiS.w3u",
     "stations": [
         {
-            "name": "Wellington Phoenix x Auckland",
-            "info": "04:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sprtsonline.click/channels/hd/hd1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Sydney FC x Brisbane Roar",
-            "info": "06:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sprtsonline.click/channels/hd/hd1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Melbourne City x Melbourne Victory",
-            "info": "08:35",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sprtsonline.click/channels/hd/hd1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Torreense x Benfica B",
-            "info": "11:00",
-            "online": "true",
-            "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://www1.sprtsonline.click/channels/pt/sporttv1.php",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Darmstadt 98 x Fortuna DÃ¼sseldorf",
             "info": "12:00",
             "online": "true",
@@ -486,7 +446,7 @@
             "isHost": ""
         },
         {
-            "name": "UD Oliveirense x UniÃ£o de Leiria",
+            "name": "Moreirense x Sporting CP",
             "info": "18:00",
             "online": "true",
             "image": "https://www.chefstudio.it/img/blog/logo-serie-a/nuovo-logo-serie-a.jpg",
