@@ -1,70 +1,30 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="juventusvscomo1500paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (PARAMOUNT  AQ)
+#EXTINF:-1 tvg-id="cagliarivslazio2045paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliarilazio.png" group-title="Serie A",Cagliari vs Lazio 20:45 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6130559bb9bb7b9b98bab654f8a645a1:96c4c904d1cd4b7b7da76709af9d54f6
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bexqfldnsw/out/v1/3b3e0cbe8dac41679da867082c472743/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=59adf31dd242c5140e748a422ab8cf3b:55e1b86f6f06b6de7026dedd36f1b197
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjttwwjvwu/out/v1/d7e29446d99343f1876919e56e711281/cenc.mpd
 
-#EXTINF:-1 tvg-id="juventusvscomo1500daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (DAZN ENGLISH)
+#EXTINF:-1 tvg-id="cagliarivslazio2045daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliarilazio.png" group-title="Serie A",Cagliari vs Lazio 20:45 (DAZN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7e611d957a9e46bf15adb5e3efe3aac:d45224ba4b3577a9d8ff291ca98964a5
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bu5b4ygvco/out/v1/5661a4fc7b484c4da8fe4e7254c1a7da/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ccd8490a65d8ba183308a04f724a24c7:00fe7ed8fbb49df4c63725e623e188bb
+https://a134aivottepl-a.akamaihd.net/iad-nitro/live/clients/dash/enc/mkjgqorlyb/out/v1/037afe25c76940df848829efea98c948/cenc.mpd
 
-#EXTINF:-1 tvg-id="juventusvscomo1500beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (beIN ENGLISH)
+#EXTINF:-1 tvg-id="cagliarivslazio2045fubosports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliarilazio.png" group-title="Serie A",Cagliari vs Lazio 20:45 (FUBO SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="juventusvscomo1500daznitalian" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (DAZN ITALIAN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ff1f3997b334174bd839204739bd91c:c4448d6f155e1aae9673a0ab23f061a9
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fsmykkgioj/out/v1/480b8841eabc41bda2723eea0fae7242/cenc.mpd
-
-#EXTINF:-1 tvg-id="juventusvscomo1500cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (CBS Golazo)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1 tvg-id="leccevsinter1800paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (PARAMOUNT  AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a731ea38abd85f14cf5b1b1aafb8cda5:0b83cfc6e5c28183187ec516ad87e304
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uxlktofbnq/out/v1/39fbfbe10bdb48b7affc2c922cd09f43/cenc.mpd
-
-#EXTINF:-1 tvg-id="leccevsinter1800tntsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="leccevsinter1800fubosports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (FUBO SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f95884d03e4c747a8800fc9f53fa55e6:0aa8509408e66bd740181bf866dabced
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ktbtd0mtxs/out/v1/e12d52fbfe7e44329f2db82c54abcea6/cenc.mpd
-
-#EXTINF:-1 tvg-id="leccevsinter1800daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (DAZN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=321ce678fbc93d403a49bd3834e61a0e:f33e6f0098a566e75dd26d83c5f86a0f
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fi0tvgzzti/out/v1/f995b09291214991ab7412a9c42f12b1/cenc.mpd
-
-#EXTINF:-1 tvg-id="leccevsinter1800beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="leccevsinter1800cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (CBS Golazo)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1 tvg-id="leccevsinter1800foxdeportes" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (Fox Deportes)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=50a401e7039075842f1213a6f6a3e393:7ac00d664f22b09514b0b504a062927a
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jezfawhhvn/out/v1/794fe1c7b37d415db80f81555662fdb6/cenc.mpd
 
 #EXTINF:-1 tvg-id="cagliarivslazio2045beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliarilazio.png" group-title="Serie A",Cagliari vs Lazio 20:45 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="cagliarivslazio2045daznitalian" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliarilazio.png" group-title="Serie A",Cagliari vs Lazio 20:45 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=27bc7125f90dcd129b7afd6440dd64a2:5c4f1d445c361236348d042869852b06
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mkjgqorlyb/out/v1/037afe25c76940df848829efea98c948/cenc.mpd
 
 #EXTINF:-1 tvg-id="cagliarivslazio2045cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliarilazio.png" group-title="Serie A",Cagliari vs Lazio 20:45 (CBS Golazo)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
