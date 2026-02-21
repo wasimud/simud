@@ -96,286 +96,6 @@
             "isHost": ""
         },
         {
-            "name": "Multicast - Live 117",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/960px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live117.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bayern M. - Eintracht Fr. - Sport Max HD",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/960px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmaxhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bayern M. - Eintracht Fr. - Sport Max",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/960px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmax.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bayern M. - Eintracht Fr. - Live 23",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/960px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live23.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Koln - Hoffenheim - Live 113",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/960px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live113.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Union Berlin - Bayer Leverkusen - Live 29",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/960px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live29.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Wolfsburg - Augsburg - Live 30",
-            "info": "15:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/f/fe/Bundesliga_-_Logo_2017.svg/960px-Bundesliga_-_Logo_2017.svg.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live30.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Multicast - Live 104",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live104.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Chelsea - Burnley - Calcio HD (ext chrome)",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calcioex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Chelsea - Burnley - Calcio HD",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calciohd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Chelsea - Burnley - Calcio",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calcio.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Chelsea - Burnley - Live 21",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live21.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Aston Villa - Leeds - Sport Mix HD",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmixhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Aston Villa - Leeds - Sport Mix",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmix.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Aston Villa - Leeds - Live 25",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live25.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Brentford - Brighton - Live 22",
-            "info": "16:00 Â· Premier L.",
-            "online": "true",
-            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live22.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Betis - Rayo Vallecano - Live 26",
-            "info": "16:15 Â· Liga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live26.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lens - Monaco - Live 24",
-            "info": "17:00 Â· Ligue 1",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live24.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Inter - Dazn 1 HD (EXT CHROME)",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn1ex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Inter - Dazn 2 HD (EXT CHROME)",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn2ex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Inter - Live 2",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Inter - Dazn 1 HD",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn1hd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Inter - Dazn 1",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Inter - Live 147",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live147.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Inter - Live 147 b",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live147b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Inter - Live 137",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live137.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Inter - Live 137 b",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live137b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lecce - Inter - Live 7",
-            "info": "18:00 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Osasuna - Real Madrid - Live 26",
             "info": "18:30 Â· Liga",
             "online": "true",
@@ -456,6 +176,26 @@
             "isHost": ""
         },
         {
+            "name": "Cagliari - Lazio - Calcio HD (ext chrome)",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcioex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Cagliari - Lazio - Live 2",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Cagliari - Lazio - Calcio HD",
             "info": "20:45 Â· Serie A",
             "online": "true",
@@ -516,16 +256,6 @@
             "isHost": ""
         },
         {
-            "name": "Atletico Madrid - Espanyol - Live 2",
-            "info": "21:00 Â· Liga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Atletico Madrid - Espanyol - Dazn 1 HD",
             "info": "21:00 Â· Liga",
             "online": "true",
@@ -552,6 +282,546 @@
             "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live26.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Man City - Newcastle - Sport 1 HD (EXT CHROME)",
+            "info": "21:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Man City - Newcastle - Sport 1 HD",
+            "info": "21:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportuno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Man City - Newcastle - Sport 1",
+            "info": "21:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Genoa - Torino - Dazn 1 HD (EXT CHROME)",
+            "info": "12:30 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1ex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Genoa - Torino - Dazn 1 HD",
+            "info": "12:30 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Genoa - Torino - Dazn 1",
+            "info": "12:30 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Genoa - Torino - Live 147",
+            "info": "12:30 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Genoa - Torino - Live 147 b",
+            "info": "12:30 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Genoa - Torino - Live 137",
+            "info": "12:30 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live137.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Genoa - Torino - Live 137 b",
+            "info": "12:30 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live137b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Genoa - Torino - Live 7",
+            "info": "12:30 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Campobasso - Juve NG - Sport 1 HD (EXT CHROME)",
+            "info": "12:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Campobasso - Juve NG - Sport 1 HD",
+            "info": "12:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportuno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Campobasso - Juve NG - Sport 1",
+            "info": "12:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta U23 - Cosenza - Calcio HD (ext chrome)",
+            "info": "12:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcioex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta U23 - Cosenza - Calcio HD",
+            "info": "12:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta U23 - Cosenza - Calcio",
+            "info": "12:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Getafe - Siviglia - Live 26",
+            "info": "14:00 Â· Liga",
+            "online": "true",
+            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live26.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Catania - Giugliano - Calcio HD (ext chrome)",
+            "info": "14:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcioex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Catania - Giugliano - Calcio HD",
+            "info": "14:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Catania - Giugliano - Calcio",
+            "info": "14:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Altamura - Benevento - Sport Max HD",
+            "info": "14:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmaxhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Altamura - Benevento - Sport Max",
+            "info": "14:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmax.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta - Napoli - Dazn 1 HD (EXT CHROME)",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1ex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta - Napoli - Live 2",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta - Napoli - Dazn 1 HD",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta - Napoli - Dazn 1",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta - Napoli - Live 147",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta - Napoli - Live 147 b",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta - Napoli - Live 137",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live137.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta - Napoli - Live 137 b",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live137b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atalanta - Napoli - Live 7",
+            "info": "15:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Nottingham Forest - Liverpool - Sport 1 HD (EXT CHROME)",
+            "info": "15:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Nottingham Forest - Liverpool - Sport 1 HD",
+            "info": "15:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportuno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Nottingham Forest - Liverpool - Sport 1",
+            "info": "15:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Barcellona - Levante - Live 26",
+            "info": "16:15 Â· Liga",
+            "online": "true",
+            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live26.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Parma - Calcio HD (ext chrome)",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcioex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Parma - Calcio HD",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Parma - Calcio",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Parma - Live 2",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Parma - Live 147",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Parma - Live 147 b",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Parma - Live 138",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live138.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Parma - Live 138 b",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live138b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Milan - Parma - Live 7",
+            "info": "18:00 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Roma - Cremonese - Dazn 1 HD (EXT CHROME)",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1ex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Roma - Cremonese - Live 2",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Roma - Cremonese - Dazn 1 HD",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Roma - Cremonese - Dazn 1",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/dazn1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Roma - Cremonese - Live 147",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Roma - Cremonese - Live 147 b",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live147b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Roma - Cremonese - Live 137",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live137.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Roma - Cremonese - Live 137 b",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live137b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Roma - Cremonese - Live 7",
+            "info": "20:45 Â· Serie A",
+            "online": "true",
+            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live7.htm",
             "embed": "true",
             "isHost": ""
         }
