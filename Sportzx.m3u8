@@ -175,35 +175,6 @@ https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 #EXTINF:-1 tvg-id="newyorkknicksvshoustonrockets0230sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",New York Knicks vs Houston Rockets 02:30 (SD SERVER)
 https://smarthard.click/hls/kl434PVmNnx/index.m3u8
 
-#EXTINF:-1 tvg-id="astonvillavsleedsunited1600peacockeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Leeds United 16:00 (PEACOCK ENG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4584fb3a862becf27a7e3398c83e392c:4b0c2f16949b0cb59a11c4bf6369c13e
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nqm3wu8uqj/out/v1/5ee2fef3f56349fc97d8bbabd7dc9d46/cenc.mpd
-
-#EXTINF:-1 tvg-id="astonvillavsleedsunited1600fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Leeds United 16:00 (FUBO SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d88e75ec6f0662ef1fb58afd114b708a:5d717ff95eb58bd61a8d4407340c0df9
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/l2wteg4ofb/out/v1/ae1ce3e9f56f4dc8bd919ea65b1ecd57/cenc.mpd
-
-#EXTINF:-1 tvg-id="astonvillavsleedsunited1600skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Leeds United 16:00 (SKY SPORTS HD)
-https://storage.googleapis.com/overgamesdjhqa2/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="chelseavsburnley1600peacockeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Burnley 16:00 (PEACOCK ENG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07ddc2509afa90cd6ab66736f5f3f6a0:30cd23f376ee54fc7d42a18cbf6ad582
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7hiukj57qj/out/v1/59c87aeee31b46dbb125774b96d13c36/cenc.mpd
-
-#EXTINF:-1 tvg-id="chelseavsburnley1600fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Burnley 16:00 (FUBO SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfd8f938d8481e161a5c026a63e17b87:91e0ddd011ffbe1792b38ebe5324558a
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a1e2xi7apt/out/v1/0df2de66769541e387006728678fdf82/cenc.mpd
-
-#EXTINF:-1 tvg-id="chelseavsburnley1600nowpremierfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Burnley 16:00 (NOW PREMIER FHD)
-https://601.lifesharper.com/chelsea.m3u8
-
-#EXTINF:-1 tvg-id="chelseavsburnley1600skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Chelsea vs Burnley 16:00 (SKY SPORTS HD)
-https://storage.googleapis.com/overgamesdjhqa3/mux_video_ts1/index-1.m3u8
-
 #EXTINF:-1 tvg-id="brentfordvsbrighton1600peacockeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Brighton 16:00 (PEACOCK ENG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cd52e6e9640984a9bb53cbea489237ab:dcc5e49c18b834481aec77897fb13699
@@ -351,36 +322,6 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-id="bayernmunchenvseintrachtfrankfurt1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern Munchen vs Eintracht Frankfurt 15:30 (DAZN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d2fe9506154c5b1fd7eac66262143bbb:c9d04da5af628c5dbd23c47a35fe5e9a
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/npqs4hkruf/out/v1/1c3ca365592748aa8003fd2823fc6b8b/cenc.mpd
-
-#EXTINF:-1 tvg-id="bayernmunchenvseintrachtfrankfurt1530onesoccerhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern Munchen vs Eintracht Frankfurt 15:30 (ONE SOCCER HD)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/one.m3u8
-
-#EXTINF:-1 tvg-id="bayernmunchenvseintrachtfrankfurt1530skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern Munchen vs Eintracht Frankfurt 15:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
-
-#EXTINF:-1 tvg-id="bayernmunchenvseintrachtfrankfurt1530beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern Munchen vs Eintracht Frankfurt 15:30 (beIN SPORTS SD)
-https://smarthard.click/hls/zGkz9Oc8we1P/index.m3u8
-
-#EXTINF:-1 tvg-id="unionberlinvsbayerleverkusen1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Union Berlin vs Bayer Leverkusen 15:30 (DAZN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79e029bce045fb1f83e76b9089166984:c1d306883aaf332d91d6addba2e9d391
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbvivzlesd/out/v1/5dd7eaa4cc54494390dafaa82447f80e/cenc.mpd
-
-#EXTINF:-1 tvg-id="unionberlinvsbayerleverkusen1530skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Union Berlin vs Bayer Leverkusen 15:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
-
-#EXTINF:-1 tvg-id="kolnvshoffenheim1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Koln vs Hoffenheim 15:30 (DAZN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ccb4517cd369b970a94b4f5c52c64fc7:685702bab29b4f91c95b18d79daf56a1
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/syrriqhmiy/out/v1/ca590ba4a049448bb1b665042cc0bbe0/cenc.mpd
-
-#EXTINF:-1 tvg-id="kolnvshoffenheim1530skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Koln vs Hoffenheim 15:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/9gSZoyFska/index.m3u8
-
 #EXTINF:-1 tvg-id="wolfsburgvsaugsburg1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Augsburg 15:30 (DAZN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fe02d6e8c87af18c55353e88fcd18b2:66114edd3e0f2bafe7932ac65260c4fd
@@ -388,6 +329,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vg68svcagh/o
 
 #EXTINF:-1 tvg-id="wolfsburgvsaugsburg1530skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Augsburg 15:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
+
+#EXTINF:-1 tvg-id="leipzigvsborussiadortmund1830onesportsfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Leipzig vs Borussia Dortmund 18:30 (ONE SPORTS FHD)
+https://601.lifesharper.com/one.m3u8
 
 #EXTINF:-1 tvg-id="leipzigvsborussiadortmund1830skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Leipzig vs Borussia Dortmund 18:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
