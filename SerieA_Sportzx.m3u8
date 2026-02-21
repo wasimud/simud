@@ -26,30 +26,30 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/phdxmg7d3e/o
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="juventusvscomo1500paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6130559bb9bb7b9b98bab654f8a645a1:96c4c904d1cd4b7b7da76709af9d54f6
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bexqfldnsw/out/v1/3b3e0cbe8dac41679da867082c472743/cenc.mpd
+
+#EXTINF:-1 tvg-id="juventusvscomo1500daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7e611d957a9e46bf15adb5e3efe3aac:d45224ba4b3577a9d8ff291ca98964a5
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bu5b4ygvco/out/v1/5661a4fc7b484c4da8fe4e7254c1a7da/cenc.mpd
+
 #EXTINF:-1 tvg-id="juventusvscomo1500beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 tvg-id="juventusvscomo1500daznitalian" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ff1f3997b334174bd839204739bd91c:c4448d6f155e1aae9673a0ab23f061a9
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fsmykkgioj/out/v1/480b8841eabc41bda2723eea0fae7242/cenc.mpd
+
 #EXTINF:-1 tvg-id="juventusvscomo1500cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (CBS Golazo)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1 tvg-id="juventusvscomo1500daznenglishaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (DAZN ENGLISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7e611d957a9e46bf15adb5e3efe3aac:d45224ba4b3577a9d8ff291ca98964a5
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bu5b4ygvco/out/v1/5661a4fc7b484c4da8fe4e7254c1a7da/cenc.mpd
-
-#EXTINF:-1 tvg-id="juventusvscomo1500paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (PARAMOUNT  - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6130559bb9bb7b9b98bab654f8a645a1:96c4c904d1cd4b7b7da76709af9d54f6
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bexqfldnsw/out/v1/3b3e0cbe8dac41679da867082c472743/cenc.mpd
-
-#EXTINF:-1 tvg-id="juventusvscomo1500daznitalianaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/juventuscomo.png" group-title="Serie A",Juventus vs Como 15:00 (DAZN ITALIAN - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ff1f3997b334174bd839204739bd91c:c4448d6f155e1aae9673a0ab23f061a9
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fsmykkgioj/out/v1/480b8841eabc41bda2723eea0fae7242/cenc.mpd
 
 #EXTINF:-1 tvg-id="leccevsinter1800tntsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
