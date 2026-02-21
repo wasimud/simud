@@ -273,10 +273,25 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/phdxmg7d3e/o
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="juventusvscomo1500paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Juventus vs Como 15:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6130559bb9bb7b9b98bab654f8a645a1:96c4c904d1cd4b7b7da76709af9d54f6
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bexqfldnsw/out/v1/3b3e0cbe8dac41679da867082c472743/cenc.mpd
+
+#EXTINF:-1 tvg-id="juventusvscomo1500daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Juventus vs Como 15:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7e611d957a9e46bf15adb5e3efe3aac:d45224ba4b3577a9d8ff291ca98964a5
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bu5b4ygvco/out/v1/5661a4fc7b484c4da8fe4e7254c1a7da/cenc.mpd
+
 #EXTINF:-1 tvg-id="juventusvscomo1500beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Juventus vs Como 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="juventusvscomo1500daznitalian" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Juventus vs Como 15:00 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ff1f3997b334174bd839204739bd91c:c4448d6f155e1aae9673a0ab23f061a9
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fsmykkgioj/out/v1/480b8841eabc41bda2723eea0fae7242/cenc.mpd
 
 #EXTINF:-1 tvg-id="juventusvscomo1500cbsgolazo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Juventus vs Como 15:00 (CBS Golazo)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -313,6 +328,11 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
+#EXTINF:-1 tvg-id="bayernmunchenvseintrachtfrankfurt1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern Munchen vs Eintracht Frankfurt 15:30 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2fe9506154c5b1fd7eac66262143bbb:c9d04da5af628c5dbd23c47a35fe5e9a
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/npqs4hkruf/out/v1/1c3ca365592748aa8003fd2823fc6b8b/cenc.mpd
+
 #EXTINF:-1 tvg-id="bayernmunchenvseintrachtfrankfurt1530onesoccerhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern Munchen vs Eintracht Frankfurt 15:30 (ONE SOCCER HD)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/one.m3u8
 
@@ -322,11 +342,26 @@ https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 #EXTINF:-1 tvg-id="bayernmunchenvseintrachtfrankfurt1530beinsportssd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern Munchen vs Eintracht Frankfurt 15:30 (beIN SPORTS SD)
 https://smarthard.click/hls/zGkz9Oc8we1P/index.m3u8
 
+#EXTINF:-1 tvg-id="unionberlinvsbayerleverkusen1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Union Berlin vs Bayer Leverkusen 15:30 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=79e029bce045fb1f83e76b9089166984:c1d306883aaf332d91d6addba2e9d391
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lbvivzlesd/out/v1/5dd7eaa4cc54494390dafaa82447f80e/cenc.mpd
+
 #EXTINF:-1 tvg-id="unionberlinvsbayerleverkusen1530skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Union Berlin vs Bayer Leverkusen 15:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 
+#EXTINF:-1 tvg-id="kolnvshoffenheim1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Koln vs Hoffenheim 15:30 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccb4517cd369b970a94b4f5c52c64fc7:685702bab29b4f91c95b18d79daf56a1
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/syrriqhmiy/out/v1/ca590ba4a049448bb1b665042cc0bbe0/cenc.mpd
+
 #EXTINF:-1 tvg-id="kolnvshoffenheim1530skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Koln vs Hoffenheim 15:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/9gSZoyFska/index.m3u8
+
+#EXTINF:-1 tvg-id="wolfsburgvsaugsburg1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Augsburg 15:30 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fe02d6e8c87af18c55353e88fcd18b2:66114edd3e0f2bafe7932ac65260c4fd
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vg68svcagh/out/v1/dd09735ecf0b4ce1a1487d3aa5f8e29f/cenc.mpd
 
 #EXTINF:-1 tvg-id="wolfsburgvsaugsburg1530skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Augsburg 15:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
