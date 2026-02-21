@@ -26,10 +26,25 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fsmykkgioj/o
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
+#EXTINF:-1 tvg-id="leccevsinter1800paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a731ea38abd85f14cf5b1b1aafb8cda5:0b83cfc6e5c28183187ec516ad87e304
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uxlktofbnq/out/v1/39fbfbe10bdb48b7affc2c922cd09f43/cenc.mpd
+
 #EXTINF:-1 tvg-id="leccevsinter1800tntsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="leccevsinter1800fubosports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f95884d03e4c747a8800fc9f53fa55e6:0aa8509408e66bd740181bf866dabced
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ktbtd0mtxs/out/v1/e12d52fbfe7e44329f2db82c54abcea6/cenc.mpd
+
+#EXTINF:-1 tvg-id="leccevsinter1800daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=321ce678fbc93d403a49bd3834e61a0e:f33e6f0098a566e75dd26d83c5f86a0f
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fi0tvgzzti/out/v1/f995b09291214991ab7412a9c42f12b1/cenc.mpd
 
 #EXTINF:-1 tvg-id="leccevsinter1800beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/lecceinter.png" group-title="Serie A",Lecce vs Inter 18:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
