@@ -142,6 +142,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/o
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD1451/index.mpd
 
+#EXTINF:-1 tvg-id="alnassrvsalhazem2000daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Nassr vs Al-Hazem 20:00 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=312b92a89711b53cedcc2584c3050222:aa6660221eeff3b1b9a65d873accac3a
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fyy71rygkw/out/v1/4fc278314ecb4e0d9e47dff2456934b1/cenc.mpd
+
 #EXTINF:-1 tvg-id="alnassrvsalhazem2000sportvbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Pro league 🇸🇦",Al-Nassr vs Al-Hazem 20:00 (SporTV BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
@@ -174,22 +179,6 @@ https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
 
 #EXTINF:-1 tvg-id="newyorkknicksvshoustonrockets0230sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",New York Knicks vs Houston Rockets 02:30 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
-
-#EXTINF:-1 tvg-id="brentfordvsbrighton1600peacockeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Brighton 16:00 (PEACOCK ENG)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd52e6e9640984a9bb53cbea489237ab:dcc5e49c18b834481aec77897fb13699
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bna4ww4hls/out/v1/d14d89eb83494641906d37d7eeb60652/cenc.mpd
-
-#EXTINF:-1 tvg-id="brentfordvsbrighton1600fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Brighton 16:00 (FUBO SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec1b93017921e7e8e68f9b9450caa7ba:5b8d1a4039f4c6e3ca9d0070d31eb410
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vh7vd2sksz/out/v1/52ae50567a3746a6bc81a46d53cf189a/cenc.mpd
-
-#EXTINF:-1 tvg-id="brentfordvsbrighton1600nowpremierfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Brighton 16:00 (NOW PREMIER FHD)
-https://601.lifesharper.com/brentford.m3u8
-
-#EXTINF:-1 tvg-id="brentfordvsbrighton1600skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Brighton 16:00 (SKY SPORTS HD)
-https://storage.googleapis.com/overgamesdjhqa1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="westhamvsbournemouth1830peacockfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",West Ham vs Bournemouth 18:30 (PEACOCK FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
