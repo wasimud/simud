@@ -185,6 +185,11 @@ https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
 #EXTINF:-1 tvg-id="newyorkknicksvshoustonrockets0230sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",New York Knicks vs Houston Rockets 02:30 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
+#EXTINF:-1 tvg-id="manchestercityvsnewcastle2100peacockfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Newcastle 21:00 (PEACOCK FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20ea43518ff93f06eb9b09a084340366:194bb66e1acd3c9881b5c2be246e3eac
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bcmzctakrm/out/v1/bac2ab944dfa4706a89ca2a7f9ea5265/cenc.mpd
+
 #EXTINF:-1 tvg-id="manchestercityvsnewcastle2100tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Newcastle 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
@@ -192,6 +197,14 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/
 
 #EXTINF:-1 tvg-id="manchestercityvsnewcastle2100skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Newcastle 21:00 (SKY SPORTS HD)
 https://storage.googleapis.com/overgamesdjhqa1/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="manchestercityvsnewcastle2100beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Newcastle 21:00 (beIN ARABIC)
+http://xcarscharge.pro:8080/bn1hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="atlmadridvsespanyol2100daznspanish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Atl. Madrid vs Espanyol 21:00 (DAZN SPANISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53b636487b8659482eed01275e46fe30:a60f279ef52f09d56036e62713877819
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vubjz6ugtr/out/v1/c73fe8e44d474b0b97f7e338d4481d3d/cenc.mpd
 
 #EXTINF:-1 tvg-id="atlmadridvsespanyol2100laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Atl. Madrid vs Espanyol 21:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -248,6 +261,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8nwtfhwmpk/o
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
 
+#EXTINF:-1 tvg-id="psgvsmetz2105daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",PSG vs Metz 21:05 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=649b5487b83e82d570575c79dd866935:4152dcc1309dd9ce6b5d57b7b68fee25
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ujodlicl8u/out/v1/54ee9b65f531435f973c6c3f8e224b08/cenc.mpd
+
 #EXTINF:-1 tvg-id="psgvsmetz2105ligue1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",PSG vs Metz 21:05 (Ligue1 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -291,12 +309,7 @@ https://smarthard.click/hls/CHbUiaHmZky/index.m3u8
 #EXTINF:-1 tvg-id="moreirensevssportingcp1900portugaltv" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Liga portugal",Moreirense vs Sporting CP 19:00 (Portugal TV)
 https://smarthard.click/hls/Q2jAZYblj3u/index.m3u8
 
-#EXTINF:-1 tvg-id="fccincinnativsatlantaunited2245fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mls 🇺🇸",FC Cincinnati vs Atlanta United 22:45 (FANCODE FHD)
+#EXTINF:-1 tvg-id="fccincinnativsatlantaunited2245foxdeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mls 🇺🇸",FC Cincinnati vs Atlanta United 22:45 (Fox Deportes)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="fccincinnativsatlantaunited2245fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Mls 🇺🇸",FC Cincinnati vs Atlanta United 22:45 (FANCODE - SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
