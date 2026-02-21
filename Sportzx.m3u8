@@ -96,20 +96,15 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 #EXTINF:-1 tvg-id="wwenxt0200backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE NXT 02:00 (Backup SD)
 https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="icct20wc011430primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (PRIME VIDEO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a
-https://otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/0r0djhe3iq/out/v1/adc4f984bb244252b29bd96adb6a7b44/cenc.mpd
-
-#EXTINF:-1 tvg-id="icct20wc011430willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (WILLOW  Ad Free )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b51d13fb40e62690e1a22805e1ad502d:f18fe0dc180b7ce0c48e8145c30e7575
-https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mf6gto31kn/out/v1/156dae6f14124e108e532882262bc92f/cenc.mpd
-
 #EXTINF:-1 tvg-id="icct20wc011430mycofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (MyCO FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4966ba118d156f99abc0b9a46bbe176:6d2a810a83250a2a0c659fd0332063dc
-https://ml-pull-rtmp-pk1.myco.io/Clean1/dash/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=29256eae859c52928db4c3fc77b01588:0371f71ce2e897e893a9532e540fbc0f
+https://ml-pull-rtmp-pk1.myco.io/Clean2/dash/index.mpd
+
+#EXTINF:-1 tvg-id="icct20wc011430willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (Willow  Ad Free )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46a38bd4e012e9551104fd55b9387bed:7cf8ceabed7e10c301a279d57f3a5230
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/cfsntvxpcw/out/v1/39cfcff3893a497ca37ca5279ac142cc/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc011430mycosd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (MyCO SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -318,18 +313,8 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
-#EXTINF:-1 tvg-id="mainz05vshamburgersv2030daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Mainz 05 vs Hamburger SV 20:30 (DAZN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c9a9d1f944d0f33d429df1ef7caadec:95fd105af7d1a28266defa3ccd18daf2
-https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/enc/rsiybqdxs3/out/v1/fda45e280d684c84aced4fd0efb8dcf7/cenc.mpd
-
-#EXTINF:-1 tvg-id="mainz05vshamburgersv2030beinsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Mainz 05 vs Hamburger SV 20:30 (beIN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
-https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(Bein3)/master.mpd
-
-#EXTINF:-1 tvg-id="mainz05vshamburgersv2030skybundesligasd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Mainz 05 vs Hamburger SV 20:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
+#EXTINF:-1 tvg-id="bayernmunchenvseintrachtfrankfurt1530onesoccerhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern Munchen vs Eintracht Frankfurt 15:30 (ONE SOCCER HD)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/one.m3u8
 
 #EXTINF:-1 tvg-id="bayernmunchenvseintrachtfrankfurt1530skybundesliga" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Bayern Munchen vs Eintracht Frankfurt 15:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
@@ -458,16 +443,6 @@ https://smarthard.click/hls/CHbUiaHmZky/index.m3u8
 
 #EXTINF:-1 tvg-id="moreirensevssportingcp1900portugaltv" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Liga portugal",Moreirense vs Sporting CP 19:00 (Portugal TV)
 https://smarthard.click/hls/Q2jAZYblj3u/index.m3u8
-
-#EXTINF:-1 tvg-id="eastbengalfcvssportingdelhi1230fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",East Bengal FC vs Sporting Delhi 12:30 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="eastbengalfcvssportingdelhi1230fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",East Bengal FC vs Sporting Delhi 12:30 (FANCODE - SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="jamshedpurvspunjab1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",Jamshedpur vs Punjab 15:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
