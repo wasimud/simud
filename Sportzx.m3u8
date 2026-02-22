@@ -184,6 +184,11 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+#EXTINF:-1 tvg-id="forestvsliverpool1500peacockeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Forest vs Liverpool 15:00 (PEACOCK ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da30992dbcd7892fe18a95ce55a0b70e:0f06a2a6955cc9b619eaaac5012820ef
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xwj3iqjur9/out/v1/883e9bebd41649308f8d657c0da0f71a/cenc.mpd
+
 #EXTINF:-1 tvg-id="forestvsliverpool1500fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Forest vs Liverpool 15:00 (FUBO SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b57181ebd8f38b0d3b1e3cbec5d9122:443ed6ac9f457647be6fca222beeaea8
@@ -193,6 +198,16 @@ https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/mt8w3qbces/out/v1/1f17e6dc76e8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0ec3ea5911909343c0273645b818ec7:de4e0ecd6374cafcfc9548dfc4ac9d57
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/mnqrbpetbp/out/v1/13ae04ebeb824856ba2f42be17628ddb/cenc.mpd
+
+#EXTINF:-1 tvg-id="palacevswolverhampton1500peacockeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Palace vs Wolverhampton 15:00 (PEACOCK ENG)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7713a0f432d870d78d31d37259272a41:913a624c35e19eb9ba2f266ab62a8a71
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8jkdixn6vo/out/v1/ab8e3d23e7ce4d67ad6653f22a9ae9fb/cenc.mpd
+
+#EXTINF:-1 tvg-id="palacevswolverhampton1500fubosportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Palace vs Wolverhampton 15:00 (FUBO SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b36f89211ad7bea934a3ed86a137b455:6b4db3b4c7133098a7b8d29835705dfc
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czmifb9zdo/out/v1/7379516920e24998ad2544a880e68a76/cenc.mpd
 
 #EXTINF:-1 tvg-id="getafevssevilla1400daznspanish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Getafe vs Sevilla 14:00 (DAZN SPANISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -292,6 +307,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="atalantavsnapoli1500paramountaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Atalanta vs Napoli 15:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9203f3dd49ac237b9b6e92ee508127b9:8ae9b8e10c44ca5d2ea542e10c7136bc
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/xmadvjl0yl/out/v1/d283047ec6f04e1a91fe3ab657d83d24/cenc.mpd
 
 #EXTINF:-1 tvg-id="atalantavsnapoli1500beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Atalanta vs Napoli 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
