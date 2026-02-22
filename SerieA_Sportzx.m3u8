@@ -21,6 +21,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/o
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="atalantavsnapoli1500paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/atalantanapoli.png" group-title="Serie A",Atalanta vs Napoli 15:00 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9203f3dd49ac237b9b6e92ee508127b9:8ae9b8e10c44ca5d2ea542e10c7136bc
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/xmadvjl0yl/out/v1/d283047ec6f04e1a91fe3ab657d83d24/cenc.mpd
+
 #EXTINF:-1 tvg-id="atalantavsnapoli1500beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/atalantanapoli.png" group-title="Serie A",Atalanta vs Napoli 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
