@@ -134,16 +134,6 @@ https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rxhxc14ikz/o
 #KODIPROP:inputstream.adaptive.license_key=597d7ef3084032b3739bfb3a1156be8c:6914989efcf9803e26eb62bb94f0688e
 https://otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/irel8nc2xz/out/v1/ef73fa5f78a14612ae832608119db7be/cenc.mpd
 
-#EXTINF:-1 tvg-id="icct20wc021430mycofhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (MyCO FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29256eae859c52928db4c3fc77b01588:0371f71ce2e897e893a9532e540fbc0f
-https://ml-pull-rtmp-pk1.myco.io/Clean2/dash/index.mpd
-
-#EXTINF:-1 tvg-id="icct20wc021430mycosd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (MyCO SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91d2beddf3e75f68b3b5abea86ae268b:f03d7f1a26cc2f58bf2b7dadd71a06f0
-https://ml-pull-rtmp-pk1.myco.io/ICC/dash/index.mpd
-
 #EXTINF:-1 tvg-id="icct20wc021430jiohotstar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
 
@@ -193,6 +183,16 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="forestvsliverpool1500fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Forest vs Liverpool 15:00 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b57181ebd8f38b0d3b1e3cbec5d9122:443ed6ac9f457647be6fca222beeaea8
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/mt8w3qbces/out/v1/1f17e6dc76e84f3bb9768b09174df3a0/cenc.mpd
+
+#EXTINF:-1 tvg-id="sunderlandvsfulham1500fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Fulham 15:00 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0ec3ea5911909343c0273645b818ec7:de4e0ecd6374cafcfc9548dfc4ac9d57
+https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/mnqrbpetbp/out/v1/13ae04ebeb824856ba2f42be17628ddb/cenc.mpd
 
 #EXTINF:-1 tvg-id="getafevssevilla1400daznspanish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Getafe vs Sevilla 14:00 (DAZN SPANISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
