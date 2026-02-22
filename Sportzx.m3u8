@@ -194,6 +194,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xwj3iqjur9/o
 #KODIPROP:inputstream.adaptive.license_key=0b57181ebd8f38b0d3b1e3cbec5d9122:443ed6ac9f457647be6fca222beeaea8
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/mt8w3qbces/out/v1/1f17e6dc76e84f3bb9768b09174df3a0/cenc.mpd
 
+#EXTINF:-1 tvg-id="forestvsliverpool1500skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Forest vs Liverpool 15:00 (SKY SPORTS HD)
+https://storage.googleapis.com/ovretungeropen2/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="sunderlandvsfulham1500fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Fulham 15:00 (FUBO SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0ec3ea5911909343c0273645b818ec7:de4e0ecd6374cafcfc9548dfc4ac9d57
@@ -204,10 +207,13 @@ https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/mnqrbpetbp/out/v1/13ae04ebeb82
 #KODIPROP:inputstream.adaptive.license_key=7713a0f432d870d78d31d37259272a41:913a624c35e19eb9ba2f266ab62a8a71
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8jkdixn6vo/out/v1/ab8e3d23e7ce4d67ad6653f22a9ae9fb/cenc.mpd
 
-#EXTINF:-1 tvg-id="palacevswolverhampton1500fubosportsaq" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Palace vs Wolverhampton 15:00 (FUBO SPORTS - AQ)
+#EXTINF:-1 tvg-id="palacevswolverhampton1500fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Palace vs Wolverhampton 15:00 (FUBO SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b36f89211ad7bea934a3ed86a137b455:6b4db3b4c7133098a7b8d29835705dfc
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/czmifb9zdo/out/v1/7379516920e24998ad2544a880e68a76/cenc.mpd
+
+#EXTINF:-1 tvg-id="palacevswolverhampton1500skysportshd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Palace vs Wolverhampton 15:00 (SKY SPORTS HD)
+https://storage.googleapis.com/ovretungeropen1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="getafevssevilla1400daznspanish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Getafe vs Sevilla 14:00 (DAZN SPANISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -279,6 +285,11 @@ https://aba5sdmaaaaaaaamdwujas5g6mg4r.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
+#EXTINF:-1 tvg-id="freiburgvsmgladbach1530daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Freiburg vs M'gladbach 15:30 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1e343daeb8d05641556dee779b59c32:b95a09b8a606845930628d43edeef9b0
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gtwip8auof/out/v1/09797baa89ad4b35a1b225b402357a3a/cenc.mpd
+
 #EXTINF:-1 tvg-id="freiburgvsmgladbach1530daznde" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Bundesliga 🇩🇪",Freiburg vs M'gladbach 15:30 (DAZN DE)
 https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8
 
@@ -313,10 +324,25 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/o
 #KODIPROP:inputstream.adaptive.license_key=9203f3dd49ac237b9b6e92ee508127b9:8ae9b8e10c44ca5d2ea542e10c7136bc
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/xmadvjl0yl/out/v1/d283047ec6f04e1a91fe3ab657d83d24/cenc.mpd
 
+#EXTINF:-1 tvg-id="atalantavsnapoli1500daznenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Atalanta vs Napoli 15:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5586bbe1c934f995c883e3866b91f548:5052785d2fbe95dc83f5a60a1d2c4902
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3mhau6p7ih/out/v1/67e0b0e45d7c434bb24b9e9b546e64b9/cenc.mpd
+
 #EXTINF:-1 tvg-id="atalantavsnapoli1500beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Atalanta vs Napoli 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="atalantavsnapoli1500fubosports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Atalanta vs Napoli 15:00 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a449602abd6e94b02e8f9dda44e0c9b5:2e3dbdb4e9e48ebafd00ad5984f4357d
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rnwcf7sbqm/out/v1/84086708a0bc422bbd9edcab7e1ecc06/cenc.mpd
+
+#EXTINF:-1 tvg-id="atalantavsnapoli1500daznitalian" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Atalanta vs Napoli 15:00 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=954a8aecf3ec55736f6fc769cf70b594:a8dc7c9c6e3f320723d402e4edafcb4a
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e3t84p27u8/out/v1/5da78cc1dad14dab976cb2d97953981c/cenc.mpd
 
 #EXTINF:-1 tvg-id="milanvsparma1800beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Milan vs Parma 18:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -337,6 +363,11 @@ https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="auxerrevsstaderennais1500daznsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Auxerre vs Stade Rennais 15:00 (DAZN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89377f1dc8fcc61d86a4279d2bfc4625:acb3810c1a5ed837272ee91df9cadb5a
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mn1nmke3i9/out/v1/9a737c9e59794bc59a8521f39263f8b0/cenc.mpd
 
 #EXTINF:-1 tvg-id="auxerrevsstaderennais1500ligue1" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ligue 1 🇫🇷",Auxerre vs Stade Rennais 15:00 (Ligue1 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -429,3 +460,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
 https://abmvm23aaaaaaaamjmmec4lqatq7x.ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="huddersfieldgiantsvswakefieldtrinity1600sport1de" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Rugby",Huddersfield Giants vs Wakefield Trinity 16:00 (SPORT1  DE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD5788/index.mpd
