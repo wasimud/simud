@@ -51,6 +51,11 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e3t84p27u8/o
 #KODIPROP:inputstream.adaptive.license_key=bdd8abd380f90c8ec7654c160e0ff970:9c93668d052e037cc72496a7ae83dc39
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cy40ve5pb5/out/v1/8280316d9d464176a3a587bca90a754a/cenc.mpd
 
+#EXTINF:-1 tvg-id="milanvsparma1800daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/milanparma.png" group-title="Serie A",Milan vs Parma 18:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6428b34ff596eeb7820b3853f792ea53:1b9e5f70aa11f8c662dcd8ad7f0aaaa6
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qynpa328dk/out/v1/86f54d3f796d4136811383af62a59e18/cenc.mpd
+
 #EXTINF:-1 tvg-id="milanvsparma1800beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/milanparma.png" group-title="Serie A",Milan vs Parma 18:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -60,6 +65,11 @@ https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="milanvsparma1800daznitalian" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/milanparma.png" group-title="Serie A",Milan vs Parma 18:00 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=837e9ce5f1f69054b405c7327219ea8d:a47144c99d6098fbe31e5c26cc57d316
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6redm2c6t5/out/v1/1ca9bb029d464dba8be28a910fec5057/cenc.mpd
 
 #EXTINF:-1 tvg-id="romavscremonese2045tntsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/romacremonese.png" group-title="Serie A",Roma vs Cremonese 20:45 (TNT Sports)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
