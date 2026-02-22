@@ -86,156 +86,6 @@
             "isHost": ""
         },
         {
-            "name": "Superbike Gara 1 - Sport Moto Gp HD",
-            "info": "06:00 Â· Superbike",
-            "online": "true",
-            "image": "https://iconape.com/wp-content/files/pa/162416/svg/162416.svg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/motohd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Torino - Dazn 1 HD (EXT CHROME)",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn1ex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Torino - Dazn 1 HD",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn1hd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Torino - Dazn 1",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Torino - Live 147",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live147.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Torino - Live 147 b",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live147b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Torino - Live 137",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live137.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Torino - Live 137 b",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live137b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Genoa - Torino - Live 7",
-            "info": "12:30 Â· Serie A",
-            "online": "true",
-            "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Campobasso - Juve NG - Sport 1 HD (EXT CHROME)",
-            "info": "12:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportunoex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Campobasso - Juve NG - Sport 1 HD",
-            "info": "12:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportuno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Campobasso - Juve NG - Sport 1",
-            "info": "12:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Atalanta U23 - Cosenza - Calcio HD (ext chrome)",
-            "info": "12:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calcioex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Atalanta U23 - Cosenza - Calcio HD",
-            "info": "12:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calciohd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Atalanta U23 - Cosenza - Calcio",
-            "info": "12:30 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Serie_C_sky_wifi_2025-2026.png/250px-Serie_C_sky_wifi_2025-2026.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calcio.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Getafe - Siviglia - Live 26",
             "info": "14:00 Â· Liga",
             "online": "true",
@@ -416,12 +266,112 @@
             "isHost": ""
         },
         {
+            "name": "Crystal Palace - Wolverhampton - Live 31",
+            "info": "15:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live31.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Sunderland - Fulham - Live 25",
+            "info": "15:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live25.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Auxerre - Nantes - Live 24",
+            "info": "15:00 Â· Ligue 1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live24.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Freiburg - Borussia M'gladbach - Sport Mix HD",
+            "info": "15:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmixhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Freiburg - Borussia M'gladbach - Sport Mix",
+            "info": "15:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmix.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Freiburg - Borussia M'gladbach - Live 23",
+            "info": "15:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live23.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Barcellona - Levante - Live 26",
             "info": "16:15 Â· Liga",
             "online": "true",
             "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live26.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Angers - Lilla - Live 24",
+            "info": "17:15 Â· Ligue 1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_Ligue_1_2024.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live24.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Tottenham - Arsenal - Live 1",
+            "info": "17:30 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Tottenham - Arsenal - Live 21",
+            "info": "17:30 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/885/76/910/premier-league-logo-fantasy-premier-league-sports-league-tottenham-hotspur-fc-chelsea-fc-football-manchester-city-fc-ukrainian-premier-league-png-clipart-thumbnail.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live21.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "St. Pauli - Werder Bremen - Live 23",
+            "info": "17:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live23.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -506,12 +456,52 @@
             "isHost": ""
         },
         {
-            "name": "Milan - Parma - Live 7",
+            "name": "Milan - Parma - Live 8",
             "info": "18:00 Â· Serie A",
             "online": "true",
             "image": "https://slyvi-hosting.slyvi.it/teampages/1480339732225/images/imported/wp-content/uploads/2021/06/logo-1.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live7.htm",
+            "url": "https://htsport.cc/live8.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Celta de Vigo - Mallorca - Live 26",
+            "info": "18:30 Â· Liga",
+            "online": "true",
+            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live26.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Heidenheim - Stuttgart - Sport Arena HD",
+            "info": "19:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/arenahd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Heidenheim - Stuttgart - Sport Arena",
+            "info": "19:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/arena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Heidenheim - Stuttgart - Live 23",
+            "info": "19:30 Â· Bundesliga",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1280px-Bundesliga_logo_%282017%29.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live23.htm",
             "embed": "true",
             "isHost": ""
         },
