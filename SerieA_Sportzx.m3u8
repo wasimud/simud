@@ -1,26 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="genoavstorino1230paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/genoatorino.png" group-title="Serie A",Genoa vs Torino 12:30 (PARAMOUNT  AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ebd987c822b681f5a37359430b44f239:0185c5341018bbd9bc5dc2b3a29ba00f
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdzgzdmnne/out/v1/a8d0d04b8e11450bb590d60e4ffb4e11/cenc.mpd
-
-#EXTINF:-1 tvg-id="genoavstorino1230beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/genoatorino.png" group-title="Serie A",Genoa vs Torino 12:30 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="genoavstorino1230cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/genoatorino.png" group-title="Serie A",Genoa vs Torino 12:30 (CBS Golazo)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-
-#EXTINF:-1 tvg-id="genoavstorino1230foxdeportes" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/genoatorino.png" group-title="Serie A",Genoa vs Torino 12:30 (Fox Deportes)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
 #EXTINF:-1 tvg-id="atalantavsnapoli1500paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/atalantanapoli.png" group-title="Serie A",Atalanta vs Napoli 15:00 (PARAMOUNT  AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9203f3dd49ac237b9b6e92ee508127b9:8ae9b8e10c44ca5d2ea542e10c7136bc
