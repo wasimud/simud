@@ -1,17 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="romavscremonese2045paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/romacremonese.png" group-title="Serie A",Roma vs Cremonese 20:45 (PARAMOUNT  AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e42860402608c3b527eb80ca2775c526:ccee3987c76af8d5ee6374db330da51d
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vrloxnrzwu/out/v1/4846f48d4a274fd3a65e302e95dd4f51/cenc.mpd
-
-#EXTINF:-1 tvg-id="romavscremonese2045tntsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/romacremonese.png" group-title="Serie A",Roma vs Cremonese 20:45 (TNT Sports)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="romavscremonese2045beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/romacremonese.png" group-title="Serie A",Roma vs Cremonese 20:45 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="noevent" tvg-logo="https://i.postimg.cc/fTHBgY5d/Chat-GPT-Image-9-feb-2026-13-35-25.png" group-title="NoEvent",Nessun Evento
+https://github.com/wasimud/simud/raw/refs/heads/main/Skymud.mp4
