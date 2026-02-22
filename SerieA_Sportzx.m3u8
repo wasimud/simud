@@ -1,6 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
+#EXTINF:-1 tvg-id="romavscremonese2045paramountaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/romacremonese.png" group-title="Serie A",Roma vs Cremonese 20:45 (PARAMOUNT  AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e42860402608c3b527eb80ca2775c526:ccee3987c76af8d5ee6374db330da51d
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vrloxnrzwu/out/v1/4846f48d4a274fd3a65e302e95dd4f51/cenc.mpd
+
 #EXTINF:-1 tvg-id="romavscremonese2045tntsports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/romacremonese.png" group-title="Serie A",Roma vs Cremonese 20:45 (TNT Sports)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
