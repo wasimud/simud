@@ -26,10 +26,25 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/o
 #KODIPROP:inputstream.adaptive.license_key=9203f3dd49ac237b9b6e92ee508127b9:8ae9b8e10c44ca5d2ea542e10c7136bc
 https://otte.live.cf.ww.aiv-cdn.net/iad-nitro/enc/xmadvjl0yl/out/v1/d283047ec6f04e1a91fe3ab657d83d24/cenc.mpd
 
+#EXTINF:-1 tvg-id="atalantavsnapoli1500daznenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/atalantanapoli.png" group-title="Serie A",Atalanta vs Napoli 15:00 (DAZN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5586bbe1c934f995c883e3866b91f548:5052785d2fbe95dc83f5a60a1d2c4902
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3mhau6p7ih/out/v1/67e0b0e45d7c434bb24b9e9b546e64b9/cenc.mpd
+
 #EXTINF:-1 tvg-id="atalantavsnapoli1500beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/atalantanapoli.png" group-title="Serie A",Atalanta vs Napoli 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="atalantavsnapoli1500fubosports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/atalantanapoli.png" group-title="Serie A",Atalanta vs Napoli 15:00 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a449602abd6e94b02e8f9dda44e0c9b5:2e3dbdb4e9e48ebafd00ad5984f4357d
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rnwcf7sbqm/out/v1/84086708a0bc422bbd9edcab7e1ecc06/cenc.mpd
+
+#EXTINF:-1 tvg-id="atalantavsnapoli1500daznitalian" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/atalantanapoli.png" group-title="Serie A",Atalanta vs Napoli 15:00 (DAZN ITALIAN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=954a8aecf3ec55736f6fc769cf70b594:a8dc7c9c6e3f320723d402e4edafcb4a
+https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e3t84p27u8/out/v1/5da78cc1dad14dab976cb2d97953981c/cenc.mpd
 
 #EXTINF:-1 tvg-id="milanvsparma1800beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/milanparma.png" group-title="Serie A",Milan vs Parma 18:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
