@@ -1,5 +1,27 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="noevent" tvg-logo="https://i.postimg.cc/fTHBgY5d/Chat-GPT-Image-9-feb-2026-13-35-25.png" group-title="NoEvent",Nessun Evento
-https://github.com/wasimud/simud/raw/refs/heads/main/Skymud.mp4
+#EXTINF:-1 tvg-id="fiorentinavspisa1830beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/fiorentinapisa.png" group-title="Serie A",Fiorentina vs Pisa 18:30 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="fiorentinavspisa1830cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/fiorentinapisa.png" group-title="Serie A",Fiorentina vs Pisa 18:30 (CBS Golazo)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+
+#EXTINF:-1 tvg-id="fiorentinavspisa1830foxdeportes" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/fiorentinapisa.png" group-title="Serie A",Fiorentina vs Pisa 18:30 (Fox Deportes)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="bolognavsudinese2045beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/bolognaudinese.png" group-title="Serie A",Bologna vs Udinese 20:45 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://aba5sdmaaaaaaaamhq2w5oosrf5ae.otte.live.cf.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="bolognavsudinese2045cbsgolazo" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/bolognaudinese.png" group-title="Serie A",Bologna vs Udinese 20:45 (CBS Golazo)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
