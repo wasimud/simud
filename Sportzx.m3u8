@@ -153,6 +153,9 @@ https://grand-s-v2.faggotsports.tv/pl_120/207676-6823160-1/chunklist.m3u8
 #EXTINF:-1 tvg-id="evertonvsmanchesterunited2100skysportsnz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Manchester United 21:00 (SKY SPORTS NZ)
 https://grand-s-v2.faggotsports.tv/pl_120/207676-6819752-1/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="evertonvsmanchesterunited2100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Manchester United 21:00 (HD SERVER)
+https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="evertonvsmanchesterunited2100beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Manchester United 21:00 (beIN ARABIC)
 http://xcarscharge.pro:8080/bn1hevc/mono.m3u8
 
@@ -170,6 +173,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="deportivoalavsvsgironafc2100espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Deportivo Alavés vs Girona FC 21:00 (ESPN DEPORTES)
+https://daffodil.833577.xyz/dep.m3u8
 
 #EXTINF:-1 tvg-id="fiorentinavspisa1830beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Serie a 🇮🇹",Fiorentina vs Pisa 18:30 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
