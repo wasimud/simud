@@ -123,36 +123,3 @@ https://cdn4.zafiles.cfd/live/cdn4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="houstonrocketsvsutahjazz0330sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Houston Rockets vs Utah Jazz 03:30 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
-#EXTINF:-1 tvg-id="evertonvsmanchesterunited2100usanetwork" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Manchester United 21:00 (USA NETWORK)
-https://grand-s-v2.faggotsports.tv/pl_118/207676-6822650-1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="evertonvsmanchesterunited2100skysportsepl" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Manchester United 21:00 (SKY SPORTS EPL)
-https://grand-s-v2.faggotsports.tv/pl_120/207676-6823160-1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="evertonvsmanchesterunited2100skysportsnz" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Manchester United 21:00 (SKY SPORTS NZ)
-https://grand-s-v2.faggotsports.tv/pl_120/207676-6819752-1/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="evertonvsmanchesterunited2100hdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Manchester United 21:00 (HD SERVER)
-https://storage.googleapis.com/fangazett/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="evertonvsmanchesterunited2100beinarabic" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Manchester United 21:00 (beIN ARABIC)
-http://xcarscharge.pro:8080/bn1hevc/mono.m3u8
-
-#EXTINF:-1 tvg-id="deportivoalavsvsgironafc2100laligatvfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Deportivo Alavés vs Girona FC 21:00 (Laliga TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
-#EXTINF:-1 tvg-id="deportivoalavsvsgironafc2100premiersports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Deportivo Alavés vs Girona FC 21:00 (Premier Sports)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="deportivoalavsvsgironafc2100fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Deportivo Alavés vs Girona FC 21:00 (Fancode FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-id="deportivoalavsvsgironafc2100espndeportes" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Laliga 🇪🇸",Deportivo Alavés vs Girona FC 21:00 (ESPN DEPORTES)
-https://daffodil.833577.xyz/dep.m3u8
