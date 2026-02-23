@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1800fiorentinapisaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:00 Fiorentina - Pisa (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b535f3b77d55a65a80ff8ff84b3d6eb:a588840973be6adb7a8f62315c218850
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771866004~exp%3D1771952404~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D411efa69872d5fa8edecae6e41a13b4666a01cd4900cc7886bbacc7c93e81614%23wm%3D1%23wmd%3D1152~hmac%3D1d59c150f7280b9c586aee4e74de6dbd230d72263e0d6fd9aab1ed896fe48187/10ldy59bly206121quinl8hp0w/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2045bolognaudineseitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Bologna - Udinese (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e799dfc0b8f75c90b5205d745e4e4cf5:6dea60b1783dc25da45836037c35de81
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1771873206~exp%3D1771959606~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6c5ca890f4d704370eea8086837df4bf631a4feb5b2519b7ceac74caf9c4b38d%23wm%3D0~hmac%3D686ee18ec921108146bc6fbee223a647d0c62c89c98ecc0ce654838785392758/irs7cpkujqsn1fuab6mfq4vbe/web/stream.mpd?channel=1346&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
