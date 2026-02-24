@@ -7,6 +7,11 @@ https://sunlau1-0-dash-pvr.zahs.tv/HD_blue_sport_2_live_ch/1771923380800/1771974
 #KODIPROP:inputstream.adaptive.license_key=1115d139f714233aa1b320a8b659c1c5:fb32238e8557cde55aed0ac0267e95bd
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772012575_s~30d2ec1d-433a-49c5-b1df-4d11e678b558_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~57_x~d9bf4483ecb9d57ed4ce899e1d3fdca7050fd671ee71ccff57987d6a9fcb307b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport252)/master_2hr-aac.mpd
 
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 INTER TV FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7313f38125a3fefd00cf7d6567ff333b:87b49a0329febb10eef514fd0f044ee2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 JUVENTUS PLAY
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 
