@@ -1,6 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ch02itaespmpd" tvg-logo="https://cdn.aptoide.com/imgs/c/4/7/c47f3187ae8f955a18b130ba84a1f1f8_fgraphic.png" group-title="LAST MINUTE",CH 02  (ITA/ESP - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydt14MFh/Chat-GPT-Image-24-feb-2026-19-56-23.png" group-title="Serie A X-Eventi",🔴 INTER - BODO GLIMT BLUE 2
+https://sunlau1-0-dash-pvr.zahs.tv/HD_blue_sport_2_live_ch/1771923380800/1771974900800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZG4ZDERSCHE3DCMKBHFDDELJSG5BTKNJWGM4TMNSFGNBTSMRWEZSHE3J5MV4HA2LSMF2GS33OHIYTONZSGUZDQMRUGITGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJVGNPTQODBG4ZDSZBWGEZTAOJXG5RDKZBSMU3WMYLDMRSTEZTDGBSTQNZGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
+#EXTINF:-1 tvg-id="skysport252" tvg-logo="https://i.postimg.cc/ydt14MFh/Chat-GPT-Image-24-feb-2026-19-56-23.png" group-title="Serie A X-Eventi",🔴 INTER - BODO GLIMT SKY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfa3eb86c9cc5d991019dbea120cd77d:a202ef83bc950ba2be18ea893b62b996
-https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/qkausaazvn/out/v1/1387f8615d604ebc884fd139bd9fadc7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=115d139f714233aa1b320a8b659c1c5:fb32238e8557cde55aed0ac0267e95bd
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772012575_s~30d2ec1d-433a-49c5-b1df-4d11e678b558_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~57_x~d9bf4483ecb9d57ed4ce899e1d3fdca7050fd671ee71ccff57987d6a9fcb307b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport252)/master_2hr-aac.mpd
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/ydt14MFh/Chat-GPT-Image-24-feb-2026-19-56-23.png" group-title="Serie A X-Eventi",🔴 INTER TV FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=313f38125a3fefd00cf7d6567ff333b:87b49a0329febb10eef514fd0f044ee2
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ekeomalvg7/out/v1/f63288f993e6470580623d7b9b45efb0/cenc.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydt14MFh/Chat-GPT-Image-24-feb-2026-19-56-23.png" group-title="Serie A X-Eventi",🔴 JUVENTUS PLAY
+https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydt14MFh/Chat-GPT-Image-24-feb-2026-19-56-23.png" group-title="Serie A X-Eventi",🔴 LAZIO STYLE
+https://livesg.sslazio.hiway.media/restreamer/sslazio_client/gpu-a-c0-7/restreamer/outgest/72343a76-93b8-47f2-80e0-c26afdfe1185/h264_1080p_manifest.m3u8
