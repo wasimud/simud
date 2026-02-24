@@ -36,12 +36,42 @@
             "isHost": ""
         },
         {
+            "name": "Atl Madrid - Bruges - Live 139",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live139.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Atl Madrid - Bruges - Live 139 b",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live139b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Atl Madrid - Bruges - Live 7",
             "info": "18:45 Â· Champions L.",
             "online": "true",
             "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Calcio 1 HD (ext chrome)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio1ex.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -116,6 +146,26 @@
             "isHost": ""
         },
         {
+            "name": "Inter - Bodo Glim - Live 139",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live139.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Inter - Bodo Glim - Live 139 b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live139b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Inter - Bodo Glim - Live 7",
             "info": "21:00 Â· Champions L.",
             "online": "true",
@@ -146,6 +196,26 @@
             "isHost": ""
         },
         {
+            "name": "Bayer Leverkusen - Olympiacos - Live 140",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live140.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Bayer Leverkusen - Olympiacos - Live 140 b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live140b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Bayer Leverkusen - Olympiacos - Live 23",
             "info": "21:00 Â· Champions L.",
             "online": "true",
@@ -172,6 +242,26 @@
             "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/sportmax.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Newcastle - Qarabag - Live 138",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live138.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Newcastle - Qarabag - Live 138 b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://img.icons8.com/p1em/1200/uefa-champions.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live138b.htm",
             "embed": "true",
             "isHost": ""
         },
