@@ -1,11 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 INTER - BODO GLIMT BLUE 2
-https://sunlau1-0-dash-pvr.zahs.tv/HD_blue_sport_2_live_ch/1771923380800/1771974900800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZG4ZDERSCHE3DCMKBHFDDELJSG5BTKNJWGM4TMNSFGNBTSMRWEZSHE3J5MV4HA2LSMF2GS33OHIYTONZSGUZDQMRUGITGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJVGNPTQODBG4ZDSZBWGEZTAOJXG5RDKZBSMU3WMYLDMRSTEZTDGBSTQNZGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
-
-#EXTINF:-1 tvg-id="skysport252" tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 INTER - BODO GLIMT SKY
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 DAZN 1 ITA (ILIAD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115d139f714233aa1b320a8b659c1c5:fb32238e8557cde55aed0ac0267e95bd
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772012575_s~30d2ec1d-433a-49c5-b1df-4d11e678b558_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~57_x~d9bf4483ecb9d57ed4ce899e1d3fdca7050fd671ee71ccff57987d6a9fcb307b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport252)/master_2hr-aac.mpd
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dcs-ak-livedazn.akamaized.net/@st%3D1771659567~exp%3D1771745967~acl%3D%2F*~id%3D70d2a2d6db3d~data%3Dcountry%3Dit%23asn%3D29447%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D53304b2e8c092ed66b5666499bea55dc9f17570f682a0413aeaf69034cef3f69~hmac%3Dec87573333a0070bd9caa16fdbdc2c40febeed30c65f61acc97cd1a0e444a45f/dash/dazn-linear-206/stream.mpd?p=web
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 DAZN 1 ITA (TIM)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+https://dct-ak-livedazn.akamaized.net/@st%3D1771767446~exp%3D1771853846~acl%3D%2F*~id%3D70d2a2d6db3d~data%3Dcountry%3Dit%23asn%3D3269%23path%3D1s%2C2d%23hashp%3D7146d3dea70044f8d191494cbaf9b170539059551a801458f7e9193ddef7835d%23hashua%3D53304b2e8c092ed66b5666499bea55dc9f17570f682a0413aeaf69034cef3f69~hmac%3D29535325b6390f065beb6a0801abe3aa86c4198cbefc446903224080ea5f8d7c/dash/dazn-linear-206/stream.mpd?p=web
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 DAZN COMBAT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-502/stream.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 DAZN FAST DE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 DAZN RINGSIDE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99f2d8b38451875101393cfda6cc5e77:3d32bdfa5fe52cf74567eb20716b5a65
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/3akahygf9y/out/v1/cc0ca029222b46b3a36e610e0a85fe91/cenc.mpd
 
 #EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 INTER TV FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -17,3 +34,8 @@ https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 LAZIO STYLE
 https://livesg.sslazio.hiway.media/restreamer/sslazio_client/gpu-a-c0-7/restreamer/outgest/72343a76-93b8-47f2-80e0-c26afdfe1185/h264_1080p_manifest.m3u8
+
+#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="Serie A X-Eventi",🔴 MILAN TV FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=602f114e6caa09eb9ec0dc18d0b01cb0:0c433e2a2157f7c1e240ad7eac62d604
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/jsqfhask6w/out/v1/e70dcd0f1e684592a3db4bbe7feee0fa/cenc.mpd
