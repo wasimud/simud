@@ -190,15 +190,57 @@ https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="realmadridvsbenfica2100tntbrazilfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Benfica 21:00 (TNT BRAZIL FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26a61860ec370b099baff034bbb7ae82:6dfa730bcca7baa220d9525bf49439fa
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/spbbd6tztz/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
+
+#EXTINF:-1 tvg-id="realmadridvsbenfica2100psnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Benfica 21:00 (PSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
+
+#EXTINF:-1 tvg-id="realmadridvsbenfica2100spxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Benfica 21:00 (SPX - FHD)
+https://grand-s-v2.faggotsports.tv/pl_120/207676-6827314-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="realmadridvsbenfica2100tudnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Real Madrid vs Benfica 21:00 (TUDN SPORTS)
+https://daffodil.lifesharper.com/tudn.m3u8
+
 #EXTINF:-1 tvg-id="psgvsasmonaco2100tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",PSG vs AS Monaco 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
+#EXTINF:-1 tvg-id="psgvsasmonaco2100tntbrazilfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",PSG vs AS Monaco 21:00 (TNT BRAZIL FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab43088dceee340be7c933525c974191:e0822adf56dc6e47a189f7c2144e1b86
+https://abkv2pvaaaaaaaame22cuxst5r554.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/r5y8extnum/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="psgvsasmonaco2100psnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",PSG vs AS Monaco 21:00 (PSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn3.skygo.mn/live/disk1/PSN3/DASH-FTA/PSN3.mpd
+
+#EXTINF:-1 tvg-id="psgvsasmonaco2100spxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",PSG vs AS Monaco 21:00 (SPX - FHD)
+https://grand-s-v2.faggotsports.tv/pl_120/207676-6827316-1/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="juventusvsgalatasaray2100tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Juventus vs Galatasaray 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="juventusvsgalatasaray2100tntbrazilfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Juventus vs Galatasaray 21:00 (TNT BRAZIL FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2613c87825b69f7cbda631310857cff9:7ac6e2642934d4502fd20e763fa6447f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/dv6u4wyiie/out/v1/b3588cbd51284a0bae4bf28e325925b8/cenc.mpd
+
+#EXTINF:-1 tvg-id="juventusvsgalatasaray2100psnsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Juventus vs Galatasaray 21:00 (PSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
+
+#EXTINF:-1 tvg-id="juventusvsgalatasaray2100spxfhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Ucl",Juventus vs Galatasaray 21:00 (SPX - FHD)
+https://grand-s-v2.faggotsports.tv/pl_120/207676-6827320-1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="stokecityvsoxfordunited2100beinenglish" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Stoke City vs Oxford United 21:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
