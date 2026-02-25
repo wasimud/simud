@@ -1,0 +1,93 @@
+name: XROM Scraper
+
+on:
+  workflow_dispatch:  # Permette di eseguire il workflow manualmente
+  schedule:
+    - cron: '*/5 * * * *'  # Attenzione: ogni 5 minuti → potrebbe essere troppo frequente!
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACTIONS_TOKEN }}   # se serve per push con permessi
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'   # meglio 3.11 o 3.12 nel 2026 (3.9 è un po' vecchio)
+
+      - name: Install system dependencies + Google Chrome
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y \
+            wget \
+            unzip \
+            fonts-liberation \
+            libappindicator3-1 \
+            libasound2t64 \
+            libatk-bridge2.0-0 \
+            libatk1.0-0 \
+            libcairo2 \
+            libcups2 \
+            libdbus-1-3 \
+            libexpat1 \
+            libfontconfig1 \
+            libgbm1 \
+            libglib2.0-0 \
+            libgtk-3-0 \
+            libnspr4 \
+            libnss3 \
+            libpango-1.0-0 \
+            libpangocairo-1.0-0 \
+            libstdc++6 \
+            libx11-6 \
+            libx11-xcb1 \
+            libxcb1 \
+            libxcomposite1 \
+            libxcursor1 \
+            libxdamage1 \
+            libxext6 \
+            libxfixes3 \
+            libxi6 \
+            libxrandr2 \
+            libxrender1 \
+            libxss1 \
+            libxtst6 \
+            xdg-utils
+
+          # Installa Google Chrome stable (metodo ufficiale)
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update -y
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install Python dependencies (Selenium + webdriver-manager + pyperclip)
+        run: |
+          python -m pip install --upgrade pip
+          pip install --upgrade selenium webdriver-manager pyperclip
+
+      - name: Verifica Chrome e ChromeDriver
+        run: |
+          google-chrome --version || echo "Chrome non trovato"
+          python -c "from webdriver_manager.chrome import ChromeDriverManager; print(ChromeDriverManager().install())"
+
+      - name: Run Xrom Scraper
+        env:
+          GITHUB_WORKSPACE: ${{ github.workspace }}
+          # Se usi variabili segrete per email/password:
+          # EMAIL: ${{ secrets.EMAIL }}
+          # PASSWORD: ${{ secrets.PASSWORD }}
+        run: python XEV.py
+
+      - name: Commit and push updated M3U8 file
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add XEV.m3u8
+          git commit -m "Aggiornato file M3U8 con nuovi flussi" || echo "Nessun cambiamento da committare"
+          git push origin main --force
+        continue-on-error: true
