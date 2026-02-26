@@ -1,42 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",DAZN 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",DAZN 1
 https://cc.screenify.shop:8080/stream/229/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport 24
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport 24
 https://cc.screenify.shop:8080/stream/238/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport Arena
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport Arena
 https://cc.screenify.shop:8080/stream/235/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport Basket
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport Basket
 https://cc.screenify.shop:8080/stream/239/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport Calcio
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport Calcio
 https://cc.screenify.shop:8080/stream/232/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport F1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport F1
 https://cc.screenify.shop:8080/stream/231/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport Golf
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport Golf
 https://cc.screenify.shop:8080/stream/237/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport Legend
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport Legend
 https://cc.screenify.shop:8080/stream/240/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport Max
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport Max
 https://cc.screenify.shop:8080/stream/236/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport Mix
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport Mix
 https://cc.screenify.shop:8080/stream/241/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport MotoGP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport MotoGP
 https://cc.screenify.shop:8080/stream/234/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport Tennis
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport Tennis
 https://cc.screenify.shop:8080/stream/233/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Sky Sport Uno
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="MediaChannels",Sky Sport Uno
 https://cc.screenify.shop:8080/stream/230/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvQ3kS1S/Sky-Sport-Serie-A.png" group-title="X-Eventi",Show
-https://cc.screenify.shop:8080/stream/229/index.m3u8?token=T4Nz6WCt2Uwlqma4
