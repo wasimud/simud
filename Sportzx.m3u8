@@ -93,21 +93,19 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/o
 #EXTINF:-1 tvg-id="wwe0200backupsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Wwe",WWE 02:00 (BACKUP SD)
 https://android-database1.firebase-api.com/AccessLog2/108087_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="icct20wc011030primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 10:30 (PRIME VIDEO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=baafdb8ebcbbc0655332291da6f121da:60ac892e0ea0b2c46fc6837c97ed641a
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wwrmho82pc/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd
-
 #EXTINF:-1 tvg-id="icct20wc011030willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 10:30 (Willow  Ad Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c4fe716d926b58acf96d2601c49c9a8:6085d18c6d0b2b3224775cd9574cfffc
-https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/i9fxh64xxy/out/v1/0145dd15df3140c28090af644baba263/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c2b62ac895c98d017a3d052b81f1df6a:287e12308bc12010e93df2517c8a9069
+https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pv5ebsf2wy/out/v1/e4c42e4a662a43d5a77b07dcf9696206/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc011030jiohotstar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 10:30 (JIO HOTSTAR)
-https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
+https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc011030willowhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 10:30 (WILLOW HD)
 https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
+
+#EXTINF:-1 tvg-id="icct20wc011030starsporthin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 10:30 (Star Sport HIN)
+http://103.99.249.139/starsport2/index.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc021430primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -147,3 +145,28 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash-sd/enc/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="stuttgartvsceltic1845tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Stuttgart vs Celtic 18:45 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="nottinghamforestvsfenerbahe2100tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Nottingham Forest vs Fenerbahçe 21:00 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="santosvsvascodagama2300premiererbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Santos vs Vasco da Gama 23:00 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-id="santosvsvascodagama2300sportvbr" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Santos vs Vasco da Gama 23:00 (SporTV BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+#EXTINF:-1 tvg-id="santosvsvascodagama2300sportdigitalfussball" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Brasileirão",Santos vs Vasco da Gama 23:00 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
