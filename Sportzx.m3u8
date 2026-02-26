@@ -107,20 +107,10 @@ https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc011030starsporthin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 10:30 (Star Sport HIN)
 http://103.99.249.139/starsport2/index.m3u8
 
-#EXTINF:-1 tvg-id="icct20wc021430primevideo" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (PRIME VIDEO)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
-https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/dash/enc/xanygn4vv8/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd
-
-#EXTINF:-1 tvg-id="icct20wc021430primevidhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (PRIME VID  HIN )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b1768e88fe20087baaa029ece65cc59:8ab5b1d0808ac9e3811750a0713d114e
-https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rxhxc14ikz/out/v1/bb976c39247941f3b4c9fa0a0735426d/cenc.mpd
-
 #EXTINF:-1 tvg-id="icct20wc021430willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (WILLOW  Ad Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=597d7ef3084032b3739bfb3a1156be8c:6914989efcf9803e26eb62bb94f0688e
-https://otte.live.cf.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/irel8nc2xz/out/v1/ef73fa5f78a14612ae832608119db7be/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c2b62ac895c98d017a3d052b81f1df6a:287e12308bc12010e93df2517c8a9069
+https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pv5ebsf2wy/out/v1/e4c42e4a662a43d5a77b07dcf9696206/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021430jiohotstar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
@@ -134,7 +124,7 @@ https://cdn39591467.blazingcdn.net/dx14sd/index.m3u8
 #EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE - SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
