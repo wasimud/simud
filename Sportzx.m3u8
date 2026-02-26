@@ -121,15 +121,20 @@ https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc021430willowsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (Willow SD)
 https://cdn39591467.blazingcdn.net/dx14sd/index.m3u8
 
-#EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
+#EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE ENG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=123af6f785604f73a7cd170cf9039d74:a16352a92bd1595762f91d83c4e74901
+https://in-mc-flive.fancode.com/mumbai/140445_english_dash_5499_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1500fancodesd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE - SD)
+#EXTINF:-1 tvg-id="islvsisl1500fancodemal" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=bb66a908311b4b2f8c3c9c44c2427ba1:96175f5e0153a5c8c058821427e958a1
+https://in-mc-flive.fancode.com/mumbai/140445_malayalam_dash_78779_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1500fancodeban" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BAN )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=608c641226c84aae9d2c0b4eb10fd8f2:32d0f48a3045929f0d952da008b44c63
+https://in-mc-flive.fancode.com/mumbai/140445_bengali_dash_52674_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="australiawvsindiaw0450tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Cricket",Australia W vs India W 04:50 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
