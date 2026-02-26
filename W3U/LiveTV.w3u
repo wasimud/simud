@@ -11,6 +11,20 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Logo_of_RAI_%282016%29.svg/1200px-Logo_of_RAI_%282016%29.svg.png",
       "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/digitale.m3u8",
       "import": true
+    },
+    {
+      "name": "Sky Sport IPTV",
+      "author": "Simud",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Sky_Sport_DE_Logo_2020.svg/960px-Sky_Sport_DE_Logo_2020.svg.png",
+      "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/IPTV.m3u8",
+      "import": true
+    },
+    {
+      "name": "Serie A Non Sempre Funzionante",
+      "author": "Simud",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png",
+      "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/XEV.m3u8",
+      "import": true
     }
   ]
 }
