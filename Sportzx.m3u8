@@ -107,13 +107,23 @@ https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc011030starsporthin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 10:30 (Star Sport HIN)
 http://103.99.249.139/starsport2/index.m3u8
 
+#EXTINF:-1 tvg-id="icct20wc021430primevideng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (PRIME VID  ENG )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdx0scnjmm/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd
+
+#EXTINF:-1 tvg-id="icct20wc021430primevidhin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (PRIME VID  HIN )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3319513445704d17b607969c9b4bd5b2:64a75c66e40be8177f4893104722700a
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/wdqtgxqtpr/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
+
 #EXTINF:-1 tvg-id="icct20wc021430willowadfree" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (WILLOW  Ad Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2b62ac895c98d017a3d052b81f1df6a:287e12308bc12010e93df2517c8a9069
-https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/pv5ebsf2wy/out/v1/e4c42e4a662a43d5a77b07dcf9696206/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f52a73212bdd837dc6849b688dff8194:d8c8ba05bae74b70d5f57f4e104eafeb
+https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdj8kklfbb/out/v1/6433098763394c0a8552dd92e8da40dc/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021430jiohotstar" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (JIO HOTSTAR)
-https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
+https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc021430willowhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (Willow HD)
 https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
@@ -121,10 +131,20 @@ https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc021430willowsd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 14:30 (Willow SD)
 https://cdn39591467.blazingcdn.net/dx14sd/index.m3u8
 
-#EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE ENG)
+#EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=123af6f785604f73a7cd170cf9039d74:a16352a92bd1595762f91d83c4e74901
 https://in-mc-flive.fancode.com/mumbai/140445_english_dash_5499_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1500fancodehin" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  HIN )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd6c1868c5df4beeb8df1b4745731ffb:0fa9bf2ba7703ebecd58a6c0139d85c2
+https://in-mc-flive.fancode.com/mumbai/140445_hindi_dash_92255_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodemal" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -141,10 +161,40 @@ https://in-mc-flive.fancode.com/mumbai/140445_bengali_dash_52674_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="indianapacersvscharlottehornets0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Indiana Pacers vs Charlotte Hornets 01:00 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="philadelphia76ersvsmiamiheat0100sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Philadelphia 76ers vs Miami Heat 01:00 (SD SERVER)
+https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="atlantahawksvswashingtonwizards0130sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Atlanta Hawks vs Washington Wizards 01:30 (SD SERVER)
+https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+
+#EXTINF:-1 tvg-id="brooklynnetsvssanantoniospurs0130sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Brooklyn Nets vs San Antonio Spurs 01:30 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
+#EXTINF:-1 tvg-id="orlandomagicvshoustonrockets0130sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Orlando Magic vs Houston Rockets 01:30 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="chicagobullsvstrailblazers0200sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Chicago Bulls vs Trail Blazers 02:00 (SD SERVER)
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
+#EXTINF:-1 tvg-id="dallasmavericksvssacramentokings0230sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Dallas Mavericks vs Sacramento Kings 02:30 (SD SERVER)
+https://smarthard.click/hls/kl434PVmNnx/index.m3u8
+
+#EXTINF:-1 tvg-id="phoenixsunsvslosangeleslakers0300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Phoenix Suns vs Los Angeles Lakers 03:00 (SD SERVER)
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
+#EXTINF:-1 tvg-id="utahjazzvsneworleanspelicans0300sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Utah Jazz vs New Orleans Pelicans 03:00 (SD SERVER)
+https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
+
+#EXTINF:-1 tvg-id="clippersvsminnesotatimberwolves0400sdserver" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Nba",Clippers vs Minnesota Timberwolves 04:00 (SD SERVER)
+https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
+
 #EXTINF:-1 tvg-id="stuttgartvsceltic1845tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Stuttgart vs Celtic 18:45 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-id="nottinghamforestvsfenerbahe2100tntsports" tvg-logo="https://i.postimg.cc/xdhSY2xq/does-anyone-have-transparent-sportzx-icons-they-can-share-v0-wyufeqaxobff1.png" group-title="Uefa europa",Nottingham Forest vs Fenerbahçe 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
