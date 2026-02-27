@@ -270,8 +270,14 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 tvg-id="baakehirfkvskonyaspor1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Başakşehir FK vs Konyaspor 18:00 (SportzX Live)
+https://live.alilicloud.com/live/066c51b6d7cb0bf3d43a7317331c54a7/playlist.m3u8
+
 #EXTINF:-1 tvg-id="baakehirfkvskonyaspor1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Başakşehir FK vs Konyaspor 18:00 (beIN SPORTS)
 https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
+
+#EXTINF:-1 tvg-id="trabzonsporvskaragmrk1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Trabzonspor vs Karagümrük 18:00 (SportzX Live)
+https://live.alilicloud.com/live/0140929c0ffb0ceaabc1c59a2666ea2c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="trabzonsporvskaragmrk1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Trabzonspor vs Karagümrük 18:00 (beIN SPORTS)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
