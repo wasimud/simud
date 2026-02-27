@@ -5,3 +5,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="parmavscagliari2045sportzxlive" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/parmacagliari.png" group-title="Serie A",Parma vs Cagliari 20:45 (SportzX Live)
+https://live.alilicloud.com/live/7f89cec364d601dc1890fb30c050a151/playlist.m3u8
