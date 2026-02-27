@@ -35,17 +35,17 @@ https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-#EXTINF:-1 tvg-id="motogp0900tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Motogp",MotoGP 09:00 (TNT SPORTS)
+#EXTINF:-1 tvg-id="motogp0445tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Motogp",MotoGP 04:45 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="motogp0900fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Motogp",MotoGP 09:00 (FANCODE FHD)
+#EXTINF:-1 tvg-id="motogp0445fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Motogp",MotoGP 04:45 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="motogp0900spotvaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Motogp",MotoGP 09:00 (SPO TV - AQ)
+#EXTINF:-1 tvg-id="motogp0445spotvaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Motogp",MotoGP 04:45 (SPO TV - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
@@ -122,40 +122,30 @@ https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc011430starsporthin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (Star Sport HIN)
 http://103.99.249.139/starsport2/index.m3u8
 
-#EXTINF:-1 tvg-id="islvsisl1200fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:00 (FANCODE FHD)
+#EXTINF:-1 tvg-id="islvsisl1230fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1200fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:00 (FANCODE  ENG )
+#EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=123af6f785604f73a7cd170cf9039d74:a16352a92bd1595762f91d83c4e74901
 https://in-mc-flive.fancode.com/mumbai/140445_english_dash_5499_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1200fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:00 (FANCODE  HIN )
+#EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd6c1868c5df4beeb8df1b4745731ffb:0fa9bf2ba7703ebecd58a6c0139d85c2
 https://in-mc-flive.fancode.com/mumbai/140445_hindi_dash_92255_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1200fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:00 (FANCODE  MAL )
+#EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bb66a908311b4b2f8c3c9c44c2427ba1:96175f5e0153a5c8c058821427e958a1
 https://in-mc-flive.fancode.com/mumbai/140445_malayalam_dash_78779_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1200fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:00 (FANCODE  BAN )
+#EXTINF:-1 tvg-id="islvsisl1230fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BAN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=608c641226c84aae9d2c0b4eb10fd8f2:32d0f48a3045929f0d952da008b44c63
 https://in-mc-flive.fancode.com/mumbai/140445_bengali_dash_52674_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="australiawvsindiaw0450tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Australia W vs India W 04:50 (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="australiawvsindiaw0450willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Australia W vs India W 04:50 (WILLOW FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-id="alhazemvsalettifaq2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Hazem vs Al-Ettifaq 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -265,6 +255,14 @@ https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
 
 #EXTINF:-1 tvg-id="trabzonsporvskaragmrk1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Trabzonspor vs Karagümrük 18:00 (beIN SPORTS)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
+
+#EXTINF:-1 tvg-id="ucldraw1200knockoutdrawro16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",ucl draw 12:00 (Knockout Draw RO16)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=54bdbf79189a42589cec2a3fc4d40dbf:4bd4418ad28a4b3886ab140a9f8fc3af
+https://dice-live-eu.akamaized.net/hdntl=exp=1772274978~acl=*dash%2flive%2f2019665%2f299234-317551%2f*!*dash%2flive%2f2019665-b%2f299234-317551-b%2f*~id=abc9aa2b-a2cf-4f81-b269-afd39f4837bb~data=hdntl,dWlkPXdCalBrTnw5OGRjOTU1ZC0yM2Q0LTRmZDItYTVhOC1jOTg2NDc1NzAxNDUmaXA9MTE4LjE3OS4xODQuNTEmZXhwPTE3NzIyNzUwMDcmZWlkPTI5OTIzNCZjaWQ9ZGNlLnVlZmF0diZvaWQ9MTk2JnR5cGU9TElWRQ~hmac=e798f8e962b69cc60e4f457980de000978c3bd8dbae5e12cdbf7cc3d64836f40/dash/live/2019665/299234-317551/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="ucldraw1200uefatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",ucl draw 12:00 (UEFA TV)
+https://live-uefa-com.akamaized.net/hls/live/2036934/270226_UCLR16QFSFF/master.m3u8
 
 #EXTINF:-1 tvg-id="ucldraw1200tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",ucl draw 12:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
