@@ -157,18 +157,6 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="dallasmavericksvssacramentokings0230sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Dallas Mavericks vs Sacramento Kings 02:30 (SD SERVER)
-https://smarthard.click/hls/kl434PVmNnx/index.m3u8
-
-#EXTINF:-1 tvg-id="phoenixsunsvslosangeleslakers0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Phoenix Suns vs Los Angeles Lakers 03:00 (SD SERVER)
-https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
-
-#EXTINF:-1 tvg-id="utahjazzvsneworleanspelicans0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Utah Jazz vs New Orleans Pelicans 03:00 (SD SERVER)
-https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
-
-#EXTINF:-1 tvg-id="clippersvsminnesotatimberwolves0400sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Clippers vs Minnesota Timberwolves 04:00 (SD SERVER)
-https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
-
 #EXTINF:-1 tvg-id="alhazemvsalettifaq2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Hazem vs Al-Ettifaq 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -193,3 +181,16 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD1451/index.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330vixespanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (VIX ESPANOL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ebfbc0bb025210a68407116ca2f8742:e82ad032a7261d079ba7a9a360ceede1
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vuu3gcknb0/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (PSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn3.skygo.mn/live/disk1/SPSPrime/DASH-FTA/SPSPrime.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (SD SERVER)
+https://legoz.site/e4/tracks-v1a1/mono.m3u8
