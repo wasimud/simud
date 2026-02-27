@@ -1,10 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="2045parmacagliariitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Parma - Cagliari  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43c12cdc43395595bdd38824d355474a:02baad68ee4a0461b45ead4b56bcb208
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772217903~exp%3D1772304303~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D9c563d2b511fef527101394a6a6a806feb94189216d296b89471e3b1b5e6c1c3%23wm%3D1%23wmd%3D1152~hmac%3Db7e9984cc2a2fbcb918c062d718617ffd8fe1bbcec5f3484c2057c13753e18d1/1q1rqzwnwar1g19cdwp7gw36o5/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="1900monzavirtusentellaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",19:00 Monza - Virtus Entella  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67f7813271f35897bb997b314c14da01:c2c2a6d0cfb7b363b171a57865772002
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772214604~exp%3D1772301004~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D7a561b1a8585882fbe232682ab0ad62f6da74cefd8f9e5faf5d2bfb527f7ff23%23wm%3D0~hmac%3De0ed798e697bb0fcaed032ecc6be541bdc7b5678ce8cfd2fc2968c49cd81ae0c/191m51ph5i2s9zkklv83bv25s/web/stream.mpd?channel=3941&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2100sampdoriabariitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",21:00 Sampdoria - Bari  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=554e264db25a5fdb92249e44ae250953:99c074a2fe8528e8775961f499fa5021
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772221804~exp%3D1772308204~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Def084d30ed4d3c0935a7cc65c727fc72275f586f3544c10075c44608fa19741f%23wm%3D0~hmac%3D0304c3c7be29e5a60b16779c82647e03a53a52010e686173672b4045102a141e/1tl25zl4mle5m17mdgcxa8r3s6/web/stream.mpd?channel=3940&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
