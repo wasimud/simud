@@ -127,35 +127,35 @@ https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc011430starsporthin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (Star Sport HIN)
 http://103.99.249.139/starsport2/index.m3u8
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE FHD)
+#EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  ENG )
+#EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=895a8e55a03f485283280795816ed10d:0188afe4fd8389ddd9b764a0ffbcb7b2
-https://in-mc-flive.fancode.com/mumbai/140446_english_dash_4478_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=e2882318bbda49e6ba444eed32cec557:e07853d34f978c308343cfa62556b0e8
+https://in-mc-flive.fancode.com/mumbai/140447_english_dash_85935_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  HIN )
+#EXTINF:-1 tvg-id="islvsisl1500fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e180decaf610482c8b62af8ac9dcc20d:3f552936a4c79d121c4fae4647009f18
-https://in-mc-flive.fancode.com/mumbai/140446_hindi_dash_69097_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=ba78762aef6442f796bda2e2a5cf8839:1fd40be4a26d8cd63e8897b492db57ef
+https://in-mc-flive.fancode.com/mumbai/140447_hindi_dash_96446_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  MAL )
+#EXTINF:-1 tvg-id="islvsisl1500fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=54bae023cf9042a5820659f1dd505b81:8fc009442453c0fcc902c994a45eda72
-https://in-mc-flive.fancode.com/mumbai/140446_malayalam_dash_79618_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=d05041f094904e41831324184490d477:2e4ee5a087795c96630d08828073f172
+https://in-mc-flive.fancode.com/mumbai/140447_malayalam_dash_25752_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BAN )
+#EXTINF:-1 tvg-id="islvsisl1500fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BAN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3b752b78f9343099dc317d930a5ccda:0ba74bd0775bad8c28159dc149bbd3a8
-https://in-mc-flive.fancode.com/mumbai/140446_bengali_dash_48329_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c004304cb8444db8b19e297b9631087f:45b1094c579e18327767778d07c5316e
+https://in-mc-flive.fancode.com/mumbai/140447_bengali_dash_95908_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodebd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BD )
+#EXTINF:-1 tvg-id="islvsisl1500fancodebd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BD )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf568fb0ea054e839a87a79e12e24d19:d47dcb08ac28d20ede339ee3b383f89b
-https://bd-mc-flive.fancode.com/delhi/140446_english_dash_93802_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=9f905e7587ec40c8b8c2d245c2a7789d:2aa8dc98686cf984eb3638dc417db265
+https://bd-mc-flive.fancode.com/delhi/140447_english_dash_37923_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="alhazemvsalettifaq2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Hazem vs Al-Ettifaq 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
