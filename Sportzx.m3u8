@@ -250,6 +250,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
+#EXTINF:-1 tvg-id="realoviedovsatlticomadrid2100skylaliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Oviedo vs Atlético Madrid 21:00 (SKY LALIGA)
+https://daffodil.serverbandel.sbs/barca.m3u8
+
 #EXTINF:-1 tvg-id="borussiadortmundvsbayernmnchen1830beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Bayern München 18:30 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -278,6 +281,9 @@ https://bbb.exoadash.com/TVD2083/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
+
+#EXTINF:-1 tvg-id="lehavrevspsg2105beinespanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Le Havre vs PSG 21:05 (beIN ESPANOL)
+https://601.serverbandel.sbs/beines.m3u8
 
 #EXTINF:-1 tvg-id="intervsgenoa2045beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Inter vs Genoa 20:45 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
