@@ -143,6 +143,9 @@ https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc011430starsporthin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (Star Sport HIN)
 http://103.99.249.139/starsport2/index.m3u8
 
+#EXTINF:-1 tvg-id="icct20wc011430jiohotstarhin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (JIO HOTSTAR  HIN )
+https://cloud.odysee.live/content/99a872d96a2f8461496e2e68c0c7861c86b939c5/live.m3u8
+
 #EXTINF:-1 tvg-id="islvsisl1230fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
@@ -275,6 +278,12 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="rayovallecanovsathleticclub1400dazneng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Rayo Vallecano vs Athletic Club 14:00 (DAZN ENG)
+https://grand-s-v001.faggotsports.tv/out/v1/a643f0a6298749a226cd169e39f60f05/mix-stream.m3u8
+
+#EXTINF:-1 tvg-id="rayovallecanovsathleticclub1400espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Rayo Vallecano vs Athletic Club 14:00 (ESPN DEPORTES)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/dep.m3u8
 
 #EXTINF:-1 tvg-id="barcelonavsvillarreal1615laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Barcelona vs Villarreal 16:15 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
