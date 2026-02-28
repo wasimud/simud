@@ -220,26 +220,14 @@ https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 #EXTINF:-1 tvg-id="utahjazzvsneworleanspelicans0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Utah Jazz vs New Orleans Pelicans 03:30 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
-#EXTINF:-1 tvg-id="neomscvsalkholood2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Neom SC vs Al-Kholood 20:00 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1403/index.mpd
-
-#EXTINF:-1 tvg-id="alnajmascvsalokhdood2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Najma SC vs Al-Okhdood 20:00 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6737/index.mpd
-
-#EXTINF:-1 tvg-id="alfayhavsalnassr2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Fayha vs Al-Nassr 20:00 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6737/index.mpd
-
 #EXTINF:-1 tvg-id="tolucavscdguadalajara0000tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Toluca vs CD Guadalajara 00:00 (TUDN USA)
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 #EXTINF:-1 tvg-id="tolucavscdguadalajara0000tudnfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Toluca vs CD Guadalajara 00:00 (TUDN FHD)
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tudn.m3u8
+
+#EXTINF:-1 tvg-id="atlticosanluisvsclubpuebla0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Atlético San Luis vs Club Puebla 00:00 (SPORTZX LIVE)
+https://live.alilicloud.com/live/c4528db7779232cf323c3c0ca6add768/playlist.m3u8
 
 #EXTINF:-1 tvg-id="monterreyvscruzazul0205tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Monterrey vs Cruz Azul 02:05 (TUDN USA)
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
@@ -252,53 +240,14 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #EXTINF:-1 tvg-id="clubamricavstigresuanl0410tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Club América vs Tigres UANL 04:10 (TUDN USA)
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
-#EXTINF:-1 tvg-id="navarretevsnunez0100ligue1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Boxing",Navarrete vs Nunez 01:00 (Ligue1 )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2083/index.mpd
+#EXTINF:-1 tvg-id="navarretevsnunez0100spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Boxing",Navarrete vs Nunez 01:00 (SPX - FHD)
+https://cdn11.trrfiles.cfd/live/cdn11/playlist.m3u8
 
-#EXTINF:-1 tvg-id="navarretevsnunez0100beinespanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Boxing",Navarrete vs Nunez 01:00 (beIN ESPANOL)
-https://601.serverbandel.sbs/beines.m3u8
+#EXTINF:-1 tvg-id="navarretevsnunez0100ppvfeed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Boxing",Navarrete vs Nunez 01:00 (PPV FEED)
+https://602.xn--1000-ugoa0hsb9a0hb.com/ppv.m3u8
 
-#EXTINF:-1 tvg-id="intervsgenoa2045beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Inter vs Genoa 20:45 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="intervsgenoa2045cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Inter vs Genoa 20:45 (CBS NETWORK)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="intervsgenoa2045foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Inter vs Genoa 20:45 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="alqadsiahvsaltaawoun2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Qadsiah vs Al-Taawoun 20:00 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1451/index.mpd
-
-#EXTINF:-1 tvg-id="heraclesvspsveindhoven1845sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Heracles vs PSV Eindhoven 18:45 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="heraclesvspsveindhoven1845espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Heracles vs PSV Eindhoven 18:45 (ESPN NL)
-https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
-
-#EXTINF:-1 tvg-id="necvsfortunasittard2100espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",NEC vs Fortuna Sittard 21:00 (ESPN NL)
-https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
-
-#EXTINF:-1 tvg-id="galatasarayvsalanyaspor1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Galatasaray vs Alanyaspor 18:00 (beIN SPORTS)
-https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
-
-#EXTINF:-1 tvg-id="gztepevseypspor1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Göztepe vs Eyüpspor 18:00 (beIN SPORTS)
-https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
-
-#EXTINF:-1 tvg-id="wweeliminationchamber0100sportzxwwe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Elimination Chamber 01:00 (SportzX WWE)
-https://cdn12.trrfiles.cfd/live/cdn12/playlist.m3u8
+#EXTINF:-1 tvg-id="wweeliminationchamber0100spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Elimination Chamber 01:00 (SPX - FHD)
+https://cdn12.trrfiles.cfd/live/cdn12/chunks.m3u8
 
 #EXTINF:-1 tvg-id="wweeliminationchamber0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Elimination Chamber 01:00 (SportzX Live)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
