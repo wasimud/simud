@@ -148,30 +148,33 @@ http://103.99.249.139/starsport2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-id="islvsisl1230sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (SportzX Live)
+https://live.alilicloud.com/live/4d20c920fbb3e52e1f377871a9989916/playlist.m3u8
+
 #EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2882318bbda49e6ba444eed32cec557:e07853d34f978c308343cfa62556b0e8
-https://in-mc-flive.fancode.com/mumbai/140447_english_dash_85935_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=3ca8c323abad441d99740dca552753d4:c5cb6399935ce331e524d2810cf944a3
+https://in-mc-flive.fancode.com/mumbai/140448_english_dash_47135_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba78762aef6442f796bda2e2a5cf8839:1fd40be4a26d8cd63e8897b492db57ef
-https://in-mc-flive.fancode.com/mumbai/140447_hindi_dash_96446_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=f0f8526ade3647f482948b8f008b37b4:070d890728280ba123b11e63946807c5
+https://in-mc-flive.fancode.com/mumbai/140448_hindi_dash_7557_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d05041f094904e41831324184490d477:2e4ee5a087795c96630d08828073f172
-https://in-mc-flive.fancode.com/mumbai/140447_malayalam_dash_25752_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=63366b39503e48f7ad29fe883efbe9f8:f99d77683708bfc593d35b2bed5907c1
+https://in-mc-flive.fancode.com/mumbai/140448_malayalam_dash_10703_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BAN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c004304cb8444db8b19e297b9631087f:45b1094c579e18327767778d07c5316e
-https://in-mc-flive.fancode.com/mumbai/140447_bengali_dash_95908_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=7ed8ab01ab97457fbd3019d463273cc9:dd31e8d16f1cb25590142b81bc82982c
+https://in-mc-flive.fancode.com/mumbai/140448_bengali_dash_61648_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodebd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BD )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f905e7587ec40c8b8c2d245c2a7789d:2aa8dc98686cf984eb3638dc417db265
-https://bd-mc-flive.fancode.com/delhi/140447_english_dash_37923_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=20b145d586d14e90ae358cf05744f38a:811976e3c5e967c0bab3d4413bca887f
+https://bd-mc-flive.fancode.com/delhi/140448_english_dash_38538_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="australiawvsindiaw0450tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Australia W vs India W 04:50 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -224,7 +227,10 @@ https://bbb.exoadash.com/TVD6219/index.mpd
 #EXTINF:-1 tvg-id="bournemouthvssunderland1330tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://cors-proxy.cooks.fyi/https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (TNT SPORTS FHD)
+https://grand-s-v001.faggotsports.tv/out/v1/frofudrljocldrugudr295ifistlsw1w/mix-stream.m3u8
 
 #EXTINF:-1 tvg-id="comovslecce1500beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Como vs Lecce 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -241,10 +247,20 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
+#EXTINF:-1 tvg-id="rayovallecanovsathleticclub1400fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Rayo Vallecano vs Athletic Club 14:00 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
 #EXTINF:-1 tvg-id="barcelonavsvillarreal1615laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Barcelona vs Villarreal 16:15 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="barcelonavsvillarreal1615fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Barcelona vs Villarreal 16:15 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-id="mallorcavsrealsociedad1830laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Mallorca vs Real Sociedad 18:30 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
