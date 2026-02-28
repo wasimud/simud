@@ -224,13 +224,37 @@ https://grand-s-v001.faggotsports.tv/out/v1/probiniboc7ltizegevusplstaclmlbr/mix
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6219/index.mpd
 
-#EXTINF:-1 tvg-id="bournemouthvssunderland1330tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://cors-proxy.cooks.fyi/https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
 #EXTINF:-1 tvg-id="bournemouthvssunderland1330tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (TNT SPORTS FHD)
 https://grand-s-v001.faggotsports.tv/out/v1/frofudrljocldrugudr295ifistlsw1w/mix-stream.m3u8
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330fubosportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (FUBO SPORTS FHD)
+https://grand-s-v001.faggotsports.tv/out/v1/07207bdd3cd651e2f3914fb5b00126ae/mix-stream.m3u8
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (NOVA SPORTS PL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD6219/index.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330nbcuniverso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (NBC UNIVERSO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (PSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330usatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (USA TV FHD)
+https://601.serverbandel.sbs/usa.m3u8
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (NOW SPORTS PL)
+https://daffodil.lifesharper.com/now.m3u8
+
+#EXTINF:-1 tvg-id="bournemouthvssunderland1330tntsportsus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Sunderland 13:30 (TNT SPORTS  US )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-id="comovslecce1500beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Como vs Lecce 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -344,7 +368,7 @@ https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 tvg-id="kaiserslauternvspaderborn1300skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Kaiserslautern vs Paderborn 13:00 (SKY BUNDESLIGA)
+#EXTINF:-1 tvg-id="kaiserslauternvspaderborn1300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Kaiserslautern vs Paderborn 13:00 (SportzX Live)
 https://live.alilicloud.com/live/fbd077acc1c97f7b1796cc317ed095c6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="arminiabielefeldvshannover1300elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Arminia Bielefeld vs Hannover 13:00 (ELEVEN SPORTS)
@@ -352,10 +376,10 @@ https://live.alilicloud.com/live/fbd077acc1c97f7b1796cc317ed095c6/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6412/index.mpd
 
-#EXTINF:-1 tvg-id="arminiabielefeldvshannover1300skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Arminia Bielefeld vs Hannover 13:00 (SKY BUNDESLIGA)
+#EXTINF:-1 tvg-id="arminiabielefeldvshannover1300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Arminia Bielefeld vs Hannover 13:00 (SportzX Live)
 https://live.alilicloud.com/live/5bf7e9592abc5f4b1f8d973eb07caded/playlist.m3u8
 
-#EXTINF:-1 tvg-id="holsteinkielvselversberg1300skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Holstein Kiel vs Elversberg 13:00 (SKY BUNDESLIGA)
+#EXTINF:-1 tvg-id="holsteinkielvselversberg1300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Holstein Kiel vs Elversberg 13:00 (SportzX Live)
 https://live.alilicloud.com/live/9391fa5ca1de8851c3242ae6229e0c7e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="heerenveenvsspartarotterdam1630espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Heerenveen vs Sparta Rotterdam 16:30 (ESPN NL)
@@ -408,6 +432,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="leicestercityvsnorwichcity1330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leicester City vs Norwich City 13:30 (SportzX Live)
+https://live.alilicloud.com/live/201430ff2fdefc438e41a01c46747ed3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="prestonnorthendvsmillwall1600beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Preston North End vs Millwall 16:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
