@@ -301,7 +301,28 @@ https://601.lifesharper.com/newcastle.m3u8
 #EXTINF:-1 tvg-id="burnleyvsbrentford1600skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Brentford 16:00 (SKY SPORTS FHD)
 https://grand-s-v001.faggotsports.tv/out/v1/5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d/mix-stream.m3u8
 
-#EXTINF:-1 tvg-id="leedsvsmanchestercity1830skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (SKY SPORTS HD)
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (PSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
+
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (SKY SPORTS FHD)
+https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8
+
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (TELEMUNDO FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830nbcsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (NBC SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (NOW SPORTS PL)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/now.m3u8
+
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (HD SERVER)
 https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="barcelonavsvillarreal1615laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Barcelona vs Villarreal 16:15 (Laliga TV FHD)
@@ -347,6 +368,9 @@ https://bbb.exoadash.com/TVD6411/index.mpd
 
 #EXTINF:-1 tvg-id="borussiadortmundvsbayernmnchen1830skyfootball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Bayern München 18:30 (SKY FOOTBALL)
 https://601.xn--1000-ugoa0hsb9a0hb.com/football.m3u8
+
+#EXTINF:-1 tvg-id="borussiadortmundvsbayernmnchen1830espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Bayern München 18:30 (ESPN DEPORTES)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/dep.m3u8
 
 #EXTINF:-1 tvg-id="hellasveronavsnapoli1800beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Hellas Verona vs Napoli 18:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
