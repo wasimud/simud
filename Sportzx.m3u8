@@ -209,7 +209,7 @@ https://bbb.exoadash.com/TVD6737/index.mpd
 #EXTINF:-1 tvg-id="alfayhavsalnassr2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Fayha vs Al-Nassr 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1451/index.mpd
+https://bbb.exoadash.com/TVD6737/index.mpd
 
 #EXTINF:-1 tvg-id="leedsvsmanchestercity1830psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (PSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -318,6 +318,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="alqadsiahvsaltaawoun2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Qadsiah vs Al-Taawoun 20:00 (Thmanyah - FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD1451/index.mpd
 
 #EXTINF:-1 tvg-id="kaiserslauternvspaderborn1300beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Kaiserslautern vs Paderborn 13:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
