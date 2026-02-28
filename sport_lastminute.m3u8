@@ -6,6 +6,12 @@
 #KODIPROP:inputstream.adaptive.license_key=e1b7445ab3b15030bbfe6a662cbf3eae:0fa6b6bff692fca13b1d79de04ae556c
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772285403~exp%3D1772371803~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Da903b6659d95915c4eeae08528e0d724bee6d7aedd4444515ce53de04a9176ee%23wm%3D0~hmac%3Dcc442267531b75e8cd4ebb495192b2bcaf7cd8ae9bab3e9a7764f662f5dae4dc/1davrl1lv2t4v1bhafoo1d907m/web/stream.mpd?channel=1359&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 tvg-id="1800hellasveronanapolimpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:00 Hellas Verona - Napoli (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51d9802561135f8ea097a2904d55f50a:34ba74cdd541791ec711a2a4e57ecb90
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772294405~exp%3D1772380805~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dfdef7eaf3007a561e0a74cbe21c4e0e70ea1df5b276ebbe333d0f9be5c23f4c3%23wm%3D1%23wmd%3D1152~hmac%3D2d1f3a347de0021cb80d5e431a9245eba3dd273e08d6270be154b8a81a707ec8/133v8m7fqay7o1sxuisz24oizh/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="1500empolicesenampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",15:00 Empoli - Cesena (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -29,6 +35,12 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772286611~exp%3D1772373011~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e29d070a4ce6510d8816b310d58bb236:7ace305bcaec5e93376496914bc4515a
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772286603~exp%3D1772373003~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6d01a841465beb611f51b3a27e0d5bd040989e19a309e1bbc068ada948f3de26%23wm%3D0~hmac%3Da749feaa2f09a85da6e92573f12139b457f677ee1bc3b5567443d8d4c293e2f3/9klcynf644ce1czyfn383hqwx/web/stream.mpd?channel=3947&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1715speziareggianampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",17:15 Spezia - Reggiana (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0df7067b2feb550281d86201099c46fd:d69de75b02e77bb07e85f0441db0c35f
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772294704~exp%3D1772381104~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3De9f562e530e5e7dfcd5e4886438e0873ae0f4d1b6862af8e02c2881032259444%23wm%3D0~hmac%3D86439989f75f3f527d05c59bb12cda00fb6a588611985aa1c591bf4daaae1803/eu44tt78bxa1tbhkzx5a26j5/web/stream.mpd?channel=3951&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
