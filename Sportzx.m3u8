@@ -327,11 +327,6 @@ https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD1581/index.mpd
 
-#EXTINF:-1 tvg-id="castellnvsracingclub2100laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Castellón vs Racing Club 21:00 (Laliga Hypermotion ES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
 #EXTINF:-1 tvg-id="wweeliminationchamber0100sportzxwwe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Elimination Chamber 01:00 (SportzX WWE)
 https://cdn12.trrfiles.cfd/live/cdn12/playlist.m3u8
 
