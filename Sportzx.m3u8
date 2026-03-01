@@ -155,13 +155,18 @@ https://live.alilicloud.com/live/29883a8cd7995c3f98b4507f4522088c/playlist.m3u8
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd680e6ff80945cfa722a80c01a40689:9120863275f2e9e778986d661beec5c8
-https://in-mc-flive.fancode.com/mumbai/140449_english_dash_1835_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=b8879da3d6c747f0ad2de85a611e71c9:c8dd558deb202911e8b1b0930a773733
+https://in-mc-flive.fancode.com/mumbai/140450_english_dash_99278_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d2fde1074464a26b6a8c49e261425a5:3b6b705ea2a7ec46075b1fe181829e0e
-https://in-mc-flive.fancode.com/mumbai/140449_hindi_dash_40966_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=75c70aeefb054140930948c8996fbb08:25e1c0f9e2c9d18d6a8b00601c6758a4
+https://in-mc-flive.fancode.com/mumbai/140450_hindi_dash_82502_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="islvsisl1230fancodetam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  TAM )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3ff7a4acff84022be12621329094a3a:3048ac3e5ca6128540e6fad26be6a7b9
+https://in-mc-flive.fancode.com/mumbai/140450_tamil_dash_12467_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
