@@ -109,19 +109,27 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/
 #EXTINF:-1 tvg-id="wwe0200backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE 02:00 (BACKUP SD)
 https://android-database1.firebase-api.com/AccessLog2/108087_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="icct20wc011430willowadfree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (Willow  Ad Free )
+#EXTINF:-1 tvg-id="icct20wc011430willowadfree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (WILLOW  Ad Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c1cb3e9514dddd75896a7f60a03decb:963fb175f70769c8d56fc44c843808b3
 https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/ecp6xidc5d/out/v1/b8a94677c56e4411aef7ecc2431cec0a/cenc.mpd
 
+#EXTINF:-1 tvg-id="icct20wc011430hubsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (HUB SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14d1d427e8144c7b80cd5a8a6b9aa5e3:b3992507b4df8956717e3d5d798b7ab0
+https://bks02.starhubgo.com/bpk-token/1aa@i4a5m0w0d2tjlbrq4khifb4zu3shyhtwi2howuca/bpk-tv/HubSports5HD/output/manifest.mpd
+
+#EXTINF:-1 tvg-id="icct20wc011430spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (SPX - FHD)
+https://grand-s-v001.faggotsports.tv/out/v1/8a607afa3ed1cc0a7ecced4ad5c42c2c/mix-stream.m3u8
+
 #EXTINF:-1 tvg-id="icct20wc011430jiohotstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (JIO HOTSTAR)
-https://live-pull.aisports.mobi/moviebox/device02/playlist.m3u8
+https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc011430willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (WILLOW HD)
 https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc011430starsporthin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (Star Sport HIN)
-http://103.99.249.139/starsport2/index.m3u8
+http://103.99.249.139/starsport1/index.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc021030willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -187,10 +195,41 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10t
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
+#EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (SKY SPORTS FHD)
+https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8
+
+#EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (NOW SPORTS PL)
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (PSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
+
+#EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (TELEMUNDO FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
 #EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (NOVA SPORTS PL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6219/index.mpd
+
+#EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500fhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (FHD SERVER)
+https://601.lifesharper.com/main.m3u8
+
+#EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (SKY SPORTS FHD)
+https://grand-s-v001.faggotsports.tv/out/v1/67f5bf81544d442bd7c1f29d822ac19b/mix-stream.m3u8
+
+#EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (NOW SPORTS PL)
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500usatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (USA TV FHD)
+https://daffodil.833577.xyz/usa.m3u8
+
+#EXTINF:-1 tvg-id="brightonvsnottinghamforest1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Nottingham Forest 15:00 (SKY SPORTS FHD)
+https://grand-s-v001.faggotsports.tv/out/v1/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d/mix-stream.m3u8
 
 #EXTINF:-1 tvg-id="elchevsespanyol1400laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Elche vs Espanyol 14:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
