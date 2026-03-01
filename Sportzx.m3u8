@@ -246,6 +246,9 @@ https://cdn11.trrfiles.cfd/live/cdn11/playlist.m3u8
 #EXTINF:-1 tvg-id="navarretevsnunez0100ppvfeed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Boxing",Navarrete vs Nunez 01:00 (PPV FEED)
 https://602.xn--1000-ugoa0hsb9a0hb.com/ppv.m3u8
 
+#EXTINF:-1 tvg-id="wweeliminationchamber0100sportzxwwe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Elimination Chamber 01:00 (SportzX WWE )
+https://grand-s-v001.faggotsports.tv/out/v1/79a4b5e4a9cbfb432c087f4b0e036247/mix-stream.m3u8
+
 #EXTINF:-1 tvg-id="wweeliminationchamber0100spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Elimination Chamber 01:00 (SPX - FHD)
 https://cdn12.trrfiles.cfd/live/cdn12/chunks.m3u8
 
