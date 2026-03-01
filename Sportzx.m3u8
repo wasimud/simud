@@ -137,7 +137,7 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/hp0lefwcem/out/v1/925b
 https://bks02.starhubgo.com/bpk-token/1aa@ieky51nxib5phbtop0xjruq5x1crc45oignjfvba/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021030willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (Willow HD)
-https://cdn39591467.blazingcdn.net/dx14hd/index.m3u8
+https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc021030jiohotstarhin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (JIO HOTSTAR  HIN )
 https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
@@ -316,6 +316,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="romavsjuventus2045tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Roma vs Juventus 20:45 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-id="parisfcvsnice1500ligue1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Paris FC vs Nice 15:00 (Ligue1 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
