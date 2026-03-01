@@ -126,26 +126,21 @@ http://103.99.249.139/starsport2/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc011430jiohotstarhin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (JIO HOTSTAR  HIN )
 https://cloud.odysee.live/content/99a872d96a2f8461496e2e68c0c7861c86b939c5/live.m3u8
 
-#EXTINF:-1 tvg-id="icct20wc021030primevideng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (PRIME VID  ENG )
+#EXTINF:-1 tvg-id="icct20wc021030willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2904b17cb64c996dbc254981b7602863:66a7ef671b84498e64f94e8401fe8cb9
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdx0scnjmm/out/v1/8777014e61534e7c873dc695bc485397/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9854668c16b3ef7efe6facbf91fd8af2:fc899a5c275cbb1060d6d9d61cd52ecd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/hp0lefwcem/out/v1/925bb83b4490417fa9c536dde0104939/cenc.mpd
 
-#EXTINF:-1 tvg-id="icct20wc021030primevidhin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (PRIME VID  HIN )
+#EXTINF:-1 tvg-id="icct20wc021030hubsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (HUB SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3319513445704d17b607969c9b4bd5b2:64a75c66e40be8177f4893104722700a
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/wdqtgxqtpr/out/v1/d9a29796c1c3468785dbee1776ffd354/cenc.mpd
-
-#EXTINF:-1 tvg-id="icct20wc021030willowadfree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (WILLOW  Ad Free )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f52a73212bdd837dc6849b688dff8194:d8c8ba05bae74b70d5f57f4e104eafeb
-https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/vdj8kklfbb/out/v1/6433098763394c0a8552dd92e8da40dc/cenc.mpd
-
-#EXTINF:-1 tvg-id="icct20wc021030jiohotstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (JIO HOTSTAR)
-https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+https://bks02.starhubgo.com/bpk-token/1aa@ieky51nxib5phbtop0xjruq5x1crc45oignjfvba/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 tvg-id="icct20wc021030willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (Willow HD)
-https://cdn39591467.blazingcdn.net/dx14fhd/index.m3u8
+https://cdn39591467.blazingcdn.net/dx14hd/index.m3u8
+
+#EXTINF:-1 tvg-id="icct20wc021030jiohotstarhin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (JIO HOTSTAR  HIN )
+https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc021030willowsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 02 10:30 (Willow SD)
 https://cdn39591467.blazingcdn.net/dx14sd/index.m3u8
