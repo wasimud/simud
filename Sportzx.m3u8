@@ -208,29 +208,8 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/5sxuux
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="charlottehornetsvsportlandtrailblazers1900sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Charlotte Hornets vs Portland Trail Blazers 19:00 (SD SERVER)
-https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
-
-#EXTINF:-1 tvg-id="washingtonwizardsvstorontoraptors0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Washington Wizards vs Toronto Raptors 01:00 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
-#EXTINF:-1 tvg-id="statewarriorsvslosangeleslakers0230sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",State Warriors vs Los Angeles Lakers 02:30 (SD SERVER)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
-
 #EXTINF:-1 tvg-id="utahjazzvsneworleanspelicans0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Utah Jazz vs New Orleans Pelicans 03:30 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
-
-#EXTINF:-1 tvg-id="tolucavscdguadalajara0000tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Toluca vs CD Guadalajara 00:00 (TUDN USA)
-https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="tolucavscdguadalajara0000tudnfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Toluca vs CD Guadalajara 00:00 (TUDN FHD)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/tudn.m3u8
-
-#EXTINF:-1 tvg-id="atlticosanluisvsclubpuebla0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Atlético San Luis vs Club Puebla 00:00 (SPORTZX LIVE)
-https://live.alilicloud.com/live/c4528db7779232cf323c3c0ca6add768/playlist.m3u8
-
-#EXTINF:-1 tvg-id="monterreyvscruzazul0205tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Monterrey vs Cruz Azul 02:05 (TUDN USA)
-https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 #EXTINF:-1 tvg-id="clubamricavstigresuanl0410cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Club América vs Tigres UANL 04:10 (CBS NETWORK)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -244,13 +223,4 @@ https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.co
 https://cdn11.trrfiles.cfd/live/cdn11/playlist.m3u8
 
 #EXTINF:-1 tvg-id="navarretevsnunez0100ppvfeed" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Boxing",Navarrete vs Nunez 01:00 (PPV FEED)
-https://602.xn--1000-ugoa0hsb9a0hb.com/ppv.m3u8
-
-#EXTINF:-1 tvg-id="wweeliminationchamber0100sportzxwwe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Elimination Chamber 01:00 (SportzX WWE )
-https://grand-s-v001.faggotsports.tv/out/v1/79a4b5e4a9cbfb432c087f4b0e036247/mix-stream.m3u8
-
-#EXTINF:-1 tvg-id="wweeliminationchamber0100spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Elimination Chamber 01:00 (SPX - FHD)
-https://cdn12.trrfiles.cfd/live/cdn12/chunks.m3u8
-
-#EXTINF:-1 tvg-id="wweeliminationchamber0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Elimination Chamber 01:00 (SportzX Live)
-https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
+https://602.xn--1000-ugoa0hsb9a0hb.com/ppv2.m3u8
