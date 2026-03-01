@@ -157,33 +157,28 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8879da3d6c747f0ad2de85a611e71c9:c8dd558deb202911e8b1b0930a773733
-https://in-mc-flive.fancode.com/mumbai/140450_english_dash_99278_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=3f379a3828ab48e2864c4f8354f65f37:ec8d76af37138053d1bc768f1caadbcd
+https://in-mc-flive.fancode.com/mumbai/140451_english_dash_36523_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=75c70aeefb054140930948c8996fbb08:25e1c0f9e2c9d18d6a8b00601c6758a4
-https://in-mc-flive.fancode.com/mumbai/140450_hindi_dash_82502_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1230fancodetam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  TAM )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b3ff7a4acff84022be12621329094a3a:3048ac3e5ca6128540e6fad26be6a7b9
-https://in-mc-flive.fancode.com/mumbai/140450_tamil_dash_12467_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=f96759d5a3dc489b9102e7b5b5da1e59:dae7b7fc77b801f997e2615fe920e720
+https://in-mc-flive.fancode.com/mumbai/140451_hindi_dash_50965_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a6acc322d55433f8782ab19cef6786b:6c4a08bb112dcf71306659d1170d7e3f
-https://in-mc-flive.fancode.com/mumbai/140450_malayalam_dash_47702_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=be5e085f89e049d6a36bd069d75eea9b:70f500cfd2c6b387a6ca300ff098e89c
+https://in-mc-flive.fancode.com/mumbai/140451_malayalam_dash_48726_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BAN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6b12506803e460cb3f25a97335430b8:4d4529727a7f7fc2b7405adc24c8f3ce
-https://in-mc-flive.fancode.com/mumbai/140450_bengali_dash_64111_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=00bbbf80633a4787825a351a33b47074:4ee670280bec978504ed4d0e7d66a7f5
+https://in-mc-flive.fancode.com/mumbai/140451_bengali_dash_22175_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodebd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  BD )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66ea6718c9454457ae4b11452dc81eb1:888f487006320addfef64ac99f285298
-https://bd-mc-flive.fancode.com/delhi/140450_english_dash_93057_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=63656dee0e10463790fed198470df50b:2388cacaf1b030a2dae50a063baa6ad7
+https://bd-mc-flive.fancode.com/delhi/140451_english_dash_38996_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="australiawvsindiaw0450tntsports4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Australia W vs India W 04:50 (TNT Sports 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,11 +190,11 @@ https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/pnu10t
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (SKY SPORTS FHD)
-https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8
-
 #EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (SKY SPORTS FHD)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/main.m3u8
 
 #EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (PSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -219,17 +214,20 @@ https://bbb.exoadash.com/TVD6219/index.mpd
 #EXTINF:-1 tvg-id="manchesterunitedvscrystalpalace1500fhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Crystal Palace 15:00 (FHD SERVER)
 https://601.lifesharper.com/main.m3u8
 
-#EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (SKY SPORTS FHD)
-https://grand-s-v001.faggotsports.tv/out/v1/67f5bf81544d442bd7c1f29d822ac19b/mix-stream.m3u8
-
 #EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (SKY SPORTS FHD)
+https://601.xn--1000-ugoa0hsb9a0hb.com/arena.m3u8
 
 #EXTINF:-1 tvg-id="fulhamvstottenhamhotspur1500usatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Tottenham Hotspur 15:00 (USA TV FHD)
 https://daffodil.833577.xyz/usa.m3u8
 
+#EXTINF:-1 tvg-id="brightonvsnottinghamforest1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Nottingham Forest 15:00 (NOW SPORTS PL)
+https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+
 #EXTINF:-1 tvg-id="brightonvsnottinghamforest1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Nottingham Forest 15:00 (SKY SPORTS FHD)
-https://grand-s-v001.faggotsports.tv/out/v1/9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d/mix-stream.m3u8
+https://601.xn--1000-ugoa0hsb9a0hb.com/brighton.m3u8
 
 #EXTINF:-1 tvg-id="elchevsespanyol1400laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Elche vs Espanyol 14:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -359,6 +357,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="parisfcvsnice1500novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Paris FC vs Nice 15:00 (NOVA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="parisfcvsnice1500ligue1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Paris FC vs Nice 15:00 (Ligue1 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
