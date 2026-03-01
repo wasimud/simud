@@ -326,6 +326,56 @@
             "isHost": ""
         },
         {
+            "name": "Fulham - Tottenham - Sport Max HD",
+            "info": "15:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmaxhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Fulham - Tottenham - Sport Max",
+            "info": "15:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmax.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Brighton - Nottingham Forest - Live 31",
+            "info": "15:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7Qn8V-tOS1aKQXMzDdnY9exxjbkn5aKVbg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live31.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Stoccarda - Wolfsburg - Sport Mix HD",
+            "info": "15:30 Â· Bundesliga",
+            "online": "true",
+            "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAA3NCSVQICAjb4U/gAAAAaVBMVEX////gkZL89PTz8/PRAAD57O0AAADPAAD////SBRX03d3SAA/7+vrl5eWysrLsv7/Ly8vor7Dwz8/aa27jnp+hoaHb29u8vLzUJCzt7e12dnbegoTXU1ZKSkr35+djY2MlJSWTk5M3Nzc+eIGYAAAAAXRSTlP0+jbuYwAAAqtJREFUWIXtlluboyAMhkfFEBVRaz20ak///0duEDpVF7RO92b32VwwwsBrSL7EfuFn9vX1H2AAIvyBTQEh/4H5M0C02zYACb2CfQBIeBbG/apfK4AkiXimlss1HxwAplxnJkKHNRfsAO75emEcvd0e8MNMJce9AF7MzvvRTgDvEIu+LIQ+L7ydWeAtOU0RfPq/UwcJ73wsecSOBsCT1fNLQNLS/Vv2imO2pe4FgPUxFuNFdAbXRMQYs3owKjfhJoLuCPDSa7klBiM2Yr0GXMpIlawlDjxWEuNOKXcvHYRx9ntNmiCzxAUoZ1rCS1byGcUEuWOuauS4ND+Mi+QbYdTa7gCMduiNG9r1zBkDs26xsBgvwxk/Zp0lC7Mgox+TXS6HoiiySYWGcXzgCeMWHbwAYy8iUb2sL7KMOKPCxHeJuwAmTfFEycyAlDpe+XACWp2+30uBH72pKJxNVd/B1g4ZmwrTCdANYbWfrgN0Hj4AMO4tgrgPwNp4mYVdAG6KabWjuwBKprqa/XL7c23pykXRjioSWbv5fgvg2YsO3daH3QEYBRQe3zttATBKXkhS3/gauAEkn+zdl9sBl+3Ur1+hb9/23gqI3r+9FcB22wzgd95u66aAn9u/AwiaRuZY5yhkUMsA0wabpslRjRLTqspRpognKbBWE6zlaQY4gZRQ3wcMIJVwxgYQzhU90HhHuEsa1DEQDVQ0wQHuC0BKR6vrCLhCnT/UAYWRJ3GCnH74aQAOFQqh9sMCcL1e0QDOOWhAToDbTaIclC8aADIFQKnnU4BAaCp9hTMOj0FtqOC5rYYn4HymPXgDIOYMMDwgJTY8lB8p3JCe6YwaA7gpDwAGigHtuZH/FEwIpmkMgnGaUqhFoKZmJVB/RHoyT4HeI8Z/iT+pg78b8Kn9AoZ+h5UB+ZZeAAAAAElFTkSuQmCC",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmixhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Stoccarda - Wolfsburg - Sport Mix",
+            "info": "15:30 Â· Bundesliga",
+            "online": "true",
+            "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAA3NCSVQICAjb4U/gAAAAaVBMVEX////gkZL89PTz8/PRAAD57O0AAADPAAD////SBRX03d3SAA/7+vrl5eWysrLsv7/Ly8vor7Dwz8/aa27jnp+hoaHb29u8vLzUJCzt7e12dnbegoTXU1ZKSkr35+djY2MlJSWTk5M3Nzc+eIGYAAAAAXRSTlP0+jbuYwAAAqtJREFUWIXtlluboyAMhkfFEBVRaz20ak///0duEDpVF7RO92b32VwwwsBrSL7EfuFn9vX1H2AAIvyBTQEh/4H5M0C02zYACb2CfQBIeBbG/apfK4AkiXimlss1HxwAplxnJkKHNRfsAO75emEcvd0e8MNMJce9AF7MzvvRTgDvEIu+LIQ+L7ydWeAtOU0RfPq/UwcJ73wsecSOBsCT1fNLQNLS/Vv2imO2pe4FgPUxFuNFdAbXRMQYs3owKjfhJoLuCPDSa7klBiM2Yr0GXMpIlawlDjxWEuNOKXcvHYRx9ntNmiCzxAUoZ1rCS1byGcUEuWOuauS4ND+Mi+QbYdTa7gCMduiNG9r1zBkDs26xsBgvwxk/Zp0lC7Mgox+TXS6HoiiySYWGcXzgCeMWHbwAYy8iUb2sL7KMOKPCxHeJuwAmTfFEycyAlDpe+XACWp2+30uBH72pKJxNVd/B1g4ZmwrTCdANYbWfrgN0Hj4AMO4tgrgPwNp4mYVdAG6KabWjuwBKprqa/XL7c23pykXRjioSWbv5fgvg2YsO3daH3QEYBRQe3zttATBKXkhS3/gauAEkn+zdl9sBl+3Ur1+hb9/23gqI3r+9FcB22wzgd95u66aAn9u/AwiaRuZY5yhkUMsA0wabpslRjRLTqspRpognKbBWE6zlaQY4gZRQ3wcMIJVwxgYQzhU90HhHuEsa1DEQDVQ0wQHuC0BKR6vrCLhCnT/UAYWRJ3GCnH74aQAOFQqh9sMCcL1e0QDOOWhAToDbTaIclC8aADIFQKnnU4BAaCp9hTMOj0FtqOC5rYYn4HymPXgDIOYMMDwgJTY8lB8p3JCe6YwaA7gpDwAGigHtuZH/FEwIpmkMgnGaUqhFoKZmJVB/RHoyT4HeI8Z/iT+pg78b8Kn9AoZ+h5UB+ZZeAAAAAElFTkSuQmCC",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmix.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Valencia - Osasuna - Live 26",
             "info": "16:15 Â· Liga",
             "online": "true",
