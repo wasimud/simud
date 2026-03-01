@@ -253,13 +253,10 @@ https://storage.googleapis.com/unicterungitjds1/mux_video_ts1/index-1.m3u8
 #EXTINF:-1 tvg-id="arsenalvschelsea1730fastserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Arsenal vs Chelsea 17:30 (FAST SERVER)
 https://live.alilicloud.com/live/726c0378c46f87c5c76edb5c887827d8/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eintrachtfrankfurtvsfreiburg1730psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Eintracht Frankfurt vs Freiburg 17:30 (PSN SPORTS)
+#EXTINF:-1 tvg-id="hamburgersvvsrbleipzig1930psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Hamburger SV vs RB Leipzig 19:30 (PSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
-https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
-
-#EXTINF:-1 tvg-id="eintrachtfrankfurtvsfreiburg1730daznsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Eintracht Frankfurt vs Freiburg 17:30 (DAZN SPORTS SD)
-https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8
+https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
 
 #EXTINF:-1 tvg-id="hamburgersvvsrbleipzig1930elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Hamburger SV vs RB Leipzig 19:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -288,21 +285,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="lillevsnantes1715ligue1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lille vs Nantes 17:15 (Ligue1 )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2083/index.mpd
-
-#EXTINF:-1 tvg-id="lorientvsauxerre1715ligue1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lorient vs Auxerre 17:15 (Ligue1 )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2086/index.mpd
-
-#EXTINF:-1 tvg-id="metzvsstadebrestois1715ligue1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Metz vs Stade Brestois 17:15 (Ligue1 )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2088/index.mpd
 
 #EXTINF:-1 tvg-id="marseillevsolympiquelyon2045ligue1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Marseille vs Olympique Lyon 20:45 (Ligue1 )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
