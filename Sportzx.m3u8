@@ -161,20 +161,11 @@ https://in-mc-flive.fancode.com/mumbai/140451_bengali_dash_22175_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=63656dee0e10463790fed198470df50b:2388cacaf1b030a2dae50a063baa6ad7
 https://bd-mc-flive.fancode.com/delhi/140451_english_dash_38996_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="lakersvssacramentokings0330sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Lakers vs Sacramento Kings 03:30 (SportzX NBA)
+#EXTINF:-1 tvg-id="lakersvssacramentokings0330spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Lakers vs Sacramento Kings 03:30 (SPX - FHD)
 https://cdn8.trrfiles.cfd/live/cdn8/chunks.m3u8
 
 #EXTINF:-1 tvg-id="lakersvssacramentokings0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Lakers vs Sacramento Kings 03:30 (SD SERVER)
 https://smarthard.click/hls/wxlhYHpw8ZWm/index.m3u8
-
-#EXTINF:-1 tvg-id="brooklynnetsvsclevelandcavaliers2130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Brooklyn Nets vs Cleveland Cavaliers 21:30 (SD SERVER)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
-
-#EXTINF:-1 tvg-id="chicagobullsvsmilwaukeebucks2130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Chicago Bulls vs Milwaukee Bucks 21:30 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
-#EXTINF:-1 tvg-id="denvernuggetsvstimberwolves2130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Denver Nuggets vs Timberwolves 21:30 (SD SERVER)
-https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
 
 #EXTINF:-1 tvg-id="indianapacersvsmemphisgrizzlies2300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Indiana Pacers vs Memphis Grizzlies 23:00 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
@@ -193,6 +184,12 @@ https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
 
 #EXTINF:-1 tvg-id="clippersvsneworleanspelicans0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Clippers vs New Orleans Pelicans 03:00 (SD SERVER)
 https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
+
+#EXTINF:-1 tvg-id="orlandocityvsintermiami0100mlsusfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Mls 🇺🇸",Orlando City vs Inter Miami 01:00 (MLS US  FHD )
+https://grand-s-v001.faggotsports.tv/out/v1/e8ddf821539a01c74b55004b3d2f2ada/mix-stream.m3u8
+
+#EXTINF:-1 tvg-id="orlandocityvsintermiami0100spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Mls 🇺🇸",Orlando City vs Inter Miami 01:00 (SPX - FHD)
+https://601.xn--1000-ugoa0hsb9a0hb.com/mls.m3u8
 
 #EXTINF:-1 tvg-id="gironafcvsceltavigo2100laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Girona FC vs Celta Vigo 21:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
