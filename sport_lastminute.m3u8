@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1830pisabolognampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:30 Pisa - Bologna (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=887a5aa8bc0b589fbbe2779c100d23b2:779c43d5af4d76df5fb1d26b169aee96
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772471703~exp%3D1772558103~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D72ba995f83872957d99360a59b1f648304cdbbce3588dbbe32ef9e0ce82679c8%23wm%3D0~hmac%3D7004d8e005d13e4e3399fe1273a01cce0add864e29bc217c7f706d9f4792d6c7/dvmkv23w0hsk1xcqtyr388pft/web/stream.mpd?channel=1346&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="2045udinesefiorentinampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Udinese - Fiorentina (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=447040d2cd7a5282a1ce370a6aa65607:59b44500458a53737ff76116e7fc8670
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772478005~exp%3D1772564405~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dd7454aef4a5e90294b0856e1f422bc4451652afec5e25894635d019689c65703%23wm%3D1%23wmd%3D1152~hmac%3D97ed4c026edc8d3d3e96e37cba0ddd0ecbd989981764efdb777a9e2331812a14/1l8gi5in1b6xk1krvd8mzpijtw/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
-
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
