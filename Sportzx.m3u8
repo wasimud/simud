@@ -161,11 +161,45 @@ https://in-mc-flive.fancode.com/mumbai/140451_bengali_dash_22175_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=63656dee0e10463790fed198470df50b:2388cacaf1b030a2dae50a063baa6ad7
 https://bd-mc-flive.fancode.com/delhi/140451_english_dash_38996_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="washingtonwizardsvshoustonrockets0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Washington Wizards vs Houston Rockets 01:00 (SD SERVER)
+#EXTINF:-1 tvg-id="charlottehornetsvsdallasmavericks0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Charlotte Hornets vs Dallas Mavericks 01:00 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
 
-#EXTINF:-1 tvg-id="statewarriorsvslosangelesclippers0400sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",State Warriors vs Los Angeles Clippers 04:00 (SD SERVER)
+#EXTINF:-1 tvg-id="clevelandcavaliersvsdetroitpistons0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Cleveland Cavaliers vs Detroit Pistons 01:00 (SD SERVER)
+https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+
+#EXTINF:-1 tvg-id="orlandomagicvswashingtonwizards0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Orlando Magic vs Washington Wizards 01:00 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="miamiheatvsbrooklynnets0130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Miami Heat vs Brooklyn Nets 01:30 (SD SERVER)
 https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="torontoraptorsvsnewyorkknicks0130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Toronto Raptors vs New York Knicks 01:30 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
+#EXTINF:-1 tvg-id="chicagobullsvsoklahomacitythunder0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Chicago Bulls vs Oklahoma City Thunder 02:00 (SD SERVER)
+https://smarthard.click/hls/kl434PVmNnx/index.m3u8
+
+#EXTINF:-1 tvg-id="minnesotatimberwolvesvsmemphisgrizzlies0200sdserve" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Minnesota Timberwolves vs Memphis Grizzlies 02:00 (SD SERVER)
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
+#EXTINF:-1 tvg-id="philadelphia76ersvssanantoniospurs0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Philadelphia 76ers vs San Antonio Spurs 02:00 (SD SERVER)
+https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
+
+#EXTINF:-1 tvg-id="losangeleslakersvsneworleanspelicans0430sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs New Orleans Pelicans 04:30 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="sacramentokingsvsphoenixsuns0500sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Phoenix Suns 05:00 (SD SERVER)
+https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
+
+#EXTINF:-1 tvg-id="bostonbruinsvspittsburghpenguins0100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Boston Bruins vs Pittsburgh Penguins 01:00 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="bostonbruinsvspittsburghpenguins0100itv4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Boston Bruins vs Pittsburgh Penguins 01:00 (ITV 4)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a5135975978757b3458bb5b3b9dbf5e:eab16719fa7727ab371bd75aeaca9229
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ze8mlq7soh/out/v1/e517a8b1bede4a0d9c0cf48f591a2222/cenc.mpd
 
 #EXTINF:-1 tvg-id="bournemouthvsbrentford2030tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Brentford 20:30 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -182,7 +216,55 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="wolverhamptonvsliverpool2115beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolverhampton vs Liverpool 21:15 (beIN ENGLISH)
+#EXTINF:-1 tvg-id="wolverhamptonvsliverpool2115tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolverhampton vs Liverpool 21:15 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="barcelonavsatlticomadrid2100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa del rey 🇪🇸",Barcelona vs Atlético Madrid 21:00 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="barcelonavsatlticomadrid2100tvela1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa del rey 🇪🇸",Barcelona vs Atlético Madrid 21:00 (TVE La 1)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="comovsinter2100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Coppa italia 🇮🇹",Como vs Inter 21:00 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="comovsinter2100cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Coppa italia 🇮🇹",Como vs Inter 21:00 (CBS NETWORK)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="comovsinter2100italia1it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Coppa italia 🇮🇹",Como vs Inter 21:00 (Italia 1 IT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="strasbourgvsstadedereims2100beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Coupe de france 🇫🇷",Strasbourg vs Stade de Reims 21:00 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="necvspsveindhoven2000sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Knvb beker",NEC vs PSV Eindhoven 20:00 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="alanyasporvsgalatasaray1830atvturkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Türkiye kupası",Alanyaspor vs Galatasaray 18:30 (ATV Turkey)
+https://smarthard.click/hls/OgWmSLOpde0C/index.m3u8
+
+#EXTINF:-1 tvg-id="baakehirvstrabzonspor1830asporturkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Türkiye kupası",Başakşehir vs Trabzonspor 18:30 (ASpor Turkey)
+https://smarthard.click/hls/SoaJ1GdNv8qL/index.m3u8
+
+#EXTINF:-1 tvg-id="chinavsbangladesh0900sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc asian women cup",China vs Bangladesh 09:00 (SportzX Live)
+https://live.alilicloud.com/live/610c95018011cb951426df99dbf3005a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="melbournecityvsburiramunited0845sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions elite",Melbourne City vs Buriram United 08:45 (SportzX Live)
+https://live.alilicloud.com/live/55ec1a6b695520c6691e17417b0a44df/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gangwonfcvsmachidazelvia1100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions elite",Gangwon FC vs Machida Zelvia 11:00 (SportzX Live)
+https://live.alilicloud.com/live/79fa373e2e51b953059c3c2ce6da50a7/playlist.m3u8
