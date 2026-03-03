@@ -164,11 +164,25 @@ https://bd-mc-flive.fancode.com/delhi/140451_english_dash_38996_1drmta-di_h264/i
 #EXTINF:-1 tvg-id="washingtonwizardsvshoustonrockets0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Washington Wizards vs Houston Rockets 01:00 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
 
-#EXTINF:-1 tvg-id="milwaukeebucksvsbostonceltics0130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Milwaukee Bucks vs Boston Celtics 01:30 (SD SERVER)
-https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
-
-#EXTINF:-1 tvg-id="utahjazzvsdenvernuggets0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Utah Jazz vs Denver Nuggets 03:00 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
 #EXTINF:-1 tvg-id="statewarriorsvslosangelesclippers0400sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",State Warriors vs Los Angeles Clippers 04:00 (SD SERVER)
 https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="bournemouthvsbrentford2030tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bournemouth vs Brentford 20:30 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="evertonvsburnley2030tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Burnley 20:30 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="leedsunitedvssunderland2030tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds United vs Sunderland 20:30 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="wolverhamptonvsliverpool2115beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Wolverhampton vs Liverpool 21:15 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
