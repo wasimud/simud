@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="2100semifinaleritornobarcellonaatleticomadridmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",21:00 Semifinale ritorno | Barcellona - Atletico Madrid (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66d2d7e7b2dd505380143e06a9a63791:53f643005d2b2f14e552248847e23bf2
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772567104~exp%3D1772653504~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Daa0e34059a67f596283c81f7ccfd1c5291ffa535bfe790a430e0050560715079%23wm%3D0~hmac%3Db6ad7e781fc81be324642acdaddd0629dd7f535a47e2b7bb5b526521093c27cf/dwlzhyxznj0c1dhcbp11huryf/web/stream.mpd?channel=3948&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="1800padovaspeziampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:00 Padova - Spezia (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
