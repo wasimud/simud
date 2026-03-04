@@ -259,11 +259,8 @@ https://bbb.exoadash.com/TVD5788/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-id="beiktavsaykurrizespor1830asporturkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Türkiye kupası",Beşiktaş vs Çaykur Rizespor 18:30 (ASpor Turkey)
-https://smarthard.click/hls/SoaJ1GdNv8qL/index.m3u8
-
 #EXTINF:-1 tvg-id="gaziantepfkvsfenerbahe1830asporturkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Türkiye kupası",Gaziantep FK vs Fenerbahçe 18:30 (ASpor Turkey)
-https://smarthard.click/hls/OgWmSLOpde0C/index.m3u8
+https://live.alilicloud.com/live/077e562940000a7f6068968dd0b18de6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="seoulvsvisselkobe1100sport1fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions elite",Seoul vs Vissel Kobe 11:00 (Sport 1 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -277,21 +274,3 @@ https://live.alilicloud.com/live/c65adf11139c814108c2c83cb1b01549/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd
-
-#EXTINF:-1 tvg-id="gambaosakavsratchaburi1100sport2fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions two",Gamba Osaka vs Ratchaburi 11:00 (Sport 2 FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fd3f407ea7c465b854db7cd8235b39b:0c2ad3408bb09f698e86e1ca2e26a888
-https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561209/index.mpd
-
-#EXTINF:-1 tvg-id="gambaosakavsratchaburi1100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions two",Gamba Osaka vs Ratchaburi 11:00 (SportzX Live)
-https://live.alilicloud.com/live/24a550e4fe1f7b07836d2da7f8dd708d/playlist.m3u8
-
-#EXTINF:-1 tvg-id="vietnamvsindia1200fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc asian women cup",Vietnam vs India 12:00 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="vietnamvsindia1200fancodesd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc asian women cup",Vietnam vs India 12:00 (FANCODE - SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
