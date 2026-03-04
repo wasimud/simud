@@ -188,20 +188,17 @@ https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
 #EXTINF:-1 tvg-id="philadelphia76ersvssanantoniospurs0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Philadelphia 76ers vs San Antonio Spurs 02:00 (SD SERVER)
 https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
 
+#EXTINF:-1 tvg-id="losangeleslakersvsneworleanspelicans0430spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs New Orleans Pelicans 04:30 (SPX - FHD)
+https://cdn1.trrfiles.cfd/live/cdn1/chunks.m3u8
+
 #EXTINF:-1 tvg-id="losangeleslakersvsneworleanspelicans0430sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs New Orleans Pelicans 04:30 (SD SERVER)
 https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
 
 #EXTINF:-1 tvg-id="sacramentokingsvsphoenixsuns0500sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Phoenix Suns 05:00 (SD SERVER)
 https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
 
-#EXTINF:-1 tvg-id="barcelonascvsbotafogo0130spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Con. libertadores",Barcelona SC vs Botafogo 01:30 (SPX - FHD)
-https://daffodil.833577.xyz/beines.m3u8
-
-#EXTINF:-1 tvg-id="barcelonascvsbotafogo0130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Con. libertadores",Barcelona SC vs Botafogo 01:30 (SportzX Live)
-https://live.alilicloud.com/live/878d3d2c8fd229fc2aaec35427c6107d/playlist.m3u8
-
-#EXTINF:-1 tvg-id="santoslagunavscruzazul0200tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Santos Laguna vs Cruz Azul 02:00 (TUDN USA)
-https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
 #EXTINF:-1 tvg-id="pumasunamvscdtoluca0410tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Pumas UNAM vs CD Toluca 04:10 (TUDN USA)
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+
+#EXTINF:-1 tvg-id="pumasunamvscdtoluca0410spxsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Pumas UNAM vs CD Toluca 04:10 (SPX - SD)
+https://live.alilicloud.com/live/e16ee6361f90f66c9b46c13feb7d2124/playlist.m3u8
