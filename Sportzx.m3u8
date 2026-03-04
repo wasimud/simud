@@ -163,18 +163,3 @@ https://in-mc-flive.fancode.com/mumbai/140451_bengali_dash_22175_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63656dee0e10463790fed198470df50b:2388cacaf1b030a2dae50a063baa6ad7
 https://bd-mc-flive.fancode.com/delhi/140451_english_dash_38996_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="losangeleslakersvsneworleanspelicans0430spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs New Orleans Pelicans 04:30 (SPX - FHD)
-https://cdn1.trrfiles.cfd/live/cdn1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="losangeleslakersvsneworleanspelicans0430sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs New Orleans Pelicans 04:30 (SD SERVER)
-https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
-
-#EXTINF:-1 tvg-id="sacramentokingsvsphoenixsuns0500sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Phoenix Suns 05:00 (SD SERVER)
-https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
-
-#EXTINF:-1 tvg-id="pumasunamvscdtoluca0410tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Pumas UNAM vs CD Toluca 04:10 (TUDN USA)
-https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-
-#EXTINF:-1 tvg-id="pumasunamvscdtoluca0410spxsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Pumas UNAM vs CD Toluca 04:10 (SPX - SD)
-https://live.alilicloud.com/live/e16ee6361f90f66c9b46c13feb7d2124/playlist.m3u8
