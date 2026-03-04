@@ -6,27 +6,7 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiH.w3u",
     "stations": [
         {
-            "name": "Ospitaletto - Pro Patria - Sport Max HD",
-            "info": "18:00 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmaxhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Ospitaletto - Pro Patria - Sport Max",
-            "info": "18:00 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmax.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Alcione - Giana Erminio - Sport 1 HD (ext chrome)",
+            "name": "Pontedera - Juventus Next Gen - Sport 1 HD (ext chrome)",
             "info": "18:00 Â· Serie C",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
@@ -36,7 +16,7 @@
             "isHost": ""
         },
         {
-            "name": "Alcione - Giana Erminio - Sport 1 HD",
+            "name": "Pontedera - Juventus Next Gen - Sport 1 HD",
             "info": "18:00 Â· Serie C",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
@@ -46,7 +26,7 @@
             "isHost": ""
         },
         {
-            "name": "Alcione - Giana Erminio - Sport 1",
+            "name": "Pontedera - Juventus Next Gen - Sport 1",
             "info": "18:00 Â· Serie C",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
@@ -56,27 +36,57 @@
             "isHost": ""
         },
         {
-            "name": "Lumezzane - Arzignano - Sport Arena HD",
+            "name": "Vis Pesaro - Bra - Calcio HD (ext chrome)",
             "info": "18:00 Â· Serie C",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/arenahd.htm",
+            "url": "https://htsport.cc/calcioex.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Lumezzane - Arzignano - Sport Arena",
+            "name": "Vis Pesaro - Bra - Calcio HD",
             "info": "18:00 Â· Serie C",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/arena.htm",
+            "url": "https://htsport.cc/calciohd.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Padova - Spezia - Live 3",
+            "name": "Vis Pesaro - Bra - Calcio",
+            "info": "18:00 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gubbio - Carpi - Sport Max HD",
+            "info": "18:00 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmaxhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gubbio - Carpi - Sport Max",
+            "info": "18:00 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmax.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Carrarese - Catanzaro - Live 3",
             "info": "19:00 Â· Serie B",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
@@ -96,7 +106,7 @@
             "isHost": ""
         },
         {
-            "name": "Cesena - Monza - Live 4",
+            "name": "Bari - Empoli - Live 4",
             "info": "20:00 Â· Serie B",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
@@ -106,7 +116,7 @@
             "isHost": ""
         },
         {
-            "name": "Reggiana - Sudtirol - Live 5",
+            "name": "Frosinone - Pescara - Live 5",
             "info": "20:00 Â· Serie B",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
@@ -116,7 +126,7 @@
             "isHost": ""
         },
         {
-            "name": "Venezia - Avellino - Live 6",
+            "name": "Juve Stabia - Sampdoria - Live 6",
             "info": "20:00 Â· Serie B",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
@@ -126,7 +136,7 @@
             "isHost": ""
         },
         {
-            "name": "Entella - Modena - Live 9",
+            "name": "Palermo - Mantova - Live 9",
             "info": "20:00 Â· Serie B",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
@@ -136,67 +146,57 @@
             "isHost": ""
         },
         {
-            "name": "Bournemouth - Brentford - Sport Arena HD",
+            "name": "Diretta Gol Premier League - Calcio HD (ext chrome)",
             "info": "20:30 Â· Premier L.",
             "online": "true",
             "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/arenahd.htm",
+            "url": "https://htsport.cc/calcioex.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Bournemouth - Brentford - Sport Arena",
+            "name": "Diretta Gol Premier League - Calcio HD",
             "info": "20:30 Â· Premier L.",
             "online": "true",
             "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/arena.htm",
+            "url": "https://htsport.cc/calciohd.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Bournemouth - Brentford - Live 22",
+            "name": "Diretta Gol Premier League - Calcio",
             "info": "20:30 Â· Premier L.",
             "online": "true",
             "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live22.htm",
+            "url": "https://htsport.cc/calcio.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Leeds - Sunderland - Sport Mix HD",
+            "name": "Brighton - Arsenal - Live 25",
             "info": "20:30 Â· Premier L.",
             "online": "true",
             "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmixhd.htm",
+            "url": "https://htsport.cc/live25.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Leeds - Sunderland - Sport Mix",
+            "name": "Fulham - West Ham - Live 29",
             "info": "20:30 Â· Premier L.",
             "online": "true",
             "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmix.htm",
+            "url": "https://htsport.cc/live29.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Leeds - Sunderland - Live 30",
-            "info": "20:30 Â· Premier L.",
-            "online": "true",
-            "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live30.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Everton - Burnley - Live 31",
+            "name": "Aston Villa - Chelsea - Live 31",
             "info": "20:30 Â· Premier L.",
             "online": "true",
             "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
@@ -206,37 +206,37 @@
             "isHost": ""
         },
         {
-            "name": "Vicenza - Trento - Calcio HD (ext chrome)",
-            "info": "20:30 Â· Serie C",
+            "name": "Manchester City - Nottingham Forest - Live 22",
+            "info": "20:30 Â· Premier L.",
             "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calcioex.htm",
+            "url": "https://htsport.cc/live22.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Vicenza - Trento - Calcio HD",
-            "info": "20:30 Â· Serie C",
+            "name": "Hamburger - Bayer Leverkusen - Live 23",
+            "info": "20:30 Â· Bundesliga",
             "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "image": "https://static.vecteezy.com/system/resources/previews/010/994/305/non_2x/bundesliga-logo-symbol-white-design-germany-football-european-countries-football-teams-illustration-with-red-background-free-vector.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calciohd.htm",
+            "url": "https://htsport.cc/live23.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Vicenza - Trento - Calcio",
-            "info": "20:30 Â· Serie C",
+            "name": "Lorient - Nizza - Live 28",
+            "info": "20:30 Â· Coppa di Francia",
             "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "image": "https://media.footalist.com/competitions/Coupe-de-la-ligue.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calcio.htm",
+            "url": "https://htsport.cc/live28.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Barcellona - Atletico Madrid - Live 26",
+            "name": "Real Sociedad - Athletic - Live 26",
             "info": "21:00 Â· Liga",
             "online": "true",
             "image": "https://www.sportmonks.com/wp-content/uploads/2022/06/Copa-del-Rey.png",
@@ -246,7 +246,7 @@
             "isHost": ""
         },
         {
-            "name": "Barcellona - Atletico Madrid - Live 126",
+            "name": "Real Sociedad - Athletic - Live 126",
             "info": "21:00 Â· Liga",
             "online": "true",
             "image": "https://www.sportmonks.com/wp-content/uploads/2022/06/Copa-del-Rey.png",
@@ -256,17 +256,17 @@
             "isHost": ""
         },
         {
-            "name": "Strasburgo - Reims - Live 24",
+            "name": "Marsiglia - Tolosa - Live 24",
             "info": "21:00 Â· Coppa di Francia",
             "online": "true",
-            "image": "https://www.cassandrapronostici.com/wp-content/uploads/2015/05/coppa-di-francia2.png",
+            "image": "https://media.footalist.com/competitions/Coupe-de-la-ligue.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live24.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Como - Inter - Live 7",
+            "name": "Lazio - Atalanta - Live 7",
             "info": "21:00 Â· Coppa Italia",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/960px-Coccarda_Coppa_Italia.svg.png",
@@ -276,7 +276,7 @@
             "isHost": ""
         },
         {
-            "name": "Como - Inter - Live 147",
+            "name": "Lazio - Atalanta - Live 147",
             "info": "21:00 Â· Coppa Italia",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/960px-Coccarda_Coppa_Italia.svg.png",
@@ -286,7 +286,7 @@
             "isHost": ""
         },
         {
-            "name": "Como - Inter - Live 147 b",
+            "name": "Lazio - Atalanta - Live 147 b",
             "info": "21:00 Â· Coppa Italia",
             "online": "true",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Coccarda_Coppa_Italia.svg/960px-Coccarda_Coppa_Italia.svg.png",
@@ -296,32 +296,102 @@
             "isHost": ""
         },
         {
-            "name": "Wolverhampton - Liverpool - Sport 1 HD (ext chrome)",
+            "name": "Newcastle - Manchester United - Live 21",
             "info": "21:15 Â· Premier L.",
             "online": "true",
             "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live21.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Picerno - Atalanta U23 - Sport 1 HD (ext chrome)",
+            "info": "18:00 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/sportunoex.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Wolverhampton - Liverpool - Sport 1 HD",
-            "info": "21:15 Â· Premier L.",
+            "name": "Picerno - Atalanta U23 - Sport 1 HD",
+            "info": "18:00 Â· Serie C",
             "online": "true",
-            "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/sportuno.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Wolverhampton - Liverpool - Sport 1",
-            "info": "21:15 Â· Premier L.",
+            "name": "Picerno - Atalanta U23 - Sport 1",
+            "info": "18:00 Â· Serie C",
             "online": "true",
-            "image": "https://i.pinimg.com/474x/60/f5/a4/60f5a4716d1e2a8fc8a745eca9242ad5.jpg",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Giugliano - Monopoli - Calcio HD (ext chrome)",
+            "info": "18:00 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcioex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Giugliano - Monopoli - Calcio HD",
+            "info": "18:00 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Giugliano - Monopoli - Calcio",
+            "info": "18:00 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Benevento - Catania - Calcio HD (ext chrome)",
+            "info": "20:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcioex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Benevento - Catania - Calcio HD",
+            "info": "20:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Benevento - Catania - Calcio",
+            "info": "20:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
             "embed": "true",
             "isHost": ""
         }
