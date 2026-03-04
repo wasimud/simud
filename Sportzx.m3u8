@@ -93,13 +93,16 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
+#EXTINF:-1 tvg-id="wwenxt0200sportzxwwe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE NXT 02:00 (SportzX WWE)
+https://601.lifesharper.com/wwe.m3u8
+
+#EXTINF:-1 tvg-id="wwenxt0200backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE NXT 02:00 (Backup SD)
+https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
+
 #EXTINF:-1 tvg-id="wwenxt0200tapsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE NXT 02:00 (Tap Sports)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-
-#EXTINF:-1 tvg-id="wwenxt0200backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE NXT 02:00 (Backup SD)
-https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 
 #EXTINF:-1 tvg-id="wwe0200foxsportspremium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE 02:00 (Fox Sports Premium)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -190,6 +193,9 @@ https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
 
 #EXTINF:-1 tvg-id="sacramentokingsvsphoenixsuns0500sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Phoenix Suns 05:00 (SD SERVER)
 https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
+
+#EXTINF:-1 tvg-id="barcelonascvsbotafogo0130spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Con. libertadores",Barcelona SC vs Botafogo 01:30 (SPX - FHD)
+https://daffodil.833577.xyz/beines.m3u8
 
 #EXTINF:-1 tvg-id="barcelonascvsbotafogo0130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Con. libertadores",Barcelona SC vs Botafogo 01:30 (SportzX Live)
 https://live.alilicloud.com/live/878d3d2c8fd229fc2aaec35427c6107d/playlist.m3u8
