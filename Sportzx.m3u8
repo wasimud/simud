@@ -184,7 +184,7 @@ https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 #EXTINF:-1 tvg-id="losangelesclippersvsindianapacers0430sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs Indiana Pacers 04:30 (SD SERVER)
 https://smarthard.click/hls/kl434PVmNnx/index.m3u8
 
-#EXTINF:-1 tvg-id="brightonvsarsenal2030tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Arsenal 20:30 (TNT SPORTS)
+#EXTINF:-1 tvg-id="brightonvsarsenal2030tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Arsenal 20:30 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
@@ -192,7 +192,10 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v
 #EXTINF:-1 tvg-id="brightonvsarsenal2030nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Arsenal 20:30 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
-#EXTINF:-1 tvg-id="manchestercityvsnottinghamforest2030tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Nottingham Forest 20:30 (TNT SPORTS)
+#EXTINF:-1 tvg-id="brightonvsarsenal2030skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Arsenal 20:30 (SKY SPORTS HD)
+https://storage.googleapis.com/potughertung2/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="manchestercityvsnottinghamforest2030tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Nottingham Forest 20:30 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
@@ -200,7 +203,7 @@ https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/pnu10tp36z/out/v
 #EXTINF:-1 tvg-id="manchestercityvsnottinghamforest2030nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Nottingham Forest 20:30 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH624/index.m3u8
 
-#EXTINF:-1 tvg-id="astonvillavschelsea2030tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Chelsea 20:30 (TNT SPORTS)
+#EXTINF:-1 tvg-id="astonvillavschelsea2030tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Chelsea 20:30 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
@@ -212,6 +215,12 @@ https://eventcdn02-nowe.akamaized.net/hls/CH625/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="astonvillavschelsea2030usatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Chelsea 20:30 (USA TV FHD)
+https://s3.us-east-1.amazonaws.com/artemys.derakchd/chelsea.m3u8
+
+#EXTINF:-1 tvg-id="astonvillavschelsea2030tntsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Aston Villa vs Chelsea 20:30 (TNT SPORTS HD)
+https://storage.googleapis.com/potughertung1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="fulhamvswesthamunited2030nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs West Ham United 20:30 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH626/index.m3u8
