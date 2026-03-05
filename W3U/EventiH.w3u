@@ -6,36 +6,6 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiH.w3u",
     "stations": [
         {
-            "name": "Latina - Sorrento - Live 3",
-            "info": "18:00 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live3.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Casarano - Siracusa - Live 4",
-            "info": "18:00 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live4.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Giugliano - Monopoli - Live 5",
-            "info": "18:00 Â· Serie C",
-            "online": "true",
-            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/3/3d/Serie_C_NOW_2024.png/250px-Serie_C_NOW_2024.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live5.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Benevento - Catania - Live 5",
             "info": "20:30 Â· Serie C",
             "online": "true",
@@ -96,12 +66,82 @@
             "isHost": ""
         },
         {
+            "name": "Tottenham - Crystal Palace - Live 101",
+            "info": "21:00 Â· Premier L.",
+            "online": "true",
+            "image": "https://p1.hiclipart.com/preview/410/823/677/free-120-apps-and-website-polygon-icons-premier-league-png-clipart.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live101.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Masterchef - Live 1",
             "info": "21:15 Â· TV",
             "online": "true",
             "image": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/1200/external-masterchef-is-a-competitive-cooking-show-television-format-food-color-tal-revivo.jpg",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (libere 1) - Sport Uno (ext chrome)",
+            "info": "02:30 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (libere 1) - Sport Uno",
+            "info": "02:30 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (libere 1) - Live 7",
+            "info": "02:30 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (libere 2) - Sport Uno (ext chrome)",
+            "info": "06:00 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (libere 2) - Sport Uno",
+            "info": "06:00 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (libere 2) - Live 7",
+            "info": "06:00 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live7.htm",
             "embed": "true",
             "isHost": ""
         }
