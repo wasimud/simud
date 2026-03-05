@@ -195,11 +195,53 @@ https://in-mc-flive.fancode.com/mumbai/141090_bengali_dash_94981_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=63656dee0e10463790fed198470df50b:2388cacaf1b030a2dae50a063baa6ad7
 https://bd-mc-flive.fancode.com/delhi/140451_english_dash_38996_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="losangelesclippersvsindianapacers0430sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs Indiana Pacers 04:30 (SportzX NBA)
+#EXTINF:-1 tvg-id="orlandomagicvsdallasmavericks0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Orlando Magic vs Dallas Mavericks 01:00 (SportzX NBA)
+https://cdn1.trrfiles.cfd/live/cdn1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="orlandomagicvsdallasmavericks0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Orlando Magic vs Dallas Mavericks 01:00 (SD SERVER)
+https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="washingtonwizardsvsutahjazz0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Washington Wizards vs Utah Jazz 01:00 (SportzX NBA)
+https://cdn2.trrfiles.cfd/live/cdn2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="washingtonwizardsvsutahjazz0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Washington Wizards vs Utah Jazz 01:00 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="houstonrocketsvsstatewarriors0130sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs State Warriors 01:30 (SportzX NBA)
+https://cdn3.trrfiles.cfd/live/cdn3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="houstonrocketsvsstatewarriors0130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs State Warriors 01:30 (SD SERVER)
+https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+
+#EXTINF:-1 tvg-id="miamiheatvsbrooklynnets0130sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Miami Heat vs Brooklyn Nets 01:30 (SportzX NBA)
+https://cdn9.trrfiles.cfd/live/cdn9/chunks.m3u8
+
+#EXTINF:-1 tvg-id="miamiheatvsbrooklynnets0130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Miami Heat vs Brooklyn Nets 01:30 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="minnesotatimberwolvesvstorontoraptors0200sportzxnb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Minnesota Timberwolves vs Toronto Raptors 02:00 (SportzX NBA)
+https://cdn5.trrfiles.cfd/live/cdn5/chunks.m3u8
+
+#EXTINF:-1 tvg-id="minnesotatimberwolvesvstorontoraptors0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Minnesota Timberwolves vs Toronto Raptors 02:00 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
+#EXTINF:-1 tvg-id="sanantoniospursvsdetroitpistons0200sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Detroit Pistons 02:00 (SportzX NBA)
 https://cdn6.trrfiles.cfd/live/cdn6/chunks.m3u8
 
-#EXTINF:-1 tvg-id="losangelesclippersvsindianapacers0430sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs Indiana Pacers 04:30 (SD SERVER)
+#EXTINF:-1 tvg-id="sanantoniospursvsdetroitpistons0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Detroit Pistons 02:00 (SD SERVER)
 https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
+#EXTINF:-1 tvg-id="phoenixsunsvschicagobulls0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Phoenix Suns vs Chicago Bulls 03:00 (SD SERVER)
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
+#EXTINF:-1 tvg-id="denvernuggetsvslosangeleslakers0400sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Denver Nuggets vs Los Angeles Lakers 04:00 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="sacramentokingsvspelicans0400spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Pelicans 04:00 (SPX - FHD)
+https://cdn1.trrfiles.cfd/live/cdn1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="sacramentokingsvspelicans0400sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Pelicans 04:00 (SD SERVER)
+https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
 
 #EXTINF:-1 tvg-id="alkholoodvsalqadsiah2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Kholood vs Al-Qadsiah 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
