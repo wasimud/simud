@@ -1,31 +1,37 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="formula10230fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 02:30 (FANCODE FHD)
+#EXTINF:-1 tvg-id="formula10600fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 06:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula10230tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 02:30 (TSN SPORTS)
+#EXTINF:-1 tvg-id="formula10600tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 06:00 (TSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula10230skysportf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 02:30 (Sky Sport F1)
+#EXTINF:-1 tvg-id="formula10600skysportnz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 06:00 (SKY SPORT NZ)
+https://grand-s-main.faggotsports.tv/out/v2/dfaeda63248ed346a40b4d0fc50c94db/index.m3u8
+
+#EXTINF:-1 tvg-id="formula10600skysportf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 06:00 (SKY SPORT F1)
+https://602.xn--1000-ugoa0hsb9a0hb.com/f1.m3u8
+
+#EXTINF:-1 tvg-id="formula10600elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 06:00 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD201/index.mpd
+https://bbb.exoadash.com/TVD6411/index.mpd
 
-#EXTINF:-1 tvg-id="formula10230skyf1sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 02:30 (Sky F1 SD)
+#EXTINF:-1 tvg-id="formula10600skyf1sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 06:00 (Sky F1 SD)
 https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8
 
-#EXTINF:-1 tvg-id="formula10230skyf1de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 02:30 (Sky F1 DE)
+#EXTINF:-1 tvg-id="formula10600skyf1de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 06:00 (Sky F1 DE)
 https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8
 
-#EXTINF:-1 tvg-id="formula10230foxsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 02:30 (Fox Sports - AQ)
+#EXTINF:-1 tvg-id="formula10600foxsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 06:00 (Fox Sports - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
-https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
 #EXTINF:-1 tvg-id="motogp1700tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Motogp",MotoGP 17:00 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -192,57 +198,147 @@ https://in-mc-flive.fancode.com/mumbai/141090_bengali_dash_94981_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=63656dee0e10463790fed198470df50b:2388cacaf1b030a2dae50a063baa6ad7
 https://bd-mc-flive.fancode.com/delhi/140451_english_dash_38996_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="orlandomagicvsdallasmavericks0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Orlando Magic vs Dallas Mavericks 01:00 (SD SERVER)
-https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
-
-#EXTINF:-1 tvg-id="washingtonwizardsvsutahjazz0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Washington Wizards vs Utah Jazz 01:00 (SD SERVER)
-https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
-
-#EXTINF:-1 tvg-id="houstonrocketsvsstatewarriors0130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs State Warriors 01:30 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
-#EXTINF:-1 tvg-id="miamiheatvsbrooklynnets0130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Miami Heat vs Brooklyn Nets 01:30 (SD SERVER)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
-
-#EXTINF:-1 tvg-id="minnesotatimberwolvesvstorontoraptors0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Minnesota Timberwolves vs Toronto Raptors 02:00 (SD SERVER)
-https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
-
-#EXTINF:-1 tvg-id="sanantoniospursvsdetroitpistons0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Detroit Pistons 02:00 (SD SERVER)
-https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
-
-#EXTINF:-1 tvg-id="phoenixsunsvschicagobulls0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Phoenix Suns vs Chicago Bulls 03:00 (SD SERVER)
-https://smarthard.click/hls/kl434PVmNnx/index.m3u8
-
 #EXTINF:-1 tvg-id="denvernuggetsvslosangeleslakers0400sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Denver Nuggets vs Los Angeles Lakers 04:00 (SD SERVER)
 https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
 
 #EXTINF:-1 tvg-id="sacramentokingsvspelicans0400sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Pelicans 04:00 (SD SERVER)
 https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
 
-#EXTINF:-1 tvg-id="tottenhamhotspurvscrystalpalace2100tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Tottenham Hotspur vs Crystal Palace 21:00 (TNT SPORTS)
+#EXTINF:-1 tvg-id="celtavigovsrealmadrid2100laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Celta Vigo vs Real Madrid 21:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1 tvg-id="tottenhamhotspurvscrystalpalace2100nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Tottenham Hotspur vs Crystal Palace 21:00 (NOW SPORTS PL)
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+#EXTINF:-1 tvg-id="celtavigovsrealmadrid2100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Celta Vigo vs Real Madrid 21:00 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 tvg-id="olympiquelyonnaisvsrclens2110beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Coupe de france 🇫🇷",Olympique Lyonnais vs RC Lens 21:10 (beIN ENGLISH)
+#EXTINF:-1 tvg-id="celtavigovsrealmadrid2100tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Celta Vigo vs Real Madrid 21:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="osasunavsmallorca1400laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Osasuna vs Mallorca 14:00 (Laliga TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="osasunavsmallorca1400beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Osasuna vs Mallorca 14:00 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="osasunavsmallorca1400premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Osasuna vs Mallorca 14:00 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="levanteudvsgironafc1615laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Levante UD vs Girona FC 16:15 (Laliga TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="levanteudvsgironafc1615beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Levante UD vs Girona FC 16:15 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="atlticomadridvsrealsociedad1830laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Real Sociedad 18:30 (Laliga TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="atlticomadridvsrealsociedad1830beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Real Sociedad 18:30 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="atlticomadridvsrealsociedad1830premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Real Sociedad 18:30 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="athleticclubvsbarcelona2100laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Athletic Club vs Barcelona 21:00 (Laliga TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="athleticclubvsbarcelona2100beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Athletic Club vs Barcelona 21:00 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="athleticclubvsbarcelona2100tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Athletic Club vs Barcelona 21:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="napolivstorino2045cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Napoli vs Torino 20:45 (CBS NETWORK)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="napolivstorino2045elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Napoli vs Torino 20:45 (ELEVEN SPORTS)
+https://bbb.exoadash.com/TVD6414/index.mpd
+
+#EXTINF:-1 tvg-id="cagliarivscomo1500beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Cagliari vs Como 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="olympiquelyonnaisvsrclens2110foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Coupe de france 🇫🇷",Olympique Lyonnais vs RC Lens 21:10 (FOX DEPORTES)
+#EXTINF:-1 tvg-id="cagliarivscomo1500foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Cagliari vs Como 15:00 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
-#EXTINF:-1 tvg-id="bangladeshvsnorthkorea0300fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc asian women cup",Bangladesh vs North Korea 03:00 (FANCODE FHD)
+#EXTINF:-1 tvg-id="atalantavsudinese1800beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Atalanta vs Udinese 18:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="bangladeshvsnorthkorea0300fancodesd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc asian women cup",Bangladesh vs North Korea 03:00 (FANCODE - SD)
+#EXTINF:-1 tvg-id="atalantavsudinese1800elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Atalanta vs Udinese 18:00 (ELEVEN SPORTS)
+https://bbb.exoadash.com/TVD6414/index.mpd
+
+#EXTINF:-1 tvg-id="juventusvspisa2045beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Juventus vs Pisa 20:45 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="juventusvspisa2045cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Juventus vs Pisa 20:45 (CBS NETWORK)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="juventusvspisa2045elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Juventus vs Pisa 20:45 (ELEVEN SPORTS)
+https://bbb.exoadash.com/TVD6414/index.mpd
+
+#EXTINF:-1 tvg-id="bayernmnchenvsborussiamgladbach2030beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayern München vs Borussia M'gladbach 20:30 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="bayernmnchenvsborussiamgladbach2030elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayern München vs Borussia M'gladbach 20:30 (ELEVEN SPORTS)
+https://bbb.exoadash.com/TVD6411/index.mpd
+
+#EXTINF:-1 tvg-id="bayernmnchenvsborussiamgladbach2030novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayern München vs Borussia M'gladbach 20:30 (NOVA SPORTS)
+https://bbb.exoadash.com/TVD2709/index.mpd
+
+#EXTINF:-1 tvg-id="freiburgvsbayerleverkusen1530beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Freiburg vs Bayer Leverkusen 15:30 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="freiburgvsbayerleverkusen1530elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Freiburg vs Bayer Leverkusen 15:30 (ELEVEN SPORTS)
+https://bbb.exoadash.com/TVD6414/index.mpd
+
+#EXTINF:-1 tvg-id="freiburgvsbayerleverkusen1530novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Freiburg vs Bayer Leverkusen 15:30 (NOVA SPORTS)
+https://bbb.exoadash.com/TVD2709/index.mpd
+
+#EXTINF:-1 tvg-id="klnvsborussiadortmund1830beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Köln vs Borussia Dortmund 18:30 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="klnvsborussiadortmund1830sport1de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Köln vs Borussia Dortmund 18:30 (Sport1  DE)
+https://bbb.exoadash.com/TVD5788/index.mpd
