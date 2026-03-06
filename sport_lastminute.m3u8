@@ -6,6 +6,12 @@
 #KODIPROP:inputstream.adaptive.license_key=d4873ae9808a5e0792f65c4c5fbfe3e0:c053dc774e279aa145c57ee09e7bcdad
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772822703~exp%3D1772909103~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D63cacc9cf9592572f74b550d30117b70c09c9ba06b592d630e2584db19bcbe03%23wm%3D1%23wmd%3D1152~hmac%3D3546ec9a7b419a9baa2d2102c9259997e759675b23e7d57a9cf34dd8df342b0b/1l54xcec0do5w1lg4l87ocd8vu/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 tvg-id="indianwellsitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",INDIAN WELLS  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115dac9561fb3f37545ee063c8265aa:c8cde8fabe98ea362c9bb6ba524d4744
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772891973_s~400358c8-3046-4a9a-ae97-6488649e3cc1_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~60_x~6ffdc82cd34b0aa4dcb9a00b6ad0014fd7fc764964f7dda83fc9fb35a787398e/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysporttennis)/master_2hr-aac.mpd
+
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
