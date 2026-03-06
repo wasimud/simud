@@ -173,20 +173,15 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 #KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230banglaonlyin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (BANGLA ONLY  IN )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b474a343891b4161b1974c8546e084c5:429efb3f2e08efc41532dee898e0088f
-https://in-mc-flive.fancode.com/mumbai/141169_bengali_dash_7425_1drmta-di_h264/index.mpd
-
 #EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef393f547f1b4d73a9577904d6927dae:44eb0c8b4a8521b48e871b14371c648b
-https://in-mc-flive.fancode.com/mumbai/140454_english_dash_62551_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=6f71c974b8634fbdbe06a67bb9011c3d:e855f47f61a75ed0eaff15cdde24b084
+https://in-mc-flive.fancode.com/mumbai/140453_english_dash_55690_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e36aa29996844c68b07796025abba1e2:23ad3ed887849b7bcab1ea16eb87be3b
-https://in-mc-flive.fancode.com/mumbai/140454_hindi_dash_54190_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=aed7a04095114a788b7e2bf40ece0404:0e72b6f017d4f6faf9c5884f9387c672
+https://in-mc-flive.fancode.com/mumbai/140453_hindi_dash_55584_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
