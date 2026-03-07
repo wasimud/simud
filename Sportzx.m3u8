@@ -403,12 +403,6 @@ https://storage.googleapis.com/uncertynghfn1/mux_video_ts1/index-1.m3u8
 #EXTINF:-1 tvg-id="newcastleunitedvsmanchestercity2100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Newcastle United vs Manchester City 21:00 (SportzX Live)
 https://live.alilicloud.com/live/be4e612ebb3dfebe43105a2255354397/playlist.m3u8
 
-#EXTINF:-1 tvg-id="beiktavsgalatasaray1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Beşiktaş vs Galatasaray 18:00 (beIN SPORTS)
-https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
-
-#EXTINF:-1 tvg-id="beiktavsgalatasaray1800beinsportsfr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Beşiktaş vs Galatasaray 18:00 (beIN SPORTS FR)
-https://smarthard.click/hls/Jih7RNQzpjI8/index.m3u8
-
 #EXTINF:-1 tvg-id="psveindhovenvsazalkmaar2000premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",PSV Eindhoven vs AZ Alkmaar 20:00 (Premier Sports)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
@@ -419,17 +413,6 @@ https://live.alilicloud.com/live/ba46a756e2d24b3b593200c6a7aa157b/playlist.m3u8
 
 #EXTINF:-1 tvg-id="excelsiorvsscheerenveen2100espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Excelsior vs SC Heerenveen 21:00 (ESPN NL)
 https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
-
-#EXTINF:-1 tvg-id="sportingbragavssportingcp1900sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Sporting Braga vs Sporting CP 19:00 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="sportingbragavssportingcp1900sporttvsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Sporting Braga vs Sporting CP 19:00 (Sport TV SD)
-https://smarthard.click/hls/krqMWsx7RoKw/index.m3u8
-
-#EXTINF:-1 tvg-id="moreirensevscdnacional1630tviportugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Moreirense vs CD Nacional 16:30 (TVI Portugal)
-https://smarthard.click/hls/Q2jAZYblj3u/index.m3u8
 
 #EXTINF:-1 tvg-id="burgosvsmirands1830laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Burgos vs Mirandés 18:30 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
