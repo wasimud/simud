@@ -4,13 +4,19 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115bf69b117cf0b2c9191b293cc9935:c966a4733f9a29d4f9d5baa3787a4830
-https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772891805_s~34bea498-41be-46fb-9bb8-9b95b27d802b_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~56_x~dd77ea747c6dcf6209327151804b7364a72f1a0c71a9d7ca3e62af27de675330/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1772973118_s~d00e396e-0b7f-4326-abf7-8e8823c83615_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~56_x~88ed937d47be9afbe0b70264e88481b0663f8a100735e2ee4986d13757953b4b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="1500cagliaricomompd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",15:00 Cagliari - Como (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9a0921ca5c950eeac43ddfd644ea11f:00ced38ebd710bb025c97baf67dd01fb
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772890205~exp%3D1772976605~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D57e62400498c9c64cf9f938b5016efb90bc93acc8bb26e46ffdcb1e3b9581a0f%23wm%3D0~hmac%3D2994c57f5f08581452ca8c0dc647b82085c0865eeeee7866d31b3615c763c5ee/1au8d4l04b30h1tnb1cizln8jq/web/stream.mpd?channel=1349&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2045juventusvspisaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 JUVENTUS vs PISA  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115930b12910651361fe86b4d9f4222:db5d6a2e145bb9c5c57aa1784dec4f86
+https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1772973059_f~0_g~1_s~042810e4-1406-4676-8520-64211e38318b_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~57_x~54f2c5816a82d4ad9ad572e65a18a43c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport251)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="1500avellinopadovampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",15:00 Avellino - Padova (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
