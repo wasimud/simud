@@ -168,6 +168,11 @@ http://103.229.254.25:7001/play/a0a0/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
+#EXTINF:-1 tvg-id="islvsisl1230fancodesd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE - SD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+
 #EXTINF:-1 tvg-id="islvsisl1230sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (SportzX Live)
 https://live.alilicloud.com/live/90101fb74ce214ddb9f934c4f926a6ef/playlist.m3u8
 
@@ -195,11 +200,6 @@ https://in-mc-flive.fancode.com/mumbai/140453_bengali_dash_53940_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40afccdb079f47d1a11468c849ea670f:fbab01e0face198930da4228e0ae5f92
 https://bd-mc-flive.fancode.com/delhi/140453_english_dash_63832_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1230fancode2sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 12:30 (FANCODE 2 - SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="australiawvsindiaw0620willowadfree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Australia W vs India W 06:20 (WILLOW (Ad Free))
 https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
