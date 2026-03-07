@@ -132,7 +132,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 
 #EXTINF:-1 tvg-id="wwe0200backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE 02:00 (BACKUP SD)
-https://android-database1.firebase-api.com/AccessLog2/108087_HD/apache.m3u8
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_SD/apache.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc011430willowadfree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (WILLOW  Ad Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -442,3 +442,12 @@ https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
 #EXTINF:-1 tvg-id="beiktavsgalatasaray1800beinsportsfr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Beşiktaş vs Galatasaray 18:00 (beIN SPORTS FR)
 https://smarthard.click/hls/Jih7RNQzpjI8/index.m3u8
+
+#EXTINF:-1 tvg-id="mazatlnfcvsclublen0200tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Mazatlán FC vs Club León 02:00 (TUDN USA)
+https://daffodil.lifesharper.com/tudn.m3u8
+
+#EXTINF:-1 tvg-id="mazatlnfcvsclublen0200sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Mazatlán FC vs Club León 02:00 (SportzX Live)
+https://live.alilicloud.com/live/1f9b2f4b405108be4bba434a48365cd1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="clubnecaxavspumasunam0400tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Club Necaxa vs Pumas UNAM 04:00 (TUDN USA)
+https://daffodil.lifesharper.com/tudn.m3u8
