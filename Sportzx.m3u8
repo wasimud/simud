@@ -310,9 +310,13 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 https://bbb.exoadash.com/TVD6414/index.mpd
 
 #EXTINF:-1 tvg-id="klnvsborussiadortmund1830elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Köln vs Borussia Dortmund 18:30 (ELEVEN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6411/index.mpd
 
 #EXTINF:-1 tvg-id="klnvsborussiadortmund1830novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Köln vs Borussia Dortmund 18:30 (NOVA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2709/index.mpd
 
 #EXTINF:-1 tvg-id="nantesvsangers1700ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Nantes vs Angers 17:00 (Ligue1  HD)
@@ -340,6 +344,12 @@ https://bbb.exoadash.com/TVD6412/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="wrexhamvschelsea1845sportsnethd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Wrexham vs Chelsea 18:45 (SportsNet HD)
+https://storage.googleapis.com/uncertynghfn1/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="wrexhamvschelsea1845dazndesd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Wrexham vs Chelsea 18:45 (DAZN DE SD)
+https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8
 
 #EXTINF:-1 tvg-id="newcastleunitedvsmanchestercity2100tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Newcastle United vs Manchester City 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -378,16 +388,6 @@ https://smarthard.click/hls/BPCSzCbmT7fX/index.m3u8
 
 #EXTINF:-1 tvg-id="moreirensevscdnacional1630tviportugal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Moreirense vs CD Nacional 16:30 (TVI Portugal)
 https://smarthard.click/hls/Q2jAZYblj3u/index.m3u8
-
-#EXTINF:-1 tvg-id="huescavsalbacetebalompi1615laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Huesca vs Albacete Balompié 16:15 (Laliga Hypermotion ES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1581/index.mpd
-
-#EXTINF:-1 tvg-id="realsociedadiivscdcastellon1615laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Real Sociedad II vs CD Castellon 16:15 (Laliga Hypermotion ES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-id="burgosvsmirands1830laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Burgos vs Mirandés 18:30 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
