@@ -351,6 +351,9 @@ https://bbb.exoadash.com/TVD6412/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="mansfieldtownvsarsenal1315hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Mansfield Town vs Arsenal 13:15 (HD SERVER)
+https://storage.googleapis.com/uncxwerrryuns1/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="wrexhamvschelsea1845tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Wrexham vs Chelsea 18:45 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
