@@ -21,6 +21,18 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772899203~exp%3D1772985603~acl%3D%2
 #EXTINF:-1 tvg-id="2045juventusvspisaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 JUVENTUS vs PISA  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://matterzrh1-3-dash-pvr.zahs.tv/HD_dazn_event_3_ch/1772836544000/1772921700800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIE3DCN2GII2TAMZWGE4EMLJUGM2TMQKCGU3TMQRRGEYUKMJUEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGQ2DCNBQGQTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPTIZBQMVSWGNBZMYYWKZJSGE2TCZRWGQ4GGMZSHA2TAZRWMU3TMZJGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
+
+#EXTINF:-1 tvg-id="2045juventusvspisaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 JUVENTUS vs PISA  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://matterlau1-4-dash-pvr.zahs.tv/HD_spalk_event_1_ch/1772836521600/1772921700800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIE3DCN2BIJATQQSBGA4TALJRIM4EKNCEGJDDIRSEGQ2EMMJYEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGQ2DCMZYGMTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHFPTSZBRMQ3WCZRRGJSWGZDGME4WCM3FMJTDMM3FMY3GIZJZGBSTEZBGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
+
+#EXTINF:-1 tvg-id="2045juventusvspisaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 JUVENTUS vs PISA  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115930b12910651361fe86b4d9f4222:db5d6a2e145bb9c5c57aa1784dec4f86
 https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1772973059_f~0_g~1_s~042810e4-1406-4676-8520-64211e38318b_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~57_x~54f2c5816a82d4ad9ad572e65a18a43c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport251)/master_2hr-aac.mpd
 
@@ -53,6 +65,18 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772891403~exp%3D1772977803~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96edf0f75cfc583e97ad595163d106f2:71297284c5abbda808fa462f5bfb04de
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772899503~exp%3D1772985903~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Df9018fa2ca68157c5bd90a023e0b0d4810f4c5357e2a40dcddb4d12d90473bbd%23wm%3D0~hmac%3Df608eed113b329ad6aaee35db3d59f81a3ef11b5197e9ee8fd7c45bdc43f8ac1/1psc7agg27fuj1b94t4aek2luu/web/stream.mpd?channel=3946&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1930modenavscesenaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",19:30 MODENA vs CESENA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://dcn-de-voddazn.daznedge.net/@tend%3A1772981462~geo%3AIT~asn%3A3269~path%3A1_3_bd78763226777d9cbd9ec38cf6fe233670d8d5b34f49478c9248888d42fd44b0~ua%3A7c73ef5b8d3235ae0606f2e84e457ff5~id%3A70d2a2d6db3d~tk3%3A9852b5c382e8336759577ab372f590e3b3e4941abcf35df6e8bdb33f53de2c94/SFP/video/gsq9t216nnx1y1q7bb28jblb/1/web/dash/stream.mpd
+
+#EXTINF:-1 tvg-id="1930modenacesenampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",19:30 Modena - Cesena (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=682d937473e05e5c915f62717845d877:d4160af339293c5dfeb70bb9df0f53d3
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772907603~exp%3D1772994003~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Da2c6a89d6bf5181ba1591e575178029f2c086e0afc35635db85a42e763c7838d%23wm%3D0~hmac%3D849eb97729ad9b0cb9d9b9db067963def904b4e85f3f90119ce30f15f2d5ba61/13m1eq3p9znpw1cgd369c4ckvr/web/stream.mpd?channel=3943&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="indianwellsitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",INDIAN WELLS  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
