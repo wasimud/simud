@@ -11,6 +11,14 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="cagliarivscomo1500cosmotesport" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliaricomo.png" group-title="Serie A",Cagliari vs Como 15:00 (COSMOTE Sport)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD4071/index.mpd
+
+#EXTINF:-1 tvg-id="cagliarivscomo1500sportzxlive" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cagliaricomo.png" group-title="Serie A",Cagliari vs Como 15:00 (SportzX Live)
+https://live.alilicloud.com/live/ac881c8466db816bf94d2fd2f50e937a/playlist.m3u8
+
 #EXTINF:-1 tvg-id="atalantavsudinese1800beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/atalantaudinese.png" group-title="Serie A",Atalanta vs Udinese 18:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
