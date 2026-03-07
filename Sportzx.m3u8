@@ -216,6 +216,42 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
+#EXTINF:-1 tvg-id="minnesotatimberwolvesvsorlandomagic2100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Minnesota Timberwolves vs Orlando Magic 21:00 (SportzX NBA)
+https://cdn6.tgfiles.cfd/live/cdn6/chunks.m3u8
+
+#EXTINF:-1 tvg-id="minnesotatimberwolvesvsorlandomagic2100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Minnesota Timberwolves vs Orlando Magic 21:00 (SD SERVER)
+https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="atlantahawksvsphiladelphia76ers0000sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Atlanta Hawks vs Philadelphia 76ers 00:00 (SportzX NBA)
+https://cdn1.tgfiles.cfd/live/cdn1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="atlantahawksvsphiladelphia76ers0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Atlanta Hawks vs Philadelphia 76ers 00:00 (SD SERVER)
+https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="detroitpistonsvsbrooklynnets0000sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Detroit Pistons vs Brooklyn Nets 00:00 (SportzX NBA)
+https://cdn3.tgfiles.cfd/live/cdn3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="detroitpistonsvsbrooklynnets0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Detroit Pistons vs Brooklyn Nets 00:00 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="memphisgrizzliesvslosangelesclippers0200sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Memphis Grizzlies vs Los Angeles Clippers 02:00 (SportzX NBA)
+https://cdn4.tgfiles.cfd/live/cdn4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="memphisgrizzliesvslosangelesclippers0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Memphis Grizzlies vs Los Angeles Clippers 02:00 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
+#EXTINF:-1 tvg-id="milwaukeebucksvsutahjazz0200sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Milwaukee Bucks vs Utah Jazz 02:00 (SportzX NBA)
+https://cdn5.tgfiles.cfd/live/cdn5/chunks.m3u8
+
+#EXTINF:-1 tvg-id="milwaukeebucksvsutahjazz0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Milwaukee Bucks vs Utah Jazz 02:00 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="thundervsgoldenstatewarriors0230sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Thunder vs Golden State Warriors 02:30 (SportzX NBA)
+https://cdn6.tgfiles.cfd/live/cdn6/chunks.m3u8
+
+#EXTINF:-1 tvg-id="thundervsgoldenstatewarriors0230sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Thunder vs Golden State Warriors 02:30 (SD SERVER)
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
 #EXTINF:-1 tvg-id="alnassrvsneomsc2000foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Nassr vs Neom SC 20:00 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
@@ -347,6 +383,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1
 
 #EXTINF:-1 tvg-id="wrexhamvschelsea1845sportsnethd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Wrexham vs Chelsea 18:45 (SportsNet HD)
 https://storage.googleapis.com/uncertynghfn1/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="wrexhamvschelsea1845fastserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Wrexham vs Chelsea 18:45 (FAST SERVER)
+https://live.alilicloud.com/live/48a2c2e2d8e4112605203759c404a027/playlist.m3u8
 
 #EXTINF:-1 tvg-id="wrexhamvschelsea1845dazndesd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Wrexham vs Chelsea 18:45 (DAZN DE SD)
 https://smarthard.click/hls/2MKw3OQni0WR/index.m3u8
