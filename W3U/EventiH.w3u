@@ -194,6 +194,86 @@
             "url": "https://htsport.cc/live21.htm",
             "embed": "true",
             "isHost": ""
+        },
+        {
+            "name": "Gp Australia (libere 3) - Sport Uno HD (ext chrome)",
+            "info": "02:30 Â· F1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/3840px-F1.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (libere 3) - Sport Uno HD",
+            "info": "02:30 Â· F1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/3840px-F1.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (libere 3) - F1 HD",
+            "info": "02:30 Â· F1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/3840px-F1.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/f1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (libere 3) - Live 7",
+            "info": "02:30 Â· F1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/3840px-F1.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (qualifiche) - Sport Uno HD (ext chrome)",
+            "info": "06:00 Â· F1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/3840px-F1.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (qualifiche) - Sport Uno HD",
+            "info": "06:00 Â· F1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/3840px-F1.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (qualifiche) - F1 HD",
+            "info": "06:00 Â· F1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/3840px-F1.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/f1hd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Gp Australia (qualifiche) - Live 7",
+            "info": "06:00 Â· F1",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/3840px-F1.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live7.htm",
+            "embed": "true",
+            "isHost": ""
         }
     ]
 }
