@@ -1,35 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",03/03 ⏰ 20:30 - Bournemouth - Brentford - Premier League [Dazn2]
+#EXTINF:-1 tvg-id="unknown_channel" group-title="X-Eventi",03/03 ⏰ 12:30 Lecce-Cremonese (Dazn)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd
-
-#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",03/03 ⏰ 20:30 - Leeds - Sunderland - Premier League [Dazn3]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd
-
-#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",03/03 ⏰ 20:30 - Everton - Burnley - Premier League [TNT Sports 3]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",03/03 ⏰ 21:00 - Como - Inter - Coppa Italia, Semifinale (1) [Canale 5]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",03/03 ⏰ 21:00 - Barcelona - Atletico Madrid - Copa del Rey [Sport&bull;TV2]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd
-
-#EXTINF:-1 tvg-id="skysportuno" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",03/03 ⏰ 21:15 - Wolverhampton - Liverpool - Premier League [SKY Sport Uno]
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11155c01708d8cfb8c4ab9eba61cd667:1d0e60aa72557332fe3c19c10c799e44
-https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1772545942_f~0_g~1_s~9655624f-7cda-4d1e-8a3e-40c7ed486fad_u~4a295485b53ba8de09691a296e824a2bb9be752c0b804ef6a262c5b49b86588e_k~A_l~57_x~659a2076f1c1b82a4184358c78a83080/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
-
-#EXTINF:-1 tvg-id="unknown_channel" tvg-logo="https://i.postimg.cc/bvJJ7X19/Chat-GPT-Image-26-feb-2026-20-45-08.png" group-title="X-Eventi",Show
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=dea83780c5ff801b77239e9ed8ebb0dd:428a91ff4da547ced66fdff761222972
+https://abgqhe3aaaaaaaaml62vs34x422e3.bia-cf.live.pv-cdn.net/dub-nitro/live/clients/dash/enc/twfvp5yc1z/out/v1/a6cdd00fe0e748bdaadc9795b852e7a6/cenc.mpd
