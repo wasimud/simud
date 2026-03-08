@@ -78,6 +78,12 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772977806~exp%3D1773064206~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=fd52fa25dda65a4c93bebee71bbb2404:3dc9bcbaeeb0152aef6ef237c619aa6b
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772977804~exp%3D1773064204~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3De0815bda9a6271611362a2c8e924df2316ef5c6ceba38931a914c0f7d4ef3451%23wm%3D0~hmac%3D8544bc8d7b8900a67bdc34766b7c9781df69e7333296118fcb9303ae9fdf4c93/1peywaw1skevb19l3ar7w4r4lc/web/stream.mpd?channel=3943&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 tvg-id="1715carraresepalermompd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",17:15 Carrarese - Palermo (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fb01a99bc9095bd0bcdf25e6e920bf7c:8a1985901c01ca465a93d9cd2cc0a343
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772985905~exp%3D1773072305~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D98b07abcea758ae0f47250b06451c0b572ac721be22fe82d6fa615f59adada02%23wm%3D0~hmac%3D7b526f9967042ec21e566a3ad46b2d70f76de788d02e10cde5eda09ea4f335e1/u5mpkn2w3fuj1kceuzjjam8dh/web/stream.mpd?channel=3941&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
