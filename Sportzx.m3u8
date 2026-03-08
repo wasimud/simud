@@ -216,14 +216,6 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="alokhdoodvsalfayha2000thmanyahhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Okhdood vs Al-Fayha 20:00 (Thmanyah - HD)
-https://live.alilicloud.com/live/e0b5e7845acdf4dc1551d71b3a050716/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tigresuanlvscfmonterrey0400foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga mx",Tigres UANL vs CF Monterrey 04:00 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
 #EXTINF:-1 tvg-id="villarrealvselche1400laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Villarreal vs Elche 14:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
@@ -383,3 +375,73 @@ https://bbb.exoadash.com/TVD2083/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
+
+#EXTINF:-1 tvg-id="benficavsfcporto1900sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Benfica vs FC Porto 19:00 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="benficavsfcporto1900elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Benfica vs FC Porto 19:00 (ELEVEN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD6414/index.mpd
+
+#EXTINF:-1 tvg-id="benficavsfcporto1900benficatvsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Benfica vs FC Porto 19:00 (Benfica TV SD)
+https://smarthard.click/hls/CHbUiaHmZky/index.m3u8
+
+#EXTINF:-1 tvg-id="estrelaamadoravsgilvicente1630sporttv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Estrela Amadora vs Gil Vicente 16:30 (Sport TV1)
+https://smarthard.click/hls/krqMWsx7RoKw/index.m3u8
+
+#EXTINF:-1 tvg-id="santaclaravsvitriasc2130sporttv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Santa Clara vs Vitória SC 21:30 (Sport TV1)
+https://smarthard.click/hls/krqMWsx7RoKw/index.m3u8
+
+#EXTINF:-1 tvg-id="spartarotterdamvspeczwolle1215espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Sparta Rotterdam vs PEC Zwolle 12:15 (ESPN NL)
+https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
+
+#EXTINF:-1 tvg-id="fortunasittardvssctelstar1430espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Fortuna Sittard vs SC Telstar 14:30 (ESPN NL)
+https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
+
+#EXTINF:-1 tvg-id="gaeaglesvsfctwente1430espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",GA Eagles vs FC Twente 14:30 (ESPN NL)
+https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8
+
+#EXTINF:-1 tvg-id="nacbredavsfeyenoord1645sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",NAC Breda vs Feyenoord 16:45 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="nacbredavsfeyenoord1645espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",NAC Breda vs Feyenoord 16:45 (ESPN NL)
+https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8
+
+#EXTINF:-1 tvg-id="necnijmegenvsfcvolendam2000espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",NEC Nijmegen vs FC Volendam 20:00 (ESPN NL)
+https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
+
+#EXTINF:-1 tvg-id="gaziantepvsfatihkaragmrk1130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Gaziantep vs Fatih Karagümrük 11:30 (SportzX Live)
+https://live.alilicloud.com/live/858d1ff27cec0ae0376c3659c8356a26/playlist.m3u8
+
+#EXTINF:-1 tvg-id="gaziantepvsfatihkaragmrk1130beinsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Gaziantep vs Fatih Karagümrük 11:30 (beIN SPORT)
+https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
+
+#EXTINF:-1 tvg-id="rizesporvsantalyaspor1130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Rizespor vs Antalyaspor 11:30 (SportzX Live)
+https://live.alilicloud.com/live/1b439d74b74a8a01e4a9171959bc9d30/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rizesporvsantalyaspor1130beinsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Rizespor vs Antalyaspor 11:30 (beIN SPORT)
+https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
+
+#EXTINF:-1 tvg-id="fenerbahevssamsunspor1800beinsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Fenerbahçe vs Samsunspor 18:00 (beIN SPORT)
+https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
+
+#EXTINF:-1 tvg-id="konyasporvskasmpaa1400beinsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Konyaspor vs Kasımpaşa 14:00 (beIN SPORT)
+https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
+
+#EXTINF:-1 tvg-id="fulhamvssouthampton1300tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Fulham vs Southampton 13:00 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="fulhamvssouthampton1300cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Fulham vs Southampton 13:00 (COSMOTE Sport)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD4072/index.mpd
+
+#EXTINF:-1 tvg-id="portvalevssunderland1430espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Port Vale vs Sunderland 14:30 (ESPN NL)
+https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
