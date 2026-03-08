@@ -9,7 +9,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #EXTINF:-1 tvg-id="formula10445fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:45 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-id="formula10445f1tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:45 (F1 TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20,6 +20,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
+#EXTINF:-1 tvg-id="formula10445skyf1it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:45 (SKY F1 IT)
+https://602.lifesharper.com/italy.m3u8
 
 #EXTINF:-1 tvg-id="formula10445skysportf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:45 (SKY SPORT F1)
 https://cdn13.tgfiles.cfd/live/cdn13/chunks.m3u8
@@ -229,33 +232,11 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="memphisgrizzliesvslosangelesclippers0200sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Memphis Grizzlies vs Los Angeles Clippers 02:00 (SportzX NBA)
-https://cdn8.tgfiles.cfd/live/cdn8/chunks.m3u8
-
-#EXTINF:-1 tvg-id="memphisgrizzliesvslosangelesclippers0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Memphis Grizzlies vs Los Angeles Clippers 02:00 (SD SERVER)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
-
 #EXTINF:-1 tvg-id="thundervsgoldenstatewarriors0230sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Thunder vs Golden State Warriors 02:30 (SportzX NBA)
 https://cdn10.tgfiles.cfd/live/cdn10/chunks.m3u8
 
 #EXTINF:-1 tvg-id="thundervsgoldenstatewarriors0230sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Thunder vs Golden State Warriors 02:30 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
-
-#EXTINF:-1 tvg-id="alnassrvsneomsc2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Nassr vs Neom SC 20:00 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1451/index.mpd
-
-#EXTINF:-1 tvg-id="alnassrvsneomsc2000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Nassr vs Neom SC 20:00 (SportzX Live)
-https://live.alilicloud.com/live/fdfdc015b4212aa82febccfdb2726014/playlist.m3u8
-
-#EXTINF:-1 tvg-id="alettifaqvsalshabab2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Ettifaq vs Al-Shabab 20:00 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6737/index.mpd
-
-#EXTINF:-1 tvg-id="alettifaqvsalshabab2000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Ettifaq vs Al-Shabab 20:00 (SportzX Live)
-https://live.alilicloud.com/live/bafe128f18c8238aa7a69ae4c2f39cb6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="alokhdoodvsalfayha2000thmanyahhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Okhdood vs Al-Fayha 20:00 (Thmanyah - HD)
 https://live.alilicloud.com/live/e0b5e7845acdf4dc1551d71b3a050716/playlist.m3u8
