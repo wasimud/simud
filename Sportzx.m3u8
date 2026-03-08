@@ -134,25 +134,20 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0200backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE 02:00 (BACKUP SD)
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_SD/apache.m3u8
 
-#EXTINF:-1 tvg-id="icct20wc011430willowadfree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (WILLOW  Ad Free )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd
-
 #EXTINF:-1 tvg-id="icct20wc011430primevideo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03018e1facaf7f344fa3d7439c6fc5b2:48a92e8fc0c897a7b23044f4b86e544b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kmdxq2mru1/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd
 
-#EXTINF:-1 tvg-id="icct20wc011430primehindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (Prime Hindi)
+#EXTINF:-1 tvg-id="icct20wc011430willowadfree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (WILLOW  Ad Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f265a29126992a01ed0863899c3a5a61:5889549c5a6b9a53181223a4fd1cce99
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/axkmfurjky/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd
 
-#EXTINF:-1 tvg-id="icct20wc011430willowfhd2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (WILLOW  FHD 2 )
+#EXTINF:-1 tvg-id="icct20wc011430primehindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (PRIME HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c
-https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab
+https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc011430jiohotstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (JIO HOTSTAR)
 https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
@@ -488,3 +483,11 @@ https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 
 #EXTINF:-1 tvg-id="preuenmnstervsherthabsc1330skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Preußen Münster vs Hertha BSC 13:30 (SKY BUNDESLIGA)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
+
+#EXTINF:-1 tvg-id="rangersvsceltic1400premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Scottish premiership",Rangers vs Celtic 14:00 (Premier Sports)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="rangersvsceltic1400sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Scottish premiership",Rangers vs Celtic 14:00 (SportzX Live)
+https://live.alilicloud.com/live/618218e221d4ba5b5bdf4b4b385b2014/playlist.m3u8
