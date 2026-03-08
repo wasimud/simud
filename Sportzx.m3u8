@@ -161,47 +161,41 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc011430starsportshin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Icc mens t20 wc",ICC T20 WC - 01 14:30 (Star Sports  HIN )
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
-#EXTINF:-1 tvg-id="clevelandcavaliersvsbostonceltics1800sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Cleveland Cavaliers vs Boston Celtics 18:00 (SportzX NBA)
-https://cdn6.tgfiles.cfd/live/cdn6/chunks.m3u8
+#EXTINF:-1 tvg-id="clevelandcavaliersvsbostonceltics1800cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Cleveland Cavaliers vs Boston Celtics 18:00 (Cosmote Sport)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD4074/index.mpd
 
 #EXTINF:-1 tvg-id="clevelandcavaliersvsbostonceltics1800sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Cleveland Cavaliers vs Boston Celtics 18:00 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
 
-#EXTINF:-1 tvg-id="losangeleslakersvsnewyorkknicks2030sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs New York Knicks 20:30 (SportzX NBA)
-https://cdn7.tgfiles.cfd/live/cdn7/chunks.m3u8
+#EXTINF:-1 tvg-id="losangeleslakersvsnewyorkknicks2030cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs New York Knicks 20:30 (Cosmote Sport)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD4073/index.mpd
 
 #EXTINF:-1 tvg-id="losangeleslakersvsnewyorkknicks2030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs New York Knicks 20:30 (SD SERVER)
-https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
-
-#EXTINF:-1 tvg-id="miamiheatvsdetroitpistons2300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Miami Heat vs Detroit Pistons 23:00 (SportzX NBA)
-https://cdn6.tgfiles.cfd/live/cdn6/chunks.m3u8
-
-#EXTINF:-1 tvg-id="miamiheatvsdetroitpistons2300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Miami Heat vs Detroit Pistons 23:00 (SD SERVER)
 https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
 
-#EXTINF:-1 tvg-id="torontoraptorsvsdallasmavericks2300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Toronto Raptors vs Dallas Mavericks 23:00 (SportzX NBA)
-https://cdn8.tgfiles.cfd/live/cdn8/chunks.m3u8
+#EXTINF:-1 tvg-id="miamiheatvsdetroitpistons2300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Miami Heat vs Detroit Pistons 23:00 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
 #EXTINF:-1 tvg-id="torontoraptorsvsdallasmavericks2300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Toronto Raptors vs Dallas Mavericks 23:00 (SD SERVER)
 https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 
-#EXTINF:-1 tvg-id="neworleanspelicansvswashingtonwizards0000sportzxnb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",New Orleans Pelicans vs Washington Wizards 00:00 (SportzX NBA)
-https://cdn9.tgfiles.cfd/live/cdn9/chunks.m3u8
-
 #EXTINF:-1 tvg-id="neworleanspelicansvswashingtonwizards0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",New Orleans Pelicans vs Washington Wizards 00:00 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
-#EXTINF:-1 tvg-id="milwaukeebucksvsorlandomagic0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Milwaukee Bucks vs Orlando Magic 01:00 (SportzX NBA)
-https://cdn10.tgfiles.cfd/live/cdn10/chunks.m3u8
-
-#EXTINF:-1 tvg-id="milwaukeebucksvsorlandomagic0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Milwaukee Bucks vs Orlando Magic 01:00 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
-#EXTINF:-1 tvg-id="sanantoniospursvshoustonrockets0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Houston Rockets 01:00 (SportzX NBA)
-https://cdn7.tgfiles.cfd/live/cdn7/chunks.m3u8
+#EXTINF:-1 tvg-id="milwaukeebucksvsorlandomagic0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Milwaukee Bucks vs Orlando Magic 01:00 (SD SERVER)
+https://smarthard.click/hls/kl434PVmNnx/index.m3u8
+
+#EXTINF:-1 tvg-id="sanantoniospursvshoustonrockets0100tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Houston Rockets 01:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
 #EXTINF:-1 tvg-id="sanantoniospursvshoustonrockets0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Houston Rockets 01:00 (SD SERVER)
-https://smarthard.click/hls/kl434PVmNnx/index.m3u8
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
 
 #EXTINF:-1 tvg-id="portlandtrailblazersvsindianapacers0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Portland Trail Blazers vs Indiana Pacers 02:00 (SD SERVER)
 https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
