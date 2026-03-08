@@ -286,30 +286,49 @@ https://bbb.exoadash.com/TVD2709/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6412/index.mpd
 
-#EXTINF:-1 tvg-id="unionberlinvswerderbremen1730elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Union Berlin vs Werder Bremen 17:30 (ELEVEN SPORTS)
+#EXTINF:-1 tvg-id="unionberlinvswerderbremen1730novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Union Berlin vs Werder Bremen 17:30 (NOVA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2709/index.mpd
 
-#EXTINF:-1 tvg-id="rclensvsmetz1500ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",RC Lens vs Metz 15:00 (Ligue1  HD)
+#EXTINF:-1 tvg-id="lillevslorient1715ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lille vs Lorient 17:15 (Ligue1  HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD2087/index.mpd
+
+#EXTINF:-1 tvg-id="lillevslorient1715ligue1multiplex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lille vs Lorient 17:15 (Ligue1  MultiPlex)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
 
-#EXTINF:-1 tvg-id="lillevslorient1715ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lille vs Lorient 17:15 (Ligue1  HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2083/index.mpd
+#EXTINF:-1 tvg-id="lillevslorient1715sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lille vs Lorient 17:15 (SportzX Live)
+https://live.alilicloud.com/live/14799f577e76662c463d03113b8a3587/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nicevsstaderennais1715ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Nice vs Stade Rennais 17:15 (Ligue1  HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD2086/index.mpd
+
+#EXTINF:-1 tvg-id="nicevsstaderennais1715ligue1multiplex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Nice vs Stade Rennais 17:15 (Ligue1  MultiPlex)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
+
+#EXTINF:-1 tvg-id="nicevsstaderennais1715sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Nice vs Stade Rennais 17:15 (SportzX Live)
+https://live.alilicloud.com/live/e9d51a43a01ace24bc9a2a22cc757d01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="stadebrestoisvslehavre1715ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Stade Brestois vs Le Havre 17:15 (Ligue1  HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
+
+#EXTINF:-1 tvg-id="stadebrestoisvslehavre1715ligue1multiplex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Stade Brestois vs Le Havre 17:15 (Ligue1  MultiPlex)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD2083/index.mpd
+
+#EXTINF:-1 tvg-id="stadebrestoisvslehavre1715sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Stade Brestois vs Le Havre 17:15 (SportzX Live)
+https://live.alilicloud.com/live/f3e8b42382a9f29d478e3c0df289279d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="olympiquelyonnaisvsparisfc2045ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Olympique Lyonnais vs Paris FC 20:45 (Ligue1  HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -335,9 +354,6 @@ https://smarthard.click/hls/krqMWsx7RoKw/index.m3u8
 #EXTINF:-1 tvg-id="santaclaravsvitriasc2130sporttv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Santa Clara vs Vitória SC 21:30 (Sport TV1)
 https://smarthard.click/hls/krqMWsx7RoKw/index.m3u8
 
-#EXTINF:-1 tvg-id="spartarotterdamvspeczwolle1215espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Sparta Rotterdam vs PEC Zwolle 12:15 (ESPN NL)
-https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
-
 #EXTINF:-1 tvg-id="fortunasittardvssctelstar1430espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Fortuna Sittard vs SC Telstar 14:30 (ESPN NL)
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
 
@@ -355,43 +371,11 @@ https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8
 #EXTINF:-1 tvg-id="necnijmegenvsfcvolendam2000espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",NEC Nijmegen vs FC Volendam 20:00 (ESPN NL)
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
 
-#EXTINF:-1 tvg-id="gaziantepvsfatihkaragmrk1130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Gaziantep vs Fatih Karagümrük 11:30 (SportzX Live)
-https://live.alilicloud.com/live/858d1ff27cec0ae0376c3659c8356a26/playlist.m3u8
-
-#EXTINF:-1 tvg-id="gaziantepvsfatihkaragmrk1130beinsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Gaziantep vs Fatih Karagümrük 11:30 (beIN SPORT)
-https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
-
-#EXTINF:-1 tvg-id="rizesporvsantalyaspor1130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Rizespor vs Antalyaspor 11:30 (SportzX Live)
-https://live.alilicloud.com/live/1b439d74b74a8a01e4a9171959bc9d30/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rizesporvsantalyaspor1130beinsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Rizespor vs Antalyaspor 11:30 (beIN SPORT)
-https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
-
 #EXTINF:-1 tvg-id="fenerbahevssamsunspor1800beinsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Fenerbahçe vs Samsunspor 18:00 (beIN SPORT)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
 #EXTINF:-1 tvg-id="konyasporvskasmpaa1400beinsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Konyaspor vs Kasımpaşa 14:00 (beIN SPORT)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
-
-#EXTINF:-1 tvg-id="fulhamvssouthampton1300tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Fulham vs Southampton 13:00 (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="fulhamvssouthampton1300cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Fulham vs Southampton 13:00 (COSMOTE Sport)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4072/index.mpd
-
-#EXTINF:-1 tvg-id="portvalevssunderland1430tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Port Vale vs Sunderland 14:30 (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="portvalevssunderland1430novasport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Port Vale vs Sunderland 14:30 (Nova Sport)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2732/index.mpd
 
 #EXTINF:-1 tvg-id="leedsunitedvsnorwichcity1730tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Leeds United vs Norwich City 17:30 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -402,11 +386,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD4072/index.mpd
-
-#EXTINF:-1 tvg-id="laspalmasvsadceuta1400laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Las Palmas vs AD Ceuta 14:00 (Laliga Hypermotion ES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-id="fcandorravssportinggijn1615laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",FC Andorra vs Sporting Gijón 16:15 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -427,25 +406,3 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTINF:-1 tvg-id="hannover96vsgreutherfrth1330skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Hannover 96 vs Greuther Fürth 13:30 (SKY BUNDESLIGA)
-https://smarthard.click/hls/9gSZoyFska/index.m3u8
-
-#EXTINF:-1 tvg-id="karlsruhervsdynamodresden1330novasport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Karlsruher vs Dynamo Dresden 13:30 (NOVA SPORT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2709/index.mpd
-
-#EXTINF:-1 tvg-id="karlsruhervsdynamodresden1330skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Karlsruher vs Dynamo Dresden 13:30 (SKY BUNDESLIGA)
-https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
-
-#EXTINF:-1 tvg-id="preuenmnstervsherthabsc1330skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Preußen Münster vs Hertha BSC 13:30 (SKY BUNDESLIGA)
-https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
-
-#EXTINF:-1 tvg-id="rangersvsceltic1400premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Scottish premiership",Rangers vs Celtic 14:00 (Premier Sports)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="rangersvsceltic1400sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Scottish premiership",Rangers vs Celtic 14:00 (SportzX Live)
-https://live.alilicloud.com/live/618218e221d4ba5b5bdf4b4b385b2014/playlist.m3u8
