@@ -214,16 +214,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
-#EXTINF:-1 tvg-id="genoavsroma1800beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Genoa vs Roma 18:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="genoavsroma1800tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Genoa vs Roma 18:00 (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
 #EXTINF:-1 tvg-id="milanvsinter2045beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Milan vs Inter 20:45 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -247,47 +237,8 @@ https://bbb.exoadash.com/TVD2083/index.mpd
 #EXTINF:-1 tvg-id="olympiquelyonnaisvsparisfc2045beinespanol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Olympique Lyonnais vs Paris FC 20:45 (beIN ESPANOL)
 https://daffodil.lifesharper.com/beines.m3u8
 
-#EXTINF:-1 tvg-id="benficavsfcporto1900sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Benfica vs FC Porto 19:00 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="benficavsfcporto1900elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Benfica vs FC Porto 19:00 (ELEVEN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6414/index.mpd
-
-#EXTINF:-1 tvg-id="benficavsfcporto1900benficatvsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Benfica vs FC Porto 19:00 (Benfica TV SD)
-https://smarthard.click/hls/CHbUiaHmZky/index.m3u8
-
 #EXTINF:-1 tvg-id="santaclaravsvitriasc2130sporttv1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Santa Clara vs Vitória SC 21:30 (Sport TV1)
 https://smarthard.click/hls/krqMWsx7RoKw/index.m3u8
-
-#EXTINF:-1 tvg-id="necnijmegenvsfcvolendam2000espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",NEC Nijmegen vs FC Volendam 20:00 (ESPN NL)
-https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
-
-#EXTINF:-1 tvg-id="fenerbahevssamsunspor1800beinsport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Fenerbahçe vs Samsunspor 18:00 (beIN SPORT)
-https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
-
-#EXTINF:-1 tvg-id="leedsunitedvsnorwichcity1730tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Leeds United vs Norwich City 17:30 (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="leedsunitedvsnorwichcity1730cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fa cup",Leeds United vs Norwich City 17:30 (COSMOTE Sport)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4072/index.mpd
-
-#EXTINF:-1 tvg-id="legansvseibar1830laligahypermotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Leganés vs Eibar 18:30 (Laliga Hypermotion)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1581/index.mpd
-
-#EXTINF:-1 tvg-id="rracingclubvscrdoba1830laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",R. Racing Club vs Córdoba 18:30 (Laliga Hypermotion ES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-id="deportivovsgranada2100laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Deportivo vs Granada 21:00 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
