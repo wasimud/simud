@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="unknown_channel" group-title="X-Eventi",03/03 ⏰ 12:30 Lecce-Cremonese (Dazn)
+#EXTINF:-1 tvg-id="unknown_channel" group-title="X-Eventi",08/03 ⏰ 12:30 Lecce-Cremonese (Dazn)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dea83780c5ff801b77239e9ed8ebb0dd:428a91ff4da547ced66fdff761222972
 https://abgqhe3aaaaaaaaml62vs34x422e3.bia-cf.live.pv-cdn.net/dub-nitro/live/clients/dash/enc/twfvp5yc1z/out/v1/a6cdd00fe0e748bdaadc9795b852e7a6/cenc.mpd
