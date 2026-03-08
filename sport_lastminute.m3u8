@@ -42,6 +42,12 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772977503~exp%3D1773063903~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=0000
 https://fra3-0-dash-pvr.zahs.tv/HD_dazn_event_5_ch/1772976868800/1772998200000/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIFCTCMKGIY2UGNCDINAUKLJVIRBDMOBWIU4DAN2CIM4DQRJTEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGU4DCNZTGATGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPWINTDMVTDOMRRMM4WCNJYG5SGIZBUGVSWEYRSGFRTINDCGZQTCMJGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
 
+#EXTINF:-1 tvg-id="1800genoaromampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:00 Genoa - Roma (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0710b3f13cce5f96903b357903c2b4ca:de33364e4a6853cf3aab23ea271208be
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772986504~exp%3D1773072904~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Df922889afcd419d99763b38ffb223f41c6b09fcc20eec7449a71ecac5d11c944%23wm%3D1%23wmd%3D1152~hmac%3Def6a67e8fcbbd5c5030cef14305afa27c911d760bbf30846040789d6591e0664/g370klgcrkk91s30urm5c4d5y/web/stream.mpd?channel=1382&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="2045milanvsinteritampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 MILAN vs INTER  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
