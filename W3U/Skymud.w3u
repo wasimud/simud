@@ -20,6 +20,13 @@
       "import": true
     },
     {
+      "name": "On Demand",
+      "author": "Simud",
+      "image": "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456",
+      "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/OnDemand.w3u",
+      "import": true
+    },
+    {
       "name": "Canali MPD",
       "author": "Simud",
       "image": "https://i.postimg.cc/6QVmW4C9/Chat-GPT-Image-8-giu-2025-17-23-16.png",
