@@ -56,6 +56,16 @@
             "isHost": ""
         },
         {
+            "name": "West Ham - Brentford - Live 4",
+            "info": "20:30 Â· FA CUP",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/FA_Cup_logo_%282020%29.svg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live4.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Lazio - Sassuolo - Calcio HD (ext chrome)",
             "info": "20:45 Â· Serie A",
             "online": "true",
