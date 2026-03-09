@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydt14MFh/Chat-GPT-Image-24-feb-2026-19-56-23.png" group-title="Serie A X-Eventi",🔴 INTER - BODO GLIMT BLUE 2
-https://edge.cdn-live.ru/secure/api/v1/de-dazn-1/playlist.m3u8?token=e7ad1a1494dc7e94d5f3f3e40c8d39c0f404c8248eb6df76b0784882c5634c32.1772392721.6b27600bfa79a541c9b11c074f84f534.f4ec2381ba25ec657a539f4b2b662c8d.c449c54ef1f1f08ef93348e48dcff235&signature=d9e61c0bc02a62d3212a4727a585016841ce079122151a2ebeaccafe1847f0bf
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydt14MFh/Chat-GPT-Image-24-feb-2026-19-56-23.png" group-title="Serie A X-Eventi",Gumball Prova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://videoserver.loonex.eu
+https://videoserver.loonex.eu/episodi/gumball/lo%20strano%20e%20meraviglioso%20mondo%20di%20gumball/s2/2x01/output.m3u8
