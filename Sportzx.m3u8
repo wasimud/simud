@@ -169,18 +169,8 @@ https://in-mc-flive.fancode.com/mumbai/140458_bengali_dash_47475_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=61c176eb1700488f9e0394fcb69c817b:a1d6598ed0176b715f4f15166ad8a05d
 https://bd-mc-flive.fancode.com/delhi/140458_english_dash_47877_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="clevelandcavaliersvsphiladelphia76ers0000cosmotesp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Cleveland Cavaliers vs Philadelphia 76ers 00:00 (Cosmote Sport)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4074/index.mpd
-
 #EXTINF:-1 tvg-id="clevelandcavaliersvsphiladelphia76ers0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Cleveland Cavaliers vs Philadelphia 76ers 00:00 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
-
-#EXTINF:-1 tvg-id="brooklynnetsvsmemphisgrizzlies0030cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Brooklyn Nets vs Memphis Grizzlies 00:30 (Cosmote Sport)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4073/index.mpd
 
 #EXTINF:-1 tvg-id="brooklynnetsvsmemphisgrizzlies0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Brooklyn Nets vs Memphis Grizzlies 00:30 (SD SERVER)
 https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
@@ -190,9 +180,6 @@ https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
 #EXTINF:-1 tvg-id="utahjazzvsgoldenstatewarriors0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Utah Jazz vs Golden State Warriors 02:00 (SD SERVER)
 https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
-
-#EXTINF:-1 tvg-id="losangelesclippersvsnewyorkknicks0300spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs New York Knicks 03:00 (SPX - FHD)
-https://daffodil.e-kinerjapjlppsblhs4.fun/nba5.m3u8
 
 #EXTINF:-1 tvg-id="losangelesclippersvsnewyorkknicks0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs New York Knicks 03:00 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
