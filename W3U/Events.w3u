@@ -11,27 +11,6 @@
       "image": "https://www.gedistatic.it/content/gnn/img/lastampa/2024/07/04/072925052-ad72025f-e3ee-4cf7-b97c-a4ee94a7af88.jpg",
       "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiH.w3u",
       "import": true
-    },
-    {
-      "name": "Eventi SportsOnline ITA",
-      "author": "Simud",
-      "image": "https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png",
-      "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiS2.w3u",
-      "import": true
-    },
-    {
-      "name": "Eventi SportsOnline Multi",
-      "author": "Simud",
-      "image": "https://images.seeklogo.com/logo-png/63/2/serie-a-logo-png_seeklogo-634355.png",
-      "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiS.w3u",
-      "import": true
-    },
-    {
-      "name": "Eventi StreamThis",
-      "author": "Simud",
-      "image": "https://brandlogos.net/wp-content/uploads/2021/12/serie_a-brandlogo.net_-512x512.png",
-      "url": "https://github.com/wasimud/simud/raw/refs/heads/main/W3U/EventiStream.w3u",
-      "import": true
     }
   ]
 }
