@@ -1,0 +1,16 @@
+{
+  "name": "On Demand",
+  "author": "Aggiornata 09/03/26",
+  "image": "https://images.ctfassets.net/4cd45et68cgf/Rx83JoRDMkYNlMC9MKzcB/2b14d5a59fc3937afd3f03191e19502d/Netflix-Symbol.png?w=700&h=456",
+  "info": "Aggiornata 26/11/25",
+  "url": "https://raw.githubusercontent.com/warsimud/simud/refs/heads/main/W3U/OnDemand.w3u",
+  "groups": [
+    {
+      "name": "Gumball",
+      "author": "Simud",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cc2b238-c16c-457f-8931-75997ab397b4/djsxcho-6002e05b-186c-4c0f-858d-a03a5d1dec9f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8xY2MyYjIzOC1jMTZjLTQ1N2YtODkzMS03NTk5N2FiMzk3YjQvZGpzeGNoby02MDAyZTA1Yi0xODZjLTRjMGYtODU4ZC1hMDNhNWQxZGVjOWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OboGgBYi2w__he7bebvXnqTwbjZ0zb8nrb81sE-98j8",
+      "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/Nostalgia/Gumball.m3u8",
+      "import": true
+    }
+  ]
+}
