@@ -172,6 +172,54 @@ https://in-mc-flive.fancode.com/mumbai/140458_bengali_dash_47475_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=61c176eb1700488f9e0394fcb69c817b:a1d6598ed0176b715f4f15166ad8a05d
 https://bd-mc-flive.fancode.com/delhi/140458_english_dash_47877_1drmta-di_h264/index.mpd
 
+#EXTINF:-1 tvg-id="philadelphia76ersvsmemphisgrizzlies0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Philadelphia 76ers vs Memphis Grizzlies 00:00 (SD SERVER)
+https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="atlantahawksvsdallasmavericks0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Atlanta Hawks vs Dallas Mavericks 00:30 (SD SERVER)
+https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+
+#EXTINF:-1 tvg-id="brooklynnetsvsdetroitpistons0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Brooklyn Nets vs Detroit Pistons 00:30 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="miamiheatvswashingtonwizards0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Miami Heat vs Washington Wizards 00:30 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="houstonrocketsvstorontoraptors0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs Toronto Raptors 01:00 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba5.m3u8
+
+#EXTINF:-1 tvg-id="houstonrocketsvstorontoraptors0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs Toronto Raptors 01:00 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
+#EXTINF:-1 tvg-id="milwaukeebucksvsphoenixsuns0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Milwaukee Bucks vs Phoenix Suns 01:00 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba6.m3u8
+
+#EXTINF:-1 tvg-id="milwaukeebucksvsphoenixsuns0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Milwaukee Bucks vs Phoenix Suns 01:00 (SD SERVER)
+https://smarthard.click/hls/kl434PVmNnx/index.m3u8
+
+#EXTINF:-1 tvg-id="sanantoniospursvsbostonceltics0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Boston Celtics 01:00 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba7.m3u8
+
+#EXTINF:-1 tvg-id="sanantoniospursvsbostonceltics0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Boston Celtics 01:00 (SD SERVER)
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
+#EXTINF:-1 tvg-id="goldenstatewarriorsvschicagobulls0300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Golden State Warriors vs Chicago Bulls 03:00 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba8.m3u8
+
+#EXTINF:-1 tvg-id="goldenstatewarriorsvschicagobulls0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Golden State Warriors vs Chicago Bulls 03:00 (SD SERVER)
+https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
+
+#EXTINF:-1 tvg-id="portlandtrailblazersvscharlottehornets0300sportzxn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Portland Trail Blazers vs Charlotte Hornets 03:00 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba9.m3u8
+
+#EXTINF:-1 tvg-id="portlandtrailblazersvscharlottehornets0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Portland Trail Blazers vs Charlotte Hornets 03:00 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="sacramentokingsvsindianapacers0300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Indiana Pacers 03:00 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba10.m3u8
+
+#EXTINF:-1 tvg-id="sacramentokingsvsindianapacers0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Indiana Pacers 03:00 (SD SERVER)
+https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
+
 #EXTINF:-1 tvg-id="galatasarayvsliverpool1845tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Galatasaray vs Liverpool 18:45 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
