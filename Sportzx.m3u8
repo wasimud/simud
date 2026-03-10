@@ -220,129 +220,28 @@ https://daffodil.serverbandel.sbs/nba10.m3u8
 #EXTINF:-1 tvg-id="sacramentokingsvsindianapacers0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Indiana Pacers 03:00 (SD SERVER)
 https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
 
-#EXTINF:-1 tvg-id="galatasarayvsliverpool1845tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Galatasaray vs Liverpool 18:45 (TNT SPORTS - AQ)
+#EXTINF:-1 tvg-id="lakersvsminnesotatimberwolves0400tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Lakers vs Minnesota Timberwolves 04:00 (TSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-#EXTINF:-1 tvg-id="galatasarayvsliverpool1845cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Galatasaray vs Liverpool 18:45 (COSMOTE SPORTS)
+#EXTINF:-1 tvg-id="philadelphiaunionvsclubamrica0000foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Concacaf cup 🇺🇸",Philadelphia Union vs Club América 00:00 (FOX SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4071/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
-#EXTINF:-1 tvg-id="galatasarayvsliverpool1845tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Galatasaray vs Liverpool 18:45 (TNT SPORTS FHD)
-https://grand-s-main.faggotsports.tv/out/v2/011df65e031439ab2d4f4c755ffe3d7e/index.m3u8
-
-#EXTINF:-1 tvg-id="galatasarayvsliverpool1845novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Galatasaray vs Liverpool 18:45 (NOVA SPORTS)
+#EXTINF:-1 tvg-id="monterreyvscruzazul0200foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Concacaf cup 🇺🇸",Monterrey vs Cruz Azul 02:00 (FOX SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2700/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100primevideo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (Prime Video)
+#EXTINF:-1 tvg-id="losangelesvsldalajuelense0400foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Concacaf cup 🇺🇸",Los Angeles vs LD Alajuelense 04:00 (FOX SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=680a24e3d3785ea8b3a33a56928ea128:3f07a7f94f0ac7ee96057224b6a4163d
-https://abf4cp5aaaaaaaame6q2c3s6icyyk.bia-cf.live.pv-cdn.net/lhr-nitro/startover/clients/dash/manipulated-manifest-lhr-prod/enc/vfpjrvx08w/out/v1/817aa485206f4456ad594bbf61c1016c/2b689bee-1939-4b9f-b5b8-b484904bb8dd-cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100primevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (Prime Vision)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea32ba1890241e67ba644703b6873b36:28d424ae6714a5c5df5d13f351ffac70
-https://abf4cp5aaaaaaaamm5nufzg7otnfn.bia-cf.live.pv-cdn.net/lhr-nitro/startover/clients/dash/manipulated-manifest-lhr-prod/enc/wakstkp2bz/out/v1/f89e063460214966a4371e6d89d4cc62/5a42bf21-ac61-4017-96ab-5832419318e5-cenc.mpd
-
-#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100daznengaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (DAZN ENG - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d79ed92e6942540a99a15feec0c5009f:7f134fbfeba8718aa44a4aa2b23ede96
-https://lcdn-2.kumo.social/media/ca/newcastle/dca-fs-live-dazn-cdn.dazn.com/s0rx9eldqn7w1veaw7e4lsghs/web/stream.mpd
-
-#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100tntbrasilaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (TNT BRASIL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7174dd9f5af0a77e5d070c85867cf8d5:04186eb43e6db9dca8d6466db2edf123
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bfonnh5rev/out/v1/bd935b6a040443d8922f9b0b7a346866/cenc.mpd
-
-#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100vixspanishaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e276b2c1149dea8264440320b7433c66:7fa77a173e0b1281c07a29db80656e7f
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pevb0g0i7i/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd
-
-#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100paramountfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (Paramount  FHD)
-https://customer-ga8rbn6tckkxmbez.cloudflarestream.com/18129a3c808eaa7ea2da6f10cf573bbe/manifest/video.m3u8
-
-#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100beinsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (beIN SPORTS HD)
-https://guabo01.xlyouxuan.com/live/134aca0d3bb6ee6.m3u8
-
-#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100beinsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (beIN SPORTS FHD)
-https://grand-s-main.faggotsports.tv/out/v2/157c48d9d519cec2ddda17b420e4effb/index.m3u8
-
-#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (COSMOTE SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4071/index.mpd
-
-#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (HD SERVER)
-https://storage.googleapis.com/unxertymngdfg2/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (TNT SPORTS FHD)
-https://grand-s-main.faggotsports.tv/out/v2/9a367a90d16fb3f56b0c72b4bc1aee19/index.m3u8
-
-#EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (NOVA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2700/index.mpd
-
-#EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100tntsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (TNT SPORTS HD)
-https://storage.googleapis.com/unxertymngdfg3/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="atalantavsbayernmnchen2100tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (TNT SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="atalantavsbayernmnchen2100daznengaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (DAZN ENG - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=461eaef2a55a5c1bb89a2d57e3dcf05a:c682f3f7ccd7ce23b11c4194efd494a5
-https://lcdn-4.kumo.social/media/ca/atalanta/dca-fs-live-dazn-cdn.dazn.com/5l4c50cejmci1mc3vfq607h28/web/stream.mpd
-
-#EXTINF:-1 tvg-id="atalantavsbayernmnchen2100tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (TNT SPORTS FHD)
-https://grand-s-main.faggotsports.tv/out/v2/36ef5bc3c7ab4c369d2cb808dc478f97/index.m3u8
-
-#EXTINF:-1 tvg-id="atalantavsbayernmnchen2100cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (CBS NETWORK)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/cbssn.m3u8
-
-#EXTINF:-1 tvg-id="atalantavsbayernmnchen2100cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (COSMOTE SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4074/index.mpd
-
-#EXTINF:-1 tvg-id="atalantavsbayernmnchen2100vixspanishaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (VIX SPANISH - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=224b5a42f1c6e64bee5602a4a0651616:2bfd595003617622e9df241aa3dddb33
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/7uodakmgqg/out/v1/3d2994f3d9c64fe5bb68338a540af489/cenc.mpd
-
-#EXTINF:-1 tvg-id="machidazelviavsgangwon1100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions elite",Machida Zelvia vs Gangwon 11:00 (SportzX Live)
+#EXTINF:-1 tvg-id="botafogovsbarcelonasc0130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa libertadores",Botafogo vs Barcelona SC 01:30 (SportzX Live)
 https://live.alilicloud.com/live/951da1731ab30304f1b1d906903002dc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="machidazelviavsgangwon1100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions elite",Machida Zelvia vs Gangwon 11:00 (SD SERVER)
+#EXTINF:-1 tvg-id="botafogovsbarcelonasc0130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa libertadores",Botafogo vs Barcelona SC 01:30 (SD SERVER)
 http://195.178.110.37/hls/LJJJQQ.m3u8
-
-#EXTINF:-1 tvg-id="buriramunitedvsmelbournecity1315sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions elite",Buriram United vs Melbourne City 13:15 (SportzX Live)
-https://live.alilicloud.com/live/fac3316179c35cc0bbf0fc201c9c2cae/playlist.m3u8
-
-#EXTINF:-1 tvg-id="buriramunitedvsmelbournecity1315sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions elite",Buriram United vs Melbourne City 13:15 (SD SERVER)
-http://195.178.110.37/hls/LJJJQQQQ.m3u8
-
-#EXTINF:-1 tvg-id="stokecityvsipswichtown2100beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Stoke City vs Ipswich Town 21:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="leicestercityvsbristolcity2045sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leicester City vs Bristol City 20:45 (SportzX Live)
-https://live.alilicloud.com/live/5ea9f6692ecb1cdae5b0213be84c8123/playlist.m3u8
-
-#EXTINF:-1 tvg-id="millwallvsderbycounty2045cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Millwall vs Derby County 20:45 (CBS NETWORK)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
