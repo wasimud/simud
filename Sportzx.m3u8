@@ -200,6 +200,11 @@ https://abf4cp5aaaaaaaame6q2c3s6icyyk.bia-cf.live.pv-cdn.net/lhr-nitro/startover
 #KODIPROP:inputstream.adaptive.license_key=ea32ba1890241e67ba644703b6873b36:28d424ae6714a5c5df5d13f351ffac70
 https://abf4cp5aaaaaaaamm5nufzg7otnfn.bia-cf.live.pv-cdn.net/lhr-nitro/startover/clients/dash/manipulated-manifest-lhr-prod/enc/wakstkp2bz/out/v1/f89e063460214966a4371e6d89d4cc62/5a42bf21-ac61-4017-96ab-5832419318e5-cenc.mpd
 
+#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100tntbrasilaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7174dd9f5af0a77e5d070c85867cf8d5:04186eb43e6db9dca8d6466db2edf123
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/bfonnh5rev/out/v1/bd935b6a040443d8922f9b0b7a346866/cenc.mpd
+
 #EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100beinsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (beIN SPORTS FHD)
 https://grand-s-main.faggotsports.tv/out/v2/157c48d9d519cec2ddda17b420e4effb/index.m3u8
 
@@ -211,10 +216,15 @@ https://bbb.exoadash.com/TVD4071/index.mpd
 #EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (HD SERVER)
 https://storage.googleapis.com/unxertymngdfg2/mux_video_ts1/index-1.m3u8
 
-#EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (TNT SPORTS - AQ)
+#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100vixspanishaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (VIX SPANISH - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e276b2c1149dea8264440320b7433c66:7fa77a173e0b1281c07a29db80656e7f
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pevb0g0i7i/out/v1/a72160db73194e07874d91db0cc2c746/cenc.mpd
+
+#EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100tntsports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (TNT Sports 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (TNT SPORTS FHD)
 https://grand-s-main.faggotsports.tv/out/v2/9a367a90d16fb3f56b0c72b4bc1aee19/index.m3u8
