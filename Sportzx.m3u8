@@ -190,25 +190,34 @@ https://grand-s-main.faggotsports.tv/out/v2/011df65e031439ab2d4f4c755ffe3d7e/ind
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2700/index.mpd
 
+#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100beinsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (beIN SPORTS FHD)
+https://grand-s-main.faggotsports.tv/out/v2/157c48d9d519cec2ddda17b420e4effb/index.m3u8
+
 #EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (COSMOTE SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD4071/index.mpd
 
+#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (HD SERVER)
+https://storage.googleapis.com/unxertymngdfg2/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (NOVA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2700/index.mpd
 
+#EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100tntsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (TNT SPORTS HD)
+https://storage.googleapis.com/unxertymngdfg3/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="atalantavsbayernmnchen2100tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 tvg-id="atalantavsbayernmnchen2100cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (COSMOTE SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -231,6 +240,9 @@ http://195.178.110.37/hls/LJJJQQQQ.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="leicestercityvsbristolcity2045sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leicester City vs Bristol City 20:45 (SportzX Live)
+https://live.alilicloud.com/live/5ea9f6692ecb1cdae5b0213be84c8123/playlist.m3u8
 
 #EXTINF:-1 tvg-id="millwallvsderbycounty2045cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Millwall vs Derby County 20:45 (CBS NETWORK)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
