@@ -190,6 +190,16 @@ https://grand-s-main.faggotsports.tv/out/v2/011df65e031439ab2d4f4c755ffe3d7e/ind
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2700/index.mpd
 
+#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100primevideo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (Prime Video)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=680a24e3d3785ea8b3a33a56928ea128:3f07a7f94f0ac7ee96057224b6a4163d
+https://abf4cp5aaaaaaaame6q2c3s6icyyk.bia-cf.live.pv-cdn.net/lhr-nitro/startover/clients/dash/manipulated-manifest-lhr-prod/enc/vfpjrvx08w/out/v1/817aa485206f4456ad594bbf61c1016c/2b689bee-1939-4b9f-b5b8-b484904bb8dd-cenc.mpd
+
+#EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100primevision" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (Prime Vision)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea32ba1890241e67ba644703b6873b36:28d424ae6714a5c5df5d13f351ffac70
+https://abf4cp5aaaaaaaamm5nufzg7otnfn.bia-cf.live.pv-cdn.net/lhr-nitro/startover/clients/dash/manipulated-manifest-lhr-prod/enc/wakstkp2bz/out/v1/f89e063460214966a4371e6d89d4cc62/5a42bf21-ac61-4017-96ab-5832419318e5-cenc.mpd
+
 #EXTINF:-1 tvg-id="newcastleunitedvsbarcelona2100beinsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Newcastle United vs Barcelona 21:00 (beIN SPORTS FHD)
 https://grand-s-main.faggotsports.tv/out/v2/157c48d9d519cec2ddda17b420e4effb/index.m3u8
 
@@ -206,6 +216,9 @@ https://storage.googleapis.com/unxertymngdfg2/mux_video_ts1/index-1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (TNT SPORTS FHD)
+https://grand-s-main.faggotsports.tv/out/v2/9a367a90d16fb3f56b0c72b4bc1aee19/index.m3u8
+
 #EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (NOVA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -214,10 +227,16 @@ https://bbb.exoadash.com/TVD2700/index.mpd
 #EXTINF:-1 tvg-id="atlticomadridvstottenhamhotspur2100tntsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atlético Madrid vs Tottenham Hotspur 21:00 (TNT SPORTS HD)
 https://storage.googleapis.com/unxertymngdfg3/mux_video_ts1/index-1.m3u8
 
-#EXTINF:-1 tvg-id="atalantavsbayernmnchen2100tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (TNT SPORTS - AQ)
+#EXTINF:-1 tvg-id="atalantavsbayernmnchen2100tntsports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (TNT Sports 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="atalantavsbayernmnchen2100tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (TNT SPORTS FHD)
+https://grand-s-main.faggotsports.tv/out/v2/36ef5bc3c7ab4c369d2cb808dc478f97/index.m3u8
+
+#EXTINF:-1 tvg-id="atalantavsbayernmnchen2100cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (CBS NETWORK)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/cbssn.m3u8
 
 #EXTINF:-1 tvg-id="atalantavsbayernmnchen2100cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Atalanta vs Bayern München 21:00 (COSMOTE SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
