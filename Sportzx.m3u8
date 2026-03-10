@@ -85,9 +85,6 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
 
-#EXTINF:-1 tvg-id="wweraw0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Raw 01:00 (SportzX Live)
-https://grand-s-main.faggotsports.tv/out/v2/827c776cecbc95ad8934703a1e4dd92a/index.m3u8
-
 #EXTINF:-1 tvg-id="wweraw0100spxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE Raw 01:00 (SPX - FHD)
 https://602.lifesharper.com/wwe.m3u8
 
@@ -214,6 +211,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD4074/index.mpd
+
+#EXTINF:-1 tvg-id="machidazelviavsgangwon1100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions elite",Machida Zelvia vs Gangwon 11:00 (SportzX Live)
+https://live.alilicloud.com/live/951da1731ab30304f1b1d906903002dc/playlist.m3u8
+
+#EXTINF:-1 tvg-id="buriramunitedvsmelbournecity1315sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afc champions elite",Buriram United vs Melbourne City 13:15 (SportzX Live)
+https://live.alilicloud.com/live/fac3316179c35cc0bbf0fc201c9c2cae/playlist.m3u8
 
 #EXTINF:-1 tvg-id="stokecityvsipswichtown2100beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Stoke City vs Ipswich Town 21:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
