@@ -175,7 +175,7 @@ https://bd-mc-flive.fancode.com/delhi/140458_english_dash_47877_1drmta-di_h264/i
 #EXTINF:-1 tvg-id="galatasarayvsliverpool1845tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Galatasaray vs Liverpool 18:45 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 tvg-id="galatasarayvsliverpool1845cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Galatasaray vs Liverpool 18:45 (COSMOTE SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
