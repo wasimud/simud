@@ -273,40 +273,6 @@ http://xmrcars.org:8080/bn14k/mono.m3u8
 #EXTINF:-1 tvg-id="psgvschelsea2100tntsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",PSG vs Chelsea 21:00 (TNT SPORTS SD)
 https://smarthard.click/hls/0Wm95aOWfZf5/index.m3u8
 
-#EXTINF:-1 tvg-id="bodglimtvssportingcp2100tntsportaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bodø Glimt vs Sporting CP 21:00 (TNT SPORT - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-#EXTINF:-1 tvg-id="bodglimtvssportingcp2100tntbrasilaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bodø Glimt vs Sporting CP 21:00 (TNT BRASIL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5807f750665e9e0d9d169f35d736aace:8df1c56cd3f37b6b9d1db87eac55a91a
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/zl2vwznfzs/out/v1/b3588cbd51284a0bae4bf28e325925b8/cenc.mpd
-
-#EXTINF:-1 tvg-id="bodglimtvssportingcp2100sportzxliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bodø Glimt vs Sporting CP 21:00 (SportzX Live - AQ)
-https://herzogdell.s3.us-east-1.amazonaws.com/arsenal.m3u8
-
-#EXTINF:-1 tvg-id="bodglimtvssportingcp2100hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bodø Glimt vs Sporting CP 21:00 (HD SERVER)
-https://storage.googleapis.com/unjhgertyngyut3/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="bodglimtvssportingcp2100cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bodø Glimt vs Sporting CP 21:00 (COSMOTE SPORT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4074/index.mpd
-
-#EXTINF:-1 tvg-id="bodglimtvssportingcp2100beinarabicfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bodø Glimt vs Sporting CP 21:00 (beIN ARABIC FHD)
-http://xmrcars.org:8080/bn34k/mono.m3u8
-
-#EXTINF:-1 tvg-id="coventrycityvsprestonne2100beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Coventry City vs Preston NE 21:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="coventrycityvsprestonne2100cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Coventry City vs Preston NE 21:00 (CBS NETWORK)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
 #EXTINF:-1 tvg-id="atlticomineirovsinternacional2300premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Atlético Mineiro vs Internacional 23:00 (PREMIERER BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
@@ -331,6 +297,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTINF:-1 tvg-id="bahiavsvitria0000premierebr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Bahia vs Vitória 00:00 (PREMIERE BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd
 
 #EXTINF:-1 tvg-id="nashvillescvsintermiami0030foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Concacaf cup 🇺🇸",Nashville SC vs Inter Miami 00:30 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
