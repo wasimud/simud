@@ -144,6 +144,9 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/sar
 #KODIPROP:inputstream.adaptive.license_key=1cb76f3b8bbd4b8e18d5c1a79b52395b:dfdac30ebbfa63b4326de4ca462e9fa3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/yjhgnfk2sz/out/v1/3a995adfa3444f1ba12ee630365a4ffe/cenc-sd.mpd
 
+#EXTINF:-1 tvg-id="bangladeshvspakistan0915tapmadaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (TAPMAD - AQ)
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
+
 #EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
@@ -179,15 +182,53 @@ https://in-mc-flive.fancode.com/mumbai/140458_bengali_dash_47475_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=61c176eb1700488f9e0394fcb69c817b:a1d6598ed0176b715f4f15166ad8a05d
 https://bd-mc-flive.fancode.com/delhi/140458_english_dash_47877_1drmta-di_h264/index.mpd
 
+#EXTINF:-1 tvg-id="orlandomagicvsclevelandcavaliers0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Orlando Magic vs Cleveland Cavaliers 00:30 (SD SERVER)
+https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="neworleanspelicansvstorontoraptors0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",New Orleans Pelicans vs Toronto Raptors 01:00 (SD SERVER)
+https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+
+#EXTINF:-1 tvg-id="utahjazzvsnewyorkknicks0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Utah Jazz vs New York Knicks 02:00 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="denvernuggetsvshoustonrockets0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Denver Nuggets vs Houston Rockets 03:00 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="sacramentokingsvscharlottehornets0300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Charlotte Hornets 03:00 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba5.m3u8
+
+#EXTINF:-1 tvg-id="sacramentokingsvscharlottehornets0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Charlotte Hornets 03:00 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
+#EXTINF:-1 tvg-id="clippersvsminnesotatimberwolves0330sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Clippers vs Minnesota Timberwolves 03:30 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba6.m3u8
+
+#EXTINF:-1 tvg-id="clippersvsminnesotatimberwolves0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Clippers vs Minnesota Timberwolves 03:30 (SD SERVER)
+https://smarthard.click/hls/kl434PVmNnx/index.m3u8
+
 #EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845tntsportaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (TNT SPORT - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
+#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845tntbrasilaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5226834c659d90999f9b80a5159207aa:12184c7c1196a39536c0127c7409f484
+https://abkv2pxaaaaaaaamg4kxfppxxo7ow.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/8vysehp4nf/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845sportzxliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (SportzX Live - AQ)
+https://herzogdell.s3.us-east-1.amazonaws.com/arsenal.m3u8
+
 #EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (COSMOTE SPORT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD4071/index.mpd
+
+#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845beinarabicfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (beIN ARABIC FHD)
+http://xmrcars.org:8080/bn24k/mono.m3u8
+
+#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845sdstream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (SD STREAM)
+https://smarthard.click/hls/kvJmq6EB26a/index.m3u8
 
 #EXTINF:-1 tvg-id="realmadridvsmanchestercity2100tntsportaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Real Madrid vs Manchester City 21:00 (TNT SPORT - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
