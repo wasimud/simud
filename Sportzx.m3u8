@@ -192,43 +192,13 @@ https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
 #EXTINF:-1 tvg-id="denvernuggetsvshoustonrockets0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Denver Nuggets vs Houston Rockets 03:00 (SD SERVER)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
-
-#EXTINF:-1 tvg-id="sacramentokingsvscharlottehornets0300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Charlotte Hornets 03:00 (SportzX NBA)
-https://daffodil.serverbandel.sbs/nba5.m3u8
-
-#EXTINF:-1 tvg-id="sacramentokingsvscharlottehornets0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Charlotte Hornets 03:00 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
-#EXTINF:-1 tvg-id="clippersvsminnesotatimberwolves0330sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Clippers vs Minnesota Timberwolves 03:30 (SportzX NBA)
-https://daffodil.serverbandel.sbs/nba6.m3u8
+#EXTINF:-1 tvg-id="sacramentokingsvscharlottehornets0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Sacramento Kings vs Charlotte Hornets 03:00 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 
 #EXTINF:-1 tvg-id="clippersvsminnesotatimberwolves0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Clippers vs Minnesota Timberwolves 03:30 (SD SERVER)
-https://smarthard.click/hls/kl434PVmNnx/index.m3u8
-
-#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845tntsportaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (TNT SPORT - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845tntbrasilaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (TNT BRASIL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5226834c659d90999f9b80a5159207aa:12184c7c1196a39536c0127c7409f484
-https://abkv2pxaaaaaaaamg4kxfppxxo7ow.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/8vysehp4nf/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
-
-#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845sportzxliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (SportzX Live - AQ)
-https://herzogdell.s3.us-east-1.amazonaws.com/arsenal.m3u8
-
-#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (COSMOTE SPORT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4071/index.mpd
-
-#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845beinarabicfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (beIN ARABIC FHD)
-http://xmrcars.org:8080/bn24k/mono.m3u8
-
-#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845sdstream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bayer Leverkusen vs Arsenal 18:45 (SD STREAM)
-https://smarthard.click/hls/kvJmq6EB26a/index.m3u8
+https://smarthard.click/hls/wxlhYHpw8ZWm/index.m3u8
 
 #EXTINF:-1 tvg-id="realmadridvsmanchestercity2100tntsportaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Real Madrid vs Manchester City 21:00 (TNT SPORT - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
