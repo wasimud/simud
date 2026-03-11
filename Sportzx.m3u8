@@ -235,6 +235,17 @@ https://smarthard.click/hls/kvJmq6EB26a/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
+#EXTINF:-1 tvg-id="realmadridvsmanchestercity2100tntbrasilaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Real Madrid vs Manchester City 21:00 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25bf16d54507d42a792ba8d8b0cc7a7e:0a91e61862c747111c6fc623223c6487
+https://a73aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/n8d0dx0cha/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
+
+#EXTINF:-1 tvg-id="realmadridvsmanchestercity2100sportzxliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Real Madrid vs Manchester City 21:00 (SportzX Live - AQ)
+https://herzogdell.s3.us-east-1.amazonaws.com/mancity.m3u8
+
+#EXTINF:-1 tvg-id="realmadridvsmanchestercity2100sportzxfhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Real Madrid vs Manchester City 21:00 (SportzX - FHD SERVER)
+https://602.serverbandel.sbs/tntalt.m3u8
+
 #EXTINF:-1 tvg-id="realmadridvsmanchestercity2100cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Real Madrid vs Manchester City 21:00 (COSMOTE SPORT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -245,10 +256,30 @@ https://bbb.exoadash.com/TVD4071/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2709/index.mpd
 
+#EXTINF:-1 tvg-id="realmadridvsmanchestercity2100beinarabicfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Real Madrid vs Manchester City 21:00 (beIN ARABIC FHD)
+http://xmrcars.org:8080/bn24k/mono.m3u8
+
+#EXTINF:-1 tvg-id="realmadridvsmanchestercity2100tntsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Real Madrid vs Manchester City 21:00 (TNT SPORTS SD)
+https://smarthard.click/hls/y1M7fzurUAHk/index.m3u8
+
+#EXTINF:-1 tvg-id="realmadridvsmanchestercity2100movistarsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Real Madrid vs Manchester City 21:00 (Movistar SD)
+https://smarthard.click/hls/DhxJ1yVlM1ZM/index.m3u8
+
 #EXTINF:-1 tvg-id="psgvschelsea2100tntsportaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",PSG vs Chelsea 21:00 (TNT SPORT - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="psgvschelsea2100tntbrasilaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",PSG vs Chelsea 21:00 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39181de00d46b6548ed2cc79119ab8f1:5fd40c87072199e0269550aa7f5039c7
+https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/8uifjrwvwv/out/v1/bd935b6a040443d8922f9b0b7a346866/cenc.mpd
+
+#EXTINF:-1 tvg-id="psgvschelsea2100sportzxliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",PSG vs Chelsea 21:00 (SportzX Live - AQ)
+https://herzogdell.s3.us-east-1.amazonaws.com/chelsea.m3u8
+
+#EXTINF:-1 tvg-id="psgvschelsea2100sportzxfhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",PSG vs Chelsea 21:00 (SportzX - FHD SERVER)
+https://daffodil.serverbandel.sbs/cbssn.m3u8
 
 #EXTINF:-1 tvg-id="psgvschelsea2100cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",PSG vs Chelsea 21:00 (COSMOTE SPORT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -259,6 +290,9 @@ https://bbb.exoadash.com/TVD4072/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2700/index.mpd
+
+#EXTINF:-1 tvg-id="psgvschelsea2100tntsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",PSG vs Chelsea 21:00 (TNT SPORTS SD)
+https://smarthard.click/hls/0Wm95aOWfZf5/index.m3u8
 
 #EXTINF:-1 tvg-id="bodglimtvssportingcp2100tntsportaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Bodø Glimt vs Sporting CP 21:00 (TNT SPORT - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
