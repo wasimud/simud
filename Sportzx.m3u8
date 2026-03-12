@@ -221,17 +221,17 @@ https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
 #EXTINF:-1 tvg-id="alhazemvsalkholood2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Hazem vs Al-Kholood 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1451/index.mpd
+https://bbb.exoadash.com/TVD6737/index.mpd
 
 #EXTINF:-1 tvg-id="alnajmascvsdamacfc2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Najma SC vs Damac FC 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6737/index.mpd
+https://bbb.exoadash.com/TVD1403/index.mpd
 
 #EXTINF:-1 tvg-id="neomscvsaltaawoun2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Neom SC vs Al-Taawoun 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1403/index.mpd
+https://bbb.exoadash.com/TVD1451/index.mpd
 
 #EXTINF:-1 tvg-id="lillevsastonvilla1845tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Lille vs Aston Villa 18:45 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -290,6 +290,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-id="ferencvrostcvssportingbraga2100skysportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Ferencváros TC vs Sporting Braga 21:00 (SKY SPORTS SD)
+https://smarthard.click/hls/T8PPfLuC68iO/index.m3u8
 
 #EXTINF:-1 tvg-id="crystalpalacevsaeklarnaca2100tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa conference",Crystal Palace vs AEK Larnaca 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
