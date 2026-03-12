@@ -6,126 +6,6 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiH.w3u",
     "stations": [
         {
-            "name": "Diretta Goal - Live 2",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bologna - Roma - Sport Uno HD (ext chrome)",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportunoex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bologna - Roma - Sport Uno HD",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportunohd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bologna - Roma - Sport Uno",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/uno.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bologna - Roma - Live 147",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live147.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bologna - Roma - Live 147 b",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live147b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bologna - Roma - Live 137",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live137.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bologna - Roma - Live 137 b",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live137b.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Bologna - Roma - Live 7",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live7.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lille - Aston Villa - Sport Mix HD (ext chrome)",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/mixex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lille - Aston Villa - Sport Mix HD",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/mixhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lille - Aston Villa - Sport Mix",
-            "info": "18:45 Â· Europa L.",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfcKXdZs4X9OwuYGobUYoRInkj-6bQEjNv9Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmix.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
             "name": "Diretta Goal - Calcio HD (ext chrome)",
             "info": "21:00 Â· Europa L.",
             "online": "true",
@@ -279,7 +159,7 @@
             "name": "GP Cina (libere 1) - F1 HD (ext chrome)",
             "info": "04:30 Â· F1",
             "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSastpa4DkK5EP7Pi6Gra6qvNDA9BqXCAoFbQ&s",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/f1ex.htm",
             "embed": "true",
@@ -289,7 +169,7 @@
             "name": "GP Cina (libere 1) - F1 HD",
             "info": "04:30 Â· F1",
             "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSastpa4DkK5EP7Pi6Gra6qvNDA9BqXCAoFbQ&s",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/f1hd.htm",
             "embed": "true",
@@ -299,7 +179,7 @@
             "name": "GP Cina (libere 1) - F1",
             "info": "04:30 Â· F1",
             "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSastpa4DkK5EP7Pi6Gra6qvNDA9BqXCAoFbQ&s",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/f1.htm",
             "embed": "true",
@@ -332,6 +212,16 @@
             "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "GP Cina (qualifiche Sprint) - Live 2",
+            "info": "08:30 Â· F1",
+            "online": "true",
+            "image": "https://crystalpng.com/wp-content/uploads/2025/06/F1-01.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live2.htm",
             "embed": "true",
             "isHost": ""
         }
