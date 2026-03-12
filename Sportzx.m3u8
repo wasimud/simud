@@ -256,10 +256,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="lechpoznavsshakhtardonetsk1845polsatsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa conference",Lech Poznań vs Shakhtar Donetsk 18:45 (Polsat Sports SD)
+#EXTINF:-1 tvg-id="lechpoznavsshakhtardonetsk0300polsatsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa conference",Lech Poznań vs Shakhtar Donetsk 03:00 (Polsat Sports SD)
 https://smarthard.click/hls/OtAyhi4SDYAt/index.m3u8
 
-#EXTINF:-1 tvg-id="lechpoznavsshakhtardonetsk1845skysportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa conference",Lech Poznań vs Shakhtar Donetsk 18:45 (SKY SPORTS SD)
+#EXTINF:-1 tvg-id="lechpoznavsshakhtardonetsk0300skysportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa conference",Lech Poznań vs Shakhtar Donetsk 03:00 (SKY SPORTS SD)
 https://smarthard.click/hls/PcyLFctB1eQI/index.m3u8
 
 #EXTINF:-1 tvg-id="nottinghamforestvsfcmidtjylland2100tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Nottingham Forest vs FC Midtjylland 21:00 (TNT SPORTS)
