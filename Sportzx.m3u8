@@ -233,10 +233,16 @@ https://bbb.exoadash.com/TVD6737/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD1403/index.mpd
 
-#EXTINF:-1 tvg-id="lillevsastonvilla1845tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Lille vs Aston Villa 18:45 (TNT SPORTS)
+#EXTINF:-1 tvg-id="lillevsastonvilla1845tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Lille vs Aston Villa 18:45 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="lillevsastonvilla1845sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Lille vs Aston Villa 18:45 (SportzX Live)
+https://live.alilicloud.com/live/695984ed629b51f3cefff4c97389905c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lillevsastonvilla1845espnarsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Lille vs Aston Villa 18:45 (ESPN AR SD)
+https://smarthard.click/hls/sabrouchespn1arg/index.m3u8
 
 #EXTINF:-1 tvg-id="stuttgartvsfcporto1845tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Stuttgart vs FC Porto 18:45 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -247,6 +253,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 tvg-id="panathinaikosfcvsrealbetis1845tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Panathinaikos FC vs Real Betis 18:45 (TNT SPORTS FHD)
+https://daffodil.serverbandel.sbs/tnt5.m3u8
+
+#EXTINF:-1 tvg-id="panathinaikosfcvsrealbetis1845cosmotesportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Panathinaikos FC vs Real Betis 18:45 (Cosmote Sports HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD4072/index.mpd
+
+#EXTINF:-1 tvg-id="azalkmaarvsacspartapraha1845daznptsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa conference",AZ Alkmaar vs AC Sparta Praha 18:45 (DAZN PT SD)
+https://hls.thewhites.site/hls/4a3cc07f-5e04-4b71-989c-edd3eac894a4/index.m3u8
+
+#EXTINF:-1 tvg-id="lechpoznavsshakhtardonetsk1845polsatsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa conference",Lech Poznań vs Shakhtar Donetsk 18:45 (Polsat Sports SD)
+https://smarthard.click/hls/OtAyhi4SDYAt/index.m3u8
+
+#EXTINF:-1 tvg-id="lechpoznavsshakhtardonetsk1845skysportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa conference",Lech Poznań vs Shakhtar Donetsk 18:45 (SKY SPORTS SD)
+https://smarthard.click/hls/PcyLFctB1eQI/index.m3u8
 
 #EXTINF:-1 tvg-id="nottinghamforestvsfcmidtjylland2100tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Nottingham Forest vs FC Midtjylland 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
