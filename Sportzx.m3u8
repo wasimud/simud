@@ -199,6 +199,12 @@ https://daffodil.serverbandel.sbs/nba8.m3u8
 #EXTINF:-1 tvg-id="oklahomacitythundervsbostonceltics0230sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Oklahoma City Thunder vs Boston Celtics 02:30 (SD SERVER)
 https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
 
+#EXTINF:-1 tvg-id="losangeleslakersvschicagobulls0330sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs Chicago Bulls 03:30 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba9.m3u8
+
+#EXTINF:-1 tvg-id="losangeleslakersvschicagobulls0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs Chicago Bulls 03:30 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
 #EXTINF:-1 tvg-id="alhazemvsalkholood2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Hazem vs Al-Kholood 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
