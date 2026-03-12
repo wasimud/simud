@@ -134,6 +134,19 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0200backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",WWE 02:00 (BACKUP SD)
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_SD/apache.m3u8
 
+#EXTINF:-1 tvg-id="bangladeshvspakistan0915willowaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (WILLOW - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c1cb172e3dd56d27b7914a26803d8d1:dbd9280a6254f1abf1e45571d6325385
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/sar5qef6wv/out/v1/29e2f2b691a845a5bfe0c25775ef89bd/cenc.mpd
+
+#EXTINF:-1 tvg-id="bangladeshvspakistan0915willowlq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (WILLOW - LQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb76f3b8bbd4b8e18d5c1a79b52395b:dfdac30ebbfa63b4326de4ca462e9fa3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/yjhgnfk2sz/out/v1/3a995adfa3444f1ba12ee630365a4ffe/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="bangladeshvspakistan0915tapmadaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (TAPMAD - AQ)
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
+
 #EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
@@ -255,7 +268,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-id="crystalpalacevsaeklarnaca2100tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Crystal Palace vs AEK Larnaca 21:00 (TNT SPORTS)
+#EXTINF:-1 tvg-id="crystalpalacevsaeklarnaca2100tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa conference",Crystal Palace vs AEK Larnaca 21:00 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
