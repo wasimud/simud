@@ -123,16 +123,29 @@ https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_SD/apache.m3u8
 
 #EXTINF:-1 tvg-id="bangladeshvspakistan0915willowaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c1cb172e3dd56d27b7914a26803d8d1:dbd9280a6254f1abf1e45571d6325385
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/sar5qef6wv/out/v1/29e2f2b691a845a5bfe0c25775ef89bd/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3757663f0ddde8faf34e73cf636417b1:7e8fcb73c6183793bcc3028108f6860d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dw8fn5dqni/out/v1/9970dcba9eac4243a9dac04e0dba4359/cenc.mpd
 
 #EXTINF:-1 tvg-id="bangladeshvspakistan0915willowlq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (WILLOW - LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb76f3b8bbd4b8e18d5c1a79b52395b:dfdac30ebbfa63b4326de4ca462e9fa3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/yjhgnfk2sz/out/v1/3a995adfa3444f1ba12ee630365a4ffe/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=bc4ae67f023277e3962388db3d70e8ff:b306efbeb77165979a553621519b695a
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/gm32be3toh/out/v1/4b0a2888f95e415f9c2dc3227071ba63/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="bangladeshvspakistan0915tapmadaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (TAPMAD - AQ)
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
+
+#EXTINF:-1 tvg-id="bangladeshvspakistan0915fancodeaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (FANCODE AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="bangladeshvspakistan0915ptvsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (PTV SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd
+
+#EXTINF:-1 tvg-id="bangladeshvspakistan0915tsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (TSports SD)
+http://198.195.239.50:8095/Tsports/index.m3u8
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -379,3 +392,19 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 
 #EXTINF:-1 tvg-id="greutherfrthvssvelversberg1830skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Greuther Fürth vs SV Elversberg 18:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
+
+#EXTINF:-1 tvg-id="newzealandwarriorsvscanberraraiders0800foxsoccersd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Rugby",New Zealand Warriors vs Canberra Raiders 08:00 (FOX SOCCER  SD)
+http://195.178.110.27/hls/CACACAQ.m3u8
+
+#EXTINF:-1 tvg-id="sydneyroostersvssouthsydneyrabbitohs1000foxsoccers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Rugby",Sydney Roosters vs South Sydney Rabbitohs 10:00 (FOX SOCCER  SD)
+http://195.178.110.27/hls/CACACA.m3u8
+
+#EXTINF:-1 tvg-id="essendonbombersvshawthornhawks0940tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afl",Essendon Bombers vs Hawthorn Hawks 09:40 (TNT SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="essendonbombersvshawthornhawks0940foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afl",Essendon Bombers vs Hawthorn Hawks 09:40 (FOX SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
