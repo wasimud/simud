@@ -1,6 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
+#EXTINF:-1 tvg-id="formula10400tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+
 #EXTINF:-1 tvg-id="formula10400fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
@@ -188,14 +193,8 @@ https://daffodil.serverbandel.sbs/nba4.m3u8
 #EXTINF:-1 tvg-id="dallasmavericksvsclevelandcavaliers0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Dallas Mavericks vs Cleveland Cavaliers 00:30 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
-#EXTINF:-1 tvg-id="detroitpistonsvsmemphisgrizzlies0030sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Detroit Pistons vs Memphis Grizzlies 00:30 (SportzX NBA)
-https://daffodil.serverbandel.sbs/nba.m3u8
-
 #EXTINF:-1 tvg-id="detroitpistonsvsmemphisgrizzlies0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Detroit Pistons vs Memphis Grizzlies 00:30 (SD SERVER)
 https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
-
-#EXTINF:-1 tvg-id="indianapacersvsnewyorkknicks0030sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Indiana Pacers vs New York Knicks 00:30 (SportzX NBA)
-https://daffodil.serverbandel.sbs/nba2.m3u8
 
 #EXTINF:-1 tvg-id="indianapacersvsnewyorkknicks0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Indiana Pacers vs New York Knicks 00:30 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
