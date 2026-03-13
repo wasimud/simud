@@ -431,3 +431,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 
 #EXTINF:-1 tvg-id="greutherfrthvssvelversberg1830skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Greuther Fürth vs SV Elversberg 18:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
+
+#EXTINF:-1 tvg-id="peczwollevsgroningen2000espnnlsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",PEC Zwolle vs Groningen 20:00 (ESPN NL SD)
+https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
+
+#EXTINF:-1 tvg-id="europeandartstrophy1635pdctvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 16:35 (PDC TV FHD)
+https://grand-s-main.faggotsports.tv/out/v2/501377d2aebfcd3955216e782406fca4/index.m3u8
