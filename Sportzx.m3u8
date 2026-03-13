@@ -1,37 +1,37 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="formula10830fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 08:30 (FANCODE FHD)
+#EXTINF:-1 tvg-id="formula10400fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula10830maineventfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 08:30 (MAIN EVENT FHD)
+#EXTINF:-1 tvg-id="formula10400maineventfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (MAIN EVENT FHD)
 https://602.serverbandel.sbs/main.m3u8
 
-#EXTINF:-1 tvg-id="formula10830elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 08:30 (ELEVEN SPORTS)
+#EXTINF:-1 tvg-id="formula10400elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6411/index.mpd
 
-#EXTINF:-1 tvg-id="formula10830fastserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 08:30 (FAST SERVER)
+#EXTINF:-1 tvg-id="formula10400fastserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (FAST SERVER)
 https://storage.googleapis.com/puturgertung2/mux_video_ts1/index-1.m3u8
 
-#EXTINF:-1 tvg-id="formula10830skyf1sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 08:30 (Sky F1 SD)
+#EXTINF:-1 tvg-id="formula10400skyf1sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (Sky F1 SD)
 https://smarthard.click/hls/91LHlS9qZPK5/index.m3u8
 
-#EXTINF:-1 tvg-id="formula10830skyf1de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 08:30 (Sky F1 DE)
+#EXTINF:-1 tvg-id="formula10400skyf1de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (Sky F1 DE)
 https://smarthard.click/hls/07HL6dzqKCAr/index.m3u8
 
-#EXTINF:-1 tvg-id="formula10830daznessd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 08:30 (DAZN ES SD)
+#EXTINF:-1 tvg-id="formula10400daznessd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (DAZN ES SD)
 https://smarthard.click/hls/RdKfpotjL5g/index.m3u8
 
-#EXTINF:-1 tvg-id="formula10830f1tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 08:30 (F1 TV FHD)
+#EXTINF:-1 tvg-id="formula10400f1tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (F1 TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula10830foxsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 08:30 (Fox Sports - AQ)
+#EXTINF:-1 tvg-id="formula10400foxsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (Fox Sports - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
@@ -181,6 +181,45 @@ https://in-mc-flive.fancode.com/mumbai/140458_bengali_dash_47475_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61c176eb1700488f9e0394fcb69c817b:a1d6598ed0176b715f4f15166ad8a05d
 https://bd-mc-flive.fancode.com/delhi/140458_english_dash_47877_1drmta-di_h264/index.mpd
+
+#EXTINF:-1 tvg-id="dallasmavericksvsclevelandcavaliers0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Dallas Mavericks vs Cleveland Cavaliers 00:30 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="detroitpistonsvsmemphisgrizzlies0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Detroit Pistons vs Memphis Grizzlies 00:30 (SD SERVER)
+https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+
+#EXTINF:-1 tvg-id="indianapacersvsnewyorkknicks0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Indiana Pacers vs New York Knicks 00:30 (SD SERVER)
+https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="torontoraptorsvsphoenixsuns0030sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Toronto Raptors vs Phoenix Suns 00:30 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba4.m3u8
+
+#EXTINF:-1 tvg-id="torontoraptorsvsphoenixsuns0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Toronto Raptors vs Phoenix Suns 00:30 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
+#EXTINF:-1 tvg-id="houstonrocketsvsorleanspelicans0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs Orleans Pelicans 01:00 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba5.m3u8
+
+#EXTINF:-1 tvg-id="houstonrocketsvsorleanspelicans0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs Orleans Pelicans 01:00 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="warriorsvsminnesotatimberwolves0300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Warriors vs Minnesota Timberwolves 03:00 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba2.m3u8
+
+#EXTINF:-1 tvg-id="warriorsvsminnesotatimberwolves0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Warriors vs Minnesota Timberwolves 03:00 (SD SERVER)
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
+#EXTINF:-1 tvg-id="portlandtrailblazersvsutahjazz0300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Portland Trail Blazers vs Utah Jazz 03:00 (SportzX NBA)
+https://602.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
+
+#EXTINF:-1 tvg-id="portlandtrailblazersvsutahjazz0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Portland Trail Blazers vs Utah Jazz 03:00 (SD SERVER)
+https://smarthard.click/hls/kl434PVmNnx/index.m3u8
+
+#EXTINF:-1 tvg-id="losangelesclippersvschicagobulls0330sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs Chicago Bulls 03:30 (SportzX NBA)
+https://602.serverbandel.sbs/nba8.m3u8
+
+#EXTINF:-1 tvg-id="losangelesclippersvschicagobulls0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs Chicago Bulls 03:30 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
 
 #EXTINF:-1 tvg-id="alqadsiahvsalahli2000foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Qadsiah vs Al-Ahli 20:00 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -392,19 +431,3 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 
 #EXTINF:-1 tvg-id="greutherfrthvssvelversberg1830skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Greuther Fürth vs SV Elversberg 18:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
-
-#EXTINF:-1 tvg-id="newzealandwarriorsvscanberraraiders0800foxsoccersd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Rugby",New Zealand Warriors vs Canberra Raiders 08:00 (FOX SOCCER  SD)
-http://195.178.110.27/hls/CACACAQ.m3u8
-
-#EXTINF:-1 tvg-id="sydneyroostersvssouthsydneyrabbitohs1000foxsoccers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Rugby",Sydney Roosters vs South Sydney Rabbitohs 10:00 (FOX SOCCER  SD)
-http://195.178.110.27/hls/CACACA.m3u8
-
-#EXTINF:-1 tvg-id="essendonbombersvshawthornhawks0940tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afl",Essendon Bombers vs Hawthorn Hawks 09:40 (TNT SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="essendonbombersvshawthornhawks0940foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afl",Essendon Bombers vs Hawthorn Hawks 09:40 (FOX SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
