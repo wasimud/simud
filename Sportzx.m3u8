@@ -437,3 +437,6 @@ https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
 
 #EXTINF:-1 tvg-id="europeandartstrophy1635pdctvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 16:35 (PDC TV FHD)
 https://grand-s-main.faggotsports.tv/out/v2/501377d2aebfcd3955216e782406fca4/index.m3u8
+
+#EXTINF:-1 tvg-id="europeandartstrophy1635sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 16:35 (SportzX Live)
+http://195.178.110.37/hls/JBBBQQ.m3u8
