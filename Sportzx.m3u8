@@ -7,7 +7,7 @@
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-id="formula10400maineventfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (MAIN EVENT FHD)
-https://602.serverbandel.sbs/main.m3u8
+https://daffodil.serverbandel.sbs/main.m3u8
 
 #EXTINF:-1 tvg-id="formula10400elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:00 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -182,17 +182,26 @@ https://in-mc-flive.fancode.com/mumbai/140458_bengali_dash_47475_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=61c176eb1700488f9e0394fcb69c817b:a1d6598ed0176b715f4f15166ad8a05d
 https://bd-mc-flive.fancode.com/delhi/140458_english_dash_47877_1drmta-di_h264/index.mpd
 
+#EXTINF:-1 tvg-id="dallasmavericksvsclevelandcavaliers0030sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Dallas Mavericks vs Cleveland Cavaliers 00:30 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba4.m3u8
+
 #EXTINF:-1 tvg-id="dallasmavericksvsclevelandcavaliers0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Dallas Mavericks vs Cleveland Cavaliers 00:30 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
+#EXTINF:-1 tvg-id="detroitpistonsvsmemphisgrizzlies0030sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Detroit Pistons vs Memphis Grizzlies 00:30 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba.m3u8
+
 #EXTINF:-1 tvg-id="detroitpistonsvsmemphisgrizzlies0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Detroit Pistons vs Memphis Grizzlies 00:30 (SD SERVER)
 https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+
+#EXTINF:-1 tvg-id="indianapacersvsnewyorkknicks0030sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Indiana Pacers vs New York Knicks 00:30 (SportzX NBA)
+https://daffodil.serverbandel.sbs/nba2.m3u8
 
 #EXTINF:-1 tvg-id="indianapacersvsnewyorkknicks0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Indiana Pacers vs New York Knicks 00:30 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
 
 #EXTINF:-1 tvg-id="torontoraptorsvsphoenixsuns0030sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Toronto Raptors vs Phoenix Suns 00:30 (SportzX NBA)
-https://daffodil.serverbandel.sbs/nba4.m3u8
+https://daffodil.serverbandel.sbs/nba3.m3u8
 
 #EXTINF:-1 tvg-id="torontoraptorsvsphoenixsuns0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Toronto Raptors vs Phoenix Suns 00:30 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
@@ -204,19 +213,19 @@ https://daffodil.serverbandel.sbs/nba5.m3u8
 https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 
 #EXTINF:-1 tvg-id="warriorsvsminnesotatimberwolves0300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Warriors vs Minnesota Timberwolves 03:00 (SportzX NBA)
-https://daffodil.serverbandel.sbs/nba2.m3u8
+https://daffodil.serverbandel.sbs/nba6.m3u8
 
 #EXTINF:-1 tvg-id="warriorsvsminnesotatimberwolves0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Warriors vs Minnesota Timberwolves 03:00 (SD SERVER)
 https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
 
 #EXTINF:-1 tvg-id="portlandtrailblazersvsutahjazz0300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Portland Trail Blazers vs Utah Jazz 03:00 (SportzX NBA)
-https://602.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
+https://daffodil.serverbandel.sbs/nba7.m3u8
 
 #EXTINF:-1 tvg-id="portlandtrailblazersvsutahjazz0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Portland Trail Blazers vs Utah Jazz 03:00 (SD SERVER)
 https://smarthard.click/hls/kl434PVmNnx/index.m3u8
 
 #EXTINF:-1 tvg-id="losangelesclippersvschicagobulls0330sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs Chicago Bulls 03:30 (SportzX NBA)
-https://602.serverbandel.sbs/nba8.m3u8
+https://daffodil.serverbandel.sbs/nba8.m3u8
 
 #EXTINF:-1 tvg-id="losangelesclippersvschicagobulls0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs Chicago Bulls 03:30 (SD SERVER)
 https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
