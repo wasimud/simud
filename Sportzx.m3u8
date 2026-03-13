@@ -411,6 +411,9 @@ https://bbb.exoadash.com/TVD2083/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
 
+#EXTINF:-1 tvg-id="antalyasporvsgaziantepfk1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Antalyaspor vs Gaziantep FK 18:00 (SportzX Live)
+https://live.alilicloud.com/live/cfb6622e3335be8720495aa0377edd21/playlist.m3u8
+
 #EXTINF:-1 tvg-id="fatihkaragmrkvsfenerbahe1800sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Fatih Karagümrük vs Fenerbahçe 18:00 (SD SERVER)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
@@ -440,6 +443,3 @@ https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
 
 #EXTINF:-1 tvg-id="europeandartstrophy1635pdctvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 16:35 (PDC TV FHD)
 https://grand-s-main.faggotsports.tv/out/v2/501377d2aebfcd3955216e782406fca4/index.m3u8
-
-#EXTINF:-1 tvg-id="europeandartstrophy1635sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 16:35 (SportzX Live)
-http://195.178.110.37/hls/JBBBQQ.m3u8
