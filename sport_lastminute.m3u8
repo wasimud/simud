@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="2045torinoparmampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Torino - Parma (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d2893bb1dcd5398b147e32724ffc79e:e3105196e95eb6ba6b18a534f1c9a292
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1773427504~exp%3D1773513904~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dab482420e539665901f04dd98c9df016793a9158b982382d8f583c7633574d6b%23wm%3D1%23wmd%3D1152~hmac%3D80cabcf38bc76e24bb4704cd3024ffda168fee5265f695d9d82f8be2e7513b6a/sdtrfgku39at1rgrzpi6d5mr6/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2030modenaspeziampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:30 Modena - Spezia (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fda6ce1d52ad529a891b6afb923b5dff:9ff9fe4e58111e0e5075debc395aef98
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1773429604~exp%3D1773516004~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D36263e4f51675eee9db6ea6be474dbacdc8bffd6ecab74eb5812e643a0e63fc6%23wm%3D0~hmac%3D643ca72e1e77c1b0d10415c30e4f896c29b968c8cee9037882eed1c6a033f144/1haxvr58x84bj1gysi050rhcbo/web/stream.mpd?channel=3944&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
