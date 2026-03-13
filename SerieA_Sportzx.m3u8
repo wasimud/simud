@@ -1,6 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
+#EXTINF:-1 tvg-id="torinovsparma2045sport1cz" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/torinoparma.png" group-title="Serie A",Torino vs Parma 20:45 (SPORT 1 CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
+
 #EXTINF:-1 tvg-id="torinovsparma2045cosmotesports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/torinoparma.png" group-title="Serie A",Torino vs Parma 20:45 (COSMOTE Sports)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
