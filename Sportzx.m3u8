@@ -326,6 +326,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #EXTINF:-1 tvg-id="realmadridvselche2100espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Madrid vs Elche 21:00 (ESPN DEPORTES)
 https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
 
+#EXTINF:-1 tvg-id="torinovsparma2045beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Torino vs Parma 20:45 (beIN ENGLISH)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/bein.m3u8
+
 #EXTINF:-1 tvg-id="torinovsparma2045sport1cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Torino vs Parma 20:45 (SPORT 1 CZ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
@@ -400,9 +403,6 @@ https://bbb.exoadash.com/TVD2709/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6412/index.mpd
-
-#EXTINF:-1 tvg-id="olympiquemarseillevsauxerre2045beinsportsen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Olympique Marseille vs Auxerre 20:45 (beIN SPORTS EN)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/bein.m3u8
 
 #EXTINF:-1 tvg-id="olympiquemarseillevsauxerre2045beinsportses" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Olympique Marseille vs Auxerre 20:45 (beIN SPORTS ES)
 https://daffodil.serverbandel.sbs/beines.m3u8
