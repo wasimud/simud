@@ -190,6 +190,26 @@ https://in-mc-flive.fancode.com/mumbai/140461_bengali_dash_11408_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=6e45d0b3bcf64c1299011109e0993580:a1d43d8a125214381bf02f01a5e6d6cc
 https://bd-mc-flive.fancode.com/delhi/140461_english_dash_67991_1drmta-di_h264/index.mpd
 
+#EXTINF:-1 tvg-id="alkhaleejvsalnassr2000sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Khaleej vs Al-Nassr 20:00 (SPOR TV BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+
+#EXTINF:-1 tvg-id="alkhaleejvsalnassr2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Khaleej vs Al-Nassr 20:00 (Thmanyah - FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD1403/index.mpd
+
+#EXTINF:-1 tvg-id="alfatehvsalhilal2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Fateh vs Al-Hilal 20:00 (Thmanyah - FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD6737/index.mpd
+
+#EXTINF:-1 tvg-id="alshababvsalokhdood2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Shabab vs Al-Okhdood 20:00 (Thmanyah - FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD1403/index.mpd
+
 #EXTINF:-1 tvg-id="westhamvsmanchestercity2100tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",West Ham vs Manchester City 21:00 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
@@ -402,24 +422,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
 
-#EXTINF:-1 tvg-id="arminiabielefeldvsscpaderborn1300skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Arminia Bielefeld vs SC Paderborn 13:00 (SKY BUNDESLIGA)
+#EXTINF:-1 tvg-id="arminiabielefeldvsscpaderborn1300skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Arminia Bielefeld vs SC Paderborn 13:00 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/6v8yVbveVz4/index.m3u8
 
-#EXTINF:-1 tvg-id="eintrachtbraunschweigvsfortunadsseldorf1300skybund" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Eintracht Braunschweig vs Fortuna Düsseldorf 13:00 (SKY BUNDESLIGA)
+#EXTINF:-1 tvg-id="eintrachtbraunschweigvsfortunadsseldorf1300skybund" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Eintracht Braunschweig vs Fortuna Düsseldorf 13:00 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 
-#EXTINF:-1 tvg-id="holsteinkielvsnrnberg1300skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Holstein Kiel vs Nürnberg 13:00 (SKY BUNDESLIGA)
+#EXTINF:-1 tvg-id="holsteinkielvsnrnberg1300skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Holstein Kiel vs Nürnberg 13:00 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
-
-#EXTINF:-1 tvg-id="penrithpanthersvscronullasharks0935sport1de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nrl rugby",Penrith Panthers vs Cronulla Sharks 09:35 (Sport1  DE)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD5788/index.mpd
-
-#EXTINF:-1 tvg-id="penrithpanthersvscronullasharks0935sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nrl rugby",Penrith Panthers vs Cronulla Sharks 09:35 (SportzX Live)
-http://195.178.110.25/hls/YNNN.m3u8
-
-#EXTINF:-1 tvg-id="collingwoodmagpiesvsadelaidecrows0935tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afl",Collingwood Magpies vs Adelaide Crows 09:35 (TNT Sports - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
