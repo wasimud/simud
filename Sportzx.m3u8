@@ -498,10 +498,10 @@ https://bbb.exoadash.com/TVD6414/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2709/index.mpd
 
-#EXTINF:-1 tvg-id="europeandartstrophy1300pdctvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 13:00 (PDC TV FHD)
+#EXTINF:-1 tvg-id="europeandartstrophy1900pdctvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 19:00 (PDC TV FHD)
 https://grand-s-main.faggotsports.tv/out/v2/9d710893f0a089f9f6a5ebe9d4bfc4ad/index.m3u8
 
-#EXTINF:-1 tvg-id="europeandartstrophy1300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 13:00 (SD SERVER)
+#EXTINF:-1 tvg-id="europeandartstrophy1900sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 19:00 (SD SERVER)
 http://195.178.110.37/hls/JBBBQQ.m3u8
 
 #EXTINF:-1 tvg-id="lorientvsrclens1700novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lorient vs RC Lens 17:00 (NOVA SPORTS)
