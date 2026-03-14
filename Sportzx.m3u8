@@ -243,6 +243,9 @@ https://bbb.exoadash.com/TVD1403/index.mpd
 #EXTINF:-1 tvg-id="sunderlandvsbrighton1600nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Brighton 16:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
+#EXTINF:-1 tvg-id="sunderlandvsbrighton1600sportzxliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Brighton 16:00 (SportzX Live - AQ)
+https://onebot3c.s3.us-east-1.amazonaws.com/brighton.m3u8
+
 #EXTINF:-1 tvg-id="sunderlandvsbrighton1600usatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Brighton 16:00 (USA TV FHD)
 https://daffodil.lifesharper.com/usa.m3u8
 
@@ -256,6 +259,9 @@ https://bbb.exoadash.com/TVD6219/index.mpd
 
 #EXTINF:-1 tvg-id="burnleyvsbournemouth1600nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Bournemouth 16:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="burnleyvsbournemouth1600sportzxliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Bournemouth 16:00 (SportzX Live - AQ)
+https://onebot3c.s3.us-east-1.amazonaws.com/burnley.m3u8
 
 #EXTINF:-1 tvg-id="burnleyvsbournemouth1600skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Bournemouth 16:00 (SKY SPORTS FHD)
 https://grand-s-main.faggotsports.tv/out/v2/1c392ac1f3101d26ea9cf4e61fcfbb8a/index.m3u8
@@ -324,6 +330,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="atlticomadridvsgetafe1615fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Getafe 16:15 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-id="atlticomadridvsgetafe1615espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Getafe 16:15 (ESPN DEPORTES)
 https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
