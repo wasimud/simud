@@ -193,29 +193,38 @@ https://bd-mc-flive.fancode.com/delhi/140461_english_dash_67991_1drmta-di_h264/i
 #EXTINF:-1 tvg-id="philadelphia76ersvsbrooklynnets1800sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Philadelphia 76ers vs Brooklyn Nets 18:00 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
+#EXTINF:-1 tvg-id="atlantahawksvsmilwaukeebucks2000sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Atlanta Hawks vs Milwaukee Bucks 20:00 (SportzX NBA)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
+
 #EXTINF:-1 tvg-id="atlantahawksvsmilwaukeebucks2000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Atlanta Hawks vs Milwaukee Bucks 20:00 (SD SERVER)
 https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
 
+#EXTINF:-1 tvg-id="sanantoniospursvscharlottehornets2030sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Charlotte Hornets 20:30 (SportzX NBA)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba3.m3u8
+
 #EXTINF:-1 tvg-id="sanantoniospursvscharlottehornets2030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Charlotte Hornets 20:30 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="bostoncelticsvswashingtonwizards2300sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Boston Celtics vs Washington Wizards 23:00 (SportzX NBA)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba4.m3u8
 
 #EXTINF:-1 tvg-id="bostoncelticsvswashingtonwizards2300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Boston Celtics vs Washington Wizards 23:00 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
 #EXTINF:-1 tvg-id="miamiheatvsorlandomagic0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Miami Heat vs Orlando Magic 01:00 (SportzX NBA)
-https://daffodil.serverbandel.sbs/nba5.m3u8
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8
 
 #EXTINF:-1 tvg-id="miamiheatvsorlandomagic0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Miami Heat vs Orlando Magic 01:00 (SD SERVER)
 https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 
 #EXTINF:-1 tvg-id="losangeleslakersvsdenvernuggets0130sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs Denver Nuggets 01:30 (SportzX NBA)
-https://daffodil.serverbandel.sbs/nba6.m3u8
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
 
 #EXTINF:-1 tvg-id="losangeleslakersvsdenvernuggets0130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Lakers vs Denver Nuggets 01:30 (SD SERVER)
 https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
 
 #EXTINF:-1 tvg-id="clippersvssacramentokings0330sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Clippers vs Sacramento Kings 03:30 (SportzX NBA)
-https://daffodil.serverbandel.sbs/nba7.m3u8
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
 
 #EXTINF:-1 tvg-id="clippersvssacramentokings0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Clippers vs Sacramento Kings 03:30 (SD SERVER)
 https://smarthard.click/hls/kl434PVmNnx/index.m3u8
@@ -545,9 +554,6 @@ https://bbb.exoadash.com/TVD6414/index.mpd
 
 #EXTINF:-1 tvg-id="arminiabielefeldvsscpaderborn1300skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Arminia Bielefeld vs SC Paderborn 13:00 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/6v8yVbveVz4/index.m3u8
-
-#EXTINF:-1 tvg-id="eintrachtbraunschweigvsfortunadsseldorf1300skybund" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Eintracht Braunschweig vs Fortuna Düsseldorf 13:00 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 
 #EXTINF:-1 tvg-id="holsteinkielvsnrnberg1300elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Holstein Kiel vs Nürnberg 13:00 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
