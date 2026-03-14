@@ -398,6 +398,11 @@ https://bbb.exoadash.com/TVD2083/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://smarthard.click/hls/ZWevymm11TKF/index.m3u8
 
+#EXTINF:-1 tvg-id="aroucavsbenfica2130cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga portugal",Arouca vs Benfica 21:30 (COSMOTE SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD4077/index.mpd
+
 #EXTINF:-1 tvg-id="afcajaxvsspartarotterdam2100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",AFC Ajax vs Sparta Rotterdam 21:00 (Premier Sports)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
