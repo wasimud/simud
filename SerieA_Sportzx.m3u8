@@ -13,3 +13,8 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 
 #EXTINF:-1 tvg-id="udinesevsjuventus2045sportzxlive" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/udinesejuventus.png" group-title="Serie A",Udinese vs Juventus 20:45 (SportzX Live)
 https://storage.googleapis.com/unikhsgyrbover3/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="udinesevsjuventus2045fubosports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/udinesejuventus.png" group-title="Serie A",Udinese vs Juventus 20:45 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
