@@ -196,14 +196,8 @@ https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
 #EXTINF:-1 tvg-id="philadelphia76ersvsbrooklynnets1800sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Philadelphia 76ers vs Brooklyn Nets 18:00 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
-#EXTINF:-1 tvg-id="atlantahawksvsmilwaukeebucks2000sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Atlanta Hawks vs Milwaukee Bucks 20:00 (SportzX NBA)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba2.m3u8
-
 #EXTINF:-1 tvg-id="atlantahawksvsmilwaukeebucks2000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Atlanta Hawks vs Milwaukee Bucks 20:00 (SD SERVER)
 https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
-
-#EXTINF:-1 tvg-id="sanantoniospursvscharlottehornets2030sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Charlotte Hornets 20:30 (SportzX NBA)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba3.m3u8
 
 #EXTINF:-1 tvg-id="sanantoniospursvscharlottehornets2030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",San Antonio Spurs vs Charlotte Hornets 20:30 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
@@ -240,12 +234,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1
 #EXTINF:-1 tvg-id="alkhaleejvsalnassr2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Khaleej vs Al-Nassr 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1403/index.mpd
+https://bbb.exoadash.com/TVD6737/index.mpd
 
 #EXTINF:-1 tvg-id="alfatehvsalhilal2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Fateh vs Al-Hilal 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6737/index.mpd
+https://bbb.exoadash.com/TVD1451/index.mpd
 
 #EXTINF:-1 tvg-id="alshababvsalokhdood2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro league 🇸🇦",Al-Shabab vs Al-Okhdood 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -348,32 +342,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="gironafcvsathleticclub1400laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Girona FC vs Athletic Club 14:00 (Laliga TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
-#EXTINF:-1 tvg-id="gironafcvsathleticclub1400beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Girona FC vs Athletic Club 14:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="gironafcvsathleticclub1400premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Girona FC vs Athletic Club 14:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="gironafcvsathleticclub1400fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Girona FC vs Athletic Club 14:00 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#EXTINF:-1 tvg-id="gironafcvsathleticclub1400fhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Girona FC vs Athletic Club 14:00 (FHD SERVER)
-https://daffodil.securehelp.help/dep.m3u8
-
-#EXTINF:-1 tvg-id="gironafcvsathleticclub1400espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Girona FC vs Athletic Club 14:00 (ESPN DEPORTES)
-https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
 
 #EXTINF:-1 tvg-id="atlticomadridvsgetafe1615laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Atlético Madrid vs Getafe 16:15 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -504,19 +472,6 @@ https://grand-s-main.faggotsports.tv/out/v2/9d710893f0a089f9f6a5ebe9d4bfc4ad/ind
 #EXTINF:-1 tvg-id="europeandartstrophy1900sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 19:00 (SD SERVER)
 http://195.178.110.37/hls/JBBBQQ.m3u8
 
-#EXTINF:-1 tvg-id="lorientvsrclens1700novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lorient vs RC Lens 17:00 (NOVA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="lorientvsrclens1700beinsportses" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lorient vs RC Lens 17:00 (beIN SPORTS ES)
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
-
-#EXTINF:-1 tvg-id="lorientvsrclens1700ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lorient vs RC Lens 17:00 (Ligue1  HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2083/index.mpd
-
 #EXTINF:-1 tvg-id="angersvsnice1900ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Angers vs Nice 19:00 (Ligue1  HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -526,9 +481,6 @@ https://bbb.exoadash.com/TVD2083/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2083/index.mpd
-
-#EXTINF:-1 tvg-id="eintrachtfrankfurtvsheidenheim1530skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Eintracht Frankfurt vs Heidenheim 15:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
 
 #EXTINF:-1 tvg-id="psveindhovenvsnecnijmegen1845sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",PSV Eindhoven vs NEC Nijmegen 18:45 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -556,29 +508,3 @@ https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
 
 #EXTINF:-1 tvg-id="trabzonsporvsaykurrizespor1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Trabzonspor vs Çaykur Rizespor 18:00 (SportzX Live)
 https://live.alilicloud.com/live/fbdd676a4d98122078df83446c7af753/playlist.m3u8
-
-#EXTINF:-1 tvg-id="coventrycityvssouthampton1330beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Coventry City vs Southampton 13:30 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 tvg-id="leicestercityvsqpr1600beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leicester City vs QPR 16:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 tvg-id="arminiabielefeldvsscpaderborn1300elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Arminia Bielefeld vs SC Paderborn 13:00 (ELEVEN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6414/index.mpd
-
-#EXTINF:-1 tvg-id="arminiabielefeldvsscpaderborn1300skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Arminia Bielefeld vs SC Paderborn 13:00 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/6v8yVbveVz4/index.m3u8
-
-#EXTINF:-1 tvg-id="holsteinkielvsnrnberg1300elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Holstein Kiel vs Nürnberg 13:00 (ELEVEN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6412/index.mpd
-
-#EXTINF:-1 tvg-id="holsteinkielvsnrnberg1300skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Holstein Kiel vs Nürnberg 13:00 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
