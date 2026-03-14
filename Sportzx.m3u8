@@ -266,6 +266,12 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1
 #KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://a123aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
+#EXTINF:-1 tvg-id="charlottefcvsintermiamicf0030mlsenfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Mls 🇺🇸",Charlotte FC vs Inter Miami CF 00:30 (MLS EN FHD)
+https://grand-s-main.faggotsports.tv/out/v2/3b928943700976e48036d07d7c898d7b/index.m3u8
+
+#EXTINF:-1 tvg-id="charlottefcvsintermiamicf0030sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Mls 🇺🇸",Charlotte FC vs Inter Miami CF 00:30 (SportzX Live)
+https://live.alilicloud.com/live/015cece402a26e435b3cad0a83ecae5b/playlist.m3u8
+
 #EXTINF:-1 tvg-id="botafogovsflamengo0030premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Botafogo vs Flamengo 00:30 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
