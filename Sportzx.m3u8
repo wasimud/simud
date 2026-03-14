@@ -481,6 +481,14 @@ https://grand-s-main.faggotsports.tv/out/v2/9d710893f0a089f9f6a5ebe9d4bfc4ad/ind
 #EXTINF:-1 tvg-id="europeandartstrophy1300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 13:00 (SD SERVER)
 http://195.178.110.37/hls/JBBBQQ.m3u8
 
+#EXTINF:-1 tvg-id="lorientvsrclens1700novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lorient vs RC Lens 17:00 (NOVA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="lorientvsrclens1700beinsportses" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lorient vs RC Lens 17:00 (beIN SPORTS ES)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/beines.m3u8
+
 #EXTINF:-1 tvg-id="lorientvsrclens1700ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Lorient vs RC Lens 17:00 (Ligue1  HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -498,9 +506,6 @@ https://bbb.exoadash.com/TVD2083/index.mpd
 
 #EXTINF:-1 tvg-id="eintrachtfrankfurtvsheidenheim1530skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Eintracht Frankfurt vs Heidenheim 15:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
-
-#EXTINF:-1 tvg-id="hoffenheimvswolfsburg1530skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Hoffenheim vs Wolfsburg 15:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 
 #EXTINF:-1 tvg-id="psveindhovenvsnecnijmegen1845sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",PSV Eindhoven vs NEC Nijmegen 18:45 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
