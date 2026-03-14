@@ -408,8 +408,13 @@ https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 #EXTINF:-1 tvg-id="holsteinkielvsnrnberg1300skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Holstein Kiel vs Nürnberg 13:00 (SKY BUNDESLIGA)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
 
-#EXTINF:-1 tvg-id="illawarradragonsvsmelbournestorm0730sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nrl rugby",Illawarra Dragons vs Melbourne Storm 07:30 (SportzX Live)
-http://195.178.110.25/hls/HVVV.m3u8
+#EXTINF:-1 tvg-id="penrithpanthersvscronullasharks0935sport1de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nrl rugby",Penrith Panthers vs Cronulla Sharks 09:35 (Sport1  DE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD5788/index.mpd
+
+#EXTINF:-1 tvg-id="penrithpanthersvscronullasharks0935sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nrl rugby",Penrith Panthers vs Cronulla Sharks 09:35 (SportzX Live)
+http://195.178.110.25/hls/YNNN.m3u8
 
 #EXTINF:-1 tvg-id="collingwoodmagpiesvsadelaidecrows0935tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afl",Collingwood Magpies vs Adelaide Crows 09:35 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
