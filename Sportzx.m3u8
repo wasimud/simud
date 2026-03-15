@@ -238,25 +238,42 @@ https://bbb.exoadash.com/TVD4072/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6414/index.mpd
 
+#EXTINF:-1 tvg-id="manchesterunitedvsastonvilla1500fubosports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa 15:00 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
 #EXTINF:-1 tvg-id="manchesterunitedvsastonvilla1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa 15:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
 #EXTINF:-1 tvg-id="manchesterunitedvsastonvilla1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa 15:00 (SKY SPORTS FHD)
 https://grand-s-main.faggotsports.tv/out/v2/fbbcf77efd621f0e2b13f3c145ab08a5/index.m3u8
 
+#EXTINF:-1 tvg-id="manchesterunitedvsastonvilla1500usatvaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa 15:00 (USA TV - AQ)
+https://onebot3c.s3.us-east-1.amazonaws.com/manu.m3u8
+
 #EXTINF:-1 tvg-id="manchesterunitedvsastonvilla1500novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa 15:00 (NOVA SPORTS PL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6219/index.mpd
 
+#EXTINF:-1 tvg-id="manchesterunitedvsastonvilla1500usanetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa 15:00 (USA Network)
+https://storage.googleapis.com/pourihtnfewad1/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="nottinghamforestvsfulham1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Nottingham Forest vs Fulham 15:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+
+#EXTINF:-1 tvg-id="nottinghamforestvsfulham1500peacocktvaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Nottingham Forest vs Fulham 15:00 (PEACOCK TV - AQ)
+https://onebot3c.s3.us-east-1.amazonaws.com/fulham.m3u8
 
 #EXTINF:-1 tvg-id="nottinghamforestvsfulham1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Nottingham Forest vs Fulham 15:00 (SKY SPORTS FHD)
 https://grand-s-main.faggotsports.tv/out/v2/3798bcd1b7eba25abd131daed90369af/index.m3u8
 
 #EXTINF:-1 tvg-id="crystalpalacevsleedsunited1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Crystal Palace vs Leeds United 15:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="crystalpalacevsleedsunited1500peacocktvaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Crystal Palace vs Leeds United 15:00 (PEACOCK TV - AQ)
+https://onebot3c.s3.us-east-1.amazonaws.com/leeds.m3u8
 
 #EXTINF:-1 tvg-id="crystalpalacevsleedsunited1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Crystal Palace vs Leeds United 15:00 (SKY SPORTS FHD)
 https://grand-s-main.faggotsports.tv/out/v2/8d8f2a99b0a4956504667e55b8b8a524/index.m3u8
