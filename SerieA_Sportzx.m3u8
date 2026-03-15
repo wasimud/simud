@@ -1,25 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="laziovsmilan2045tntsportsaq" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/laziomilan.png" group-title="Serie A",Lazio vs Milan 20:45 (TNT SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="laziovsmilan2045beinenglish" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/laziomilan.png" group-title="Serie A",Lazio vs Milan 20:45 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="laziovsmilan2045daznithd" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/laziomilan.png" group-title="Serie A",Lazio vs Milan 20:45 (DAZN IT HD)
-https://storage.googleapis.com/topstoreyserov1/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="laziovsmilan2045cosmotesports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/laziomilan.png" group-title="Serie A",Lazio vs Milan 20:45 (Cosmote Sports)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4071/index.mpd
-
-#EXTINF:-1 tvg-id="laziovsmilan2045sport1cz" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/laziomilan.png" group-title="Serie A",Lazio vs Milan 20:45 (Sport 1 CZ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://13-str09-prod.tv.cetin.cz/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIzNTQyOTkyMjAwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlLzIxOTkvZGFzaC1jbGVhci8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1YTFjODljMWQ3YjFiYzQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiODg5MTg5MiIsImRldmljZV9pZCI6IjM5NzlhMzkxLWYwY2MtNGQ0OC1iNDk3LWE5NmVmZjIxZWNjYiIsIm1heF9zZXNzaW9ucyI6MTAwLCJ1cmwiOiJodHRwczovLzE5NC4yMjguNzcuMzAiLCJzZXNzaW9uX3RpbWVvdXQiOjM2MDAsImF1ZCI6IjgxIiwic291cmNlcyI6Wzk0LDg0XX0=.tfByU9h-yM6W7Bau86yZnusKL5gEwMETcOrRAWZjMdkNtYQB4uE04_wy5imZu762VnjCot4LsKdZbuZX7i9E1g==/live/2199/dash-clear/2199.mpd
+#EXTINF:-1 tvg-id="noevent" tvg-logo="https://i.postimg.cc/fTHBgY5d/Chat-GPT-Image-9-feb-2026-13-35-25.png" group-title="NoEvent",Nessun Evento
+https://github.com/wasimud/simud/raw/refs/heads/main/Skymud.mp4
