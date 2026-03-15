@@ -164,21 +164,6 @@ https://in-mc-flive.fancode.com/mumbai/140463_bengali_dash_24760_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=2c19a85ee80c4b56ad66ce81da7c4a14:509bb4b1380e04e1a272c082d7d3b387
 https://bd-mc-flive.fancode.com/delhi/140463_english_dash_50580_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="thundervsminnesotatimberwolves1800fhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Thunder vs Minnesota Timberwolves 18:00 (FHD SERVER)
-https://cdn2.tyfiles.cfd/live/cdn2/chunks.m3u8
-
-#EXTINF:-1 tvg-id="thundervsminnesotatimberwolves1800sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Thunder vs Minnesota Timberwolves 18:00 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
-#EXTINF:-1 tvg-id="clevelandcavaliersvsdallasmavericks2030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Cleveland Cavaliers vs Dallas Mavericks 20:30 (SD SERVER)
-https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
-
-#EXTINF:-1 tvg-id="milwaukeebucksvsindianapacers2030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Milwaukee Bucks vs Indiana Pacers 20:30 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
-#EXTINF:-1 tvg-id="torontoraptorsvsdetroitpistons2030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Toronto Raptors vs Detroit Pistons 20:30 (SD SERVER)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
-
 #EXTINF:-1 tvg-id="philadelphia76ersvstrailblazers2300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Philadelphia 76ers vs Trail Blazers 23:00 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
@@ -218,7 +203,7 @@ https://wnt-vanie-36.transmisjana.digital/out/v2/0ecb3dd429d0652d5b522779e9f48c5
 https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8
 
 #EXTINF:-1 tvg-id="aewrevolution20260000backuphd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",AEW Revolution 2026 00:00 (Backup HD)
-https://27lftgqlgzmy.windows-devs.top/AccessLog2/108084_HD/apache.m3u8
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 
 #EXTINF:-1 tvg-id="coritibavsremo2230premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Coritiba vs Remo 22:30 (PREMIERER BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
