@@ -259,6 +259,12 @@ https://bbb.exoadash.com/TVD4072/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6414/index.mpd
 
+#EXTINF:-1 tvg-id="aewrevolution20260000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",AEW Revolution 2026 00:00 (SportzX Live)
+https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8
+
+#EXTINF:-1 tvg-id="aewrevolution20260000backuphd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Wwe",AEW Revolution 2026 00:00 (Backup HD)
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/108084_HD/apache.m3u8
+
 #EXTINF:-1 tvg-id="realbetisvsceltavigo1830beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Betis vs Celta Vigo 18:30 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -342,11 +348,6 @@ https://bbb.exoadash.com/TVD2709/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc09a6ad420c3d24bee5f097045f92a1:4e531d53600fa473b0bd2e8f97432280
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_4/D11/Manifest.mpd
-
-#EXTINF:-1 tvg-id="eibarvsburgos1830laligahypermotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Eibar vs Burgos 18:30 (Laliga Hypermotion)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1581/index.mpd
 
 #EXTINF:-1 tvg-id="sportinggijnvscdcastelln2100laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Sporting Gijón vs CD Castellón 21:00 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
