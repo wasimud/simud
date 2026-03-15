@@ -1,15 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="formula10700tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 07:00 (TSN SPORTS)
+#EXTINF:-1 tvg-id="formula10700tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 07:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
 #EXTINF:-1 tvg-id="formula10700fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 07:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 #EXTINF:-1 tvg-id="formula10700skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 07:00 (SKY SPORTS HD)
 https://katp.x8udx3kr.sbs/user-ptenisaskyf1.m3u8
@@ -219,9 +219,6 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="clippersvssacramentokings0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Clippers vs Sacramento Kings 03:30 (SD SERVER)
-https://smarthard.click/hls/kl434PVmNnx/index.m3u8
-
 #EXTINF:-1 tvg-id="melbournedemonsvsstkildasaints0515tntsports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Afl",Melbourne Demons vs St Kilda Saints 05:15 (TNT Sports 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
@@ -236,3 +233,112 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="manchesterunitedvsastonvilla1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa 15:00 (NOW SPORTS PL)
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="manchesterunitedvsastonvilla1500novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester United vs Aston Villa 15:00 (NOVA SPORTS PL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD6219/index.mpd
+
+#EXTINF:-1 tvg-id="nottinghamforestvsfulham1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Nottingham Forest vs Fulham 15:00 (NOW SPORTS PL)
+https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
+
+#EXTINF:-1 tvg-id="crystalpalacevsleedsunited1500nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Crystal Palace vs Leeds United 15:00 (NOW SPORTS PL)
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="liverpoolvstottenhamhotspur1730nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Tottenham Hotspur 17:30 (NOW SPORTS PL)
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="liverpoolvstottenhamhotspur1730novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Tottenham Hotspur 17:30 (NOVA SPORTS PL)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD6219/index.mpd
+
+#EXTINF:-1 tvg-id="mallorcavsespanyol1400beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Mallorca vs Espanyol 14:00 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="mallorcavsespanyol1400laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Mallorca vs Espanyol 14:00 (Laliga TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="mallorcavsespanyol1400premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Mallorca vs Espanyol 14:00 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="mallorcavsespanyol1400fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Mallorca vs Espanyol 14:00 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="mallorcavsespanyol1400espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Mallorca vs Espanyol 14:00 (ESPN DEPORTES)
+https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+
+#EXTINF:-1 tvg-id="barcelonavssevilla1615beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Barcelona vs Sevilla 16:15 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="barcelonavssevilla1615laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Barcelona vs Sevilla 16:15 (Laliga TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="barcelonavssevilla1615premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Barcelona vs Sevilla 16:15 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="barcelonavssevilla1615fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Barcelona vs Sevilla 16:15 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="barcelonavssevilla1615espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Barcelona vs Sevilla 16:15 (ESPN DEPORTES)
+https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+
+#EXTINF:-1 tvg-id="realbetisvsceltavigo1830beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Betis vs Celta Vigo 18:30 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="realbetisvsceltavigo1830laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Betis vs Celta Vigo 18:30 (Laliga TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
+#EXTINF:-1 tvg-id="realbetisvsceltavigo1830premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Betis vs Celta Vigo 18:30 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
+#EXTINF:-1 tvg-id="realbetisvsceltavigo1830fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Betis vs Celta Vigo 18:30 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-id="realbetisvsceltavigo1830espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Betis vs Celta Vigo 18:30 (ESPN DEPORTES)
+https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+
+#EXTINF:-1 tvg-id="realsociedadvsosasuna2100beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Sociedad vs Osasuna 21:00 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="realsociedadvsosasuna2100cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Sociedad vs Osasuna 21:00 (CBS NETWORK)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="realsociedadvsosasuna2100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Sociedad vs Osasuna 21:00 (SportzX Live)
+https://storage.googleapis.com/unikhsgyrbover3/mux_video_ts1/index-1.m3u8
+
+#EXTINF:-1 tvg-id="realsociedadvsosasuna2100fubosports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 🇪🇸",Real Sociedad vs Osasuna 21:00 (FUBO SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
