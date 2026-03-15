@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1056hellasveronagenoampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",10:56 Hellas Verona - Genoa (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4222e96a3675676b28bc17627ec78d9:d3878be437794378486907cea8e78b8a
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1773572405~exp%3D1773658805~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Db161d8b5a533af3e9d258ea0ae82826014cf9dcd1998bbefd3740888e385181a%23wm%3D0~hmac%3D26a260531452f4970665754bab4337ddd6b2f652fa8f63f451dcf0627d56e93b/14koo1q7e75cc19edpuwh3foq4/web/stream.mpd?channel=1347&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="2045udinesevsjuventusitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 UDINESE vs JUVENTUS  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
