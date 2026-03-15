@@ -468,6 +468,11 @@ https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 #EXTINF:-1 tvg-id="samsunsporvskayserispor1800beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Samsunspor vs Kayserispor 18:00 (beIN SPORTS SD)
 https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
 
+#EXTINF:-1 tvg-id="stmirrenvsrangers1300beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Scottish premiership",St. Mirren vs Rangers 13:00 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
 #EXTINF:-1 tvg-id="stmirrenvsrangers1300sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Scottish premiership",St. Mirren vs Rangers 13:00 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
@@ -504,9 +509,13 @@ https://bbb.exoadash.com/TVD1581/index.mpd
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-id="schalke04vshannover961330elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Schalke 04 vs Hannover 96 13:30 (ELEVEN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6412/index.mpd
+https://bbb.exoadash.com/TVD6414/index.mpd
 
-#EXTINF:-1 tvg-id="schalke04vshannover961330skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Schalke 04 vs Hannover 96 13:30 (SKY BUNDESLIGA SD)
+#EXTINF:-1 tvg-id="schalke04vshannover961330skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Schalke 04 vs Hannover 96 13:30 (SKY BUNDESLIGA)
+https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
+
+#EXTINF:-1 tvg-id="kaiserslauternvskarlsruher1330skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Kaiserslautern vs Karlsruher 13:30 (SKY BUNDESLIGA)
+https://smarthard.click/hls/9gSZoyFska/index.m3u8
+
+#EXTINF:-1 tvg-id="dynamodresdenvspreuenmnster1330skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Dynamo Dresden vs Preußen Münster 13:30 (SKY BUNDESLIGA)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
