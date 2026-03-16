@@ -185,8 +185,8 @@ https://in-mc-flive.fancode.com/mumbai/140465_bengali_dash_79062_1drmta-di_h264/
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodebd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BD )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2c19a85ee80c4b56ad66ce81da7c4a14:509bb4b1380e04e1a272c082d7d3b387
-https://bd-mc-flive.fancode.com/delhi/140463_english_dash_50580_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=51dd536ded0542b58539ee92359b3bf3:f3cd9187701cc280d5b1200c9dda3346
+https://bd-mc-flive.fancode.com/delhi/140465_english_dash_62717_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="newzealandvssouthafrica0715tntsports4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",New Zealand vs South Africa 07:15 (TNT Sports 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
