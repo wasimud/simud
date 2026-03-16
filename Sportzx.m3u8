@@ -249,7 +249,7 @@ https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 #EXTINF:-1 tvg-id="detroitredwingsvscalgaryflames0000awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Detroit Red Wings vs Calgary Flames 00:00 (AWAY CAM.)
 https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 
-#EXTINF:-1 tvg-id="newjerseydevilsvsbostonbruins0000premiersports2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",New Jersey Devils vs Boston Bruins 00:00 (Premier Sports 2)
+#EXTINF:-1 tvg-id="newjerseydevilsvsbostonbruins0000premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",New Jersey Devils vs Boston Bruins 00:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
@@ -266,16 +266,16 @@ https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 #EXTINF:-1 tvg-id="rangersvslosangeleskings0000awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Rangers vs Los Angeles Kings 00:00 (AWAY CAM.)
 https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 
+#EXTINF:-1 tvg-id="dallasstarsvsutahmammoth0100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Dallas Stars vs Utah Mammoth 01:00 (PREMIER SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+
 #EXTINF:-1 tvg-id="dallasstarsvsutahmammoth0100homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Dallas Stars vs Utah Mammoth 01:00 (HOME CAM.)
 https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 
 #EXTINF:-1 tvg-id="dallasstarsvsutahmammoth0100awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Dallas Stars vs Utah Mammoth 01:00 (AWAY CAM.)
 https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="dallasstarsvsutahmammoth0100premiersports1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Dallas Stars vs Utah Mammoth 01:00 (Premier Sports 1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="avalanchevspittsburghpenguins0230homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Avalanche vs Pittsburgh Penguins 02:30 (HOME CAM.)
 https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
