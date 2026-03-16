@@ -6,67 +6,7 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiH.w3u",
     "stations": [
         {
-            "name": "Betis - Celta - Live 26",
-            "info": "18:30 Â· Liga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live26.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Betis - Celta - Live 126",
-            "info": "18:30 Â· Liga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live126.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Stoccarda - Lipsia - Sport Max HD (ext chrome)",
-            "info": "19:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2020/09/Bundesliga-logo-.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/maxex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Stoccarda - Lipsia - Sport Max HD",
-            "info": "19:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2020/09/Bundesliga-logo-.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/maxhd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Stoccarda - Lipsia - Sport Max",
-            "info": "19:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2020/09/Bundesliga-logo-.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/sportmax.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Stoccarda - Lipsia - Live 23",
-            "info": "19:30 Â· Bundesliga",
-            "online": "true",
-            "image": "https://brandlogos.net/wp-content/uploads/2020/09/Bundesliga-logo-.png",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live23.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lazio - Milan - Dazn 1 HD (ext chrome)",
+            "name": "Cremonese - Fiorentina - Dazn 1 HD (ext chrome)",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
@@ -76,7 +16,7 @@
             "isHost": ""
         },
         {
-            "name": "Lazio - Milan - Dazn1 HD",
+            "name": "Cremonese - Fiorentina - Dazn1 HD",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
@@ -86,27 +26,7 @@
             "isHost": ""
         },
         {
-            "name": "Lazio - Milan - Dazn 1",
-            "info": "20:45 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/dazn1.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lazio - Milan - Live 2",
-            "info": "20:45 Â· Serie A",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live2.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Lazio - Milan - Live 7",
+            "name": "Cremonese - Fiorentina - Live 7",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
@@ -116,7 +36,7 @@
             "isHost": ""
         },
         {
-            "name": "Lazio - Milan - Live 147",
+            "name": "Cremonese - Fiorentina - Live 147",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
@@ -126,7 +46,7 @@
             "isHost": ""
         },
         {
-            "name": "Lazio - Milan - Live 147 b",
+            "name": "Cremonese - Fiorentina - Live 147 b",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
@@ -136,7 +56,7 @@
             "isHost": ""
         },
         {
-            "name": "Lazio - Milan - Live 137",
+            "name": "Cremonese - Fiorentina - Live 137",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
@@ -146,7 +66,7 @@
             "isHost": ""
         },
         {
-            "name": "Lazio - Milan - Live 137 b",
+            "name": "Cremonese - Fiorentina - Live 137 b",
             "info": "20:45 Â· Serie A",
             "online": "true",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa4X4Oa75oDFLlBG-SWbuHOEpXDsXgYfH-XA&s",
@@ -156,47 +76,7 @@
             "isHost": ""
         },
         {
-            "name": "Rennes - Lille - Calcio HD (ext chrome)",
-            "info": "20:45 Â· Ligue 1",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-gJwFoN8-UX589bDvPZTSzpJPE7g9Jic1Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calcioex.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Rennes - Lille - Calcio HD",
-            "info": "20:45 Â· Ligue 1",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-gJwFoN8-UX589bDvPZTSzpJPE7g9Jic1Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calciohd.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Rennes - Lille - Calcio",
-            "info": "20:45 Â· Ligue 1",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-gJwFoN8-UX589bDvPZTSzpJPE7g9Jic1Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/calcio.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Rennes - Lille - Live 24",
-            "info": "20:45 Â· Ligue 1",
-            "online": "true",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-gJwFoN8-UX589bDvPZTSzpJPE7g9Jic1Q&s",
-            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live24.htm",
-            "embed": "true",
-            "isHost": ""
-        },
-        {
-            "name": "Real Sociedad - Osasuna - Live 26",
+            "name": "Rayo Vallecano - Levante - Live 26",
             "info": "21:00 Â· Liga",
             "online": "true",
             "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
@@ -206,7 +86,7 @@
             "isHost": ""
         },
         {
-            "name": "Real Sociedad - Osasuna - Live 126",
+            "name": "Rayo Vallecano - Levante - Live 126",
             "info": "21:00 Â· Liga",
             "online": "true",
             "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
@@ -216,40 +96,250 @@
             "isHost": ""
         },
         {
-            "name": "Indian Wells - Sport Tennis HD (ext chrome)",
-            "info": "22:00 Â· Tennis",
+            "name": "Brentford - Wolverhampton - Calcio HD (ext chrome)",
+            "info": "21:00 Â· Premier L.",
             "online": "true",
-            "image": "https://yt3.googleusercontent.com/ytc/AIdro_lNiKgVbIgu7PmgvVl7fUERLogbjunLWFzrtO1H5fgxtw=s900-c-k-c0x00ffffff-no-rj",
+            "image": "https://images.seeklogo.com/logo-png/28/1/premier-league-new-logo-png_seeklogo-286461.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/tennisex.htm",
+            "url": "https://htsport.cc/calcioex.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Indian Wells - Sport Tennis HD",
-            "info": "22:00 Â· Tennis",
+            "name": "Brentford - Wolverhampton - Calcio HD",
+            "info": "21:00 Â· Premier L.",
             "online": "true",
-            "image": "https://yt3.googleusercontent.com/ytc/AIdro_lNiKgVbIgu7PmgvVl7fUERLogbjunLWFzrtO1H5fgxtw=s900-c-k-c0x00ffffff-no-rj",
+            "image": "https://images.seeklogo.com/logo-png/28/1/premier-league-new-logo-png_seeklogo-286461.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/tennishd.htm",
+            "url": "https://htsport.cc/calciohd.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Indian Wells - Sport Tennis",
-            "info": "22:00 Â· Tennis",
+            "name": "Brentford - Wolverhampton - Calcio",
+            "info": "21:00 Â· Premier L.",
             "online": "true",
-            "image": "https://yt3.googleusercontent.com/ytc/AIdro_lNiKgVbIgu7PmgvVl7fUERLogbjunLWFzrtO1H5fgxtw=s900-c-k-c0x00ffffff-no-rj",
+            "image": "https://images.seeklogo.com/logo-png/28/1/premier-league-new-logo-png_seeklogo-286461.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/tennis.htm",
+            "url": "https://htsport.cc/calcio.htm",
             "embed": "true",
             "isHost": ""
         },
         {
-            "name": "Indian Wells - Live 1",
-            "info": "22:00 Â· Tennis",
+            "name": "Sporting L.- Bodo/Glimt - Sport Uno HD (ext chrome)",
+            "info": "18:45 Â· Champions L.",
             "online": "true",
-            "image": "https://yt3.googleusercontent.com/ytc/AIdro_lNiKgVbIgu7PmgvVl7fUERLogbjunLWFzrtO1H5fgxtw=s900-c-k-c0x00ffffff-no-rj",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Sporting L.- Bodo/Glimt - Sport Uno HD",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Sporting L.- Bodo/Glimt - Sport Uno",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Palermo - Juve Stabia - Live 2",
+            "info": "19:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Live 1",
+            "info": "20:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Sport Uno HD (ext chrome)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Sport Uno HD",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Sport Uno",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Manchester City - Real Madrid - Calcio HD (ext chrome)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcioex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Manchester City - Real Madrid - Calcio HD",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Manchester City - Real Madrid - Calcio",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Chelsea - PSG - Sport Arena HD (ext chrome)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/arenaex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Chelsea - PSG - Sport Arena HD",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/arenahd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Chelsea - PSG - Sport Arena",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/arena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Arsenal - Bayer Leverkusen - Sport Max HD (ext chrome)",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/maxex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Arsenal - Bayer Leverkusen - Sport Max HD",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/maxhd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Arsenal - Bayer Leverkusen - Sport Max",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmax.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Barcellona - Newcastle - Sport Uno HD (ext chrome)",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunoex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Barcellona - Newcastle - Sport Uno HD",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Barcellona - Newcastle - Sport Uno",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/uno.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Frosinone - Bari - Live 2",
+            "info": "19:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live2.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Live 1",
+            "info": "20:00 Â· Serie B",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live1.htm",
             "embed": "true",
