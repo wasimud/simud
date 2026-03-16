@@ -1,7 +1,9 @@
 name: ThisNot Scraper
 
 on:
-  workflow_dispatch:          # Solo esecuzione manuale dal pannello Actions
+  workflow_dispatch:  
+  schedule:
+    - cron: '*/30 * * * *'  # Esegue ogni 8 ore (es. 00:00, 08:00, 16:00 UTC)# Solo esecuzione manuale dal pannello Actions
 
 jobs:
   scrape:
