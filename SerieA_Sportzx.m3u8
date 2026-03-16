@@ -18,3 +18,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 
 #EXTINF:-1 tvg-id="cremonesevsfiorentina2045cosmotesports" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cremonesefiorentina.png" group-title="Serie A",Cremonese vs Fiorentina 20:45 (COSMOTE SPORTS)
 https://bbb.exoadash.com/TVD4071/index.mpd
+
+#EXTINF:-1 tvg-id="cremonesevsfiorentina2045sport1cz" tvg-logo="https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/LoghiFiniti/cremonesefiorentina.png" group-title="Serie A",Cremonese vs Fiorentina 20:45 (Sport 1 CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://13-str09-prod.tv.cetin.cz/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIzNTQyOTkyMjAwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlLzIxOTkvZGFzaC1jbGVhci8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1YTFjODljMWQ3YjFiYzQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiODg5MTg5MiIsImRldmljZV9pZCI6IjM5NzlhMzkxLWYwY2MtNGQ0OC1iNDk3LWE5NmVmZjIxZWNjYiIsIm1heF9zZXNzaW9ucyI6MTAwLCJ1cmwiOiJodHRwczovLzE5NC4yMjguNzcuMzAiLCJzZXNzaW9uX3RpbWVvdXQiOjM2MDAsImF1ZCI6IjgxIiwic291cmNlcyI6Wzk0LDg0XX0=.tfByU9h-yM6W7Bau86yZnusKL5gEwMETcOrRAWZjMdkNtYQB4uE04_wy5imZu762VnjCot4LsKdZbuZX7i9E1g==/live/2199/dash-clear/2199.mpd
