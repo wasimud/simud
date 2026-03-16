@@ -1,6 +1,6 @@
 #EXTM3U
 
-# ThisNot streams – generato 2026-03-16 10:49 – usa con Kodi/InputStream Adaptive
+# ThisNot streams – generato 2026-03-16 11:06 – MPD senza/su DRM + HLS headers
 
 #EXTINF:-1 tvg-id="daznprime" group-title="ThisNot 2026",Dazn PRIME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -25,3 +25,10 @@ https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1773664929_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=1115dac9561fb3f37545ee063c8265aa:c8cde8fabe98ea362c9bb6ba524d4744
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/124.0.0.0%20Safari/537.36
 https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1773664979_f~0_g~1_s~9bb5369a-971b-4eac-939e-11b678fb7ae1_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~60_x~554146474990db23dd104bac80c7310f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysporttennis)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="tennis_extra" group-title="ThisNot 2026",Sky Sport Tennis IPTV (HLS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/233/index.m3u8?token=T4Nz6WCt2Uwlqma4
