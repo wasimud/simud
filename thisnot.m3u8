@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato 2026-03-16 18:03:44 – ThisNot con MPD token/ck
+# Generato 2026-03-16 19:35:17 – ThisNot con MPD token/ck
 #EXTINF:-1 tvg-id="cremonese_-_fiorentina_ora:_20:45_(dazn1_(warp))" group-title="Serie A",Cremonese - Fiorentina Ora: 20:45 (Dazn1 (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -12,6 +12,12 @@ https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd
 #EXTVLCOPT:http-origin=https://mediahosting.space
 #EXTVLCOPT:http-header=Origin: https://mediahosting.space
 https://cc1.screenistream.xyz:8080/stream/229/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="cremonese_-_fiorentina_ora:_20:45_(dazn_(prime))" group-title="Serie A",Cremonese - Fiorentina Ora: 20:45 (Dazn (PRIME))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af497cf8913612162889498b9527772:a316eae8fe63dbeadadb30aec2dcf90c
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mmd3uu1so9/out/v1/7e9f3994739f45d598c946b4e99d3428/cenc.mpd
 
 #EXTINF:-1 tvg-id="rayo_vallecano_-_levante_ora:_21:00_(dazn_2)" group-title="La Liga",Rayo Vallecano - Levante Ora: 21:00 (Dazn 2)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
