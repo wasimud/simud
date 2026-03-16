@@ -231,51 +231,18 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD4073/index.mpd
 
-#EXTINF:-1 tvg-id="losangelesclippersvssanantoniospurs0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs San Antonio Spurs 03:00 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
 #EXTINF:-1 tvg-id="houstonrocketsvslakers0230sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs Lakers 02:30 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
-#EXTINF:-1 tvg-id="detroitredwingsvscalgaryflames0000homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Detroit Red Wings vs Calgary Flames 00:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="detroitredwingsvscalgaryflames0000awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Detroit Red Wings vs Calgary Flames 00:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 
 #EXTINF:-1 tvg-id="newjerseydevilsvsbostonbruins0000premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",New Jersey Devils vs Boston Bruins 00:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-id="newjerseydevilsvsbostonbruins0000homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",New Jersey Devils vs Boston Bruins 00:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="newjerseydevilsvsbostonbruins0000awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",New Jersey Devils vs Boston Bruins 00:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="rangersvslosangeleskings0000homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Rangers vs Los Angeles Kings 00:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="rangersvslosangeleskings0000awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Rangers vs Los Angeles Kings 00:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
 #EXTINF:-1 tvg-id="dallasstarsvsutahmammoth0100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Dallas Stars vs Utah Mammoth 01:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="dallasstarsvsutahmammoth0100homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Dallas Stars vs Utah Mammoth 01:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="dallasstarsvsutahmammoth0100awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Dallas Stars vs Utah Mammoth 01:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="avalanchevspittsburghpenguins0230homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Avalanche vs Pittsburgh Penguins 02:30 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="avalanchevspittsburghpenguins0230awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Avalanche vs Pittsburgh Penguins 02:30 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 
 #EXTINF:-1 tvg-id="edmontonoilersvssanjosesharks0200homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Edmonton Oilers vs San Jose Sharks 02:00 (HOME CAM.)
 https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
@@ -311,6 +278,9 @@ https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
 #EXTINF:-1 tvg-id="brentfordvswolverhampton2100maineventfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (MAIN EVENT FHD)
 https://wnt-vanie-36.transmisjana.digital/out/v1/9b4d32d037bd454da3eba321146b01d5/index.m3u8
+
+#EXTINF:-1 tvg-id="brentfordvswolverhampton2100usanetworkaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (USA NETWORK - AQ)
+https://onebot3c.s3.us-east-1.amazonaws.com/nbcsn.m3u8
 
 #EXTINF:-1 tvg-id="brentfordvswolverhampton2100novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (NOVA SPORTS PL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
