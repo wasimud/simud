@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato 2026-03-16 19:35:17 – ThisNot con MPD token/ck
+# Generato 2026-03-16 20:49:55 – ThisNot con MPD token/ck
 #EXTINF:-1 tvg-id="cremonese_-_fiorentina_ora:_20:45_(dazn1_(warp))" group-title="Serie A",Cremonese - Fiorentina Ora: 20:45 (Dazn1 (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -37,6 +37,18 @@ https://cc1.screenistream.xyz:8080/stream/232/index.m3u8?token=T4Nz6WCt2Uwlqma4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115136be0f5b857ad2e673ca135987d:460f86fc0561f4dceec2612d571e8fb0
 https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1773664929_f~0_g~1_s~37572579-2cf4-4de9-9d1b-a5dddc844a58_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~57_x~323bd65a3a52d3fdba2320c9d38e5296/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="palermo_-_juve_stabia_ora:_19:00_(dctv)" group-title="Serie B",Palermo - Juve Stabia Ora: 19:00 (DCTV)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
+https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
+
+#EXTINF:-1 tvg-id="venezia_-_calcio_padova_ora:_20:00_(dctv)" group-title="Serie B",Venezia - Calcio Padova Ora: 20:00 (DCTV)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
+https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
 
 #EXTINF:-1 tvg-id="diretta_gol_champions_league_ora:_21:00_(sky_sport_uno_(extra))" group-title="Champions League",Diretta Gol Champions League Ora: 21:00 (SKY Sport Uno (EXTRA)) (HLS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
