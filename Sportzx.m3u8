@@ -221,9 +221,6 @@ https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 #EXTINF:-1 tvg-id="chicagobullsvsmemphisgrizzlies0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Chicago Bulls vs Memphis Grizzlies 01:00 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
-#EXTINF:-1 tvg-id="neworleanspelicansvsdallasmavericks0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",New Orleans Pelicans vs Dallas Mavericks 01:00 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
-
 #EXTINF:-1 tvg-id="houstonrocketsvslosangeleslakers0230tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs Los Angeles Lakers 02:30 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
@@ -233,9 +230,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD4073/index.mpd
-
-#EXTINF:-1 tvg-id="houstonrocketsvslosangeleslakers0230sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs Los Angeles Lakers 02:30 (SD SERVER)
-https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
 #EXTINF:-1 tvg-id="losangelesclippersvssanantoniospurs0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Los Angeles Clippers vs San Antonio Spurs 03:00 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
@@ -307,8 +301,16 @@ https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 #EXTINF:-1 tvg-id="goldenknightsvsbuffalosabres0300awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Golden Knights vs Buffalo Sabres 03:00 (AWAY CAM.)
 https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 
+#EXTINF:-1 tvg-id="brentfordvswolverhampton2100fubosportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (FUBO SPORTS - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
 #EXTINF:-1 tvg-id="brentfordvswolverhampton2100nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+#EXTINF:-1 tvg-id="brentfordvswolverhampton2100maineventfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (MAIN EVENT FHD)
+https://wnt-vanie-36.transmisjana.digital/out/v1/9b4d32d037bd454da3eba321146b01d5/index.m3u8
 
 #EXTINF:-1 tvg-id="brentfordvswolverhampton2100novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (NOVA SPORTS PL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -352,6 +354,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 
 #EXTINF:-1 tvg-id="cremonesevsfiorentina2045cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Cremonese vs Fiorentina 20:45 (COSMOTE SPORTS)
 https://bbb.exoadash.com/TVD4071/index.mpd
+
+#EXTINF:-1 tvg-id="cremonesevsfiorentina2045sport1cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie a 🇮🇹",Cremonese vs Fiorentina 20:45 (Sport 1 CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://13-str09-prod.tv.cetin.cz/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIzNTQyOTkyMjAwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlLzIxOTkvZGFzaC1jbGVhci8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1YTFjODljMWQ3YjFiYzQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiODg5MTg5MiIsImRldmljZV9pZCI6IjM5NzlhMzkxLWYwY2MtNGQ0OC1iNDk3LWE5NmVmZjIxZWNjYiIsIm1heF9zZXNzaW9ucyI6MTAwLCJ1cmwiOiJodHRwczovLzE5NC4yMjguNzcuMzAiLCJzZXNzaW9uX3RpbWVvdXQiOjM2MDAsImF1ZCI6IjgxIiwic291cmNlcyI6Wzk0LDg0XX0=.tfByU9h-yM6W7Bau86yZnusKL5gEwMETcOrRAWZjMdkNtYQB4uE04_wy5imZu762VnjCot4LsKdZbuZX7i9E1g==/live/2199/dash-clear/2199.mpd
 
 #EXTINF:-1 tvg-id="portsmouthvsderbycounty2100beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Portsmouth vs Derby County 21:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
