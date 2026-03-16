@@ -165,23 +165,23 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=263e570ed4b24dbd82238ba0a4cdac87:e7bb877a8aaf9624a8e662eee11c5510
-https://in-mc-flive.fancode.com/mumbai/140463_english_dash_90231_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=b59444ce03b247508715495542983582:9280ba492390d1d3feab0bbcc612ee55
+https://in-mc-flive.fancode.com/mumbai/140465_english_dash_36729_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e14a7fa93d1946868855c7aab8452ff9:bc70bb3671cce51e4e68ba6c33946a7b
-https://in-mc-flive.fancode.com/mumbai/140463_hindi_dash_11605_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=9027fe61eb104568bed3776a5e37c0d1:22d9e31b9f1edabf2a4b3416882ebf9c
+https://in-mc-flive.fancode.com/mumbai/140465_hindi_dash_90690_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c8ee120e8b29490e9bab45e488363e26:5c9f98b282068d72f174985981dd12a4
-https://in-mc-flive.fancode.com/mumbai/140463_malayalam_dash_20662_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=523d3bbfdd364bb99322e0d3960503b1:2c5fe4967cb101db8d0cd268fde3b032
+https://in-mc-flive.fancode.com/mumbai/140465_malayalam_dash_38279_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BAN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=718b0df8558b4083a0a59d7e1460f210:13686c2b79aca3a77e2f2465655be4cb
-https://in-mc-flive.fancode.com/mumbai/140463_bengali_dash_24760_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=515f50985ba544feb2fe33eed5224d04:4d62178b9914fad351b897f02397d593
+https://in-mc-flive.fancode.com/mumbai/140465_bengali_dash_79062_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1500fancodebd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BD )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -306,6 +306,9 @@ https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 
 #EXTINF:-1 tvg-id="goldenknightsvsbuffalosabres0300awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Golden Knights vs Buffalo Sabres 03:00 (AWAY CAM.)
 https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
+
+#EXTINF:-1 tvg-id="brentfordvswolverhampton2100nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (NOW SPORTS PL)
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
 #EXTINF:-1 tvg-id="brentfordvswolverhampton2100novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (NOVA SPORTS PL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
