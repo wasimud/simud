@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="labchannelitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",LAB CHANNEL  (ITA - MPD)
+#EXTINF:-1 tvg-id="1900palermojuvestabiampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",19:00 Palermo - Juve Stabia (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba2719e33134e4d7356ad5105f970300:ea5716fb2bfdaa87f70da671e17172c2
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ezy9zjs1w8/out/v1/d5872f477b694a22851560caa64509e0/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=fe5822c0283e5d209e0f07b39dffd15d:f9357909c7a122d404e5e7b52dcc16d7
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1773769804~exp%3D1773856204~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dcb4907fae0af77ae596b0e7714e6058e569b6563fa8137cb383779222a370d55%23wm%3D0~hmac%3D2dec466f3f721cc31140ffbb8b63f9b2bb3f7d50079619308c3731ae094b5677/5z5cywjuv5dd1v7jzbpgb2g27/web/stream.mpd?channel=3934&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
