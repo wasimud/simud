@@ -306,3 +306,9 @@ https://dcb-deit-livedazn.daznedge.net/h6dhlzz3mffe134xj14pbdt36/web/stream.mpd?
 #KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
+
+#EXTINF:-1 tvg-id="LAB1_WARP" group-title="PepperLive MPD", LAB1_WARP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4684d0977b7f54e6aebe3808216d110c:f23c64bae5acf00b81ad4b1f8eb5359f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dcb-deit-livedazn.daznedge.net/h6dhlzz3mffe134xj14pbdt36/web/stream.mpd?channel=3932&outlet=dazn-italy&plang=en&headers=eyJkYXpuLXRva2VuIjoidGVuZCUzQTE3NzM4NTk5OTJ%2BZ2VvJTNBSVR%2BYXNuJTNBMTMzMzV%2BcGF0aCUzQTFfMV83MGYyMjZhNjg0OWEyZmVmZjJkMGYwNTYyOWVjNjMzYmNmOGFiNTlhNjE1NWU1MTMzMWY0Yjc2MmM3YzIxMWYwfnVhJTNBMzYyZDdmZTNkOGIyNTgxYmZmYTM1OWYwZWVkYTcxMDZ%2BaWQlM0EwY2Y1MDc0NmMyYjd%2BdGszJTNBYTI3M2VmMjU0ZTdhZjhlMzFmODUxYjg1MWI5MzRhNDZlZjBhMWRhNzc2ODgwMzBmYmJmYjg5OWU2ZTJhNWNjMiIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20vIiwib3JpZ2luIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20ifQ
