@@ -1,18 +1,6 @@
 #EXTM3U
-# Generato 2026-03-17 19:35:45 – ThisNot solo MPD
+# Generato 2026-03-17 20:53:16 – ThisNot solo MPD
 # Nota: contiene solo flussi DASH (.mpd)
-#EXTINF:-1 tvg-id="sporting_lisbona_-_bodø_/_glimt_ora:_18:45_(sky_sport_uno)" group-title="Champions League",Sporting Lisbona - Bodø / Glimt Ora: 18:45 (SKY Sport Uno)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115136be0f5b857ad2e673ca135987d:460f86fc0561f4dceec2612d571e8fb0
-https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773837317_f~0_g~1_s~02ef5dac-bc8e-414c-b88b-1157f56090c7_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~57_x~da4430425a3cfb274c1bab09896c2cf0/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
-
-#EXTINF:-1 tvg-id="palermo_-_juve_stabia_ora:_19:00_(dctv)" group-title="Serie B",Palermo - Juve Stabia Ora: 19:00 (DCTV)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
-https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
-
 #EXTINF:-1 tvg-id="venezia_-_calcio_padova_ora:_20:00_(dazn_(warp))" group-title="Serie B",Venezia - Calcio Padova Ora: 20:00 (Dazn (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
