@@ -24,7 +24,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # ---------------- CONFIG ----------------
 DOMAINS = ["https://thisnot.business"]
 PASSWORD = "2025"
-M3U_OUTPUT = "thisnot_mpd_only.m3u8"
+M3U_OUTPUT = "thisnot.m3u8"
 
 # ---------------- SETUP ----------------
 unverified_ctx = ssl._create_unverified_context()
