@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="2045cremonesvsfiorentinaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 CREMONES vs FIORENTINA (ITA - MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0000
-https://sunzrh1-1-dash-pvr.zahs.tv/HD_dazn_event_5_ch/1773685872000/1773699300800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIQ3DKRRVIEYTAMZXIZAUKLJSGQYUIMZSIJBDSMZSGYYDEQ2CEZSHE3J5MV4HA2LSMF2GS33OHIYTONZUGI4TANZTGMTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPTSZTBMZSWCYLGGVQTAMRZGBQWEOBXMQYTGMLCMMZGKZRZHE4DMNZGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
-
-#EXTINF:-1 tvg-id="2045cremonesefiorentinampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 Cremonese - Fiorentina (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a7d8608e33f5f9bb5f8ac49ae145811:6e12d827fe02fd5d044dbbe00aa44e73
-https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1773687605~exp%3D1773774005~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D17a52f7804c29ace055d076eb0fcf1581612fbd4bdc516f4d3b341e6e9fd2f59%23wm%3D1%23wmd%3D1152~hmac%3D72be6ccf073489aaf1c4b0811d9100bea9915e132f69580999df4ad589f81da4/1p332gw0jlk1c1jkfw2ajkma4n/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
-
 #EXTINF:-1 tvg-id="labchannelitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",LAB CHANNEL  (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
