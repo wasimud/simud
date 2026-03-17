@@ -230,65 +230,15 @@ https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-id="chicagoblackhawksvsminnesotawild0030premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Chicago Blackhawks vs Minnesota Wild 00:30 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
 #EXTINF:-1 tvg-id="winnipegjetsvsnashvillepredators0100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Winnipeg Jets vs Nashville Predators 01:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
-#EXTINF:-1 tvg-id="edmontonoilersvssanjosesharks0200homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Edmonton Oilers vs San Jose Sharks 02:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="edmontonoilersvssanjosesharks0200awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Edmonton Oilers vs San Jose Sharks 02:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="seattlekrakenvslightning0300homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Seattle Kraken vs Lightning 03:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="seattlekrakenvslightning0300awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Seattle Kraken vs Lightning 03:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="vancouvercanucksvsfloridapanthers0300homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Vancouver Canucks vs Florida Panthers 03:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="vancouvercanucksvsfloridapanthers0300awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Vancouver Canucks vs Florida Panthers 03:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="goldenknightsvsbuffalosabres0300homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Golden Knights vs Buffalo Sabres 03:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="goldenknightsvsbuffalosabres0300awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Golden Knights vs Buffalo Sabres 03:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
-
-#EXTINF:-1 tvg-id="usavsvenezuela0100tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="World baseball classic",USA vs Venezuela 01:00 (TNT SPORTS - AQ)
+#EXTINF:-1 tvg-id="usavsvenezuela0100foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="World baseball classic",USA vs Venezuela 01:00 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
-
-#EXTINF:-1 tvg-id="usavsvenezuela0100tntbrasilaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="World baseball classic",USA vs Venezuela 01:00 (TNT BRASIL - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e91afc1afd97a2aed0630995a248ac1:80cf93c02ca4a744c316f7e0a39ad908
-https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/h1u5pebrls/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
-
-#EXTINF:-1 tvg-id="usavsvenezuela0100paramountaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="World baseball classic",USA vs Venezuela 01:00 (PARAMOUNT  AQ)
-https://onebot3c.s3.us-east-1.amazonaws.com/btsport3.m3u8
-
-#EXTINF:-1 tvg-id="usavsvenezuela0100spxfhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="World baseball classic",USA vs Venezuela 01:00 (SPX - FHD SERVER)
-https://wnt-geting-002.transmisjana.digital/a4bc75f227f940b6ad30d037e9d0ca27.m3u8
-
-#EXTINF:-1 tvg-id="usavsvenezuela0100novasportscz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="World baseball classic",USA vs Venezuela 01:00 (NOVA SPORTS CZ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2700/index.mpd
-
-#EXTINF:-1 tvg-id="usavsvenezuela0100cosmotesportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="World baseball classic",USA vs Venezuela 01:00 (Cosmote Sports HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4076/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 tvg-id="alajuelensevslosangeles0200foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Concacaf cup 🇺🇸",Alajuelense vs Los Angeles 02:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
