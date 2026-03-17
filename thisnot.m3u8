@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato 2026-03-17 18:03:27 – ThisNot solo MPD
+# Generato 2026-03-17 19:35:45 – ThisNot solo MPD
 # Nota: contiene solo flussi DASH (.mpd)
 #EXTINF:-1 tvg-id="sporting_lisbona_-_bodø_/_glimt_ora:_18:45_(sky_sport_uno)" group-title="Champions League",Sporting Lisbona - Bodø / Glimt Ora: 18:45 (SKY Sport Uno)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -13,11 +13,35 @@ https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773837317_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
 https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
 
-#EXTINF:-1 tvg-id="venezia_-_calcio_padova_ora:_20:00_(dctv)" group-title="Serie B",Venezia - Calcio Padova Ora: 20:00 (DCTV)
+#EXTINF:-1 tvg-id="venezia_-_calcio_padova_ora:_20:00_(dazn_(warp))" group-title="Serie B",Venezia - Calcio Padova Ora: 20:00 (Dazn (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
-https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
+#KODIPROP:inputstream.adaptive.license_key=04a3a865527e5ffcbb6d3b861a0cd8ed:93427b704d4b35128066051f187723ea
+https://dcb-deit-livedazn.daznedge.net/azhq6sud4bdf1h7p6owiv6vym/web/stream.mpd
+
+#EXTINF:-1 tvg-id="diretta_gol_serie_b_ora:_20:00_(dazn_(warp))" group-title="Serie B",Diretta Gol Serie B Ora: 20:00 (Dazn (WARP))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4684d0977b7f54e6aebe3808216d110c:f23c64bae5acf00b81ad4b1f8eb5359f
+https://dcb-deit-livedazn.daznedge.net/h6dhlzz3mffe134xj14pbdt36/web/stream.mpd
+
+#EXTINF:-1 tvg-id="spezia_-_empoli_ora:_20:00_(dazn_(warp))" group-title="Serie B",Spezia - Empoli Ora: 20:00 (Dazn (WARP))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83571c4a933752be8eecd6c0dfced25c:7278a4e2de4835aeae769e5b0a4d1c32
+https://dca-fs-live-dazn-cdn.dazn.com/vh06d2c7ru4y132buzwl3ijwy/web/stream.mpd
+
+#EXTINF:-1 tvg-id="mantova_-_cesena_ora:_20:00_(lab_channel_4_(prime))" group-title="Serie B",Mantova - Cesena Ora: 20:00 (LAB Channel 4 (PRIME))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92f3dcbff9f25004bab405ae1de3c046:c1913f30cd798a50db074983e4e5628d
+https://dcb-deit-livedazn.daznedge.net/1bo5pd9awelgi161u0359oq1xd/web/stream.mpd
+
+#EXTINF:-1 tvg-id="reggiana_-_monza_ora:_20:00_(dazn_(warp))" group-title="Serie B",Reggiana - Monza Ora: 20:00 (Dazn (WARP))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=22013ff8763b5fbb87e713ca352b6355:47aaeb7085adbe3d89fa067c17e6212f
+https://dcb-deit-livedazn.daznedge.net/1ao993ajdc0et1pbw37z71o6kj/web/stream.mpd
 
 #EXTINF:-1 tvg-id="diretta_gol_champions_league_ora:_21:00_(sky_sport_uno)" group-title="Champions League",Diretta Gol Champions League Ora: 21:00 (SKY Sport Uno)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
