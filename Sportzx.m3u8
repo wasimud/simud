@@ -294,6 +294,14 @@ https://bbb.exoadash.com/TVD2700/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD4076/index.mpd
 
+#EXTINF:-1 tvg-id="manchestercityvsrealmadrid2100tntbrasilaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Manchester City vs Real Madrid 21:00 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97ab214b4bc4a6a8cc1721bac257ca07:0aaa951bb1ed6984f95f932ff3371215
+https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/aaemapqzro/out/v1/bd935b6a040443d8922f9b0b7a346866/cenc.mpd
+
+#EXTINF:-1 tvg-id="manchestercityvsrealmadrid2100spxfhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Manchester City vs Real Madrid 21:00 (SPX - FHD SERVER)
+https://wnt-geting-002.transmisjana.digital/cb99fefdfb554ecf8ac1d7fc1ef002ff.m3u8
+
 #EXTINF:-1 tvg-id="manchestercityvsrealmadrid2100cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Manchester City vs Real Madrid 21:00 (COSMOTE SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -313,6 +321,9 @@ https://bbb.exoadash.com/TVD4072/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="arsenalvsbayerleverkusen2100spxfhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Arsenal vs Bayer Leverkusen 21:00 (SPX - FHD SERVER)
+https://wnt-geting-002.transmisjana.digital/e6468fc18fbf4d45afc88b56491f670e.m3u8
 
 #EXTINF:-1 tvg-id="arsenalvsbayerleverkusen2100cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Arsenal vs Bayer Leverkusen 21:00 (COSMOTE SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
