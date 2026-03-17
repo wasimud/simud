@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 
 """
-ThisNot M3U Generator da API JSON + MPD con token/ck migliorato – Marzo 2026
+ThisNot M3U Generator – Solo MPD (DASH) – Marzo 2026
 - Eventi da /api/eventi.json
-- Gestione MPD: priorità al pattern chrome-extension#mpd+ck (con token/key)
-- Fallback MPD semplice se non trovato
-- HLS con headers come ultima opzione
+- Cerca solo MPD (.mpd), con o senza token in query
+- Supporta ClearKey dal pattern chrome-extension o altri ck=...
+- Niente HLS / m3u8
 """
 
 import cloudscraper
@@ -24,7 +24,7 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # ---------------- CONFIG ----------------
 DOMAINS = ["https://thisnot.business"]
 PASSWORD = "2025"
-M3U_OUTPUT = "thisnot.m3u8"
+M3U_OUTPUT = "thisnot_mpd_only.m3u8"
 
 # ---------------- SETUP ----------------
 unverified_ctx = ssl._create_unverified_context()
@@ -74,33 +74,6 @@ def decode_clear_key(b64_str):
         return None
 
 
-def decode_headers_b64(b64: str) -> dict:
-    if not b64: return {}
-    try:
-        b64 += "==" * ((4 - len(b64) % 4) % 4)
-        return json.loads(base64.b64decode(b64).decode("utf-8", errors="ignore"))
-    except:
-        return {}
-
-
-def clean_stream_url(url: str) -> str:
-    if not url: return ""
-    return url.split("&headers=", 1)[0] if "&headers=" in url else url
-
-
-def build_vlc_opts(hd: dict) -> list:
-    opts = []
-    ua = hd.get("user-agent") or hd.get("User-Agent")
-    if ua: opts.append(f"#EXTVLCOPT:http-user-agent={ua}")
-    ref = hd.get("referer") or hd.get("Referer")
-    if ref: opts.append(f"#EXTVLCOPT:http-referrer={ref}")
-    origin = hd.get("origin") or hd.get("Origin")
-    if origin:
-        opts.append(f"#EXTVLCOPT:http-origin={origin}")
-        opts.append(f"#EXTVLCOPT:http-header=Origin: {origin}")
-    return opts
-
-
 def request_url(url, method="GET", data=None, timeout=15):
     try:
         if method.upper() == "GET":
@@ -132,28 +105,25 @@ def attempt_login(base_url):
     return False, None
 
 
-# ---------------- ESTRAI STREAM (con gestione token/ck migliorata) ----------------
-def extract_stream(player_html, titolo):
-    # PRIORITÀ 1: Pattern chrome-extension con MPD + ck= (dal tuo script vecchio)
+# ---------------- ESTRAI SOLO MPD ----------------
+def extract_mpd(player_html, titolo):
+    # PRIORITÀ 1: Pattern chrome-extension ...#https...mpd...ck=...
     pattern_chrome = r'chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player\.html#(https?://[^#]+)'
     m = re.search(pattern_chrome, player_html, re.IGNORECASE | re.DOTALL)
     
     if m:
         fragment = m.group(1)
-        
-        # MPD + eventuali query (token, etc.)
         mpd_re = re.search(r'(https?://[^\s&#?]+\.mpd(?:/[^&#?]*)*)', fragment)
         ck_re  = re.search(r'ck=([A-Za-z0-9+/=_-]+)', fragment)
         
         if mpd_re:
-            mpd_url = mpd_re.group(1).split('?')[0].rstrip('/')   # base URL
-            # Mantieni eventuali ?token=... se presenti (molti MPD usano query per auth)
-            full_mpd = mpd_re.group(1)
+            full_mpd = mpd_re.group(1)   # mantiene ?token=... se presente
+            clear_key = decode_clear_key(ck_re.group(1)) if ck_re else None
             
-            clear_key = None
-            if ck_re:
-                clear_key = decode_clear_key(ck_re.group(1))
-                print(f"  → ClearKey trovata nel fragment → {clear_key}")
+            if clear_key:
+                print(f"  → MPD + ClearKey (chrome-pattern) → {clear_key}")
+            else:
+                print(f"  → MPD trovato (chrome-pattern, senza ck)")
             
             lines = [
                 f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
@@ -164,17 +134,15 @@ def extract_stream(player_html, titolo):
                     "#KODIPROP:inputstream.adaptive.license_type=clearkey",
                     f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
                 ])
-            lines.append(full_mpd)  # con token se c'era
-            print(f"  → MPD con possibile token → {full_mpd}")
-            return "\n".join(lines), "MPD (chrome-pattern)"
+            lines.append(full_mpd)
+            return "\n".join(lines), "MPD chrome-pattern"
     
-    # PRIORITÀ 2: MPD semplice ovunque nell'HTML
+    # PRIORITÀ 2: Qualsiasi .mpd nell'HTML (con eventuale ?token=...)
     mpd_matches = re.findall(r'(https?://[^\s"\'<>?&]+\.mpd(?:/[^\s"\'<>?&]*)?(?:\?[^\s"\'<>]+)?)', player_html)
     if mpd_matches:
-        full_mpd = mpd_matches[0]  # prende anche ?token=... se presente
-        mpd_base = full_mpd.split('?')[0].rstrip('/')
+        full_mpd = mpd_matches[0]   # prendiamo il primo trovato
         
-        # Cerca ck= separatamente (a volte è fuori dal #fragment)
+        # Cerchiamo ck= / clearkey= / key= nell'HTML intero
         ck_match = re.search(r'(?:ck|clearkey|key)=([A-Za-z0-9+/=_-]+)', player_html, re.IGNORECASE)
         clear_key = decode_clear_key(ck_match.group(1)) if ck_match else None
         
@@ -187,31 +155,23 @@ def extract_stream(player_html, titolo):
                 "#KODIPROP:inputstream.adaptive.license_type=clearkey",
                 f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
             ])
-        lines.append(full_mpd)  # con token/query se c'è
-        print(f"  → MPD trovato (con/senza token) → {full_mpd}")
+        lines.append(full_mpd)
+        
+        msg = "MPD generico"
         if clear_key:
-            print(f"  → ClearKey associata → {clear_key}")
-        return "\n".join(lines), "MPD"
+            msg += " + ClearKey"
+        print(f"  → {msg} → {full_mpd}")
+        if clear_key:
+            print(f"      └─ ClearKey: {clear_key}")
+        
+        return "\n".join(lines), msg
     
-    # PRIORITÀ 3: HLS con headers
-    hls_pattern = r'(?:chrome-extension://[^#"]+[#"]|player\.html[#"]|src=["\'])(https?://[^"&\s]+?\.m3u8[^"&\s]*)(?:&headers=([A-Za-z0-9+/=]+))?'
-    m = re.search(hls_pattern, player_html, re.IGNORECASE | re.DOTALL)
-    if m:
-        raw = m.group(1)
-        b64 = m.group(2)
-        url_clean = clean_stream_url(raw)
-        hd = decode_headers_b64(b64) if b64 else {}
-        opts = build_vlc_opts(hd)
-        lines = [f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo} (HLS)"]
-        lines.extend(opts)
-        lines.append(url_clean)
-        return "\n".join(lines), "HLS"
-    
+    print("  Nessun MPD trovato nell'HTML")
     return None, None
 
 
 # ---------------- MAIN ----------------
-print("=== ThisNot Eventi da JSON + MPD token/ck migliorato ===\n")
+print("=== ThisNot – Solo MPD (no HLS/m3u8) ===\n")
 
 active_domain = None
 for dom in DOMAINS:
@@ -222,10 +182,10 @@ for dom in DOMAINS:
     time.sleep(3)
 
 if not active_domain:
-    print("Login fallito")
+    print("Login fallito su tutti i domini")
     sys.exit(1)
 
-print(f"Dominio OK → {active_domain}\n")
+print(f"Dominio funzionante → {active_domain}\n")
 
 json_url = urljoin(active_domain, "/api/eventi.json")
 print("→ Carico eventi da API...")
@@ -242,7 +202,8 @@ print(f"Trovati {len(eventi)} eventi\n")
 
 m3u_lines = [
     "#EXTM3U",
-    f"# Generato {time.strftime('%Y-%m-%d %H:%M:%S')} – ThisNot con MPD token/ck",
+    f"# Generato {time.strftime('%Y-%m-%d %H:%M:%S')} – ThisNot solo MPD",
+    "# Nota: contiene solo flussi DASH (.mpd)",
 ]
 
 success = 0
@@ -250,17 +211,18 @@ success = 0
 for ev in eventi:
     competizione = remove_emoji(ev.get("competizione", "Evento"))
     evento_nome = remove_emoji(ev.get("evento", ""))
-    orario = remove_emoji(ev.get("orario", ""))
-    canale = remove_emoji(ev.get("canale", ""))
-    link = ev.get("link", "")
+    orario     = remove_emoji(ev.get("orario", ""))
+    canale     = remove_emoji(ev.get("canale", ""))
+    link       = ev.get("link", "")
 
     id_match = re.search(r'id=([^&]+)', link)
-    if not id_match: continue
+    if not id_match:
+        continue
     chan_id = id_match.group(1)
 
     titolo_parts = [evento_nome] if evento_nome else []
-    if orario: titolo_parts.append(f"Ora: {orario}")
-    if canale: titolo_parts.append(f"({canale})")
+    if orario:  titolo_parts.append(f"Ora: {orario}")
+    if canale:  titolo_parts.append(f"({canale})")
     titolo = " ".join(titolo_parts).strip() or f"Evento {chan_id}"
 
     print(f"Evento: {titolo} | ID: {chan_id}")
@@ -268,25 +230,25 @@ for ev in eventi:
     player_url = urljoin(active_domain, f"/player.php?id={chan_id}")
     p_resp = request_url(player_url)
     if not p_resp or p_resp.status_code >= 400:
-        print("  Player fallito\n")
+        print("  Player non raggiungibile\n")
         continue
 
-    entry, typ = extract_stream(p_resp.text, titolo)
+    entry, typ = extract_mpd(p_resp.text, titolo)
 
     if entry:
         entry = entry.replace('group-title="ThisNot 2026"', f'group-title="{competizione}"')
         m3u_lines.append(entry)
         m3u_lines.append("")
         success += 1
-        print(f"  OK ({typ})\n")
+        print(f"  OK → {typ}\n")
     else:
-        print("  Nessun flusso\n")
+        print("  Salto – nessun MPD\n")
 
-    time.sleep(1.2)
+    time.sleep(1.1)
 
 with open(M3U_OUTPUT, "w", encoding="utf-8") as f:
     f.write("\n".join(m3u_lines))
 
-print(f"\nFile → {M3U_OUTPUT}")
-print(f"Aggiunti: {success}/{len(eventi)}")
-print("Nota: MPD con token/ck dovrebbe essere gestito meglio ora")
+print(f"\nFile salvato → {M3U_OUTPUT}")
+print(f"Canali MPD aggiunti: {success} / {len(eventi)}")
+print("Script configurato per ignorare completamente gli stream HLS.\n")
