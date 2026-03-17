@@ -273,10 +273,26 @@ https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
+#EXTINF:-1 tvg-id="sportingvsbodglimt1845tntbrasilaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Sporting vs Bodø Glimt 18:45 (TNT BRASIL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e91afc1afd97a2aed0630995a248ac1:80cf93c02ca4a744c316f7e0a39ad908
+https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/h1u5pebrls/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportingvsbodglimt1845paramountaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Sporting vs Bodø Glimt 18:45 (PARAMOUNT  AQ)
+https://onebot3c.s3.us-east-1.amazonaws.com/btsport3.m3u8
+
+#EXTINF:-1 tvg-id="sportingvsbodglimt1845spxfhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Sporting vs Bodø Glimt 18:45 (SPX - FHD SERVER)
+https://wnt-geting-002.transmisjana.digital/a4bc75f227f940b6ad30d037e9d0ca27.m3u8
+
 #EXTINF:-1 tvg-id="sportingvsbodglimt1845novasportscz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Sporting vs Bodø Glimt 18:45 (NOVA SPORTS CZ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2700/index.mpd
+
+#EXTINF:-1 tvg-id="sportingvsbodglimt1845cosmotesportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Sporting vs Bodø Glimt 18:45 (Cosmote Sports HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD4076/index.mpd
 
 #EXTINF:-1 tvg-id="manchestercityvsrealmadrid2100cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ucl",Manchester City vs Real Madrid 21:00 (COSMOTE SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -312,3 +328,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+
+#EXTINF:-1 tvg-id="fenerbahevsgaziantep1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Fenerbahçe vs Gaziantep 18:00 (SportzX Live)
+https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
