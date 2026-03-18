@@ -222,6 +222,9 @@ https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 #EXTINF:-1 tvg-id="memphisgrizzliesvsdenvernuggets0130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Memphis Grizzlies vs Denver Nuggets 01:30 (SD SERVER)
 https://smarthard.click/hls/kl434PVmNnx/index.m3u8
 
+#EXTINF:-1 tvg-id="houstonrocketsvslosangeleslakers0230sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs Los Angeles Lakers 02:30 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
 #EXTINF:-1 tvg-id="alahlivsalhilal2000foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Kings cup",Al-Ahli vs Al-Hilal 20:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
