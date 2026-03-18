@@ -1,13 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-18 14:04
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-18 15:49
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="Dazn2_PT" tvg-name="DAZN 2 PT" group-title="MERCOLEDÌ 18/03", Real Madrid U-19 - Sporting CP U-19 • Europa - UEFA Youth League (DAZN 2 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="SPORTUNO" tvg-name="Sky Sport Uno" group-title="MERCOLEDÌ 18/03", Inter U-19 - Benfica U-19 • Europa - UEFA Youth League (Sky Sport Uno)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
