@@ -1,42 +1,6 @@
 #EXTM3U
-# Generato 2026-03-18 19:30:53 – ThisNot solo MPD
+# Generato 2026-03-18 21:42:58 – ThisNot solo MPD
 # Nota: contiene solo flussi DASH (.mpd)
-#EXTINF:-1 tvg-id="barcelona_-_newcastle_ora:_18:45_(sky_sport_uno)" group-title="Champions League",Barcelona - Newcastle Ora: 18:45 (SKY Sport Uno)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115136be0f5b857ad2e673ca135987d:460f86fc0561f4dceec2612d571e8fb0
-https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1773927374_s~f0fff567-c39e-488f-849e-3e497c8aae99_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~57_x~fa6d1981176bd7fde9bacdb70563245e4fe150c28db8c90aa14601c3651557d3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
-
-#EXTINF:-1 tvg-id="frosinone_-_bari_ora:_19:00_(dctv)" group-title="Serie B",Frosinone - Bari Ora: 19:00 (DCTV)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
-https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
-
-#EXTINF:-1 tvg-id="carrarese_-_sampdoria_ora:_20:00_(lab_channel_1_(prime))" group-title="Serie B",Carrarese - Sampdoria Ora: 20:00 (LAB Channel 1 (PRIME))
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cbb3d3abd7d097f7902ecf43c82c121:a09aa5c6511e5b4a9a52a58d90254909
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mydz98wzwk/out/v1/28772f454b2b4797aadea7d918cfa340/cenc.mpd
-
-#EXTINF:-1 tvg-id="pescara_-_virtus_entella_ora:_20:00_(lab_channel_2_(prime))" group-title="Serie B",Pescara - Virtus Entella Ora: 20:00 (LAB Channel 2 (PRIME))
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9680f2d76cfe0f6554f0e7170a3ba60:eac328948c95777ab60350d7c913e4d4
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/locv1nostl/out/v1/9afc18efab0b47f38c354bb97842b1d1/cenc.mpd
-
-#EXTINF:-1 tvg-id="avellino_-_südtirol_ora:_20:00_(lab_channel_3_(prime))" group-title="Serie B",Avellino - Südtirol Ora: 20:00 (LAB Channel 3 (PRIME))
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=141b7e38718a31b6b766340095cd054a:b96ab5d3aa82ecef01e61cdbc0d9c1c4
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/r4dbs0byt4/out/v1/54ce460364f74760b8887c390e4eb80c/cenc.mpd
-
-#EXTINF:-1 tvg-id="diretta_gol_serie_b_ora:_20:00_(daznb1_(warp))" group-title="Serie B",Diretta Gol Serie B Ora: 20:00 (DaznB1 (WARP))
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b24caa65dd45d7e85d771613cd50889:5763370e3952fcd242e1f48514fc7f86
-https://dca-fs-live-dazn-cdn.dazn.com/bg2k7y7cyu7f1v7i6ugixprc6/web/stream.mpd
-
 #EXTINF:-1 tvg-id="diretta_gol_champions_league_ora:_21:00_(ziggo_sport_4)" group-title="Champions League",Diretta Gol Champions League Ora: 21:00 (Ziggo Sport 4)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
