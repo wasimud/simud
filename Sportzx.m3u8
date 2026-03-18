@@ -225,35 +225,10 @@ https://smarthard.click/hls/kl434PVmNnx/index.m3u8
 #EXTINF:-1 tvg-id="houstonrocketsvslosangeleslakers0230sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nba",Houston Rockets vs Los Angeles Lakers 02:30 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
-#EXTINF:-1 tvg-id="alahlivsalhilal2000foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Kings cup",Al-Ahli vs Al-Hilal 20:00 (FOX SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-
-#EXTINF:-1 tvg-id="alahlivsalhilal2000foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Kings cup",Al-Ahli vs Al-Hilal 20:00 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="alahlivsalhilal2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Kings cup",Al-Ahli vs Al-Hilal 20:00 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1451/index.mpd
-
-#EXTINF:-1 tvg-id="alkholoodvsalittihad2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Kings cup",Al-Kholood vs Al-Ittihad 20:00 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6737/index.mpd
-
-#EXTINF:-1 tvg-id="rangersvsnewjerseydevils0000premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Rangers vs New Jersey Devils 00:00 (PREMIER SPORTS)
+#EXTINF:-1 tvg-id="carolinahurricanesvspittsburghpenguins0000premiers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Carolina Hurricanes vs Pittsburgh Penguins 00:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="coloradoavalanchevsdallasstars0230premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Nhl",Colorado Avalanche vs Dallas Stars 02:30 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="intermiamivsnashvillesc0000foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Concacaf cup 🇺🇸",Inter Miami vs Nashville SC 00:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -277,16 +252,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
 https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd
-
-#EXTINF:-1 tvg-id="southamptonvsnorwichcity2045cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Southampton vs Norwich City 20:45 (CBS NETWORK)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-
-#EXTINF:-1 tvg-id="palmeirasvsbotafogo2300premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Palmeiras vs Botafogo 23:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="palmeirasvsbotafogo2300sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Palmeiras vs Botafogo 23:00 (SporTV BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
