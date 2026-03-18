@@ -1,13 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-18 18:58
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-18 19:50
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SportTV3" tvg-name="SportTV3" group-title="MERCOLEDÌ 18/03", Galatasaray - Rytas Vilnius • Basket - Champions League (SportTV3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="SportTV3" tvg-name="SportTV3" group-title="MERCOLEDÌ 18/03", Hapoel Jerusalem - Ankara • Basket - Euro Cup (SportTV3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
