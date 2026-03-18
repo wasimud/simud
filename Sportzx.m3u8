@@ -288,6 +288,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 tvg-id="sportingbragavsferencvros1630psnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Uefa europa",Sporting Braga vs Ferencváros 16:30 (PSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb705d43ec369891b851a078cabfac5c:fdfefad94eac611692a9e790f266ae4d
+https://cdn3.skygo.mn/live/disk1/SPSPlay/STRM-CH2-1/SPSPlay.mpd
+
 #EXTINF:-1 tvg-id="southamptonvsnorwichcity2045cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Southampton vs Norwich City 20:45 (CBS NETWORK)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
