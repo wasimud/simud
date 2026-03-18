@@ -1,31 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-18 20:30
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-18 22:00
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SportTV3" tvg-name="SportTV3" group-title="MERCOLEDÌ 18/03", Hapoel Jerusalem - Ankara • Basket - Euro Cup (SportTV3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 PT" group-title="MERCOLEDÌ 18/03", Al-Ahli - Al Hilal • Arabia Saudita - King Cup (Sport TV 1 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="SportTV2" tvg-name="SportTV2" group-title="MERCOLEDÌ 18/03", Al Kholood - Al Ittihad • Arabia Saudita - King Cup (SportTV2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="SerieB" tvg-name="SerieB" group-title="MERCOLEDÌ 18/03", Frosinone - Bari 1908 • Italia - Serie B (SerieB)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
 
 #EXTINF:-1 tvg-id="SPORTUNO" tvg-name="Sky Sport Uno" group-title="MERCOLEDÌ 18/03", Diretta Goal • Europa - UEFA Champions League (Sky Sport Uno)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
