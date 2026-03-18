@@ -6,6 +6,76 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiH.w3u",
     "stations": [
         {
+            "name": "Braga - Ferencvaros - Calcio HD (ext chrome)",
+            "info": "16:30 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/3276_imgbank_el_20250313170029.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcioex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Braga - Ferencvaros - Calcio HD",
+            "info": "16:30 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/3276_imgbank_el_20250313170029.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Braga - Ferencvaros - Calcio",
+            "info": "16:30 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/3276_imgbank_el_20250313170029.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Braga - Ferencvaros - Live 138",
+            "info": "16:30 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/3276_imgbank_el_20250313170029.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live138.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Braga - Ferencvaros - Live 138b",
+            "info": "16:30 Â· Europa L.",
+            "online": "true",
+            "image": "https://www.calciozz.it/img/logos/competicoes/3276_imgbank_el_20250313170029.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live138b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Besiktas - Trento - Sport Basket HD (ext chrome)",
+            "info": "18:00 Â· Eurocup",
+            "online": "true",
+            "image": "https://r2.thesportsdb.com/images/media/league/badge/w54nor1554757326.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/basketex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Besiktas - Trento - Sport Basket HD",
+            "info": "18:00 Â· Eurocup",
+            "online": "true",
+            "image": "https://r2.thesportsdb.com/images/media/league/badge/w54nor1554757326.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/baskethd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Barcellona - Newcastle - Sport Uno HD (ext chrome)",
             "info": "18:45 Â· Champions L.",
             "online": "true",
@@ -36,6 +106,26 @@
             "isHost": ""
         },
         {
+            "name": "Barcellona - Newcastle - Live 139",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live139.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Barcellona - Newcastle - Live 139b",
+            "info": "18:45 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live139b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Frosinone - Bari - Live 2",
             "info": "19:00 Â· Serie B",
             "online": "true",
@@ -52,6 +142,26 @@
             "image": "https://upload.wikimedia.org/wikipedia/it/thumb/8/89/Serie_BKT.svg/250px-Serie_BKT.svg.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live1.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Conegliano - Zeren Spor Ankara - Sport Basket HD (ext chrome)",
+            "info": "20:30 Â· Cev Cup",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpFCE3N4OC9FYXf9zWluV0eqnCoFr2mTYGw&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/basketex.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Conegliano - Zeren Spor Ankara - Sport Basket HD",
+            "info": "20:30 Â· Cev Cup",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpFCE3N4OC9FYXf9zWluV0eqnCoFr2mTYGw&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/baskethd.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -86,6 +196,26 @@
             "isHost": ""
         },
         {
+            "name": "Diretta Goal - Live 139",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live139.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Diretta Goal - Live 139b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live139b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Bayern Monaco - Atalanta - Live 2",
             "info": "21:00 Â· Champions L.",
             "online": "true",
@@ -102,6 +232,26 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/live7.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Bayern Monaco - Atalanta - Live 137",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live137.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Bayern Monaco - Atalanta - Live 137b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live137b.htm",
             "embed": "true",
             "isHost": ""
         },
@@ -136,6 +286,26 @@
             "isHost": ""
         },
         {
+            "name": "Liverpool - Galatasaray - Live 138",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live138.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Liverpool - Galatasaray - Live 138b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live138b.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
             "name": "Tottenham - Atletico Madrid - Sport Mix HD (ext chrome)",
             "info": "21:00 Â· Champions L.",
             "online": "true",
@@ -162,6 +332,26 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
             "url": "https://htsport.cc/sportmix.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Tottenham - Atletico Madrid - Live 140",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live140.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Tottenham - Atletico Madrid - Live 140b",
+            "info": "21:00 Â· Champions L.",
+            "online": "true",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ30m5dOBxb1jqrUZ2kLtN6hCiXswgCgBPOg&s",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live140b.htm",
             "embed": "true",
             "isHost": ""
         }
