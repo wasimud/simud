@@ -1,17 +1,17 @@
 #EXTM3U
-# Generato 2026-03-18 11:52:08 – ThisNot solo MPD
+# Generato 2026-03-18 13:44:45 – ThisNot solo MPD
 # Nota: contiene solo flussi DASH (.mpd)
 #EXTINF:-1 tvg-id="sporting_braga_-_ferencváros_ora:_16:30_(sky_sport_calcio)" group-title="Europa League",Sporting Braga - Ferencváros Ora: 16:30 (SKY Sport Calcio)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115d9c59b4276824ee71d09c85633c1:8b8cd48bb6c70df9d011f40fc7f8c830
-https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1773837370_f~0_g~1_s~2aa05071-b5a1-42ef-b76e-ba937719f08c_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~60_x~5c3064dd211de5f723915203a234d97b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773927412_f~0_g~1_s~c29c5abd-447e-4143-9269-276d8567f04a_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~60_x~6f8e6e6c1235de8f485a848d2955a63c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="barcelona_-_newcastle_ora:_18:45_(sky_sport_uno)" group-title="Champions League",Barcelona - Newcastle Ora: 18:45 (SKY Sport Uno)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115136be0f5b857ad2e673ca135987d:460f86fc0561f4dceec2612d571e8fb0
-https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773837317_f~0_g~1_s~02ef5dac-bc8e-414c-b88b-1157f56090c7_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~57_x~da4430425a3cfb274c1bab09896c2cf0/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1773927374_s~f0fff567-c39e-488f-849e-3e497c8aae99_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~57_x~fa6d1981176bd7fde9bacdb70563245e4fe150c28db8c90aa14601c3651557d3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="frosinone_-_bari_ora:_19:00_(dctv)" group-title="Serie B",Frosinone - Bari Ora: 19:00 (DCTV)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -23,13 +23,13 @@ https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115136be0f5b857ad2e673ca135987d:460f86fc0561f4dceec2612d571e8fb0
-https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773837317_f~0_g~1_s~02ef5dac-bc8e-414c-b88b-1157f56090c7_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~57_x~da4430425a3cfb274c1bab09896c2cf0/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1773927374_s~f0fff567-c39e-488f-849e-3e497c8aae99_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~57_x~fa6d1981176bd7fde9bacdb70563245e4fe150c28db8c90aa14601c3651557d3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="liverpool_-_galatasaray_ora:_21:00_(sky_sport_calcio)" group-title="Champions League",Liverpool - Galatasaray Ora: 21:00 (SKY Sport Calcio)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115d9c59b4276824ee71d09c85633c1:8b8cd48bb6c70df9d011f40fc7f8c830
-https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1773837370_f~0_g~1_s~2aa05071-b5a1-42ef-b76e-ba937719f08c_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~60_x~5c3064dd211de5f723915203a234d97b/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773927412_f~0_g~1_s~c29c5abd-447e-4143-9269-276d8567f04a_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~60_x~6f8e6e6c1235de8f485a848d2955a63c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
 
 #EXTINF:-1 tvg-id="tottenham_-_atlético_madrid_ora:_21:00_(dazn_1)" group-title="Champions League",Tottenham - Atlético Madrid Ora: 21:00 (Dazn 1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -42,3 +42,63 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
 https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd
+
+#EXTINF:-1 tvg-id="diretta_gol_ora:_18:45_(sky_sport_calcio)" group-title="Europa League",Diretta Gol Ora: 18:45 (SKY Sport Calcio)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115d9c59b4276824ee71d09c85633c1:8b8cd48bb6c70df9d011f40fc7f8c830
+https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773927412_f~0_g~1_s~c29c5abd-447e-4143-9269-276d8567f04a_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~60_x~6f8e6e6c1235de8f485a848d2955a63c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="olympique_lyonnais_-_celta_de_vigo_ora:_18:45_(dazn_2)" group-title="Europa League",Olympique Lyonnais - Celta de Vigo Ora: 18:45 (Dazn 2)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="freiburg_-_genk_ora:_18:45_(dazn_3)" group-title="Europa League",Freiburg - Genk Ora: 18:45 (Dazn 3)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="midtjylland_-_nottingham_forest_ora:_18:45_(dazn_1)" group-title="Europa League",Midtjylland - Nottingham Forest Ora: 18:45 (Dazn 1)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="raków_częstochowa_-_fiorentina_ora:_18:45_(sky_sport_uno)" group-title="Conference League",Raków Częstochowa - Fiorentina Ora: 18:45 (SKY Sport Uno)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115136be0f5b857ad2e673ca135987d:460f86fc0561f4dceec2612d571e8fb0
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1773927374_s~f0fff567-c39e-488f-849e-3e497c8aae99_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~57_x~fa6d1981176bd7fde9bacdb70563245e4fe150c28db8c90aa14601c3651557d3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="diretta_gol_ora:_21:00_(sky_sport_calcio)" group-title="Europa League",Diretta Gol Ora: 21:00 (SKY Sport Calcio)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115d9c59b4276824ee71d09c85633c1:8b8cd48bb6c70df9d011f40fc7f8c830
+https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773927412_f~0_g~1_s~c29c5abd-447e-4143-9269-276d8567f04a_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~60_x~6f8e6e6c1235de8f485a848d2955a63c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="roma_-_bologna_ora:_21:00_(sky_sport_uno)" group-title="Europa League",Roma - Bologna Ora: 21:00 (SKY Sport Uno)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115136be0f5b857ad2e673ca135987d:460f86fc0561f4dceec2612d571e8fb0
+https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1773927374_s~f0fff567-c39e-488f-849e-3e497c8aae99_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~57_x~fa6d1981176bd7fde9bacdb70563245e4fe150c28db8c90aa14601c3651557d3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="aston_villa_-_lille_ora:_21:00_(dazn_1)" group-title="Europa League",Aston Villa - Lille Ora: 21:00 (Dazn 1)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="real_betis_-_panathinaikos_ora:_21:00_(dazn_2)" group-title="Europa League",Real Betis - Panathinaikos Ora: 21:00 (Dazn 2)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd
+
+#EXTINF:-1 tvg-id="porto_-_stuttgart_ora:_21:00_(sport&bull;tv5)" group-title="Europa League",Porto - Stuttgart Ora: 21:00 (Sport&bull;TV5)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd
