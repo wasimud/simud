@@ -1,49 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-19 22:28
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-19 22:58
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SPORTCALCIO" tvg-name="Sky Sport Calcio" group-title="GIOVEDÌ 19/03", Diretta Goal • Europa - UEFA/CONFERENCE League (Sky Sport Calcio)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115d9c59b4276824ee71d09c85633c1:8b8cd48bb6c70df9d011f40fc7f8c830
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773927412_f~0_g~1_s~c29c5abd-447e-4143-9269-276d8567f04a_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~60_x~6f8e6e6c1235de8f485a848d2955a63c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
-
-#EXTINF:-1 tvg-id="SPORTUNO" tvg-name="Sky Sport Uno" group-title="GIOVEDÌ 19/03", Roma - Bologna • Europa - UEFA/CONFERENCE League (Sky Sport Uno)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115136be0f5b857ad2e673ca135987d:460f86fc0561f4dceec2612d571e8fb0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1773927374_s~f0fff567-c39e-488f-849e-3e497c8aae99_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~57_x~fa6d1981176bd7fde9bacdb70563245e4fe150c28db8c90aa14601c3651557d3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
-
-#EXTINF:-1 tvg-id="Dazn3_PT" tvg-name="DAZN 3 PT" group-title="GIOVEDÌ 19/03", Roma - Bologna • Europa - UEFA/CONFERENCE League (DAZN 3 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="TNTSP2" tvg-name="TNTSP2" group-title="GIOVEDÌ 19/03", Roma - Bologna • Europa - UEFA/CONFERENCE League (TNTSP2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
-
-#EXTINF:-1 tvg-id="Dazn1_PT" tvg-name="DAZN 1 PT" group-title="GIOVEDÌ 19/03", Aston Villa - Lille • Europa - UEFA/CONFERENCE League (DAZN 1 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="Dazn2_PT" tvg-name="DAZN 2 PT" group-title="GIOVEDÌ 19/03", Real Betis - Panathinaikos • Europa - UEFA/CONFERENCE League (DAZN 2 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="SportTV5" tvg-name="Sport TV 5 PT" group-title="GIOVEDÌ 19/03", Porto - Stuttgart • Europa - UEFA/CONFERENCE League (Sport TV 5 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 PT" group-title="VENERDÌ 20/03", Orlando Magic @ Charlotte Hornets • Basket - NBA (Sport TV 1 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
