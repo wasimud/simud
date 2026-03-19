@@ -1,19 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-18 23:57
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-19 01:52
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 PT" group-title="GIOVEDÌ 19/03", Golden State Warriors @ Boston Celtics • Basket - NBA (Sport TV 1 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="SportTV2" tvg-name="SportTV2" group-title="GIOVEDÌ 19/03", Inter Miami - Nashville SC • Nord America - CONCACAF Champions Cup (SportTV2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="SportTV4" tvg-name="SportTV4" group-title="GIOVEDÌ 19/03", Dallas Stars @ Colorado Avalanche • Hockey - NHL (SportTV4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
