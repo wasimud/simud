@@ -209,37 +209,37 @@ https://svc40.main.sl.t-online.de/LCID3221228174.originalserver.prod.sngtv.t-onl
 
 #EXTINF:-1 tvg-id="BUNDESLIGA1" group-title="PepperLive MPD", BUNDESLIGA1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0c0220200ffebf3e256f155ae53013b:6fab0a2dbec6f507195284a2e5c096ce
+#KODIPROP:inputstream.adaptive.license_key=0d3c7ffea0de6ab2d4b0dc8c53b91051:d8d8e40f7e3b0b1b40aeeeedeeb9249c
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://svc40.main.sl.t-online.de/LCID3221228661.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228661/3221228661.mpd
 
 #EXTINF:-1 tvg-id="BUNDESLIGA2" group-title="PepperLive MPD", BUNDESLIGA2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4cbc6f9ca9fe7220129d7c7f5df28855:1d84759f8f7ddd5fb0e073bd16678c9a
+#KODIPROP:inputstream.adaptive.license_key=dbd4cee7ce229d7a906d1bbe396f6a11:a446f1d5b13dde5db74b1d715ff3def3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://svc40.main.sl.t-online.de/LCID3221228655.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228655/3221228655.mpd
 
 #EXTINF:-1 tvg-id="BUNDESLIGA3" group-title="PepperLive MPD", BUNDESLIGA3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34ee4effc3f8ab0f0ff07a1312c6e68e:f2a8d0a67a34e7276c623e8e1189bbe5
+#KODIPROP:inputstream.adaptive.license_key=ce4c4cc3574e5ac0e100fd7d3e501f9c:23a9b316a4b287f171640dd3d632cd6f
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://svc40.main.sl.t-online.de/LCID3221228662.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228662/3221228662.mpd
 
 #EXTINF:-1 tvg-id="BUNDESLIGA4" group-title="PepperLive MPD", BUNDESLIGA4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8872fba0c49120db063ac1efcf634d09:2c69687b84a950ead9f92e53092042ea
+#KODIPROP:inputstream.adaptive.license_key=beabda1eeab046b777f097879baeaf8d:9b9e4cb7de706e39414c3d2eca5f7b04
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://svc40.main.sl.t-online.de/LCID3221228652.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228652/3221228652.mpd
 
 #EXTINF:-1 tvg-id="BUNDESLIGA5" group-title="PepperLive MPD", BUNDESLIGA5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=97be70d816106d7fd3510f2c89ea1979:17ec0205682e43d6224d8aedc9c47071
+#KODIPROP:inputstream.adaptive.license_key=b2b8734782eb9faf0bbba1bb7428aea8:56cd9ad686f4c48673d419d8a7c43b4f
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://svc40.main.sl.t-online.de/LCID3221228656.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228656/3221228656.mpd
 
 #EXTINF:-1 tvg-id="BUNDESLIGA6" group-title="PepperLive MPD", BUNDESLIGA6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca51652d8c0f72c4f0fd476c02780652:32f31e4161e76d2f4d85198d0f3b115a
+#KODIPROP:inputstream.adaptive.license_key=3f737659c354e3dd16008fd3cb2df396:898da50e99b270911b2ad48e9a4ae8d6
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://svc40.main.sl.t-online.de/LCID3221228657.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228657/3221228657.mpd
 
