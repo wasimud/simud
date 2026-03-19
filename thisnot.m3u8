@@ -1,6 +1,50 @@
 #EXTM3U
-# Generato 2026-03-19 08:55:02 – ThisNot solo MPD
+# Generato 2026-03-19 09:50:45 – ThisNot solo MPD
 # Nota: contiene solo flussi DASH (.mpd)
+#EXTINF:-1 tvg-id="live_match_ora:_16:00_(sky_sport_tennis_(extra))" group-title="ATP/WTA Miami Open",Live Match Ora: 16:00 (SKY Sport Tennis (EXTRA))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://cc1.screenistream.xyz:8080/stream/233/index.m3u8?token=T4Nz6WCt2Uwlqma4&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UvIiwib3JpZ2luIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAifQ"></iframe>
+ </div>
+  </div>
+</div></div></div>
+</div>
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+<small class="d-block text-right mt-3" style="background: 
+
+#EXTINF:-1 tvg-id="live_match_ora:_16:00_(sky_sport_tennis_(extra))" group-title="ATP/WTA Miami Open",Live Match Ora: 16:00 (SKY Sport Tennis (EXTRA))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://cc1.screenistream.xyz:8080/stream/233/index.m3u8?token=T4Nz6WCt2Uwlqma4&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UvIiwib3JpZ2luIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAifQ"></iframe>
+ </div>
+  </div>
+</div></div></div>
+</div>
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+<small class="d-block text-right mt-3" style="background: 
+
 #EXTINF:-1 tvg-id="diretta_gol_ora:_18:45_(sky_sport_calcio)" group-title="Europa League",Diretta Gol Ora: 18:45 (SKY Sport Calcio)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -11,25 +55,47 @@ https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773927412_f~0_g~1
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="freiburg_-_genk_ora:_18:45_(dazn_3)" group-title="Europa League",Freiburg - Genk Ora: 18:45 (Dazn 3)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="midtjylland_-_nottingham_forest_ora:_18:45_(dazn_1)" group-title="Europa League",Midtjylland - Nottingham Forest Ora: 18:45 (Dazn 1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="raków_częstochowa_-_fiorentina_ora:_18:45_(sky_sport_uno)" group-title="Conference League",Raków Częstochowa - Fiorentina Ora: 18:45 (SKY Sport Uno)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1115136be0f5b857ad2e673ca135987d:460f86fc0561f4dceec2612d571e8fb0
 https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1773927374_s~f0fff567-c39e-488f-849e-3e497c8aae99_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~57_x~fa6d1981176bd7fde9bacdb70563245e4fe150c28db8c90aa14601c3651557d3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+
+#EXTINF:-1 tvg-id="hapoel_tel_aviv_-_virtus_bologna_ora:_20:05_(sky_sport_basket_(extra))" group-title="ULEB Eurolega",Hapoel Tel Aviv - Virtus Bologna Ora: 20:05 (SKY Sport Basket (EXTRA))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://cc1.screenistream.xyz:8080/stream/239/index.m3u8?token=T4Nz6WCt2Uwlqma4&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UvIiwib3JpZ2luIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAifQ"></iframe>
+ </div>
+  </div>
+</div></div></div>
+</div>
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+<small class="d-block text-right mt-3" style="background: 
 
 #EXTINF:-1 tvg-id="diretta_gol_ora:_21:00_(sky_sport_calcio)" group-title="Europa League",Diretta Gol Ora: 21:00 (SKY Sport Calcio)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -47,16 +113,104 @@ https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1773927374_s~f0fff
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="real_betis_-_panathinaikos_ora:_21:00_(dazn_2)" group-title="Europa League",Real Betis - Panathinaikos Ora: 21:00 (Dazn 2)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="porto_-_stuttgart_ora:_21:00_(sport&bull;tv5)" group-title="Europa League",Porto - Stuttgart Ora: 21:00 (Sport&bull;TV5)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="tutte_le_classi_(13.00_-_21.00)_ora:_13:00_(sky_sport_motogp_(extra))" group-title="Motomondiale, GP Brasile",Tutte le classi (13.00 - 21.00) Ora: 13:00 (SKY Sport MotoGP (EXTRA))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://cc1.screenistream.xyz:8080/stream/234/index.m3u8?token=T4Nz6WCt2Uwlqma4&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UvIiwib3JpZ2luIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAifQ"></iframe>
+ </div>
+  </div>
+</div></div></div>
+</div>
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+<small class="d-block text-right mt-3" style="background: 
+
+#EXTINF:-1 tvg-id="live_match_ora:_16:00_(sky_sport_tennis_(extra))" group-title="ATP/WTA Miami Open",Live Match Ora: 16:00 (SKY Sport Tennis (EXTRA))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://cc1.screenistream.xyz:8080/stream/233/index.m3u8?token=T4Nz6WCt2Uwlqma4&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UvIiwib3JpZ2luIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAifQ"></iframe>
+ </div>
+  </div>
+</div></div></div>
+</div>
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+<small class="d-block text-right mt-3" style="background: 
+
+#EXTINF:-1 tvg-id="live_match_ora:_16:00_(sky_sport_arena_(extra))" group-title="ATP/WTA Miami Open",Live Match Ora: 16:00 (SKY Sport Arena (EXTRA))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://cc1.screenistream.xyz:8080/stream/235/index.m3u8?token=T4Nz6WCt2Uwlqma4&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UvIiwib3JpZ2luIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAifQ"></iframe>
+ </div>
+  </div>
+</div></div></div>
+</div>
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+<small class="d-block text-right mt-3" style="background: 
+
+#EXTINF:-1 tvg-id="fenerbahce_-_olimpia_milano_ora:_18:45_(sky_sport_basket_(extra))" group-title="ULEB Eurolega",Fenerbahce - Olimpia Milano Ora: 18:45 (SKY Sport Basket (EXTRA))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://cc1.screenistream.xyz:8080/stream/239/index.m3u8?token=T4Nz6WCt2Uwlqma4&headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UvIiwib3JpZ2luIjoiaHR0cHM6Ly9tZWRpYWhvc3Rpbmcuc3BhY2UiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAifQ"></iframe>
+ </div>
+  </div>
+</div></div></div>
+</div>
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+<small class="d-block text-right mt-3" style="background: 
