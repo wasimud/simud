@@ -4,9 +4,9 @@
 """
 ThisNot M3U Generator – Solo MPD (DASH) – Marzo 2026
 - Eventi da /api/eventi.json
-- Cerca solo MPD (.mpd), con o senza token in query
+- Cerca **SOLO** MPD (.mpd), con o senza token in query
 - Supporta ClearKey dal pattern chrome-extension o altri ck=...
-- Niente HLS / m3u8
+- Niente HLS / m3u8 – scartati esplicitamente
 """
 
 import cloudscraper
@@ -47,7 +47,8 @@ USER_AGENT_QUOTED = quote(scraper.headers["User-Agent"])
 
 # ---------------- HELPER ----------------
 def remove_emoji(text):
-    if not text: return ""
+    if not text:
+        return ""
     emoji_pattern = re.compile(
         "["
         u"\U0001F600-\U0001F64F" u"\U0001F300-\U0001F5FF" u"\U0001F680-\U0001F6FF" 
@@ -57,7 +58,8 @@ def remove_emoji(text):
 
 
 def decode_clear_key(b64_str):
-    if not b64_str: return None
+    if not b64_str:
+        return None
     try:
         b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
         decoded = base64.b64decode(b64_str).decode('utf-8', errors='ignore').strip()
@@ -112,9 +114,9 @@ def extract_mpd(player_html, titolo):
     m = re.search(pattern_chrome, player_html, re.IGNORECASE | re.DOTALL)
     
     if m:
-        fragment = m.group(1)
+        fragment = m.group(1).strip()
         
-        # Ricostruiamo l'URL fermandoci prima di ck=
+        # Ricostruisci URL fermandoci prima di ck=
         parts = re.split(r'([?&])', fragment)
         mpd_parts = []
         ck_value = None
@@ -122,69 +124,80 @@ def extract_mpd(player_html, titolo):
         i = 0
         while i < len(parts):
             part = parts[i]
-            if 'ck=' in part:
-                # Trovato ck → estraiamo il valore
+            lower_part = part.lower()
+            if 'ck=' in lower_part:
+                # Estrai valore ck
                 ck_match = re.search(r'ck=([^&#]*)', part + (parts[i+1] if i+1 < len(parts) else ''))
                 if ck_match:
-                    ck_value = ck_match.group(1)
-                # Fermiamo qui
+                    ck_value = ck_match.group(1).strip()
                 break
             mpd_parts.append(part)
             i += 1
         
-        full_mpd = ''.join(mpd_parts).rstrip('?&')
+        candidate_url = ''.join(mpd_parts).rstrip('?& \t\n\r')
         
-        clear_key = decode_clear_key(ck_value) if ck_value else None
+        # Accetta SOLO se sembra un vero MPD
+        lower_url = candidate_url.lower()
+        if not (lower_url.endswith('.mpd') or 'manifest.mpd' in lower_url or 'index.mpd' in lower_url):
+            print(f"  → chrome-pattern scartato: non termina con .mpd → {candidate_url[:80]}...")
+            candidate_url = None
         
-        if clear_key:
-            print(f"  → MPD + ClearKey (chrome-pattern) → {clear_key}")
-        else:
-            print(f"  → MPD trovato (chrome-pattern, senza ck)")
-        
-        print(f"  → MPD pulito: {full_mpd}")
-        
-        lines = [
-            f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
-            f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
-        ]
-        if clear_key:
-            lines.extend([
-                "#KODIPROP:inputstream.adaptive.license_type=clearkey",
-                f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
-            ])
-        lines.append(full_mpd)
-        return "\n".join(lines), "MPD chrome-pattern"
+        if candidate_url:
+            clear_key = decode_clear_key(ck_value) if ck_value else None
+            
+            print(f"  → MPD chrome-pattern valido → {candidate_url}")
+            if clear_key:
+                print(f"      └─ ClearKey: {clear_key}")
+            
+            lines = [
+                f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
+                f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
+            ]
+            if clear_key:
+                lines.extend([
+                    "#KODIPROP:inputstream.adaptive.license_type=clearkey",
+                    f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
+                ])
+            lines.append(candidate_url)
+            return "\n".join(lines), "MPD chrome-pattern"
     
-    # PRIORITÀ 2: Qualsiasi .mpd nell'HTML (con eventuale ?token=...)
-    mpd_matches = re.findall(r'(https?://[^\s"\'<>?&]+\.mpd(?:/[^\s"\'<>?&]*)?(?:\?[^\s"\'<>]+)?)', player_html)
-    if mpd_matches:
-        full_mpd = mpd_matches[0]   # prendiamo il primo trovato
-        
-        # Cerchiamo ck= / clearkey= / key= nell'HTML intero
-        ck_match = re.search(r'(?:ck|clearkey|key)=([A-Za-z0-9+/=_-]+)', player_html, re.IGNORECASE)
-        clear_key = decode_clear_key(ck_match.group(1)) if ck_match else None
-        
-        lines = [
-            f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
-            f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
-        ]
-        if clear_key:
-            lines.extend([
-                "#KODIPROP:inputstream.adaptive.license_type=clearkey",
-                f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
-            ])
-        lines.append(full_mpd)
-        
-        msg = "MPD generico"
-        if clear_key:
-            msg += " + ClearKey"
-        print(f"  → {msg} → {full_mpd}")
-        if clear_key:
-            print(f"      └─ ClearKey: {clear_key}")
-        
-        return "\n".join(lines), msg
+    # PRIORITÀ 2: Cerca esplicitamente solo URL MPD nell'HTML
+    mpd_patterns = [
+        r'(https?://[^\s"\'<>\]\[\\]+?\.mpd(?:\?[^\s"\'<>\]\[\\]*)?)',
+        r'(https?://[^\s"\'<>\]\[\\]+?/Manifest\.mpd(?:\?[^\s"\'<>\]\[\\]*)?)',
+        r'(https?://[^\s"\'<>\]\[\\]+?/index\.mpd(?:\?[^\s"\'<>\]\[\\]*)?)',
+    ]
     
-    print("  Nessun MPD trovato nell'HTML")
+    for pat in mpd_patterns:
+        matches = re.findall(pat, player_html, re.IGNORECASE)
+        if matches:
+            full_mpd = matches[0].strip()
+            
+            # Cerchiamo ClearKey (ck=, clearkey=, key=)
+            ck_match = re.search(r'(?:ck|clearkey|key)=([A-Za-z0-9+/=_-]+)', player_html, re.IGNORECASE)
+            clear_key = decode_clear_key(ck_match.group(1)) if ck_match else None
+            
+            lines = [
+                f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
+                f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
+            ]
+            if clear_key:
+                lines.extend([
+                    "#KODIPROP:inputstream.adaptive.license_type=clearkey",
+                    f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
+                ])
+            lines.append(full_mpd)
+            
+            msg = "MPD generico trovato"
+            if clear_key:
+                msg += " + ClearKey"
+            print(f"  → {msg} → {full_mpd}")
+            if clear_key:
+                print(f"      └─ ClearKey: {clear_key}")
+            
+            return "\n".join(lines), msg
+    
+    print("  Nessun MPD valido trovato nell'HTML – scartato (probabile solo HLS o altro)")
     return None, None
 
 
@@ -221,17 +234,17 @@ print(f"Trovati {len(eventi)} eventi\n")
 m3u_lines = [
     "#EXTM3U",
     f"# Generato {time.strftime('%Y-%m-%d %H:%M:%S')} – ThisNot solo MPD",
-    "# Nota: contiene solo flussi DASH (.mpd)",
+    "# Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi",
 ]
 
 success = 0
 
 for ev in eventi:
     competizione = remove_emoji(ev.get("competizione", "Evento"))
-    evento_nome = remove_emoji(ev.get("evento", ""))
-    orario     = remove_emoji(ev.get("orario", ""))
-    canale     = remove_emoji(ev.get("canale", ""))
-    link       = ev.get("link", "")
+    evento_nome  = remove_emoji(ev.get("evento", ""))
+    orario       = remove_emoji(ev.get("orario", ""))
+    canale       = remove_emoji(ev.get("canale", ""))
+    link         = ev.get("link", "")
 
     id_match = re.search(r'id=([^&]+)', link)
     if not id_match:
@@ -239,8 +252,10 @@ for ev in eventi:
     chan_id = id_match.group(1)
 
     titolo_parts = [evento_nome] if evento_nome else []
-    if orario:  titolo_parts.append(f"Ora: {orario}")
-    if canale:  titolo_parts.append(f"({canale})")
+    if orario:
+        titolo_parts.append(f"Ora: {orario}")
+    if canale:
+        titolo_parts.append(f"({canale})")
     titolo = " ".join(titolo_parts).strip() or f"Evento {chan_id}"
 
     print(f"Evento: {titolo} | ID: {chan_id}")
@@ -269,4 +284,4 @@ with open(M3U_OUTPUT, "w", encoding="utf-8") as f:
 
 print(f"\nFile salvato → {M3U_OUTPUT}")
 print(f"Canali MPD aggiunti: {success} / {len(eventi)}")
-print("Script configurato per ignorare completamente gli stream HLS.\n")
+print("Script configurato per ignorare completamente gli stream HLS (.m3u8).\n")
