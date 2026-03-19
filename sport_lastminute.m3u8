@@ -1,10 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="2100bayernmonacovsatalantaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",21:00 BAYERN MONACO vs ATALANTA  (ITA - MPD)
+#EXTINF:-1 tvg-id="1845direttagolitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:45 DIRETTA GOL (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3762bc90acca0c4315a593c89596f00:07dc584ae7369bb0922b29b0a9c48793
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f23odcmyjy/out/v1/e07e56174e8f4a409656db31f165b985/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1774013954_s~cda9ad31-c94e-4713-ae76-f096a6f0b210_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_l~60_x~71a4b2b6764173f5fc24bb5472951742701fae13108232abdaa6673cd94fadcf/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="2100romavsbolognaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",21:00 ROMA vs BOLOGNA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1774013953_s~810f9810-ce63-478a-9175-e32bf1f3f73e_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_l~57_x~6c1b9320c071d2f0dc4cb925e1a3d4159eea923cdabcdd1959b951b3c021680b/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="1900frosinonebarimpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",19:00 Frosinone - Bari (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
