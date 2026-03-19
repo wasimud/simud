@@ -1,13 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-19 19:42
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-19 19:55
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 PT" group-title="GIOVEDÌ 19/03", Beşiktaş - Kasımpaşa • Turchia - Super Lig (Sport TV 1 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="SPORTCALCIO" tvg-name="Sky Sport Calcio" group-title="GIOVEDÌ 19/03", Diretta Goal • Europa - UEFA/CONFERENCE League (Sky Sport Calcio)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
