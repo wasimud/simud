@@ -113,29 +113,47 @@ def extract_mpd(player_html, titolo):
     
     if m:
         fragment = m.group(1)
-        mpd_re = re.search(r'(https?://[^\s&#?]+\.mpd(?:/[^&#?]*)*)', fragment)
-        ck_re  = re.search(r'ck=([A-Za-z0-9+/=_-]+)', fragment)
         
-        if mpd_re:
-            full_mpd = mpd_re.group(1)   # mantiene ?token=... se presente
-            clear_key = decode_clear_key(ck_re.group(1)) if ck_re else None
-            
-            if clear_key:
-                print(f"  → MPD + ClearKey (chrome-pattern) → {clear_key}")
-            else:
-                print(f"  → MPD trovato (chrome-pattern, senza ck)")
-            
-            lines = [
-                f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
-                f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
-            ]
-            if clear_key:
-                lines.extend([
-                    "#KODIPROP:inputstream.adaptive.license_type=clearkey",
-                    f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
-                ])
-            lines.append(full_mpd)
-            return "\n".join(lines), "MPD chrome-pattern"
+        # Ricostruiamo l'URL fermandoci prima di ck=
+        parts = re.split(r'([?&])', fragment)
+        mpd_parts = []
+        ck_value = None
+        
+        i = 0
+        while i < len(parts):
+            part = parts[i]
+            if 'ck=' in part:
+                # Trovato ck → estraiamo il valore
+                ck_match = re.search(r'ck=([^&#]*)', part + (parts[i+1] if i+1 < len(parts) else ''))
+                if ck_match:
+                    ck_value = ck_match.group(1)
+                # Fermiamo qui
+                break
+            mpd_parts.append(part)
+            i += 1
+        
+        full_mpd = ''.join(mpd_parts).rstrip('?&')
+        
+        clear_key = decode_clear_key(ck_value) if ck_value else None
+        
+        if clear_key:
+            print(f"  → MPD + ClearKey (chrome-pattern) → {clear_key}")
+        else:
+            print(f"  → MPD trovato (chrome-pattern, senza ck)")
+        
+        print(f"  → MPD pulito: {full_mpd}")
+        
+        lines = [
+            f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
+            f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
+        ]
+        if clear_key:
+            lines.extend([
+                "#KODIPROP:inputstream.adaptive.license_type=clearkey",
+                f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
+            ])
+        lines.append(full_mpd)
+        return "\n".join(lines), "MPD chrome-pattern"
     
     # PRIORITÀ 2: Qualsiasi .mpd nell'HTML (con eventuale ?token=...)
     mpd_matches = re.findall(r'(https?://[^\s"\'<>?&]+\.mpd(?:/[^\s"\'<>?&]*)?(?:\?[^\s"\'<>]+)?)', player_html)
