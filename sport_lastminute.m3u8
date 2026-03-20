@@ -1,22 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="2000villarrealrealsociedadmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:00 Villarreal - Real Sociedad (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=413e25551ff2596da0ade98f84703714:8fded36c39ee3594341c8aeffa0d836d
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1774036208~exp%3D1774122608~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D76dbbddbb89198ad403216426f7570c9c8d5e8168e9c38e51dc23918f813c367%23wm%3D0~hmac%3D83e6123d0ef74d0547be665e6e0cd390971cb8ed391d3c6f7cf37b5364a97889/rr5s4nu9n20h1gilj161fz3sw/web/stream.mpd?channel=3933&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="gpbrasileitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",GP BRASILE (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118927071722742d13bcd3fd0e7fe9d:98bbe6f18a51647a206f401148773abb
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1774013953_s~dc3a1642-fc15-4549-b41f-2cf44bb68c7f_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_l~60_x~8bfbfa330b109d6853d35388e5318cf0b8ddc0be734fbadd1659925dd747c6e5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="1100allegrilaconferenzastampaprepartitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",11:00 Allegri la conferenza stampa pre-partita (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c429713f75ee52e4bd8b01851412b99e:36c4734bdeaa46fab040e5bca2e8f9bc
-https://dca-de-livedazn.daznedge.net/@tend%3A1774090803~geo%3AIT~asn%3A16232~path%3A1_1_6f9d7f7aebcf7baa5634bceb1a61d8b04c2bca1611536e890d1b544ac9bef097~id%3A9827c3cf91d3~tk3%3A921a9c418659a3678ec8991b60fed8e361c0cf5b4a102b06988e91f49e148e68/1hu9yl46arlx51m43n6pvjlhrx/web/stream.mpd?channel=5064&mta=it&outlet=dazn-italy&plang=it
-
-#EXTINF:-1 tvg-id="1500spallettilaconferenzastampaprepartitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",15:00 Spalletti la conferenza stampa pre-partita (MPD)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8961d5e0b80151c19ce302693d23c393:aefffe254646f0f1c2b11f0f3c97e75f
-https://dca-de-livedazn.daznedge.net/@tend%3A1774105206~geo%3AIT~asn%3A16232~path%3A1_1_6e9b1302bd7ee67d644859b9d9338d635603966ea5637e65e53a4b71d2226821~id%3A9827c3cf91d3~tk3%3A29ab1a081d7299649fc64c2e71839bcca14c3aa294770831d2f192cceb524649/2jgpm4jm0p9r1kz0v19bjkypx/web/stream.mpd?channel=5063&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="1626cagliarinapolimpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",16:26 Cagliari - Napoli (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -29,6 +23,12 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1774024204~exp%3D1774110604~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1b2f861acf5d239388eb388b07904d:4f5b721426e48ea95828812876a8245b
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1774034105~exp%3D1774120505~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dbb496040d94ff22d0695f8866ea87c4c016fab8ca862e60c68e98dde2f23fa68%23wm%3D0~hmac%3Dca2a0cf953a1edfdcc27ddbedec40b5004c960d9baa6ceeb1f6f7b75389e3eff/qxko2flomvlrzmns2dfc5tcz/web/stream.mpd?channel=1344&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="2148ottavapuntatafridayfootballshowmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",21:48 Ottava puntata | Friday Football Show (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a85a9b1af6855fa697e54a3aea3246bd:e08d43aa5161e9b0a2bb7fe98116c942
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1774043103~exp%3D1774129503~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D7b4194d2cf3178d8b4338f2504abd8cd77fbce0c0dab8ba3597fbc34a89b40e6%23wm%3D0~hmac%3D9f7cfd2c1e2fbb8cce86927b9dee30f8c470ed5c904e2147c3d907900c4e3971/1sw0ffv9xokpi1gk9laoxi34dn/web/stream.mpd?channel=1345&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="skych" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",SKY CH
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
