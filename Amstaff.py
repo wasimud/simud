@@ -2,6 +2,7 @@ import base64
 import json
 import re
 import requests
+import urllib.parse
 
 # ==============================
 # CONFIG
@@ -19,7 +20,7 @@ VERSION = "2.0.0"
 USER_AGENT = f"MandraKodi2@@{VERSION}@@{PASSWORD}@@{DEVICE_ID}"
 
 # ==============================
-# DATABASE CANALI
+# DATABASE CANALI (invariato - lo lascio per completezza)
 # ==============================
 
 CHANNELS_DB = {
@@ -86,18 +87,17 @@ CHANNELS_DB = {
 
 }
 
-
 # ==============================
 # UTILS
 # ==============================
 
 def clean_m3u_text(text):
-    if not text:
-        return text
+    if not text: return ""
     text = re.sub(r"\[/?COLOR[^\]]*\]", "", text, flags=re.IGNORECASE)
     return re.sub(r"\s+", " ", text).strip()
 
 def normalize(text):
+    if not text: return ""
     return re.sub(r"[^a-z0-9]", "", text.lower())
 
 def match_channel(title):
@@ -108,117 +108,168 @@ def match_channel(title):
     return None
 
 # ==============================
-# DECODE AMSTAFF
+# DECODE AMSTAFF - VERSIONE ADATTATA AL TUO SERVER ATTUALE
 # ==============================
 
-def decode_amstaff(encoded):
-    if encoded.startswith("amstaff@@"):
-        encoded = encoded[9:]
+def decode_amstaff(myresolve):
+    if not myresolve or not myresolve.strip():
+        return None, None, None
 
-    encoded = encoded.strip()
-    encoded += "=" * (-len(encoded) % 4)
+    raw = myresolve.strip()
+    # print(f"  [RAW] {raw[:140]}{'...' if len(raw)>140 else ''}")
 
+    # Rimuovi prefisso amstaff@@ se presente
+    if raw.lower().startswith("amstaff@@"):
+        content = raw[9:].strip()
+    else:
+        content = raw
+
+    # Decodifica URL encoding (per sicurezza, anche se nel tuo caso non sembra encoded)
+    content = urllib.parse.unquote(content)
+
+    # Caso 1: è base64 valido → decodifica e split |kid:key
     try:
-        decoded = base64.b64decode(encoded).decode("utf-8")
-    except:
-        return None
+        padded = content + "=" * (-len(content) % 4)
+        decoded_bytes = base64.b64decode(padded, validate=True)
+        try:
+            text = decoded_bytes.decode('utf-8')
+        except UnicodeDecodeError:
+            text = decoded_bytes.hex()
 
-    if "|" not in decoded or ":" not in decoded:
-        return None
+        if "|" in text:
+            url, rest = text.split("|", 1)
+            url = url.strip()
+            if ":" in rest:
+                kid, key = rest.rsplit(":", 1)
+                return url, kid.strip(), key.strip()
+            return url, None, None
+        # se no | → forse solo url base64-encoded
+        if text.startswith("http"):
+            return text, None, None
 
-    url, key_part = decoded.split("|", 1)
-    key_id, key = key_part.split(":", 1)
+    except Exception:
+        # NON è base64 → probabilmente è direttamente URL|kid:key o solo URL
+        pass
 
-    return url, key_id, key
+    # Caso 2: formato "rotto" attuale del server: direttamente URL (a volte con |kid:key attaccato)
+    if "|" in content:
+        parts = content.split("|", 1)
+        url = parts[0].strip()
+        if len(parts) > 1:
+            rest = parts[1].split("&")[0].split("?")[0].strip()  # pulisci sporcizia finale
+            if ":" in rest:
+                try:
+                    kid, key = rest.split(":", 1)
+                    return url, kid.strip(), key.strip()
+                except:
+                    pass
+        return url, None, None
+
+    # Caso 3: sembra solo URL MPD / m3u8
+    if content.startswith("http") and (".mpd" in content or ".m3u8" in content):
+        return content, None, None
+
+    # Fallimento
+    # print("  [FALLITO]", content[:80])
+    return None, None, None
 
 # ==============================
-# FETCH (FIX JSON)
+# FETCH + WALK (invariato)
 # ==============================
-
-def extract_with_regex(text):
-    results = []
-    pattern = re.compile(
-        r'"title"\s*:\s*"([^"]+)"[\s\S]*?"myresolve"\s*:\s*"([^"]+)"',
-        re.IGNORECASE
-    )
-    for title, myresolve in pattern.findall(text):
-        results.append((title, myresolve))
-    return results
 
 def fetch_amstaff_channels():
-    r = requests.get(
-        AMSTAFF_URL,
-        headers={"User-Agent": USER_AGENT},
-        params={"numTest": "A1A260"},
-        timeout=15
-    )
-
-    text = r.text.strip()
-
+    print(f"\n=== Tentativo connessione ===\nURL: {AMSTAFF_URL}")
     try:
-        data = json.loads(text)
-    except json.JSONDecodeError:
-        cleaned = re.sub(r",\s*([}\]])", r"\1", text)
-        cleaned = re.sub(r"//.*?$", "", cleaned, flags=re.MULTILINE)
-        cleaned = re.sub(r"/\*.*?\*/", "", cleaned, flags=re.DOTALL)
+        r = requests.get(
+            AMSTAFF_URL,
+            headers={"User-Agent": USER_AGENT},
+            params={"numTest": "A1A260"},
+            timeout=15
+        )
+        print(f"Status code: {r.status_code} | Lunghezza: {len(r.text)}")
+
+        if r.status_code != 200:
+            return []
+
+        text = r.text.strip()
         try:
-            data = json.loads(cleaned)
+            data = json.loads(text)
         except:
-            print("⚠️ JSON non valido → uso regex")
-            return extract_with_regex(text)
+            print("JSON non valido")
+            return []
 
-    found = []
+        found = []
+        def walk(o):
+            if isinstance(o, dict):
+                if "title" in o and "myresolve" in o:
+                    found.append((o["title"].strip(), o["myresolve"].strip()))
+                for v in o.values():
+                    walk(v)
+            elif isinstance(o, list):
+                for i in o:
+                    walk(i)
+        walk(data)
+        print(f"Trovati {len(found)} canali nel JSON\n")
+        return found
 
-    def walk(o):
-        if isinstance(o, dict):
-            if "title" in o and "myresolve" in o:
-                found.append((o["title"], o["myresolve"]))
-            for v in o.values():
-                walk(v)
-        elif isinstance(o, list):
-            for i in o:
-                walk(i)
-
-    walk(data)
-    return found
+    except Exception as e:
+        print(f"Errore richiesta: {e}")
+        return []
 
 # ==============================
 # M3U
 # ==============================
 
 def generate_m3u(channels):
-    m3u = "#EXTM3U\n\n"
+    if not channels:
+        print("NESSUN CANALE TROVATO")
+        return
 
-    for title, encoded in channels:
-        title = clean_m3u_text(title)
+    print(f"=== INIZIO GENERAZIONE M3U ({len(channels)} canali) ===\n")
+    m3u = "#EXTM3U x-tvg-url=\"\"\n\n"
+    count = 0
 
-        decoded = decode_amstaff(encoded)
-        if not decoded:
+    for i, (title, myresolve) in enumerate(channels, 1):
+        title_clean = clean_m3u_text(title)
+        print(f"{i:2d}) {title_clean}")
+
+        url, kid, key = decode_amstaff(myresolve)
+
+        if not url or not url.startswith("http"):
+            print("   → FALLITO: nessun URL valido estratto\n")
             continue
 
-        url, key_id, key = decoded
-        meta = match_channel(title)
-
-        name = clean_m3u_text(meta["nome"] if meta else title)
+        meta = match_channel(title_clean)
+        name = meta["nome"] if meta else title_clean or "Unknown"
         logo = meta["logo"] if meta else DEFAULT_LOGO
-        group = meta["group"] if meta else "Altro"
+        group = meta["group"] if meta else "Sky / Altro"
 
         tvg_id = normalize(name)
 
         m3u += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="{group}",{name}\n'
-        m3u += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
-        m3u += f'#KODIPROP:inputstream.adaptive.license_key={key_id}:{key}\n'
-        m3u += f'{url}\n\n'
+
+        if kid and key and len(key) > 20:  # filtro anti-0000
+            m3u += '#KODIPROP:inputstream.adaptive.license_type=clearkey\n'
+            m3u += f'#KODIPROP:inputstream.adaptive.license_key={kid}:{key}\n'
+            print(f"   → CLEARK EY: {kid[:8]}...:{key[:8]}...")
+        else:
+            print("   → Nessuna chiave valida (canale forse in chiaro o kid/key vuoti)")
+
+        m3u += f"{url}\n\n"
+        print(f"   URL: {url[:100]}{'...' if len(url)>100 else ''}\n")
+        count += 1
 
     with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
         f.write(m3u)
 
-    print(f"✅ File M3U creato: {OUTPUT_M3U}")
+    print(f"=== COMPLETATO ===\nCanali scritti: {count}/{len(channels)}\nFile: {OUTPUT_M3U} ✓")
 
 # ==============================
 # MAIN
 # ==============================
 
 if __name__ == "__main__":
+    print("=== MANDRAKODI SKY IPTV - FIX FORMATO SERVER ATTUALE ===\n")
     channels = fetch_amstaff_channels()
     generate_m3u(channels)
+    print("\n=== FINE ===\n")
