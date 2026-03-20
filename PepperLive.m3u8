@@ -5,15 +5,15 @@
 
 #EXTINF:-1 tvg-id="SPORTUNO" group-title="PepperLive MPD", Sky Sport Uno 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115136be0f5b857ad2e673ca135987d:460f86fc0561f4dceec2612d571e8fb0
+#KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1773927374_s~f0fff567-c39e-488f-849e-3e497c8aae99_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~57_x~fa6d1981176bd7fde9bacdb70563245e4fe150c28db8c90aa14601c3651557d3/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportuno)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774104021_f~0_g~1_s~f4edb805-c519-4d91-b664-76ecfce23d56_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~8eda43a7c97f0b794a2d32a8293c979d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SPORTCALCIO" group-title="PepperLive MPD", Sky Sport Calcio 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115d9c59b4276824ee71d09c85633c1:8b8cd48bb6c70df9d011f40fc7f8c830
+#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://g003-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1773927412_f~0_g~1_s~c29c5abd-447e-4143-9269-276d8567f04a_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~60_x~6f8e6e6c1235de8f485a848d2955a63c/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774104018_f~0_g~1_s~9e5b8410-c6a8-4524-8ae6-1a0f29c2c8fb_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~903add55ab683a70084687655688cc01/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SPORTF1" group-title="PepperLive MPD", Sky Sport F1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -29,9 +29,9 @@ https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1773664979_f~0_g~1
 
 #EXTINF:-1 tvg-id="SPORT251" group-title="PepperLive MPD", Sky Sport 251 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115930b12910651361fe86b4d9f4222:db5d6a2e145bb9c5c57aa1784dec4f86
+#KODIPROP:inputstream.adaptive.license_key=11181e7f856e3b9eb0a315ca42e8d281:96bd93740aa0b2b3b10d6881bb806d1e
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1773665081_f~0_g~1_s~50e504c1-986d-4b07-ac28-02c0738b9057_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~57_x~13ee2b5f1586a3e08a3b3a547cedd61f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport251)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774103956_f~0_g~1_s~872455c6-02c0-42a8-844c-49058524315e_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~1ab29bda652cf409ad72a633efca70ce/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport251)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="Sport_DAZN" group-title="PepperLive MPD", DAZN Eventi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
