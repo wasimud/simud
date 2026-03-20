@@ -1,13 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-20 15:37
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-20 16:36
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SportTV5" tvg-name="Sport TV 5 PT" group-title="VENERDÌ 20/03", Moto2 - prove libere 1 • Motomondiale - GP Brasile (Sport TV 5 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="SportTV5" tvg-name="Sport TV 5 PT" group-title="VENERDÌ 20/03", MotoGP - prove libere 1 • Motomondiale - GP Brasile (Sport TV 5 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
