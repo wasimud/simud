@@ -1,7 +1,13 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-20 17:49
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-20 18:03
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
+
+#EXTINF:-1 tvg-id="SPORTMOTOGP" tvg-name="SPORTMOTOGP" group-title="VENERDÌ 20/03", Moto3 – Pre-qualifiche • Motomondiale - GP Brasile (SPORTMOTOGP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118927071722742d13bcd3fd0e7fe9d:98bbe6f18a51647a206f401148773abb
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1774103957_f~0_g~1_s~6e12370c-8ce4-4a6b-b8f9-95158d8d5523_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~fc49d35a883f2998a62d2b6e24b8ac06/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SportTV5" tvg-name="Sport TV 5 PT" group-title="VENERDÌ 20/03", Moto3 – Pre-qualifiche • Motomondiale - GP Brasile (Sport TV 5 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -9,11 +15,23 @@
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
+#EXTINF:-1 tvg-id="SPORTMOTOGP" tvg-name="SPORTMOTOGP" group-title="VENERDÌ 20/03", Moto2 - Pre-qualifiche • Motomondiale - GP Brasile (SPORTMOTOGP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118927071722742d13bcd3fd0e7fe9d:98bbe6f18a51647a206f401148773abb
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1774103957_f~0_g~1_s~6e12370c-8ce4-4a6b-b8f9-95158d8d5523_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~fc49d35a883f2998a62d2b6e24b8ac06/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
+
 #EXTINF:-1 tvg-id="SportTV5" tvg-name="Sport TV 5 PT" group-title="VENERDÌ 20/03", Moto2 - Pre-qualifiche • Motomondiale - GP Brasile (Sport TV 5 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="SPORTMOTOGP" tvg-name="SPORTMOTOGP" group-title="VENERDÌ 20/03", MotoGP – Pre-qualifiche • Motomondiale - GP Brasile (SPORTMOTOGP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118927071722742d13bcd3fd0e7fe9d:98bbe6f18a51647a206f401148773abb
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1774103957_f~0_g~1_s~6e12370c-8ce4-4a6b-b8f9-95158d8d5523_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~fc49d35a883f2998a62d2b6e24b8ac06/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SportTV5" tvg-name="Sport TV 5 PT" group-title="VENERDÌ 20/03", MotoGP – Pre-qualifiche • Motomondiale - GP Brasile (Sport TV 5 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
