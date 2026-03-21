@@ -1,1 +1,8 @@
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="1845qarabagvsnewcastleskympd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:45 Qarabag vs Newcastle (Sky) (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1115676eca79233f2919b53f1a1709b8:72298a31b1b015b52adc03ab222494c2
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1771609653_s~0d38b472-a4a3-41cf-ac48-cc0984c8ddb9_u~0579579511dccd7d867b4aa54f4a3d703462860864aa5c65461966204a1f903881f7db02dde44c276bae9930a26956c8_l~61_x~e33a4ebfd26ebca956ad7b55eedc459f49586bfcaf2e0c7e072aaa1a18c64f8f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skycinemacomedy)/master_2hr-aac.mpd
