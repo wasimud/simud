@@ -24,6 +24,12 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1774113607~exp%3D1774200007~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=7471c3f7e27d565bbcd2d0affda354af:7b6613514d89e680a1bed33b31ca7e66
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1774113605~exp%3D1774200005~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D6320a2666e5bd6c3e3b3afaa6f0c9c5222074e3833af01d8eb652c9087d5a414%23wm%3D0~hmac%3D0306596007f83d5ee43ba23f6703991ed762cd6f1c992c652b4d7d67d51c4656/10qqou4phtviw1ef20tl39kpqt/web/stream.mpd?channel=6934&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 tvg-id="2000sivigliavalenciampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:00 Siviglia - Valencia (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f259534ca7c5a4e82b4defc79dfe657:02492b3cd541580b150b197abd45d533
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1774122605~exp%3D1774209005~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D829386900dd1ca74cb378664ddc855c4ee5740a3583fa2b4258c8985f6549dd1%23wm%3D0~hmac%3Dedc6b60007d0c42333a30a9493a3a9e3a9580f77ae65eec25b0e41bef43e2134/1ub8dhhyimbuo11eb02ss92gam/web/stream.mpd?channel=3935&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="gpbrasileitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",GP BRASILE (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -41,6 +47,12 @@ https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1774100704~exp%3D1774187104~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a90e0dd5bbf5354a1d2276b2bbe1573:4911312af3ef7d912700f50e004605ec
 https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1774108805~exp%3D1774195205~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D36c56e8a7960287c7032edeaa60b7f33ee9ea26c2a396ef4346fff64a2aa23eb%23wm%3D1%23wmd%3D1152~hmac%3Def9307039910bd775387778b3717773af73f013385db6eff61e2b57625ef6cb5/lma3hw2wichp1rlutwpx80skl/web/stream.mpd?channel=1384&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1856juventussassuolompd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:56 Juventus - Sassuolo (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=84572a48c88054a0ba32ce6b758361f1:37b5e33bd4b85c6e1dc156eecda9b073
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1774119606~exp%3D1774206006~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D52a53d8320a323ba1bd3859bb6108b38c7be1f8996a5566fa5200a9409e4d6a3%23wm%3D1%23wmd%3D1152~hmac%3D19ba654fc90572bbe54e321d3daa45a84b08cf1d0678deb6f52350fdd02ed814/1vdkm59cndq1h1t9u7qwdsaixl/web/stream.mpd?channel=1385&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="1400cesenacatanzarompd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",14:00 Cesena - Catanzaro (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
