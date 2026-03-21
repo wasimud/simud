@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato 2026-03-21 13:07:03 – ThisNot solo MPD
+# Generato 2026-03-21 13:59:54 – ThisNot solo MPD
 # Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi
 #EXTINF:-1 tvg-id="elche_-_mallorca_ora:_14:00_(dazn_2)" group-title="La Liga",Elche - Mallorca Ora: 14:00 (Dazn 2)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -7,13 +7,13 @@
 #KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
-#EXTINF:-1 tvg-id="qualifiche_motogp_ora:_14:50_(rsi_la2)" group-title="Motomondiale, GP Brasile",Qualifiche MotoGP Ora: 14:50 (RSI LA2)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
-
 #EXTINF:-1 tvg-id="parma_-_cremonese_ora:_15:00_(dazn1_(warp))" group-title="Serie A",Parma - Cremonese Ora: 15:00 (Dazn1 (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-206/stream.mpd?p=web&ck=eyI2MTY0YTBhYmFhN2M1M2M2ODc1ZmExZTdmZTBiYjQ2MyI6IjI3MTUxMGQzZTEyNTk1NzFkY2M1NjhhMjMyZTM5N2ViIn0%3D&headers=eyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW10cFpDSTZJblYxYVdSZk1TSjkuZXlKd1lYUm9jeUk2V3lJdlpHRnphQzlrWVhwdUxXeHBibVZoY2kweU1EWWlYU3dpWlhoaklqcGJYU3dpYUdWaFpHVnljeUk2V3lKMWMyVnlMV0ZuWlc1MElsMHNJbU52SWpwMGNuVmxMQ0pwY0NJNlptRnNjMlVzSW1GemJpSTZXeUl4TXpNek5TSmRMQ0pwYm5SemFXY2lPaUpMTTBkTldTMTBUMGQzVmxaMGJYUTNja05NTmxkalZETnhSSFZ0U3pSbVJWaHJUMmhNY1VVNVFtMHdJaXdpYVdGMElqb3hOemMwTURrME9UUTBMQ0psZUhBaU9qRTNOelF4T0RFek5EUjkuTGlzSGJPUWFVRGVrZGlQZDY1MnZjTEM1WnZ5ZklrbnhpdjYxZ1ozOEF6TSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20vIiwib3JpZ2luIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20ifQ
+
+#EXTINF:-1 tvg-id="diretta_gol_serie_b_ora:_15:00_(daznb1_(warp))" group-title="Serie B",Diretta Gol Serie B Ora: 15:00 (DaznB1 (WARP))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://dca-fs-live-dazn-cdn.dazn.com/1q51azbmc32ih1qzxecabwptxx/web/stream.mpd?channel=3947&outlet=dazn-italy&plang=en&ck=eyJiNGJiNTdhY2Y1N2E1MGNjYjNhZDQ4YTBhYzVjOThjYiI6IjEyM2IxZTk2MTg5ZTUxZmQzM2M1YmE5OWU1MjZlNjM1In0%3D&headers=eyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmxlSEFpT2pFM056UXhPRGMwTXprc0ltdHBaQ0k2SWpJd01qSXhNVEl6SWl3aWNHRjBhRjlrSWpveExDSndZWFJvSWpvaU1tRXpNekJqTldSaVpqUTJZV1ZsWVRJd01HTTJZMkpqWXpVMk1qQTNOamxrWlRjMlpUZGxPQ0lzSW5OemFXUWlPaUl3WTJZMU1EYzBObU15WWpjaUxDSndjbTkwYnlJNkltUmhjMmdpTENKblpXOGlPaUpwZENJc0ltRnpiaUk2V3lJeE16TXpOU0pkTENKMVlTSTZJalk0TnpobU4ySmhZakZrWXpRME1qSmxaVEJrTlRCa01UZG1aR0UxWlRWallUazFOakEwWmpZaUxDSnBZWFFpT2pFM056UXhNREV3TXpsOS5MNFgxelZPOXFpay16cjRkdHBXMDdFeHlKMGVZMnk3UERBeWU2ZUJXWmdRIiwidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlZmVyZXIiOiJodHRwczovL3d3dy5kYXpuLmNvbS8iLCJvcmlnaW4iOiJodHRwczovL3d3dy5kYXpuLmNvbSJ9
 
 #EXTINF:-1 tvg-id="konferenz/multiview_ora:_15:30_(sky_bundesliga_6)" group-title="Bundesliga",Konferenz/Multiview Ora: 15:30 (SKY Bundesliga 6)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -38,6 +38,10 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="monza_-_venezia_ora:_17:15_(dctv)" group-title="Serie B",Monza - Venezia Ora: 17:15 (DCTV)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
 
 #EXTINF:-1 tvg-id="milan_-_torino_ora:_18:00_(dazn1_(warp))" group-title="Serie A",Milan - Torino Ora: 18:00 (Dazn1 (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
