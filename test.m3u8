@@ -1,4 +1,100 @@
 #EXTM3U
+
+# --- LAST MINUTE / EVENTI LIVE DAZN + LBA TV ---
+# --- DAZN CH / SKY CH (live durante eventi - spesso pay-per-view o canali temporanei) ---
+
+#EXTINF:-1 tvg-id="daznch" tvg-logo="" group-title="DAZN (live durante eventi)",DAZN CH (evento live MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000:0000
+https://matterzrh1-3-dash-pvr.zahs.tv/HD_dazn_event_3_ch/1772836544000/1772921700800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIE3DCN2GII2TAMZWGE4EMLJUGM2TMQKCGU3TMQRRGEYUKMJUEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGQ2DCNBQGQTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPTIZBQMVSWGNBZMYYWKZJSGE2TCZRWGQ4GGMZSHA2TAZRWMU3TMZJGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
+
+#EXTINF:-1 tvg-id="skych" tvg-logo="" group-title="SKY (live durante eventi)",SKY CH (evento live MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000:0000
+https://matterlau1-4-dash-pvr.zahs.tv/HD_spalk_event_1_ch/1772836521600/1772921700800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIE3DCN2BIJATQQSBGA4TALJRIM4EKNCEGJDDIRSEGQ2EMMJYEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGQ2DCMZYGMTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHFPTSZBRMQ3WCZRRGJSWGZDGME4WCM3FMJTDMM3FMY3GIZJZGBSTEZBGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
+
+#EXTINF:-1 tvg-id="daznlastminute1" tvg-logo="" group-title="Altro (last minute)",LAST MINUTE 1 (DAZN evento)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=146bf0a1350156f395406e3ad3d724a6:54dabd0f58331d11a678d0561fcdd2e4
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772967604~exp%3D1773054004~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Db157be195045c4f875e8b0de75eb234f3d2d7d1d7ca602c416a2eaaed0ffa96e%23wm%3D0~hmac%3D70fe6dff6e71940278377d76714db94b25e955d6a63c5964a093de176e789189/1rczzcdeth8mt1soys376iys81/web/stream.mpd?channel=1359&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="daznlastminute3" tvg-logo="" group-title="Altro (last minute)",LAST MINUTE 3 (DAZN evento)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d728c21fb7059a4959b8ba9f36d0e95:db80e38779fcf0e16e04de883f2509ad
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772977507~exp%3D1773063907~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc587a6750104f9876f8dfed3c10fc2fa5d28dade6872f2049da58ba13d96996c%23wm%3D0~hmac%3D42af53d3cb26e62efae7cf90350252fce239b51542aa9adef932d815753b0b7a/1w3fpteubivad1o3dlciik8irw/web/stream.mpd?channel=1346&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="daznlastminute5" tvg-logo="" group-title="Altro (last minute)",LAST MINUTE 5 (DAZN evento)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32c849401c0a50d78197da436acb19e7:262cf3b26a9c11d13980a28a7d058aa8
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772977505~exp%3D1773063905~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dd044c1b5f5bdd35b02271db4007044777dcd8179aa065c8bb00a9adc61dd0f1f%23wm%3D0~hmac%3Dbb301e0175b4b7d14e3a8520b5ffb927650c97a47d36f47a4dfcc50903c5d3d4/o9rc19cslwy71nu0chq2kot54/web/stream.mpd?channel=1347&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="daznlastminute6" tvg-logo="" group-title="Altro (last minute)",LAST MINUTE 6 (DAZN evento)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7168fd5a463c53b29ba26c8b03e1f9c1:44e15779ffa445706081a861c9e3dd1d
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772977503~exp%3D1773063903~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Daa89b286ec9e6a1870ecacf160e57ac4f961c8ebed8c0afd355ed0eff988efdc%23wm%3D0~hmac%3Dafbbff2b37648bc5683a3bff37149f42ad284462f2dfb31cd9a831d14cdb1dfb/14j4fj6ukvemw1fbh2rpl4bfwz/web/stream.mpd?channel=1355&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="daznlastminute8" tvg-logo="" group-title="Altro (last minute)",LAST MINUTE 8 (DAZN evento)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0710b3f13cce5f96903b357903c2b4ca:de33364e4a6853cf3aab23ea271208be
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1772986504~exp%3D1773072904~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Df922889afcd419d99763b38ffb223f41c6b09fcc20eec7449a71ecac5d11c944%23wm%3D1%23wmd%3D1152~hmac%3Def6a67e8fcbbd5c5030cef14305afa27c911d760bbf30846040789d6591e0664/g370klgcrkk91s30urm5c4d5y/web/stream.mpd?channel=1382&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="daznlastminute11" tvg-logo="" group-title="Altro (last minute)",LAST MINUTE 11 (DAZN evento)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=753722fb8d145e768bc2cd64f5e8a9cd:07b045cd9b2f16c94e174d42984a368e
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772994603~exp%3D1773081003~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dc92db8caa76ae1e97417ece697d10c5868053bd773a592e1b4421f047cda5485%23wm%3D1%23wmd%3D1152~hmac%3Dc77c41b4d66e01613c668b978b298ca30ad00d64233b2f2fe363da7b3804226d/qvcpei8zmegr1muiq3qsvco1j/web/stream.mpd?channel=1381&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="daznlastminute12" tvg-logo="" group-title="Altro (last minute)",LAST MINUTE 12 (DAZN evento - license assente?)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1771163404~exp%3D1771249804~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D51bd17bc022625769f5235da3cd36b222ab1e96148bf0147deafe2255a4656c6%23wm%3D0~hmac%3D92a3b513db025c98b8244ecc5368071580529c769bcf38b7e6b7727f2d93f067/o73axk8g01si1ufywi1f3t9n8/web/stream.mpd?channel=3947&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="daznseriebdctv" tvg-logo="" group-title="DAZN (serie b)",SERIE B DCTV (fallback eventi)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=316e323b65ea564083048a8920ef75ed:656d89569b2207a1d13027d50686a557
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1772650204~exp%3D1772736604~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D263fbe5934a244e6b8fcc1082d9306e92e043e79ddcdac61c6fa2906a5f8082c%23wm%3D0~hmac%3Dcd73e2bf47f0c937b9c14f3514d0db071e4c6f58c752f2d89a799b5da5848e3f/tv7mm45oc66v1boky4o9p9kyw/web/stream.mpd?channel=3957&mta=it&outlet=dazn-italy&plang=it
+
+# --- LBA TV (Lega Basket Serie A) ---
+
+#EXTINF:-1 tvg-id="lbatv1" tvg-logo="" group-title="Altro (lbatv)",LBA TV 1 (Basket Serie A)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc8e43978703e1cb83ec7baec4a524f:1294fa253a7deae7edb38532b6719acd
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-id="lbatv2" tvg-logo="" group-title="Altro (lbatv)",LBA TV 2 (Basket Serie A)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc0dd629d4833b029bdd4d80a61f7b0d:75ec4be73212e306da2f201dbf41495a
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-id="lbatv3" tvg-logo="" group-title="Altro (lbatv)",LBA TV 3 (Basket Serie A)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99f90205c24c319db57438296a95cea5:aaec695c88692ac9deb0c0a71a0aeb89
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-id="lbatv4" tvg-logo="" group-title="Altro (lbatv)",LBA TV 4 (Basket Serie A)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-id="lbatv5" tvg-logo="" group-title="Altro (lbatv)",LBA TV 5 (Basket Serie A)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd
+
 #EXTINF:-1 tvg-id="dazn1extra" tvg-logo="" group-title="DAZN (canali live)",DAZN 1 EXTRA MEDIAHOSTING (fallback MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
