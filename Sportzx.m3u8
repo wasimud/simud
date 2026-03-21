@@ -241,6 +241,12 @@ https://olegivoniv.s3.us-east-1.amazonaws.com/manu.m3u8
 #EXTINF:-1 tvg-id="brightonvsliverpool1345astroplhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Liverpool 13:45 (Astro PL HD)
 https://storage.googleapis.com/uytytuhggerd1/mux_video_ts1/index-1.m3u8
 
+#EXTINF:-1 tvg-id="brightonvsliverpool1345espnbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Liverpool 13:45 (ESPN BR)
+https://ai.the-sunmoon.site/proxy/x4/espnbrazil/mono.m3u8
+
+#EXTINF:-1 tvg-id="brightonvsliverpool1345espnar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Liverpool 13:45 (ESPN AR)
+https://smarthard.click/hls/sabrouchespn1arg/index.m3u8
+
 #EXTINF:-1 tvg-id="fulhamvsburnley1600nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Burnley 16:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
