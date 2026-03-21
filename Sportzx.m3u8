@@ -169,41 +169,6 @@ https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-d
 #EXTINF:-1 tvg-id="newzealandwvssouthafricaw0245fancodeind" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",New Zealand W vs South Africa W 02:45 (FANCODE (IND))
 https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodesd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE - SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  ENG )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2a278baaff374e5bb6476ec873fad3fa:6c510bd782b5113de2f97be86430970e
-https://in-mc-flive.fancode.com/mumbai/140468_english_dash_43999_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  HIN )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a78fa0521c594be2962f8faf22edd6ca:4a1f47f5fcbd8f0d37033a87d521bc90
-https://in-mc-flive.fancode.com/mumbai/140468_hindi_dash_81179_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  MAL )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b816165bedd346f1acedae9da2c49c73:9fd19b65f1946541e4bb9d9cacd550e5
-https://in-mc-flive.fancode.com/mumbai/140468_malayalam_dash_6328_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BAN )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60a8ce0b6a264ac984071c4151897436:6c7ffe349fe995e58488ad7881f19401
-https://in-mc-flive.fancode.com/mumbai/140468_bengali_dash_1255_1drmta-di_h264/index.mpd
-
-#EXTINF:-1 tvg-id="islvsisl1500fancodebd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Isl",ISL VS ISL 15:00 (FANCODE  BD )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5fae446c21c1460da1e8fdddb812d470:c5074c3a9fa8dc31575a7c03aeb36ea8
-https://bd-mc-flive.fancode.com/delhi/140468_english_dash_47558_1drmta-di_h264/index.mpd
-
 #EXTINF:-1 tvg-id="newzealandvssouthafrica0715tntsports4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",New Zealand vs South Africa 07:15 (TNT Sports 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
@@ -250,10 +215,10 @@ https://smarthard.click/hls/sabrouchespn1arg/index.m3u8
 #EXTINF:-1 tvg-id="fulhamvsburnley1600nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Burnley 16:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
-#EXTINF:-1 tvg-id="fulhamvsburnley1600novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Burnley 16:00 (NOVA SPORTS PL)
+#EXTINF:-1 tvg-id="fulhamvsburnley1600nbcuniverso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Burnley 16:00 (NBC UNIVERSO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6219/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
 #EXTINF:-1 tvg-id="evertonvschelsea1830nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Epl 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Everton vs Chelsea 18:30 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
@@ -474,6 +439,11 @@ https://tvo-28-1.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_2/D11/Manifest
 #EXTINF:-1 tvg-id="borussiadortmundvshamburger1830skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Hamburger 18:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
+#EXTINF:-1 tvg-id="bayernmnchenvsunionberlin1530sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayern München vs Union Berlin 15:30 (SporTV BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
 #EXTINF:-1 tvg-id="bayernmnchenvsunionberlin1530elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayern München vs Union Berlin 15:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e94219c1fc838eeaa36ece916d78211:fc85a15c05cf2429338896a8d6df9da8
@@ -577,20 +547,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
-#EXTINF:-1 tvg-id="elversbergvsarminiabielefeld1300skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Elversberg vs Arminia Bielefeld 13:00 (SKY BUNDESLIGA)
-https://smarthard.click/hls/6v8yVbveVz4/index.m3u8
-
-#EXTINF:-1 tvg-id="paderbornvsdynamodresden1300skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Paderborn vs Dynamo Dresden 13:00 (SKY BUNDESLIGA)
-https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
-
-#EXTINF:-1 tvg-id="nrnbergvskaiserslautern1300elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Nürnberg vs Kaiserslautern 13:00 (ELEVEN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc09a6ad420c3d24bee5f097045f92a1:4e531d53600fa473b0bd2e8f97432280
-https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sports_4/D11/Manifest.mpd
-
-#EXTINF:-1 tvg-id="nrnbergvskaiserslautern1300skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. bundesliga",Nürnberg vs Kaiserslautern 13:00 (SKY BUNDESLIGA)
-https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
-
 #EXTINF:-1 tvg-id="ipswichtownvsmillwall1330beinenglish2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Ipswich Town vs Millwall 13:30 (beIN ENGLISH 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -623,6 +579,3 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 
 #EXTINF:-1 tvg-id="derbycountyvsbirminghamcity1330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Derby County vs Birmingham City 13:30 (SportzX Live)
 http://195.178.110.37/hls/IFFFQQQQQ.m3u8
-
-#EXTINF:-1 tvg-id="lutontownvsstockportcounty1330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="League one 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Luton Town vs Stockport County 13:30 (SportzX Live)
-http://195.178.110.37/hls/IFFFQQQ.m3u8
