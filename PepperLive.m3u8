@@ -17,15 +17,15 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774104018_f~0_g~1
 
 #EXTINF:-1 tvg-id="SPORTF1" group-title="PepperLive MPD", Sky Sport F1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115bf69b117cf0b2c9191b293cc9935:c966a4733f9a29d4f9d5baa3787a4830
+#KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://g003-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1773577348_s~9a1e64bf-30f1-48db-aea2-a9f9b6c4f0ed_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_l~56_x~a5cb5c96a8b4833ca692930fac977b4b005ce4a3737481527a792a080211f009/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportf1)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774104021_f~0_g~1_s~f4edb805-c519-4d91-b664-76ecfce23d56_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~8eda43a7c97f0b794a2d32a8293c979d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SPORTTENNIS" group-title="PepperLive MPD", Sky Sport Tennis 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1115dac9561fb3f37545ee063c8265aa:c8cde8fabe98ea362c9bb6ba524d4744
+#KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://g003-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1773664979_f~0_g~1_s~9bb5369a-971b-4eac-939e-11b678fb7ae1_u~58b527384fa51bb2fd393b3ca33b17a7626c90cd8cc69951af7200f61b4364a720dad6c68237095c0da8f412b435a3ab_k~A_l~60_x~554146474990db23dd104bac80c7310f/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysporttennis)/master_2hr-aac.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774104021_f~0_g~1_s~f4edb805-c519-4d91-b664-76ecfce23d56_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~8eda43a7c97f0b794a2d32a8293c979d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SPORT251" group-title="PepperLive MPD", Sky Sport 251 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
