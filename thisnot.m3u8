@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato 2026-03-21 13:59:54 – ThisNot solo MPD
+# Generato 2026-03-21 14:39:16 – ThisNot solo MPD
 # Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi
 #EXTINF:-1 tvg-id="elche_-_mallorca_ora:_14:00_(dazn_2)" group-title="La Liga",Elche - Mallorca Ora: 14:00 (Dazn 2)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -14,6 +14,18 @@ https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-206/stream.mpd?p=web&ck=eyI2
 #EXTINF:-1 tvg-id="diretta_gol_serie_b_ora:_15:00_(daznb1_(warp))" group-title="Serie B",Diretta Gol Serie B Ora: 15:00 (DaznB1 (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 https://dca-fs-live-dazn-cdn.dazn.com/1q51azbmc32ih1qzxecabwptxx/web/stream.mpd?channel=3947&outlet=dazn-italy&plang=en&ck=eyJiNGJiNTdhY2Y1N2E1MGNjYjNhZDQ4YTBhYzVjOThjYiI6IjEyM2IxZTk2MTg5ZTUxZmQzM2M1YmE5OWU1MjZlNjM1In0%3D&headers=eyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmxlSEFpT2pFM056UXhPRGMwTXprc0ltdHBaQ0k2SWpJd01qSXhNVEl6SWl3aWNHRjBhRjlrSWpveExDSndZWFJvSWpvaU1tRXpNekJqTldSaVpqUTJZV1ZsWVRJd01HTTJZMkpqWXpVMk1qQTNOamxrWlRjMlpUZGxPQ0lzSW5OemFXUWlPaUl3WTJZMU1EYzBObU15WWpjaUxDSndjbTkwYnlJNkltUmhjMmdpTENKblpXOGlPaUpwZENJc0ltRnpiaUk2V3lJeE16TXpOU0pkTENKMVlTSTZJalk0TnpobU4ySmhZakZrWXpRME1qSmxaVEJrTlRCa01UZG1aR0UxWlRWallUazFOakEwWmpZaUxDSnBZWFFpT2pFM056UXhNREV3TXpsOS5MNFgxelZPOXFpay16cjRkdHBXMDdFeHlKMGVZMnk3UERBeWU2ZUJXWmdRIiwidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlZmVyZXIiOiJodHRwczovL3d3dy5kYXpuLmNvbS8iLCJvcmlnaW4iOiJodHRwczovL3d3dy5kYXpuLmNvbSJ9
+
+#EXTINF:-1 tvg-id="juve_stabia_-_spezia_ora:_15:00_(lab_channel_1_(prime))" group-title="Serie B",Juve Stabia - Spezia Ora: 15:00 (LAB Channel 1 (PRIME))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tu97b4roca/out/v1/54ce460364f74760b8887c390e4eb80c/cenc.mpd
+
+#EXTINF:-1 tvg-id="cesena_-_catanzaro_ora:_15:00_(lab_channel_2_(prime))" group-title="Serie B",Cesena - Catanzaro Ora: 15:00 (LAB Channel 2 (PRIME))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/bjq2nbv8ao/out/v1/1f78e436ad58403590a8322d8de501be/cenc.mpd
+
+#EXTINF:-1 tvg-id="calcio_padova_-_palermo_ora:_15:00_(lab_channel_3_(prime))" group-title="Serie B",Calcio Padova - Palermo Ora: 15:00 (LAB Channel 3 (PRIME))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/hqxoepujb2/out/v1/474dae22da1f4176a315550c25a7d94d/cenc.mpd
 
 #EXTINF:-1 tvg-id="konferenz/multiview_ora:_15:30_(sky_bundesliga_6)" group-title="Bundesliga",Konferenz/Multiview Ora: 15:30 (SKY Bundesliga 6)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
