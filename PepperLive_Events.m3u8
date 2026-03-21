@@ -1,19 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-21 16:22
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-21 16:56
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SPORTMOTOGP" tvg-name="SPORTMOTOGP" group-title="SABATO 21/03", MotoGP - qualifiche • Motomondiale - GP Brasile (SPORTMOTOGP)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118927071722742d13bcd3fd0e7fe9d:98bbe6f18a51647a206f401148773abb
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1774103957_f~0_g~1_s~6e12370c-8ce4-4a6b-b8f9-95158d8d5523_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~fc49d35a883f2998a62d2b6e24b8ac06/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="SportTV4" tvg-name="SportTV4" group-title="SABATO 21/03", MotoGP - qualifiche • Motomondiale - GP Brasile (SportTV4)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="SPORTMOTOGP" tvg-name="SPORTMOTOGP" group-title="SABATO 21/03", Moto 3 - qualifiche • Motomondiale - GP Brasile (SPORTMOTOGP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -128,18 +116,6 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774104018_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="Sport_DAZN" tvg-name="Sport_DAZN" group-title="SABATO 21/03", Parma - Cremonese • Italia - Serie A (Sport_DAZN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1af497cf8913612162889498b9527772:a316eae8fe63dbeadadb30aec2dcf90c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mmd3uu1so9/out/v1/7e9f3994739f45d598c946b4e99d3428/cenc.mpd
-
-#EXTINF:-1 tvg-id="SportTV2" tvg-name="SportTV2" group-title="SABATO 21/03", Parma - Cremonese • Italia - Serie A (SportTV2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="Sport_DAZN" tvg-name="Sport_DAZN" group-title="SABATO 21/03", Milan - Torino • Italia - Serie A (Sport_DAZN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
