@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-21 16:56
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-21 17:23
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 
@@ -56,30 +56,6 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="BUNDESLIGA6" tvg-name="BUNDESLIGA6" group-title="SABATO 21/03", Diretta Goal • Germania - Bundesliga (BUNDESLIGA6)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3f737659c354e3dd16008fd3cb2df396:898da50e99b270911b2ad48e9a4ae8d6
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://svc40.main.sl.t-online.de/LCID3221228657.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228657/3221228657.mpd
-
-#EXTINF:-1 tvg-id="BUNDESLIGA1" tvg-name="BUNDESLIGA1" group-title="SABATO 21/03", Bayern München - Union Berlin • Germania - Bundesliga (BUNDESLIGA1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d3c7ffea0de6ab2d4b0dc8c53b91051:d8d8e40f7e3b0b1b40aeeeedeeb9249c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://svc40.main.sl.t-online.de/LCID3221228661.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228661/3221228661.mpd
-
-#EXTINF:-1 tvg-id="BUNDESLIGA2" tvg-name="BUNDESLIGA2" group-title="SABATO 21/03", Heidenheim - Bayer Leverkusen • Germania - Bundesliga (BUNDESLIGA2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbd4cee7ce229d7a906d1bbe396f6a11:a446f1d5b13dde5db74b1d715ff3def3
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://svc40.main.sl.t-online.de/LCID3221228655.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228655/3221228655.mpd
-
-#EXTINF:-1 tvg-id="Dazn4_PT" tvg-name="Dazn4_PT" group-title="SABATO 21/03", Heidenheim - Bayer Leverkusen • Germania - Bundesliga (Dazn4_PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b6e5fe5b1d140b092e22cc662088276:6bdd76adbc5bb25089983b2500dde7ca
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="BUNDESLIGA1" tvg-name="BUNDESLIGA1" group-title="SABATO 21/03", Borussia Dortmund - Hamburger SV • Germania - Bundesliga (BUNDESLIGA1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
