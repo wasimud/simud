@@ -1,34 +1,6 @@
 #EXTM3U
-# Generato 2026-03-21 19:32:20 – ThisNot solo MPD
+# Generato 2026-03-21 21:33:22 – ThisNot solo MPD
 # Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi
-#EXTINF:-1 tvg-id="borussia_dortmund_-_hamburger_sv_ora:_18:30_(sky_bundesliga_1)" group-title="Bundesliga",Borussia Dortmund - Hamburger SV Ora: 18:30 (SKY Bundesliga 1)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d3c7ffea0de6ab2d4b0dc8c53b91051:d8d8e40f7e3b0b1b40aeeeedeeb9249c
-https://svc40.main.sl.t-online.de/LCID3221228661.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228661/3221228661.mpd
-
-#EXTINF:-1 tvg-id="levante_-_real_oviedo_ora:_18:30_(dazn_2)" group-title="La Liga",Levante - Real Oviedo Ora: 18:30 (Dazn 2)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="osasuna_-_girona_ora:_18:30_(eleven_sport_3)" group-title="La Liga",Osasuna - Girona Ora: 18:30 (Eleven Sport 3)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-https://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
-
-#EXTINF:-1 tvg-id="auxerre_-_brest_ora:_19:00_(sport&bull;tv7)" group-title="Ligue 1",Auxerre - Brest Ora: 19:00 (Sport&bull;TV7)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="sprint_race_motogp_ora:_20:20_(sky_sport_motogp)" group-title="Motomondiale, GP Brasile",Sprint Race MotoGP Ora: 20:20 (SKY Sport MotoGP)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118927071722742d13bcd3fd0e7fe9d:98bbe6f18a51647a206f401148773abb
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774193965_f~0_g~1_s~8adf2eaa-2d0c-4ed4-9a94-ee37c1d54193_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~539a60e03b397db4680dd84ebefa556e/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
-
 #EXTINF:-1 tvg-id="juventus_-_sassuolo_ora:_20:45_(sky_sport_251)" group-title="Serie A",Juventus - Sassuolo Ora: 20:45 (SKY Sport 251)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -38,6 +10,10 @@ https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1774193966_f~0_g~1
 #EXTINF:-1 tvg-id="juventus_-_sassuolo_ora:_20:45_(dazn_(warp))" group-title="Serie A",Juventus - Sassuolo Ora: 20:45 (Dazn (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 https://dca-fs-live-dazn-cdn.dazn.com/1vdkm59cndq1h1t9u7qwdsaixl/web/stream.mpd?channel=1385&outlet=dazn-italy&plang=en&ck=eyI4NDU3MmE0OGM4ODA1NGEwYmEzMmNlNmI3NTgzNjFmMSI6IjM3YjVlMzNiZDRiODVjNmUxZGMxNTZlZWNkYTliMDczIn0%3D&headers=eyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmxlSEFpT2pFM056UXlNRFl6T1RZc0ltdHBaQ0k2SWpJd01qSXhNVEl6SWl3aWNHRjBhRjlrSWpveExDSndZWFJvSWpvaU1HRmpObUkwTkRjMFpqQmpaalEzWlRZeU1UTTJZVFprT0dGaE9UVTVaV00zTjJWak1USXhaaUlzSW5OemFXUWlPaUl3WTJZMU1EYzBObU15WWpjaUxDSndjbTkwYnlJNkltUmhjMmdpTENKblpXOGlPaUpwZENJc0ltRnpiaUk2V3lJeE16TXpOU0pkTENKMVlTSTZJalk0TnpobU4ySmhZakZrWXpRME1qSmxaVEJrTlRCa01UZG1aR0UxWlRWallUazFOakEwWmpZaUxDSjNiV2xrSWpvaU9XZE5jVGQ1VWxkUVZsWjFVMWh2UzNsTU56ZExUakpKUzNVNUxVc3hhVUZrZEV0aFJscGphbDl1U1ZsYUxXaGpWVmRtUlRreVVHdEVURkk1U0dneFNpSXNJbmR0YVdSbWJYUWlPaUpoYzJOcGFTSXNJbmR0YVdSc1pXNGlPalV4TWl3aWQyMXBaSFI1Y0NJNk1Td2lkMjF2Y0dsa0lqb3pOaXdpZDIxelpXZGtJam94T1RJd0xDSjNiWFJwYlhNaU9qWXdNQ3dpZDIxMlpYSWlPaklzSW1saGRDSTZNVGMzTkRFeE9UazVObjAuTENpZWg0U2pqdTI0ZGN2NTZkMEVDbHRnVXpDSUtzbjdYc0FKVi1qQWNZSSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20vIiwib3JpZ2luIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20ifQ
+
+#EXTINF:-1 tvg-id="juventus_-_sassuolo_ora:_20:45_(sky_(ch))" group-title="Serie A",Juventus - Sassuolo Ora: 20:45 (SKY (CH))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://zh4-10-dashenc-live.zahs.tv/HD_spalk_event_1_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIVCTSRBQIQ3UCNRXII2UCLJSII3DMNJTHBATOMZWIY3DQQJZEZSHE3J5MV4HA2LSMF2GS33OHIYTONZUG4YTOMJYGYTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRRL43TENDEMZQTQNBUGY4TIYRSG4YDQOJZGIZGENBSMFRGMODFMYZDGJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIYTSOJXHE2DAJTWHUYA&ck=eyJlMTI0ZDg1MWVlMjZhNTlkNzA4M2U2ZmEwM2MzYmIxOCI6IjZkMmRiZDljYWE2NTMwZjQwMGQxZjQzNmFiYWQ0MWRmIiwiN2MxZDZlNTI4MzMyNTNkNjg0MTYzNzI1YmE1MDMyN2IiOiI3NDk0Y2EyMDVhMDQxZTAyOWI4ODYzYzBmZjMzZmNlNSIsIjU3ZjU5MTM1NTAxYmQ1NjA2NmIzNGI3MWRlNjliZGM0IjoiN2U5OTI0MTgwNjk1MmYyOGQzZDE4MmVmNzI1OWNhNGEiLCJhM2NkNDczMjMzNGFjNGEyZTBkYTJhYTAxODEwMTgzNCI6IjJhY2U4ZjZiMTY3N2UyYmIwYmM4ODI1MTk2NThmOGI4In0
 
 #EXTINF:-1 tvg-id="sevilla_-_valencia_ora:_21:00_(dazn_2)" group-title="La Liga",Sevilla - Valencia Ora: 21:00 (Dazn 2)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
