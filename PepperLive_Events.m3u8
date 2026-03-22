@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-22 19:03
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-22 19:48
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 
@@ -14,18 +14,6 @@ https://g006-lin-it-cmaf-prd-sn.pcdn07.cssott02.com/v~1-0-0_e~1774103957_f~0_g~1
 #KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="LBATV3" tvg-name="LBATV3" group-title="DOMENICA 22/03", Tortona - Cantù • Basket - Serie A (LBATV3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99f90205c24c319db57438296a95cea5:aaec695c88692ac9deb0c0a71a0aeb89
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd?headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
-
-#EXTINF:-1 tvg-id="LBATV4" tvg-name="LBATV4" group-title="DOMENICA 22/03", Trentino - Brescia • Basket - Serie A (LBATV4)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd?headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
 
 #EXTINF:-1 tvg-id="LBATV5" tvg-name="LBATV5" group-title="DOMENICA 22/03", Napoli - Varese • Basket - Serie A (LBATV5)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -45,12 +33,6 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-06-prd-l-v2/dash-ch-06-pr
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-prd-l-hd/index.mpd?headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
 
-#EXTINF:-1 tvg-id="SportTV3" tvg-name="SportTV3" group-title="DOMENICA 22/03", Arsenal - Manchester City • Inghilterra - Coppa di Lega (SportTV3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
 #EXTINF:-1 tvg-id="Dazn1_PT" tvg-name="DAZN 1 PT" group-title="DOMENICA 22/03", Athletic Club - Real Betis • Spagna - LaLiga (DAZN 1 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
@@ -62,18 +44,6 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="SPORTCALCIO" tvg-name="Sky Sport Calcio" group-title="DOMENICA 22/03", Roma - Lecce • Italia - Serie A (Sky Sport Calcio)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774284032_f~0_g~1_s~5dd08e26-751a-4aef-bb09-bbf9dca07bdb_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~0a4ac1aeb39595d60511836ca98c2ca5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="ELEVEN1" tvg-name="ELEVEN1" group-title="DOMENICA 22/03", Roma - Lecce • Italia - Serie A (ELEVEN1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 
 #EXTINF:-1 tvg-id="Sport_DAZN" tvg-name="Sport_DAZN" group-title="DOMENICA 22/03", Fiorentina - Internazionale • Italia - Serie A (Sport_DAZN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
