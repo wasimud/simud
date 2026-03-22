@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-22 13:39
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-22 14:22
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 
@@ -128,18 +128,6 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="Sport_DAZN" tvg-name="Sport_DAZN" group-title="DOMENICA 22/03", Como - Pisa • Italia - Serie A (Sport_DAZN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1af497cf8913612162889498b9527772:a316eae8fe63dbeadadb30aec2dcf90c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mmd3uu1so9/out/v1/7e9f3994739f45d598c946b4e99d3428/cenc.mpd
-
-#EXTINF:-1 tvg-id="SportTV2" tvg-name="SportTV2" group-title="DOMENICA 22/03", Como - Pisa • Italia - Serie A (SportTV2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="Sport_DAZN" tvg-name="Sport_DAZN" group-title="DOMENICA 22/03", Atalanta - Verona • Italia - Serie A (Sport_DAZN)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
