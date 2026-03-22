@@ -1,15 +1,13 @@
 #EXTM3U
-# Generato 2026-03-22 11:31:17 – ThisNot solo MPD
+# Generato 2026-03-22 13:09:13 – ThisNot solo MPD
 # Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi
 #EXTINF:-1 tvg-id="como_-_pisa_ora:_12:30_(dazn1_(warp))" group-title="Serie A",Como - Pisa Ora: 12:30 (Dazn1 (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-206/stream.mpd?p=web&ck=eyI2MTY0YTBhYmFhN2M1M2M2ODc1ZmExZTdmZTBiYjQ2MyI6IjI3MTUxMGQzZTEyNTk1NzFkY2M1NjhhMjMyZTM5N2ViIn0%3D&headers=eyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW10cFpDSTZJblYxYVdSZk1TSjkuZXlKd1lYUm9jeUk2V3lJdlpHRnphQzlrWVhwdUxXeHBibVZoY2kweU1EWWlYU3dpWlhoaklqcGJYU3dpYUdWaFpHVnljeUk2V3lKMWMyVnlMV0ZuWlc1MElsMHNJbU52SWpwMGNuVmxMQ0pwY0NJNlptRnNjMlVzSW1GemJpSTZXeUl4TXpNek5TSmRMQ0pwYm5SemFXY2lPaUpMTTBkTldTMTBUMGQzVmxaMGJYUTNja05NTmxkalZETnhSSFZ0U3pSbVJWaHJUMmhNY1VVNVFtMHdJaXdpYVdGMElqb3hOemMwTURrME9UUTBMQ0psZUhBaU9qRTNOelF4T0RFek5EUjkuTGlzSGJPUWFVRGVrZGlQZDY1MnZjTEM1WnZ5ZklrbnhpdjYxZ1ozOEF6TSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20vIiwib3JpZ2luIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20ifQ
+https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web&ck=eyI2MTY0YTBhYmFhN2M1M2M2ODc1ZmExZTdmZTBiYjQ2MyI6IjI3MTUxMGQzZTEyNTk1NzFkY2M1NjhhMjMyZTM5N2ViIn0%3D&headers=eyJkYXpuLXRva2VuIjoic3QlM0QxNzc0MTc5MTIyfmV4cCUzRDE3NzQyNjU1MjJ%2BYWNsJTNELyUyQX5pZCUzRDBjZjUwNzQ2YzJiN35kYXRhJTNEcHJvdG8lM0RkYXNoJTIzY291bnRyeSUzRGl0JTIzYXNuJTNEMTMzMzUlMjNwYXRoJTNEMXMlMkMyZCUyM2hhc2hwJTNENzE0NmQzZGVhNzAwNDRmOGQxOTE0OTRjYmFmOWIxNzA1MzkwNTk1NTFhODAxNDU4ZjdlOTE5M2RkZWY3ODM1ZCUyM2hhc2h1YSUzRDI4NmZjN2UzMmI3YjY3ZDBiYWEyYjU0YWNhZTliMTBjMTU2MTMxY2VlZWZmNDk0ZDUwNjg4OTkzMTY5ZTJjMGV%2BaG1hYyUzRDk0NjRhMDUzNWNiZGEzY2EyMjg3Y2MzMDI5ZWE3YTIwYWQ4YWUyNjE4MjBkYTE1OWEzNzdmYzYxOTI3ZDQ5ZDUiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3LmRhem4uY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmRhem4uY29tIn0
 
-#EXTINF:-1 tvg-id="newcastle_-_sunderland_ora:_13:00_(dazn_1)" group-title="Premier League",Newcastle - Sunderland Ora: 13:00 (Dazn 1)
+#EXTINF:-1 tvg-id="newcastle_-_sunderland_ora:_13:00_(sky_sports_main_event)" group-title="Premier League",Newcastle - Sunderland Ora: 13:00 (SKY Sports Main Event)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+https://g006-lin-ie-cmaf-prd-ak.pcdn05.cssott02.com/v~a-0-0_e~1774250931_s~5dfefd10-e710-4ddc-ae2a-2f4edc5d1ef9_u~680713d8e58d658accf635c5df160cac3d8092834a5cea43fbefaf4ed8aeda0508c3a4e3073b9f17984bc4b725e80248_l~67_x~2716983e99c46b0e6afa2a27c3f9886c42ec0829bb8d4a4ad9c114947a4a256d/nowgblin1/Content/CMAF_CTR_H1/Live/channel(skysportsmaineventroi)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="barcelona_-_rayo_vallecano_ora:_14:00_(dazn_2)" group-title="La Liga",Barcelona - Rayo Vallecano Ora: 14:00 (Dazn 2)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -19,7 +17,7 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE
 
 #EXTINF:-1 tvg-id="atalanta_-_verona_ora:_15:00_(dazn1_(warp))" group-title="Serie A",Atalanta - Verona Ora: 15:00 (Dazn1 (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-206/stream.mpd?p=web&ck=eyI2MTY0YTBhYmFhN2M1M2M2ODc1ZmExZTdmZTBiYjQ2MyI6IjI3MTUxMGQzZTEyNTk1NzFkY2M1NjhhMjMyZTM5N2ViIn0%3D&headers=eyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW10cFpDSTZJblYxYVdSZk1TSjkuZXlKd1lYUm9jeUk2V3lJdlpHRnphQzlrWVhwdUxXeHBibVZoY2kweU1EWWlYU3dpWlhoaklqcGJYU3dpYUdWaFpHVnljeUk2V3lKMWMyVnlMV0ZuWlc1MElsMHNJbU52SWpwMGNuVmxMQ0pwY0NJNlptRnNjMlVzSW1GemJpSTZXeUl4TXpNek5TSmRMQ0pwYm5SemFXY2lPaUpMTTBkTldTMTBUMGQzVmxaMGJYUTNja05NTmxkalZETnhSSFZ0U3pSbVJWaHJUMmhNY1VVNVFtMHdJaXdpYVdGMElqb3hOemMwTURrME9UUTBMQ0psZUhBaU9qRTNOelF4T0RFek5EUjkuTGlzSGJPUWFVRGVrZGlQZDY1MnZjTEM1WnZ5ZklrbnhpdjYxZ1ozOEF6TSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20vIiwib3JpZ2luIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20ifQ
+https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web&ck=eyI2MTY0YTBhYmFhN2M1M2M2ODc1ZmExZTdmZTBiYjQ2MyI6IjI3MTUxMGQzZTEyNTk1NzFkY2M1NjhhMjMyZTM5N2ViIn0%3D&headers=eyJkYXpuLXRva2VuIjoic3QlM0QxNzc0MTc5MTIyfmV4cCUzRDE3NzQyNjU1MjJ%2BYWNsJTNELyUyQX5pZCUzRDBjZjUwNzQ2YzJiN35kYXRhJTNEcHJvdG8lM0RkYXNoJTIzY291bnRyeSUzRGl0JTIzYXNuJTNEMTMzMzUlMjNwYXRoJTNEMXMlMkMyZCUyM2hhc2hwJTNENzE0NmQzZGVhNzAwNDRmOGQxOTE0OTRjYmFmOWIxNzA1MzkwNTk1NTFhODAxNDU4ZjdlOTE5M2RkZWY3ODM1ZCUyM2hhc2h1YSUzRDI4NmZjN2UzMmI3YjY3ZDBiYWEyYjU0YWNhZTliMTBjMTU2MTMxY2VlZWZmNDk0ZDUwNjg4OTkzMTY5ZTJjMGV%2BaG1hYyUzRDk0NjRhMDUzNWNiZGEzY2EyMjg3Y2MzMDI5ZWE3YTIwYWQ4YWUyNjE4MjBkYTE1OWEzNzdmYzYxOTI3ZDQ5ZDUiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3LmRhem4uY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmRhem4uY29tIn0
 
 #EXTINF:-1 tvg-id="bologna_-_lazio_ora:_15:00_(dazn_(warp))" group-title="Serie A",Bologna - Lazio Ora: 15:00 (Dazn (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -31,11 +29,9 @@ https://dca-fs-live-dazn-cdn.dazn.com/1vdkm59cndq1h1t9u7qwdsaixl/web/stream.mpd?
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
-#EXTINF:-1 tvg-id="tottenham_-_nottingham_forest_ora:_15:15_(dazn_3)" group-title="Premier League",Tottenham - Nottingham Forest Ora: 15:15 (Dazn 3)
+#EXTINF:-1 tvg-id="tottenham_-_nottingham_forest_ora:_15:15_(sky_sports_main_event)" group-title="Premier League",Tottenham - Nottingham Forest Ora: 15:15 (SKY Sports Main Event)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+https://g006-lin-ie-cmaf-prd-ak.pcdn05.cssott02.com/v~a-0-0_e~1774250931_s~5dfefd10-e710-4ddc-ae2a-2f4edc5d1ef9_u~680713d8e58d658accf635c5df160cac3d8092834a5cea43fbefaf4ed8aeda0508c3a4e3073b9f17984bc4b725e80248_l~67_x~2716983e99c46b0e6afa2a27c3f9886c42ec0829bb8d4a4ad9c114947a4a256d/nowgblin1/Content/CMAF_CTR_H1/Live/channel(skysportsmaineventroi)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="ea7_milano_-_bds_sassari_ora:_16:00_(lbatv1)" group-title="LBA Serie A",EA7 Milano - BdS Sassari Ora: 16:00 (LBATV1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -61,17 +57,19 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-pr
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
 
+#EXTINF:-1 tvg-id="sampdoria_-_avellino_ora:_17:15_(dctv)" group-title="Serie B",Sampdoria - Avellino Ora: 17:15 (DCTV)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
+
 #EXTINF:-1 tvg-id="tortona_-_cantù_ora:_17:30_(lbatv3)" group-title="LBA Serie A",Tortona - Cantù Ora: 17:30 (LBATV3)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99f90205c24c319db57438296a95cea5:aaec695c88692ac9deb0c0a71a0aeb89
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd
 
-#EXTINF:-1 tvg-id="arsenal_-_manchester_city_ora:_17:30_(sport&bull;tv3)" group-title="EFL CUP, Finale",Arsenal - Manchester City Ora: 17:30 (Sport&bull;TV3)
+#EXTINF:-1 tvg-id="arsenal_-_manchester_city_ora:_17:30_(itv_1)" group-title="EFL CUP, Finale",Arsenal - Manchester City Ora: 17:30 (ITV 1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09212/stb-dash-fhd-avc/SV09212.mpd
 
 #EXTINF:-1 tvg-id="trentino_-_brescia_ora:_18:00_(lbatv4)" group-title="LBA Serie A",Trentino - Brescia Ora: 18:00 (LBATV4)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -127,7 +125,7 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-pr
 
 #EXTINF:-1 tvg-id="fiorentina_-_inter_ora:_20:45_(dazn1_(warp))" group-title="Serie A",Fiorentina - Inter Ora: 20:45 (Dazn1 (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-https://dcs-ac-live.cdn.indazn.com/dash/dazn-linear-206/stream.mpd?p=web&ck=eyI2MTY0YTBhYmFhN2M1M2M2ODc1ZmExZTdmZTBiYjQ2MyI6IjI3MTUxMGQzZTEyNTk1NzFkY2M1NjhhMjMyZTM5N2ViIn0%3D&headers=eyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0lzSW10cFpDSTZJblYxYVdSZk1TSjkuZXlKd1lYUm9jeUk2V3lJdlpHRnphQzlrWVhwdUxXeHBibVZoY2kweU1EWWlYU3dpWlhoaklqcGJYU3dpYUdWaFpHVnljeUk2V3lKMWMyVnlMV0ZuWlc1MElsMHNJbU52SWpwMGNuVmxMQ0pwY0NJNlptRnNjMlVzSW1GemJpSTZXeUl4TXpNek5TSmRMQ0pwYm5SemFXY2lPaUpMTTBkTldTMTBUMGQzVmxaMGJYUTNja05NTmxkalZETnhSSFZ0U3pSbVJWaHJUMmhNY1VVNVFtMHdJaXdpYVdGMElqb3hOemMwTURrME9UUTBMQ0psZUhBaU9qRTNOelF4T0RFek5EUjkuTGlzSGJPUWFVRGVrZGlQZDY1MnZjTEM1WnZ5ZklrbnhpdjYxZ1ozOEF6TSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJyZWZlcmVyIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20vIiwib3JpZ2luIjoiaHR0cHM6Ly93d3cuZGF6bi5jb20ifQ
+https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web&ck=eyI2MTY0YTBhYmFhN2M1M2M2ODc1ZmExZTdmZTBiYjQ2MyI6IjI3MTUxMGQzZTEyNTk1NzFkY2M1NjhhMjMyZTM5N2ViIn0%3D&headers=eyJkYXpuLXRva2VuIjoic3QlM0QxNzc0MTc5MTIyfmV4cCUzRDE3NzQyNjU1MjJ%2BYWNsJTNELyUyQX5pZCUzRDBjZjUwNzQ2YzJiN35kYXRhJTNEcHJvdG8lM0RkYXNoJTIzY291bnRyeSUzRGl0JTIzYXNuJTNEMTMzMzUlMjNwYXRoJTNEMXMlMkMyZCUyM2hhc2hwJTNENzE0NmQzZGVhNzAwNDRmOGQxOTE0OTRjYmFmOWIxNzA1MzkwNTk1NTFhODAxNDU4ZjdlOTE5M2RkZWY3ODM1ZCUyM2hhc2h1YSUzRDI4NmZjN2UzMmI3YjY3ZDBiYWEyYjU0YWNhZTliMTBjMTU2MTMxY2VlZWZmNDk0ZDUwNjg4OTkzMTY5ZTJjMGV%2BaG1hYyUzRDk0NjRhMDUzNWNiZGEzY2EyMjg3Y2MzMDI5ZWE3YTIwYWQ4YWUyNjE4MjBkYTE1OWEzNzdmYzYxOTI3ZDQ5ZDUiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3LmRhem4uY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmRhem4uY29tIn0
 
 #EXTINF:-1 tvg-id="real_madrid_-_atlético_madrid_ora:_21:00_(dazn_1)" group-title="La Liga",Real Madrid - Atlético Madrid Ora: 21:00 (Dazn 1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
