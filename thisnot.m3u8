@@ -1,31 +1,11 @@
 #EXTM3U
-# Generato 2026-03-22 21:34:18 – ThisNot solo MPD
+# Generato 2026-03-22 22:35:12 – ThisNot solo MPD
 # Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi
 #EXTINF:-1 tvg-id="live_match_ora:_16:00_(sky_sport_tennis)" group-title="ATP/WTA Miami Open",Live Match Ora: 16:00 (SKY Sport Tennis)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118b59519d9199b9187d437a72e7b4c:1f24a6f4ce7cad6cc4f6b67faa52acda
 https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1774276565_s~5af0ceeb-8402-4c10-b5b0-029e6ce7f109_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_l~60_x~68aa325e558c443561854379fe89733818d592d2c538fc00301467f4db9df9d1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="fiorentina_-_inter_ora:_20:45_(dazn1_(warp))" group-title="Serie A",Fiorentina - Inter Ora: 20:45 (Dazn1 (WARP))
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web&ck=eyI2MTY0YTBhYmFhN2M1M2M2ODc1ZmExZTdmZTBiYjQ2MyI6IjI3MTUxMGQzZTEyNTk1NzFkY2M1NjhhMjMyZTM5N2ViIn0%3D&headers=eyJkYXpuLXRva2VuIjoic3QlM0QxNzc0MTc5MTIyfmV4cCUzRDE3NzQyNjU1MjJ%2BYWNsJTNELyUyQX5pZCUzRDBjZjUwNzQ2YzJiN35kYXRhJTNEcHJvdG8lM0RkYXNoJTIzY291bnRyeSUzRGl0JTIzYXNuJTNEMTMzMzUlMjNwYXRoJTNEMXMlMkMyZCUyM2hhc2hwJTNENzE0NmQzZGVhNzAwNDRmOGQxOTE0OTRjYmFmOWIxNzA1MzkwNTk1NTFhODAxNDU4ZjdlOTE5M2RkZWY3ODM1ZCUyM2hhc2h1YSUzRDI4NmZjN2UzMmI3YjY3ZDBiYWEyYjU0YWNhZTliMTBjMTU2MTMxY2VlZWZmNDk0ZDUwNjg4OTkzMTY5ZTJjMGV%2BaG1hYyUzRDk0NjRhMDUzNWNiZGEzY2EyMjg3Y2MzMDI5ZWE3YTIwYWQ4YWUyNjE4MjBkYTE1OWEzNzdmYzYxOTI3ZDQ5ZDUiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3LmRhem4uY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmRhem4uY29tIn0
-
-#EXTINF:-1 tvg-id="fiorentina_-_inter_ora:_20:45_(dazn_(ch))" group-title="Serie A",Fiorentina - Inter Ora: 20:45 (Dazn (CH))
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-https://zh4-11-dashenc-live.zahs.tv/HD_dazn_event_5_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIVDDMNCEGBBDGM2GIZDDMLJWIFCUMRRVHFBUIQJUGQ3TMMJXEZSHE3J5MV4HA2LSMF2GS33OHIYTONZUG4ZTAOJRGMTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRQL43GKNRWGRTDONRUMNSDQMJRGRSTKZLCHA3GEYJQHA3DONJRHBRTSJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIZDCMBVGE2DKJTWHUYA&ck=eyIxYmI4Njk5ZGUyZTM2MzllYjBkOWZiYjkwMDQ1M2RjYSI6IjIwYjE3NDU4YzM0NGNlZDhhZTI1N2U5MzUwMzA3MjBlIiwiM2VjMDg0MDU1MDhjOGJlNTY4YWFiMDkyMjAwOGRiZjMiOiI0ZDc2MTRiNWRmYTZmYWI1OGI2NThjNGQwZDViOTI4ZSIsIjc0NzFhMzllM2UyOGI0NDQ4YTU2NTA3YzMyNTEwYjMwIjoiMjVmOWMwZDBjMmY0ODMwMTBmMDA0MTBmYTUwMWI3ODciLCIxZTFmMWZjNDEwMGZmMmI0ZmM5MzMwOTUyMjQzZTYxOSI6IjExZGJjMDYwZmQ5NzBmMDU5NmY3OWNiOTY1OGJjOGU4IiwiZmFhYTBiMTQyYTlmMGI0NjFlYzJjMzEzZGUxZTQxZTgiOiJmZThmMzMyM2FlMmRhZmYwNTRkYWVhMTJhNjRiNjlmMiIsIjY5NWE4NjYwM2JhNDAyNTQyNWE0ZmE0N2Q1MDhlM2I2IjoiY2MzNjJlOGY2MDBiMjllNTc1MDNiMmE0NTMwMThhZTgifQ
-
-#EXTINF:-1 tvg-id="nantes_-_strasburgo_ora:_20:45_(sky_sport_calcio)" group-title="Ligue 1",Nantes - Strasburgo Ora: 20:45 (SKY Sport Calcio)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774284032_f~0_g~1_s~5dd08e26-751a-4aef-bb09-bbf9dca07bdb_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~0a4ac1aeb39595d60511836ca98c2ca5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="real_madrid_-_atlético_madrid_ora:_21:00_(dazn_1)" group-title="La Liga",Real Madrid - Atlético Madrid Ora: 21:00 (Dazn 1)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="denver_nuggets_-_portland_trail_blazers_ora:_22:00_(sky_sport_uno)" group-title="NBA",Denver Nuggets - Portland Trail Blazers Ora: 22:00 (SKY Sport Uno)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
