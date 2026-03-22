@@ -59,9 +59,9 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f23odcmyjy/
 
 #EXTINF:-1 tvg-id="LAB1" group-title="PepperLive MPD", LAB1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ceaa5a0c85e48e0bd1ae239ab4b57db:a514f80ad49b63097d16a493381753bc
+#KODIPROP:inputstream.adaptive.license_key=0c4bb6a9160de1bc9cc8812791c044fa:3dc94d1faeaadecd83dc78e48188ba49
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tu97b4roca/out/v1/54ce460364f74760b8887c390e4eb80c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/orr2lcfudt/out/v1/9ff05632d58e474383cc46f623960448/cenc.mpd
 
 #EXTINF:-1 tvg-id="SerieB" group-title="PepperLive MPD", SerieB
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -71,9 +71,9 @@ https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
 
 #EXTINF:-1 tvg-id="LAB1_WARP" group-title="PepperLive MPD", LAB1_WARP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ceaa5a0c85e48e0bd1ae239ab4b57db:a514f80ad49b63097d16a493381753bc
+#KODIPROP:inputstream.adaptive.license_key=0c4bb6a9160de1bc9cc8812791c044fa:3dc94d1faeaadecd83dc78e48188ba49
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/tu97b4roca/out/v1/54ce460364f74760b8887c390e4eb80c/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/orr2lcfudt/out/v1/9ff05632d58e474383cc46f623960448/cenc.mpd
 
 #EXTINF:-1 tvg-id="Canale5" group-title="PepperLive MPD", Canale 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
