@@ -4,8 +4,8 @@
 """
 ThisNot M3U Generator – Solo MPD (DASH) – Marzo 2026
 - Eventi da /api/eventi.json
-- Cerca SOLO MPD (.mpd), con o senza token in query
-- Supporta ClearKey (ck=... base64url) e headers base64-encoded
+- Cerca **SOLO** MPD (.mpd), con o senza token in query
+- Supporta ClearKey dal pattern chrome-extension o altri ck=...
 - Niente HLS / m3u8 – scartati esplicitamente
 """
 
@@ -13,7 +13,7 @@ import cloudscraper
 import re
 import base64
 import json
-from urllib.parse import urljoin, quote, unquote
+from urllib.parse import urljoin, quote
 import ssl
 import urllib3
 import time
@@ -38,7 +38,7 @@ scraper = cloudscraper.create_scraper(
 scraper.verify = False
 
 scraper.headers.update({
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
     "Accept": "application/json, text/plain, */*",
     "Referer": "https://thisnot.business/",
 })
@@ -61,42 +61,18 @@ def decode_clear_key(b64_str):
     if not b64_str:
         return None
     try:
-        # Rimuovi spazi e padding finale errato
-        b64_str = b64_str.strip().rstrip('=')
-        
-        # Converti base64url → base64 standard
-        b64_str = b64_str.replace('-', '+').replace('_', '/')
-        
-        # Aggiungi padding corretto
-        missing = (4 - len(b64_str) % 4) % 4
-        b64_str += '=' * missing
-        
-        # Decodifica
-        decoded_bytes = base64.b64decode(b64_str)
-        decoded = decoded_bytes.decode('utf-8', errors='ignore').strip()
-        
-        # Debug (commenta dopo i test)
-        print(f"  [DEBUG] Decoded clearkey raw: {decoded}")
-        
-        # Caso JSON { "kid": "key" }
+        b64_str += "=" * ((4 - len(b64_str) % 4) % 4)
+        decoded = base64.b64decode(b64_str).decode('utf-8', errors='ignore').strip()
         if decoded.startswith('{'):
-            try:
-                d = json.loads(decoded)
-                if d and len(d) == 1:
-                    kid, key = next(iter(d.items()))
-                    return f"{kid.lower()}:{key.lower()}"
-            except json.JSONDecodeError:
-                pass
-        
-        # Caso flat "kid:key"
+            d = json.loads(decoded)
+            if d:
+                kid, key = next(iter(d.items()))
+                return f"{kid.lower()}:{key.lower()}"
         if ':' in decoded:
             parts = decoded.split(':', 1)
-            if len(parts) == 2:
-                return f"{parts[0].lower().strip()}:{parts[1].lower().strip()}"
-        
+            return f"{parts[0].lower()}:{parts[1].lower()}"
         return None
-    except Exception as e:
-        print(f"  [ERRORE] decode_clear_key fallita: {str(e)}")
+    except:
         return None
 
 
@@ -131,101 +107,61 @@ def attempt_login(base_url):
     return False, None
 
 
-# ---------------- ESTRAI MPD + CLEARKEY + HEADERS ----------------
+# ---------------- ESTRAI SOLO MPD ----------------
 def extract_mpd(player_html, titolo):
-    # PRIORITÀ 1: chrome-extension pattern
-    pattern_chrome = r'chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player\.html#([^#]+)'
+    # PRIORITÀ 1: Pattern chrome-extension ...#https...mpd...ck=...
+    pattern_chrome = r'chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player\.html#(https?://[^#]+)'
     m = re.search(pattern_chrome, player_html, re.IGNORECASE | re.DOTALL)
     
     if m:
-        fragment = unquote(m.group(1)).strip()
-        print(f"  Fragment chrome trovato → {fragment[:120]}...")
-
-        # Parsing parametri
+        fragment = m.group(1).strip()
+        
+        # Ricostruisci URL fermandoci prima di ck=
         parts = re.split(r'([?&])', fragment)
-        mpd_url_parts = []
-        params = {}
+        mpd_parts = []
+        ck_value = None
         
         i = 0
         while i < len(parts):
-            part = parts[i].strip()
-            if not part or part in ('?', '&'):
-                i += 1
-                continue
-                
-            if '=' in part:
-                key, value = part.split('=', 1)
-                key = key.lower()
-                params[key] = value
-            else:
-                mpd_url_parts.append(part)
-                
+            part = parts[i]
+            lower_part = part.lower()
+            if 'ck=' in lower_part:
+                # Estrai valore ck
+                ck_match = re.search(r'ck=([^&#]*)', part + (parts[i+1] if i+1 < len(parts) else ''))
+                if ck_match:
+                    ck_value = ck_match.group(1).strip()
+                break
+            mpd_parts.append(part)
             i += 1
-
-        candidate_url = ''.join(mpd_url_parts).rstrip('?& \t\n\r')
+        
+        candidate_url = ''.join(mpd_parts).rstrip('?& \t\n\r')
+        
+        # Accetta SOLO se sembra un vero MPD
         lower_url = candidate_url.lower()
-
         if not (lower_url.endswith('.mpd') or 'manifest.mpd' in lower_url or 'index.mpd' in lower_url):
-            print(f"  → scartato: non MPD → {candidate_url[:80]}...")
-            return None, None
-
-        print(f"  MPD valido → {candidate_url}")
-
-        # ClearKey
-        clear_key = None
-        if 'ck' in params:
-            ck_value = params['ck']
-            clear_key = decode_clear_key(ck_value)
+            print(f"  → chrome-pattern scartato: non termina con .mpd → {candidate_url[:80]}...")
+            candidate_url = None
+        
+        if candidate_url:
+            clear_key = decode_clear_key(ck_value) if ck_value else None
+            
+            print(f"  → MPD chrome-pattern valido → {candidate_url}")
             if clear_key:
                 print(f"      └─ ClearKey: {clear_key}")
-
-        # Headers custom
-        header_string = ""
-        if 'headers' in params:
-            headers_b64 = params['headers']
-            try:
-                headers_b64 += "=" * ((4 - len(headers_b64) % 4) % 4)
-                decoded_json = base64.b64decode(headers_b64).decode('utf-8', errors='ignore')
-                extra_headers = json.loads(decoded_json)
-                print("      └─ Headers decodificati OK")
-
-                header_parts = []
-                for k, v in extra_headers.items():
-                    safe_key = quote(k, safe='')
-                    safe_val = quote(str(v), safe='')
-                    header_parts.append(f"{safe_key}%3D{safe_val}")
-                
-                if header_parts:
-                    header_string = "&".join(header_parts)
-                    print(f"      Headers Kodi: {header_string[:180]}...")
-            except Exception as e:
-                print(f"      Errore headers: {str(e)[:100]}")
-
-        # Costruzione entry
-        lines = [
-            f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
-        ]
-
-        if header_string:
-            lines.append(f"#KODIPROP:inputstream.adaptive.stream_headers={header_string}")
-        else:
-            lines.append(f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}")
-
-        if clear_key:
-            lines.extend([
-                "#KODIPROP:inputstream.adaptive.license_type=clearkey",
-                f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
-            ])
-
-        lines.append(candidate_url)
-
-        msg = "MPD chrome-pattern"
-        if clear_key: msg += " + ClearKey"
-        if header_string: msg += " + custom headers"
-
-        return "\n".join(lines), msg
-
-    # FALLBACK: MPD generico
+            
+            lines = [
+                f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
+                f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
+            ]
+            if clear_key:
+                lines.extend([
+                    "#KODIPROP:inputstream.adaptive.license_type=clearkey",
+                    f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
+                ])
+            lines.append(candidate_url)
+            return "\n".join(lines), "MPD chrome-pattern"
+    
+    # PRIORITÀ 2: Cerca esplicitamente solo URL MPD nell'HTML
     mpd_patterns = [
         r'(https?://[^\s"\'<>\]\[\\]+?\.mpd(?:\?[^\s"\'<>\]\[\\]*)?)',
         r'(https?://[^\s"\'<>\]\[\\]+?/Manifest\.mpd(?:\?[^\s"\'<>\]\[\\]*)?)',
@@ -237,6 +173,7 @@ def extract_mpd(player_html, titolo):
         if matches:
             full_mpd = matches[0].strip()
             
+            # Cerchiamo ClearKey (ck=, clearkey=, key=)
             ck_match = re.search(r'(?:ck|clearkey|key)=([A-Za-z0-9+/=_-]+)', player_html, re.IGNORECASE)
             clear_key = decode_clear_key(ck_match.group(1)) if ck_match else None
             
@@ -251,18 +188,21 @@ def extract_mpd(player_html, titolo):
                 ])
             lines.append(full_mpd)
             
-            msg = "MPD generico"
-            if clear_key: msg += " + ClearKey"
-            print(f"  → {msg} → {full_mpd[:100]}...")
+            msg = "MPD generico trovato"
+            if clear_key:
+                msg += " + ClearKey"
+            print(f"  → {msg} → {full_mpd}")
+            if clear_key:
+                print(f"      └─ ClearKey: {clear_key}")
             
             return "\n".join(lines), msg
     
-    print("  Nessun MPD trovato")
+    print("  Nessun MPD valido trovato nell'HTML – scartato (probabile solo HLS o altro)")
     return None, None
 
 
 # ---------------- MAIN ----------------
-print("=== ThisNot – Solo MPD (no HLS) ===\n")
+print("=== ThisNot – Solo MPD (no HLS/m3u8) ===\n")
 
 active_domain = None
 for dom in DOMAINS:
@@ -276,14 +216,14 @@ if not active_domain:
     print("Login fallito su tutti i domini")
     sys.exit(1)
 
-print(f"Dominio attivo → {active_domain}\n")
+print(f"Dominio funzionante → {active_domain}\n")
 
 json_url = urljoin(active_domain, "/api/eventi.json")
-print("→ Carico eventi...")
+print("→ Carico eventi da API...")
 json_resp = request_url(json_url)
 
 if not json_resp or json_resp.status_code != 200:
-    print("Errore api/eventi.json")
+    print("Errore su api/eventi.json")
     sys.exit(1)
 
 data = json_resp.json()
@@ -293,8 +233,8 @@ print(f"Trovati {len(eventi)} eventi\n")
 
 m3u_lines = [
     "#EXTM3U",
-    f"# Generato {time.strftime('%Y-%m-%d %H:%M:%S')} – Solo MPD + ClearKey fix",
-    "# Nota: DASH only – HLS esclusi",
+    f"# Generato {time.strftime('%Y-%m-%d %H:%M:%S')} – ThisNot solo MPD",
+    "# Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi",
 ]
 
 success = 0
@@ -342,6 +282,6 @@ for ev in eventi:
 with open(M3U_OUTPUT, "w", encoding="utf-8") as f:
     f.write("\n".join(m3u_lines))
 
-print(f"\nFile salvato: {M3U_OUTPUT}")
-print(f"Canali aggiunti: {success} / {len(eventi)}")
-print("Script pronto – ClearKey dovrebbe ora funzionare su DAZN WARP.\n")
+print(f"\nFile salvato → {M3U_OUTPUT}")
+print(f"Canali MPD aggiunti: {success} / {len(eventi)}")
+print("Script configurato per ignorare completamente gli stream HLS (.m3u8).\n")
