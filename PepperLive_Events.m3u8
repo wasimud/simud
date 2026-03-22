@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-22 14:22
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-22 14:55
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 
@@ -86,12 +86,6 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-01-prd-l-v2/dash-ch-01-pr
 #KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="Dazn1_PT" tvg-name="DAZN 1 PT" group-title="DOMENICA 22/03", Newcastle United - Sunderland • Inghilterra - Premier League (DAZN 1 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="Dazn1_PT" tvg-name="DAZN 1 PT" group-title="DOMENICA 22/03", Aston Villa - West Ham United • Inghilterra - Premier League (DAZN 1 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
