@@ -1,5 +1,5 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-22 15:20
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-22 15:51
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 
@@ -104,12 +104,6 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="Dazn2_PT" tvg-name="DAZN 2 PT" group-title="DOMENICA 22/03", Barcelona - Rayo Vallecano • Spagna - LaLiga (DAZN 2 PT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="Dazn1_PT" tvg-name="DAZN 1 PT" group-title="DOMENICA 22/03", Athletic Club - Real Betis • Spagna - LaLiga (DAZN 1 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
