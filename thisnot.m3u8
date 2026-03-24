@@ -1,3 +1,28 @@
 #EXTM3U
-# Generato 2026-03-24 18:01:08 – ThisNot solo MPD
+# Generato 2026-03-24 19:34:53 – ThisNot solo MPD
 # Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi
+#EXTINF:-1 tvg-id="italia_-_irlanda_del_nord_ora:_20:45_(rsila2)" group-title="Qualificazioni Mondiali 2026",Italia - Irlanda del Nord Ora: 20:45 (RSILA2)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
+
+#EXTINF:-1 tvg-id="ucraina_-_svezia_ora:_20:45_(sport&bull;tv3)" group-title="Qualificazioni Mondiali 2026",Ucraina - Svezia Ora: 20:45 (Sport&bull;TV3)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="danimarca_-_macedonia_del_nord_ora:_20:45_(sport&bull;tv6)" group-title="Qualificazioni Mondiali 2026",Danimarca - Macedonia del Nord Ora: 20:45 (Sport&bull;TV6)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d319aab02a8342248cceb0fdf060bc54:b36668a836b15055be1f04b8d8a8cc70
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$566/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="repubblica_ceca_-_irlanda_ora:_20:45_(sport&bull;tv4)" group-title="Qualificazioni Mondiali 2026",Repubblica Ceca - Irlanda Ora: 20:45 (Sport&bull;TV4)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="brasile_-_francia_ora:_21:00_(sport&bull;tv1)" group-title="Amichevoli Internazionali",Brasile - Francia Ora: 21:00 (Sport&bull;TV1)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
