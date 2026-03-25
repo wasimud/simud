@@ -1,13 +1,157 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="sinner_-_medvedev_ora:_22:30_(sky_sport_tennis_(extra))" group-title="ATP Indian Wells, Finale",Sinner - Medvedev Ora: 22:30 (SKY Sport Tennis (EXTRA)) (HLS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1620.m3u8
-
-#EXTM3U
-#EXTINF:-1 tvg-id="sinner_-_medvedev_ora:_22:30_(sky_sport_tennis_(extra))" group-title="ATP Indian Wells, Finale",Sinner - Medvedev Ora: 22:30 (SKY Sport Tennis (EXTRA)) (HLS)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://sportstreaming.net/
-#EXTVLCOPT:http-origin=https://sportstreaming.net/
-https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1620.m3u8
+#EXTINF:0,Sky Cinema Uno HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148868
+#EXTINF:0,Sky Cinema Uno +1 HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148871
+#EXTINF:0,Sky Cinema Uno +24 HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148875
+#EXTINF:0,Sky Cinema Due HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148878
+#EXTINF:0,Sky Cinema Due +1 HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148880
+#EXTINF:0,Sky Cinema Due HD +24
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/464313
+#EXTINF:0,Sky Cinema Action HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148886
+#EXTINF:0,Sky Cinema Action +1 HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148887
+#EXTINF:0,Sky Cinema Collection HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148891
+#EXTINF:0,Sky Cinema Collection +1 HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148892
+#EXTINF:0,Sky Cinema Comedy HD +1
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148897
+#EXTINF:0,Sky Cinema Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148896
+#EXTINF:0,Sky Cinema Drama HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148900
+#EXTINF:0,Sky Cinema Drama  +1 HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148901
+#EXTINF:0,Sky Cinema Romance HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148908
+#EXTINF:0,Sky Cinema Romance +1 HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148909
+#EXTINF:0,Sky Cinema Suspense HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148913
+#EXTINF:0,Sky Cinema Suspense +1 HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/347242
+#EXTINF:0,Sky Cinema Family HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148904
+#EXTINF:0,Sky Cinema Family +1 HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148905
+#EXTINF:0,Sky Cinema Uno SD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148869
+#EXTINF:0,Sky Cinema Due SD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148879
+#EXTINF:0,Sky Cinema Due Sd +24
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/464314
+#EXTINF:0,Sky Cinema Romance SD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148910
+#EXTINF:0,Sky Cinema Suspense SD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148915
+#EXTINF:0,Sky Cinema Family SD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148906
+#EXTINF:0,Sky Cinema Comedy SD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148898
+#EXTINF:0,Sky Cinema Drama SD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148902
+#EXTINF:0,Sky Cinema Action SD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148888
+#EXTINF:0,Sky Cinema Collection SD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148893
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/214088
+#EXTINF:0,Sky Cinema Uno FHD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148867
+#EXTINF:0,Sky Cinema Due Fhd +24
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/464312
+#EXTINF:0,Sky Cinema Due FHD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148877
+#EXTINF:0,Sky Cinema Romance FHD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148907
+#EXTINF:0,Sky Cinema Suspence FHD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148912
+#EXTINF:0,Sky Cinema Family FHD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148903
+#EXTINF:0,Sky Cinema Uno + 24 HD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/464628
+#EXTINF:0,Sky Cinema Uno +24 FHD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/464629
+#EXTINF:0,Sky Cinema Drama FHD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148899
+#EXTINF:0,Sky Cinema Action FHD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148885
+#EXTINF:0,Sky Cinema Collection FHD
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/148890
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/632628
+#EXTINF:0,Sky Cinema Uno H265
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/449247
+#EXTINF:0,Sky Cinema Action H265
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/449249
+#EXTINF:0,Sky Cinema Collection H265
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/449250
+#EXTINF:0,Sky Cinema Comedy H265
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/449251
+#EXTINF:0,Sky Cinema Drama H265
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/449252
+#EXTINF:0,Sky Cinema Due H265
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/449248
+#EXTINF:0,Sky Cinema Family H265
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/449253
+#EXTINF:0,Sky Cinema Romance H265
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/449254
+#EXTINF:0,Sky Cinema Suspense H265
+#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/449255
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
+http://infinity.lumos.best:80/fabry/e2FgX3r/214094
