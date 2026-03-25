@@ -20,10 +20,10 @@
       "import": true
     },
     {
-      "name": "Serie A Non Sempre Funzionante",
+      "name": "Sky Completo",
       "author": "Simud",
       "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png",
-      "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/XEV.m3u8",
+      "url": "http://infinity.lumos.best/get.php?username=fabry&password=e2FgX3r&type=m3u_plus&output=ts",
       "import": true
     }
   ]
