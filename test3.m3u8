@@ -1,418 +1,314 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+
 #EXTINF:-1 tvg-id="" tvg-name="Rai 1" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vjo1Hf4W9WQrQpqZpPx4RKTKJEyzyB4_bVcVln_CxWmY.png" group-title="Standard",Rai 1
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
 https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1599.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vjo1Hf4W9WQrQpqZpPx4RKVy4gJRbX2EhiK-jt5HVs3k.png" group-title="Standard",Rai 2
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1669.m3u8
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1600.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vjo1Hf4W9WQrQpqZpPx4RKbu6Y762J9eH1kUQEuXmeEo.png" group-title="Standard",Rai 3
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1601.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1601.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Rete 4" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v3jXfFOSjztQPjfi4Stt7lWm-fBrnC1g41vxRoDShiOc.png" group-title="Standard",Rete 4
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1602.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1602.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vytlIyMQQcJ_GbepLeCzHCWmYal1sLrV8kQU9KOw3EsI.png" group-title="Standard",Canale 5
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1603.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1603.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Italia 1" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vgFVaQGUXhMXHoLAFEI7zn4S_N5wcoI2GXBNWql0YD5U.png" group-title="Standard",Italia 1
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1604.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1604.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="20 Mediaset" tvg-logo="https://xuione.sportstreaming.net:443/images/sM_ClNT0JLUUkHFfE2FCISzWDkr5oHJojk6wpkkJCEvl7yDLb4YgQdjbCygSuqYyi3qyIfT2H2JNR1g75NzBTYEvQ3_cjPhjyRBwoGH0V2Q.png" group-title="Standard",20 Mediaset
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1667.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1667.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Uno" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E1Tprkb9-oBWBlrNAQ3gY-qlJ77sv0sCCWMuyw3y88YC.png" group-title="Sky Sport",Sky Sport Uno
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1606.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1606.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Max" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E_zMmm35rkJEPZx9qyLrB1Er1sHq1fFui1haKtl4A8oG.png" group-title="Sky Sport",Sky Sport Max
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1607.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1607.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Arena" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5EwrxoHb5hVVDVySBGevf_6quTs_qdVW75iWU4nKHPxhN.png" group-title="Sky Sport",Sky Sport Arena
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1608.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1608.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Calcio" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E83GX7LjTjV0nSReLYURmzlqCAoK3vOJOun_e_MKI_-N.png" group-title="Sky Sport",Sky Sport Calcio
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1609.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1609.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky sport 251" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E0QcKn5xWa4wEiNXa8pHAjzAlpFEjp5FiVuqRrIdxyAp.png" group-title="Sky Sport",Sky sport 251
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1610.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1610.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 252" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E1kZ-urcAaVuEZq2MELiYhCuxEgcCgp7AhqfPHtMNv6B.png" group-title="Sky Sport",Sky Sport 252
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1611.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1611.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 253" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5EyKYDwZjmYosC94uLEKPbpV9VvCb5opsje7Z6QGFhGNB.png" group-title="Sky Sport",Sky Sport 253
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1612.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1612.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 254" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E5zbGvOWvkjGMuoIlzBSD5K6WPvk4v_4ucTDQmz60NAV.png" group-title="Sky Sport",Sky Sport 254
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1613.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1613.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 255" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E7hEaBDXh5_PKc_VOT-vRRMp5hw8cmo5BuaAVFIynyQQ.png" group-title="Sky Sport",Sky Sport 255
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1614.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1614.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 256" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E4cHOa7FIbwPLekxIJua-QvMR9Lh2TK98-LRc3wnbFzk.png" group-title="Sky Sport",Sky Sport 256
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1615.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1615.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 257" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E6FMadpEuk1hJLF-28lbljMJ7dNS0_QKNiI3oantVu-G.png" group-title="Sky Sport",Sky Sport 257
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1616.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1616.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 258" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E42TN6DA2ZZAYmJxY18jo9FRbLCwwWxHGCswu_pJMxzs.png" group-title="Sky Sport",Sky Sport 258
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1617.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1617.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 259" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E8m5qBdIasysiC-kXGnePACXqhs1GIyEPzjA-j7iVRZG.png" group-title="Sky Sport",Sky Sport 259
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1618.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1618.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E1IgnbaCRCnqjK-m0ee2th0.png" group-title="Sky Sport",Sky Sport 24
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1619.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1619.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E8dmGRlU5d54qnm5yfMrAMA.png" group-title="Sky Sport",Sky Sport F1
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1620.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1620.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport MotoGP" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E9LjytcVsTzn2UyEu1Eapriq4q-L5qJ4rSXB0gblaH4U.png" group-title="Sky Sport",Sky Sport MotoGP
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1621.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1621.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Basket" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E4XMTt2sSbEAXZIt2LA4i4f-B_YD9FF-tXuLep6yDAQ8.png" group-title="Sky Sport",Sky Sport Basket
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1622.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1622.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Tennis" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E-jN7UcSe5WhrZUFhR2OJIYcCSG60P44J81hYCO6jno4.png" group-title="Sky Sport",Sky Sport Tennis
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1623.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1623.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Golf" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70v2vBf5ySkmMTa8W4-_vc5E8kKkiuiHyiLYelb6XcfVAQ5TD6P_IBrhxVbDmkIzjE5.png" group-title="Sky Sport",Sky Sport Golf
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1666.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1666.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Mix" tvg-logo="https://xuione.sportstreaming.net:443/images/sM_ClNT0JLUUkHFfE2FCISzWDkr5oHJojk6wpkkJCEvl7yDLb4YgQdjbCygSuqYyH9Bc5E33wTHrCXykj90xfzQrwb4GrRxPjY6GFkXPISGfNvc8YtGyqAxZ7-0yi4nU.png" group-title="Sky Sport",Sky Sport Mix
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1669.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1669.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="" group-title="Eurosport",Eurosport 1
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1707.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1707.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="" group-title="Eurosport",Eurosport 2
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1708.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1708.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Zona Serie A" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoRYzex8d8fwqjCYDpNfyjqEdiWkswEnZaRM7j2lQNsyJ.png" group-title="Dazn Serie A",Zona Serie A
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1624.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1624.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Atalanta" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoTjPQdSXYaC_lkTt0VTp6weH1JoI3nMovN7J6_IlgvBf.png" group-title="Dazn Serie A",Atalanta
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1625.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1625.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Bologna" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoZu3VTbwmEwpyZ7iU-Kih0c.png" group-title="Dazn Serie A",Bologna
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1626.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1626.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Cagliari" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoWo96zqzeeJ2Vcaa5NW8ORNRT1e7vSzCRUlrg4RAb_yD.png" group-title="Dazn Serie A",Cagliari
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1627.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1627.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Fiorentina" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLocZpNUvok0q-oEBsH3R8tyDeJLHUFwMPeq_eAUmKqQzs.png" group-title="Dazn Serie A",Fiorentina
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1630.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1630.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Genoa" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoU5T3RaMSha8uoLkwchJk20.png" group-title="Dazn Serie A",Genoa
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1631.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1631.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Hellas Verona" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoWm1yDahqVXbzhRQBjhRJ7IN3NuVjZWznpxCH_KSOG8D.png" group-title="Dazn Serie A",Hellas Verona
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1632.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1632.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Inter" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoQ3KfShj09ff7_byqn3-Jzo.png" group-title="Dazn Serie A",Inter
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1633.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1633.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Juventus" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoT1ZnqEiuqGP3KWzx7T0Y0U52DBTORD-B2ANCIebGAsL.png" group-title="Dazn Serie A",Juventus
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1634.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1634.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Lazio" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoZwQ9MjecO5AFQh8bIa2ywY.png" group-title="Dazn Serie A",Lazio
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1635.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1635.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Lecce" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoQ6ndV7ewJr7sUEOry3mAWg.png" group-title="Dazn Serie A",Lecce
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1636.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1636.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Milan" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoZALbMcWVVnLFOujptb2uMA.png" group-title="Dazn Serie A",Milan
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1637.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1637.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Napoli" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoXa5hwZxAYaU9mLgc-FuI3Y.png" group-title="Dazn Serie A",Napoli
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1639.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1639.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Parma" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoasWBtPJMAuS4lrwuoFitYM.png" group-title="Dazn Serie A",Parma
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1640.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1640.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Roma" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoaQE-QfYXfyVXdeSz4eZUHw.png" group-title="Dazn Serie A",Roma
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1641.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1641.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Torino" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoV28X25MNfMVrNM7Z2a1nrc.png" group-title="Dazn Serie A",Torino
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1642.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1642.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Udinese" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoU0XgIKlMngn1iFgiLmEhlM.png" group-title="Dazn Serie A",Udinese
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1643.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1643.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sassuolo" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoZo33GcjIySj94kwxvNxbE4-3uTEQpLnf0LRFRq36h7n.png" group-title="Dazn Serie A",Sassuolo
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1663.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1663.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Pisa" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoeAvgdIjYsof-I1shFjjgcM.png" group-title="Dazn Serie A",Pisa
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1659.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1659.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Cremonese" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoTt1Y4i-R6ZHxlO_SQYtUjfwRJVnkkBifJeS4b37KwFj.png" group-title="Dazn Serie A",Cremonese
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1653.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1653.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Como" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLofYzFEmGzazkpbmhllFrDC0.png" group-title="Dazn Serie A",Como
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1628.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1628.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Zona Serie B" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoeVTwdgjE95k4E-8SpozhXOKw7f5zE8GtLxLsn46l9YO.png" group-title="Dazn Serie B",Zona Serie B
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1645.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1645.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Bari" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoWjux38EDPJGSJFeleSI1AE.png" group-title="Dazn Serie B",Bari
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1646.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1646.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Pescara" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoYfEFFKfhiUe5vFRUQXLpx4.png" group-title="Dazn Serie B",Pescara
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1647.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1647.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Carrarese" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoY1fknljsRElxEiqwgZ1JFOb5z53JVygyJeX9wAUBs49.png" group-title="Dazn Serie B",Carrarese
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1648.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1648.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Catanzaro" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoZMhD2dQAi7buzSftsH228O1CjlfPim9RJHZnCaGmmUP.png" group-title="Dazn Serie B",Catanzaro
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1649.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1649.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Cesena" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoRFhd6wpJaKZnWTNMpyjtM8.png" group-title="Dazn Serie B",Cesena
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1650.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1650.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Virtus Entella" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoXpdGS2T9xXnBJSS_XRLsUDpboSqDmd2o_HAJHId6t73.png" group-title="Dazn Serie B",Virtus Entella
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1651.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1651.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Avellino" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoaz6QMXt_U3wd2zPjF-ujqksVNzd9iPpfEwGvu13X7-Q.png" group-title="Dazn Serie B",Avellino
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1652.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1652.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Frosinone" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoShXBZzRqZFdVtBMDcdNH9esxeroWiTfSfKRWR7Fy2ZG.png" group-title="Dazn Serie B",Frosinone
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1654.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1654.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Juve Stabia" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLobzLGEUKZnzfVLScPvCfCRqZpEdAvnATLQ42x5gNTjwL.png" group-title="Dazn Serie B",Juve Stabia
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1655.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1655.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Mantova" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoVjUwaGR6eHXfp2W_OF0IZ8.png" group-title="Dazn Serie B",Mantova
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1656.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1656.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Modena" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoQaz9U25ZXglR7LwufHy8OE.png" group-title="Dazn Serie B",Modena
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1657.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1657.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Palermo" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLod7_8wSJ4NR79zw9oiaxpgE.png" group-title="Dazn Serie B",Palermo
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1658.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1658.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Reggiana" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoZQyuc7NOOkQXU5E3N8OUrITGdncgyqw9fA9A-TeugQC.png" group-title="Dazn Serie B",Reggiana
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1660.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1660.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sampdoria" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoT1K-Z4Wy2XjrNh7XKrxgO_YY4GB5DgWJCXEEEevXPMD.png" group-title="Dazn Serie B",Sampdoria
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1661.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1661.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Padova" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLofb3KkZDCi7-naWoa_X6n94.png" group-title="Dazn Serie B",Padova
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1662.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1662.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Spezia" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoY7V3hT2dBJl2snXJ8EM51c.png" group-title="Dazn Serie B",Spezia
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1664.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1664.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sudtirol" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoQ6JiHSQaiLJo-0JD-7425nMLbIoBC4mjY167LXQbDUr.png" group-title="Dazn Serie B",Sudtirol
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1665.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1665.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Empoli" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoYgfeHBGgkSfb1m3FiTxNQ4.png" group-title="Dazn Serie B",Empoli
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1629.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1629.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Monza" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLoYrqR67NSh_BGRiupvPeMTk.png" group-title="Dazn Serie B",Monza
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1638.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1638.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Venezia" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vD4nfd3j_jwwNpZgkYviLocDbPWoe5ahQRL0DMm3BmR4.png" group-title="Dazn Serie B",Venezia
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1644.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1644.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Eventi" tvg-logo="https://xuione.sportstreaming.net:443/images/VmWzBFtnrvZybBSoEbFNL-rZ1QHTR7vff-fAeM0wBRsWqEvl4uYvBdD7nuK4v70vhapcy3DX-MwjHg8O7O9Y07EKbvJbYUCc3_NPT7oPFMfhVGNVuCdIwI2URs92MDnH.png" group-title="Amazon Prime",Amazon Prime Eventi
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1605.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1605.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Uno" tvg-logo="" group-title="Sky Intrattenimento",Sky Uno
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1670.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1670.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Serie" tvg-logo="" group-title="Sky Intrattenimento",Sky Serie
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1671.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1671.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic" tvg-logo="" group-title="Sky Intrattenimento",Sky Atlantic
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1672.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1672.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Investigation" tvg-logo="" group-title="Sky Intrattenimento",Sky Investigation
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1673.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1673.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Documentaries" tvg-logo="" group-title="Sky Intrattenimento",Sky Documentaries
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1674.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1674.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Nature" tvg-logo="" group-title="Sky Intrattenimento",Sky Nature
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1675.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1675.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Arte" tvg-logo="" group-title="Sky Intrattenimento",Sky Arte
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1676.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1676.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Crime" tvg-logo="" group-title="Sky Intrattenimento",Sky Crime
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1677.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1677.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Adventure" tvg-logo="" group-title="Sky Intrattenimento",Sky Adventure
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1678.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1678.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky TG24" tvg-logo="" group-title="Sky Intrattenimento",Sky TG24
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1679.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1679.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno" tvg-logo="" group-title="Sky Cinema",Sky Cinema Uno
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1680.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1680.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due" tvg-logo="" group-title="Sky Cinema",Sky Cinema Due
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1681.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1681.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action" tvg-logo="" group-title="Sky Cinema",Sky Cinema Action
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1682.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1682.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Suspense" tvg-logo="" group-title="Sky Cinema",Sky Cinema Suspense
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1683.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1683.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family" tvg-logo="" group-title="Sky Cinema",Sky Cinema Family
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1684.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1684.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Collection" tvg-logo="" group-title="Sky Cinema",Sky Cinema Collection
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1685.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1685.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Romance" tvg-logo="" group-title="Sky Cinema",Sky Cinema Romance
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1686.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1686.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Drama" tvg-logo="" group-title="Sky Cinema",Sky Cinema Drama
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1687.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1687.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy" tvg-logo="" group-title="Sky Cinema",Sky Cinema Comedy
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1688.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1688.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Uno +24" tvg-logo="" group-title="Sky Cinema",Sky Cinema Uno +24
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1689.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1689.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Due +24" tvg-logo="" group-title="Sky Cinema",Sky Cinema Due +24
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1690.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1690.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Vetrina Sky Primafila Premiere" tvg-logo="" group-title="Sky Primafila",Vetrina Sky Primafila Premiere
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1691.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1691.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 1" tvg-logo="" group-title="Sky Primafila",Sky Primafila Premiere 1
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1692.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1692.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 2" tvg-logo="" group-title="Sky Primafila",Sky Primafila Premiere 2
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1693.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1693.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 3" tvg-logo="" group-title="Sky Primafila",Sky Primafila Premiere 3
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1694.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1694.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 4" tvg-logo="" group-title="Sky Primafila",Sky Primafila Premiere 4
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1695.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1695.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 5" tvg-logo="" group-title="Sky Primafila",Sky Primafila Premiere 5
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1696.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1696.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 6" tvg-logo="" group-title="Sky Primafila",Sky Primafila Premiere 6
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1697.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1697.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 7" tvg-logo="" group-title="Sky Primafila",Sky Primafila Premiere 7
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1698.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1698.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 8" tvg-logo="" group-title="Sky Primafila",Sky Primafila Premiere 8
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1699.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1699.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 9" tvg-logo="" group-title="Sky Primafila",Sky Primafila Premiere 9
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1700.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1700.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Primafila Premiere 10" tvg-logo="" group-title="Sky Primafila",Sky Primafila Premiere 10
-#EXTVLCOPT:http-referrer=https://xuione.sportstreaming.net/
-#EXTVLCOPT:http-origin=https://xuione.sportstreaming.net/
-https://xuione.sportstreaming.net:443/SportStreaming/9PnkeSBnf5/1701.ts
+https://xuione.sportstreaming.net/SportStreaming/9PnkeSBnf5/1701.m3u8
