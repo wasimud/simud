@@ -1,2 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Turchia - Romania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/232/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Diretta Goal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/232/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Galles - Bosnia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/236/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
