@@ -1,1 +1,105 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="Estero",Rai 1
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTINF:-1 group-title="Estero",Rai 1 Europa
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rai 2
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+#EXTINF:-1 group-title="Estero",Rai 2 Europa
+https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rai 3
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+#EXTINF:-1 group-title="Estero",Rai 3 Europa
+https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rete 4
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+#EXTINF:-1 group-title="Estero",Rete 4 HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/Ol99_RE1iROi
+#EXTINF:-1 group-title="Estero",Canale 5
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+#EXTINF:-1 group-title="Estero",Canale 5 HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/vNKkQE0fSrYM
+#EXTINF:-1 group-title="Estero",Italia 1
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+#EXTINF:-1 group-title="Estero",Italia 1 HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/Ex0NbXKB8Y17
+#EXTINF:-1 group-title="Estero",La 7
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1 group-title="Estero",Nove
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
+#EXTINF:-1 group-title="Estero",Mediaset 20 HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/GZdCk7hhCCLE
+#EXTINF:-1 group-title="Estero",Iris HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/IWG_9KyBx_Sp
+#EXTINF:-1 group-title="Estero",Italia 2 HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/ZX_ao7M9ynGl
+#EXTINF:-1 group-title="Estero",La5 HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/OoDKKSiw4eha
+#EXTINF:-1 group-title="Estero",27 HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/tzPuEawCE8e4
+#EXTINF:-1 group-title="Estero",La 7d
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 group-title="Estero",Focus HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/O_xPhNCEQLuL
+#EXTINF:-1 group-title="Estero",TOPCrime HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/HObh2oiFcSME
+#EXTINF:-1 group-title="Estero",DMAX
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
+#EXTINF:-1 group-title="Estero",RAI World Premium
+https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8
+#EXTINF:-1 group-title="Estero",Boing HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/EoaTi__ShLVF
+#EXTINF:-1 group-title="Estero",Cartoonito HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/2gLXeKWBkATm
+#EXTINF:-1 group-title="Estero",Rai Gulp
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+#EXTINF:-1 group-title="Estero",Rai Scuola
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+#EXTINF:-1 group-title="Estero",Rai Scuola Europa
+https://ilglobotv-live.akamaized.net/channels/RAIScuola/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rai Storia
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
+#EXTINF:-1 group-title="Estero",Rai Storia Europa
+https://ilglobotv-live.akamaized.net/channels/RAIStoria/Live.m3u8
+#EXTINF:-1 group-title="Estero",Mediaset Extra HD Europa
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/RpIYZbFXFFK3
+#EXTINF:-1 group-title="Estero",Rai News 24
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+#EXTINF:-1 group-title="Estero",TGCOM24
+https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
+#EXTINF:-1 group-title="Estero",TGCOM24 HD World
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://link.api.eu.theplatform.com/s/PR1GhC/Ikbk_1BAQQ_Y
+#EXTINF:-1 group-title="Estero",RAI News 24 Europa HD
+https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rai Sport
+https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+#EXTINF:-1 group-title="Estero",Rai Italia Europa
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rai Italia America
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rai Italia Australia
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8
+#EXTINF:-1 group-title="Estero",Mediaset Italia - Europa e Africa
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia_EU/Live.m3u8
+#EXTINF:-1 group-title="Estero",Mediaset Italia - America
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia_US/Live.m3u8
+#EXTINF:-1 group-title="Estero",Mediaset Italia - Australia e Asia
+https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
+#EXTINF:-1 group-title="Estero",Rete Italia
+https://ilglobotv-live.akamaized.net/channels/ReteItaliaTV/Live.m3u8
+#EXTINF:-1 group-title="Estero",LA7 Italia
+https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
