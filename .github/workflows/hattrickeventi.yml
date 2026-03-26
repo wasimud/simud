@@ -3,7 +3,7 @@ name: Hattrick Eventi APP Scraper
 on:
   workflow_dispatch:  
   schedule:
-    - cron: '*/5 * * *'  # Esegue ogni 8 ore (es. 00:00, 08:00, 16:00 UTC)# Solo esecuzione manuale dal pannello Actions
+    - cron: '0 */6 * * *'  # Esegue ogni 8 ore (es. 00:00, 08:00, 16:00 UTC)# Solo esecuzione manuale dal pannello Actions
 
 jobs:
   scrape:
