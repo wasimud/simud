@@ -3,6 +3,108 @@
 #EXT-X-ALLOW-CACHE:YES
 #PLAYLIST:PepperLive MPD - Sky/DAZN/Altri
 
+#EXTINF:-1 tvg-id="SPORTUNO" group-title="PepperLive MPD", Sky Sport Uno 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774269464_f~0_g~1_s~517b4897-e284-4777-bc96-c8e5b8667279_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~f648233737f5577a0d5f894b3b1591d3/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="SPORTCALCIO" group-title="PepperLive MPD", Sky Sport Calcio 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774284032_f~0_g~1_s~5dd08e26-751a-4aef-bb09-bbf9dca07bdb_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~0a4ac1aeb39595d60511836ca98c2ca5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="SPORTF1" group-title="PepperLive MPD", Sky Sport F1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774104021_f~0_g~1_s~f4edb805-c519-4d91-b664-76ecfce23d56_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~8eda43a7c97f0b794a2d32a8293c979d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="SPORTTENNIS" group-title="PepperLive MPD", Sky Sport Tennis 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118b59519d9199b9187d437a72e7b4c:1f24a6f4ce7cad6cc4f6b67faa52acda
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1774366629_s~1aa21eb7-3db1-49c0-897e-10aca7621b74_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_l~60_x~57aa725aa9fee05693083c2a61b85114b3312af482daf22f000ac1db309c72a1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="Sport_DAZN" group-title="PepperLive MPD", DAZN Eventi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1af497cf8913612162889498b9527772:a316eae8fe63dbeadadb30aec2dcf90c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mmd3uu1so9/out/v1/7e9f3994739f45d598c946b4e99d3428/cenc.mpd
+
+#EXTINF:-1 tvg-id="SPORT251" group-title="PepperLive MPD", Sky Sport 251 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11181e7f856e3b9eb0a315ca42e8d281:96bd93740aa0b2b3b10d6881bb806d1e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774374001_f~0_g~1_s~4735d4d9-acdd-40c2-8271-9f13d2c2f5c9_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~615073874240395d1459e667f8d0ed59/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport251)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="Dazn1_WARP" group-title="PepperLive MPD", DAZN Warp (Funzionante Su Determinate Connessioni)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web&headers=eyJkYXpuLXRva2VuIjoic3QlM0QxNzc0MTc5MTIyfmV4cCUzRDE3NzQyNjU1MjJ%2BYWNsJTNELyUyQX5pZCUzRDBjZjUwNzQ2YzJiN35kYXRhJTNEcHJvdG8lM0RkYXNoJTIzY291bnRyeSUzRGl0JTIzYXNuJTNEMTMzMzUlMjNwYXRoJTNEMXMlMkMyZCUyM2hhc2hwJTNENzE0NmQzZGVhNzAwNDRmOGQxOTE0OTRjYmFmOWIxNzA1MzkwNTk1NTFhODAxNDU4ZjdlOTE5M2RkZWY3ODM1ZCUyM2hhc2h1YSUzRDI4NmZjN2UzMmI3YjY3ZDBiYWEyYjU0YWNhZTliMTBjMTU2MTMxY2VlZWZmNDk0ZDUwNjg4OTkzMTY5ZTJjMGV%2BaG1hYyUzRDk0NjRhMDUzNWNiZGEzY2EyMjg3Y2MzMDI5ZWE3YTIwYWQ4YWUyNjE4MjBkYTE1OWEzNzdmYzYxOTI3ZDQ5ZDUiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3LmRhem4uY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmRhem4uY29tIn0
+
+#EXTINF:-1 tvg-id="Canale5" group-title="PepperLive MPD", Canale 5 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Italia1" group-title="PepperLive MPD", Italia 1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Rai1" group-title="PepperLive MPD", Rai1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f9f6e3c78b2486f9fe13e06bdb768d2:b341c1136a3738f3a6ea197d31fab35c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09101/stb-dash-fhd-avc/SV09101.mpd
+
+#EXTINF:-1 tvg-id="PRIME" group-title="PepperLive MPD", Prime Video Sport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3762bc90acca0c4315a593c89596f00:07dc584ae7369bb0922b29b0a9c48793
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f23odcmyjy/out/v1/e07e56174e8f4a409656db31f165b985/cenc.mpd
+
+#EXTINF:-1 tvg-id="LAB1" group-title="PepperLive MPD", LAB1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c4bb6a9160de1bc9cc8812791c044fa:3dc94d1faeaadecd83dc78e48188ba49
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/orr2lcfudt/out/v1/9ff05632d58e474383cc46f623960448/cenc.mpd
+
+#EXTINF:-1 tvg-id="SerieB" group-title="PepperLive MPD", SerieB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
+
+#EXTINF:-1 tvg-id="LAB1_WARP" group-title="PepperLive MPD", LAB1_WARP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c4bb6a9160de1bc9cc8812791c044fa:3dc94d1faeaadecd83dc78e48188ba49
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/orr2lcfudt/out/v1/9ff05632d58e474383cc46f623960448/cenc.mpd
+
+#EXTINF:-1 tvg-id="SportTV1" group-title="PepperLive MPD", Sport TV 1 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="SportTV2" group-title="PepperLive MPD", Sport TV 2 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="SportTV3" group-title="PepperLive MPD", Sport TV 3 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
 #EXTINF:-1 tvg-id="SportTV4" group-title="PepperLive MPD", Sport TV 4 PT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
@@ -14,6 +116,30 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&
 #KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="Dazn1_PT" group-title="PepperLive MPD", DAZN 1 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="Dazn2_PT" group-title="PepperLive MPD", DAZN 2 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="Dazn3_PT" group-title="PepperLive MPD", DAZN 3 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="Dazn4_PT" group-title="PepperLive MPD", DAZN 4 PT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b6e5fe5b1d140b092e22cc662088276:6bdd76adbc5bb25089983b2500dde7ca
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="NovaSP1" group-title="PepperLive MPD", Nova Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -87,36 +213,6 @@ https://svc40.main.sl.t-online.de/LCID3221228134.originalserver.prod.sngtv.t-onl
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://svc40.main.sl.t-online.de/LCID3221228174.originalserver.prod.sngtv.t-online.de/PLTV/88888888/224/3221228174/3221228174.mpd
 
-#EXTINF:-1 tvg-id="Dazn1_PT" group-title="PepperLive MPD", DAZN 1 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="Dazn2_PT" group-title="PepperLive MPD", DAZN 2 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3805cd533c1341a7934d13629eb7a34e:2542564928cb8e3fe4595ab8dcfd6e77
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$522/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="Dazn3_PT" group-title="PepperLive MPD", DAZN 3 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7224f2a6a14a4d88874d10dd953c88dc:9719ea238d3de66eb073ce842814f464
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$523/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="Dazn4_PT" group-title="PepperLive MPD", DAZN 4 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b6e5fe5b1d140b092e22cc662088276:6bdd76adbc5bb25089983b2500dde7ca
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$524/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="Dazn1_WARP" group-title="PepperLive MPD", DAZN Warp (Funzionante Su Determinate Connessioni)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://dct-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web&headers=eyJkYXpuLXRva2VuIjoic3QlM0QxNzc0MTc5MTIyfmV4cCUzRDE3NzQyNjU1MjJ%2BYWNsJTNELyUyQX5pZCUzRDBjZjUwNzQ2YzJiN35kYXRhJTNEcHJvdG8lM0RkYXNoJTIzY291bnRyeSUzRGl0JTIzYXNuJTNEMTMzMzUlMjNwYXRoJTNEMXMlMkMyZCUyM2hhc2hwJTNENzE0NmQzZGVhNzAwNDRmOGQxOTE0OTRjYmFmOWIxNzA1MzkwNTk1NTFhODAxNDU4ZjdlOTE5M2RkZWY3ODM1ZCUyM2hhc2h1YSUzRDI4NmZjN2UzMmI3YjY3ZDBiYWEyYjU0YWNhZTliMTBjMTU2MTMxY2VlZWZmNDk0ZDUwNjg4OTkzMTY5ZTJjMGV%2BaG1hYyUzRDk0NjRhMDUzNWNiZGEzY2EyMjg3Y2MzMDI5ZWE3YTIwYWQ4YWUyNjE4MjBkYTE1OWEzNzdmYzYxOTI3ZDQ5ZDUiLCJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwicmVmZXJlciI6Imh0dHBzOi8vd3d3LmRhem4uY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmRhem4uY29tIn0
-
 #EXTINF:-1 tvg-id="BUNDESLIGA1" group-title="PepperLive MPD", BUNDESLIGA1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d3c7ffea0de6ab2d4b0dc8c53b91051:d8d8e40f7e3b0b1b40aeeeedeeb9249c
@@ -175,6 +271,24 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-pr
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd?headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
 
+#EXTINF:-1 tvg-id="LBATV4" group-title="PepperLive MPD", LBATV4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd?headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
+
+#EXTINF:-1 tvg-id="LBATV5" group-title="PepperLive MPD", LBATV5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd?headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
+
+#EXTINF:-1 tvg-id="LBATV6" group-title="PepperLive MPD", LBATV6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb6fce8df9b2300887c84f1aabf22319:3c49f225d443e1b27b85fa0731a75df2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-06-prd-l-v2/dash-ch-06-prd-l-hd/index.mpd?headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
+
 #EXTINF:-1 tvg-id="ELEVEN4" group-title="PepperLive MPD", Eleven Sports 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e943ad288964c77917cc654fc60d109:18cf07106507f411210c4a26d901a9e4
@@ -199,84 +313,6 @@ https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://cdn-s-lb2.pluscdn.pl/ch/1457736/145/dash/58566515/live.mpd
 
-#EXTINF:-1 tvg-id="Sport_DAZN" group-title="PepperLive MPD", DAZN Eventi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1af497cf8913612162889498b9527772:a316eae8fe63dbeadadb30aec2dcf90c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mmd3uu1so9/out/v1/7e9f3994739f45d598c946b4e99d3428/cenc.mpd
-
-#EXTINF:-1 tvg-id="SPORT251" group-title="PepperLive MPD", Sky Sport 251 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11181e7f856e3b9eb0a315ca42e8d281:96bd93740aa0b2b3b10d6881bb806d1e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774374001_f~0_g~1_s~4735d4d9-acdd-40c2-8271-9f13d2c2f5c9_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~615073874240395d1459e667f8d0ed59/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport251)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="PRIME" group-title="PepperLive MPD", Prime Video Sport
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3762bc90acca0c4315a593c89596f00:07dc584ae7369bb0922b29b0a9c48793
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f23odcmyjy/out/v1/e07e56174e8f4a409656db31f165b985/cenc.mpd
-
-#EXTINF:-1 tvg-id="LAB1" group-title="PepperLive MPD", LAB1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c4bb6a9160de1bc9cc8812791c044fa:3dc94d1faeaadecd83dc78e48188ba49
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/orr2lcfudt/out/v1/9ff05632d58e474383cc46f623960448/cenc.mpd
-
-#EXTINF:-1 tvg-id="SerieB" group-title="PepperLive MPD", SerieB
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
-
-#EXTINF:-1 tvg-id="LAB1_WARP" group-title="PepperLive MPD", LAB1_WARP
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c4bb6a9160de1bc9cc8812791c044fa:3dc94d1faeaadecd83dc78e48188ba49
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/orr2lcfudt/out/v1/9ff05632d58e474383cc46f623960448/cenc.mpd
-
-#EXTINF:-1 tvg-id="LBATV5" group-title="PepperLive MPD", LBATV5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd?headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
-
-#EXTINF:-1 tvg-id="LBATV6" group-title="PepperLive MPD", LBATV6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb6fce8df9b2300887c84f1aabf22319:3c49f225d443e1b27b85fa0731a75df2
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-06-prd-l-v2/dash-ch-06-prd-l-hd/index.mpd?headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
-
-#EXTINF:-1 tvg-id="LBATV4" group-title="PepperLive MPD", LBATV4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd?headers=eyJyZWZlcmVyIjoiaHR0cHM6Ly93d3cubGJhdHYuY29tLyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3LmxiYXR2LmNvbSIsInVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDMuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDMuMCJ9
-
-#EXTINF:-1 tvg-id="SPORTUNO" group-title="PepperLive MPD", Sky Sport Uno 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774269464_f~0_g~1_s~517b4897-e284-4777-bc96-c8e5b8667279_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~f648233737f5577a0d5f894b3b1591d3/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="SPORTCALCIO" group-title="PepperLive MPD", Sky Sport Calcio 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774284032_f~0_g~1_s~5dd08e26-751a-4aef-bb09-bbf9dca07bdb_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~0a4ac1aeb39595d60511836ca98c2ca5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="SPORTF1" group-title="PepperLive MPD", Sky Sport F1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774104021_f~0_g~1_s~f4edb805-c519-4d91-b664-76ecfce23d56_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~8eda43a7c97f0b794a2d32a8293c979d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="SPORTTENNIS" group-title="PepperLive MPD", Sky Sport Tennis 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118b59519d9199b9187d437a72e7b4c:1f24a6f4ce7cad6cc4f6b67faa52acda
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://g006-lin-it-cmaf-prd-ak.pcdn07.cssott02.com/v~a-0-0_e~1774366629_s~1aa21eb7-3db1-49c0-897e-10aca7621b74_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_l~60_x~57aa725aa9fee05693083c2a61b85114b3312af482daf22f000ac1db309c72a1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
-
 #EXTINF:-1 tvg-id="TNTSP1" group-title="PepperLive MPD", TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
@@ -300,39 +336,3 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxuux529k/
 #KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-#EXTINF:-1 tvg-id="Canale5" group-title="PepperLive MPD", Canale 5 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Italia1" group-title="PepperLive MPD", Italia 1 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="SportTV1" group-title="PepperLive MPD", Sport TV 1 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="SportTV2" group-title="PepperLive MPD", Sport TV 2 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="SportTV3" group-title="PepperLive MPD", Sport TV 3 PT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="Rai1" group-title="PepperLive MPD", Rai1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f9f6e3c78b2486f9fe13e06bdb768d2:b341c1136a3738f3a6ea197d31fab35c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09101/stb-dash-fhd-avc/SV09101.mpd
