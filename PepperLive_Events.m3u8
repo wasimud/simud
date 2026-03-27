@@ -1,13 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-27 07:57
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-27 08:54
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SPORTUNO" tvg-name="Sky Sport Uno" group-title="VENERDÌ 27/03", F1 – Prove Libere 2 • Formula 1- GP Giappone (Sky Sport Uno)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774269464_f~0_g~1_s~517b4897-e284-4777-bc96-c8e5b8667279_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~f648233737f5577a0d5f894b3b1591d3/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SportTV4" tvg-name="SportTV4" group-title="VENERDÌ 27/03", Moto3 - prove libere 1 • Motomondiale - GP Brasile (SportTV4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
