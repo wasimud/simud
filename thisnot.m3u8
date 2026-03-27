@@ -1,27 +1,11 @@
 #EXTM3U
-# Generato 2026-03-27 21:45:30 – ThisNot solo MPD
+# Generato 2026-03-27 22:42:16 – ThisNot solo MPD
 # Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi
-#EXTINF:-1 tvg-id="olanda_-_norvegia_ora:_20:45_(npo3)" group-title="Amichevoli Internazionali",Olanda - Norvegia Ora: 20:45 (NPO3)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw4240008001_49452605/PLTV/42/224/3221236925/3221236925.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=%7E%7EV2.0%7EWT8U_eIPMrEB0VzaEZLkvwa139c373aff0583e17f836c6b13da447%7E4HwzslRM2LJqOUtjRoxETDI84kB_zyj8fvpIrE4B2b_bJ-CgXgGEqGL_ynGkCe1eafd8207ea60c3cb9450f1d10701960c8%7EExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601192003%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601192003%2C3103_TV03%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269603231&RTS=1717269603&from=16&hms_devid=894&online=1717269603&mag_hms=894,892,1048,1049
-
-#EXTINF:-1 tvg-id="svizzera_-_germania_ora:_20:45_(rtl)" group-title="Amichevoli Internazionali",Svizzera - Germania Ora: 20:45 (RTL)
+#EXTINF:-1 tvg-id="zverev_-_sinner_ora:_00:00_(sky_sport_tennis)" group-title="ATP Miami Open, Semifinali (1)",Zverev - Sinner Ora: 00:00 (SKY Sport Tennis)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57e48b99f3f6d4f13f5c5afdcca084ca:29379a5e2d3405fad2f5d9cbe92586c3
-https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd
-
-#EXTINF:-1 tvg-id="spagna_-_serbia_ora:_20:45_(sport&bull;tv3)" group-title="Amichevoli Internazionali",Spagna - Serbia Ora: 20:45 (Sport&bull;TV3)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="motomondiale,_gp_americhe_ora:_21:00_(sky_sport_motogp)" group-title="Motomondiale",Motomondiale, GP Americhe Ora: 21:00 (SKY Sport MotoGP)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118927071722742d13bcd3fd0e7fe9d:98bbe6f18a51647a206f401148773abb
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774734056_f~0_g~1_s~73dedb6b-16d9-4d08-a92b-9613f520382f_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~704865db08027e566d3c972426f1af6c/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
+#KODIPROP:inputstream.adaptive.license_key=1118b59519d9199b9187d437a72e7b4c:1f24a6f4ce7cad6cc4f6b67faa52acda
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774726656_f~0_g~1_s~b446c5fb-864c-4e18-8bfa-e1a88559663c_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~9c1f646e0cf04c835572946ad2a13450/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="incontri_preliminari_ora:_23:00_(eurosport_1)" group-title="UFC Fight Night",Incontri Preliminari Ora: 23:00 (Eurosport 1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
