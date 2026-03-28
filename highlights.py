@@ -11,7 +11,7 @@ channels = [
 ]
 
 MAX_VIDEOS_PER_CHANNEL = 30
-OUTPUT_TXT = "videos_list.txt"
+OUTPUT_TXT = "highlights.txt"
 # ====================================================
 
 def get_latest_videos_yt_dlp(channel_url, limit=30):
