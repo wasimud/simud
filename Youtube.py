@@ -8,6 +8,10 @@ channels = [
         "name": "Giampy",
         "url": "https://www.youtube.com/@zGiampyTek/videos"
     },
+    {
+        "name": "Giampy",
+        "url": "https://www.youtube.com/@iNoobChannel/videos"
+    },
     # Aggiungi altri canali qui
     # {"name": "Nome Canale", "url": "https://www.youtube.com/@AltroCanale/videos"},
 ]
