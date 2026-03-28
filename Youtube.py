@@ -21,6 +21,34 @@ channels = [
         "url": "https://www.youtube.com/@FavijTV/videos"
     },
     {
+        "name": "Meme Official",
+        "url": "https://www.youtube.com/@MEMEofficialITA/videos"
+    },
+    {
+        "name": "Stockdroid",
+        "url": "https://www.youtube.com/@stockdroid/videos"
+    },
+    {
+        "name": "Leo",
+        "url": "https://www.youtube.com/@leo/videos"
+    },
+    {
+        "name": "Sedia",
+        "url": "https://www.youtube.com/@LaSediaa2Gambe/videos"
+    },
+    {
+        "name": "Blur",
+        "url": "https://www.youtube.com/@blurindietro/videos"
+    },
+    {
+        "name": "Marza",
+        "url": "https://www.youtube.com/@marzatv/videos"
+    },
+    {
+        "name": "Stormy",
+        "url": "https://www.youtube.com/@S7ORMyyy/videos"
+    },
+    {
         "name": "The Show",
         "url": "https://www.youtube.com/@theshowisyou/videos"
     },
@@ -28,7 +56,7 @@ channels = [
     # {"name": "Nome Canale", "url": "https://www.youtube.com/@AltroCanale/videos"},
 ]
 
-MAX_VIDEOS_PER_CHANNEL = 100
+MAX_VIDEOS_PER_CHANNEL = 200
 OUTPUT_TXT = "youtube.txt"
 # ====================================================
 
