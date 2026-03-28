@@ -12,11 +12,23 @@ channels = [
         "name": "iNoob",
         "url": "https://www.youtube.com/@iNoobChannel/videos"
     },
+    {
+        "name": "Murry",
+        "url": "https://www.youtube.com/@xMurryPwNz/videos"
+    },
+    {
+        "name": "Favij",
+        "url": "https://www.youtube.com/@FavijTV/videos"
+    },
+    {
+        "name": "The Show",
+        "url": "https://www.youtube.com/@theshowisyou/videos"
+    },
     # Aggiungi altri canali qui
     # {"name": "Nome Canale", "url": "https://www.youtube.com/@AltroCanale/videos"},
 ]
 
-MAX_VIDEOS_PER_CHANNEL = 50
+MAX_VIDEOS_PER_CHANNEL = 100
 OUTPUT_TXT = "youtube.txt"
 # ====================================================
 
