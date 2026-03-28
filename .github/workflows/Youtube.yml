@@ -3,7 +3,7 @@ name: Youtube Scraper
 on:
   workflow_dispatch:  # Permette di eseguire il workflow manualmente
   schedule:
-    - cron: '20 */2 * * *'  # Esegue ogni 8 ore (es. 00:00, 08:00, 16:00 UTC)
+    - cron: '34 */2 * * *'  # Esegue ogni 8 ore (es. 00:00, 08:00, 16:00 UTC)
 
 jobs:
   scrape:
