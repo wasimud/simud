@@ -5,14 +5,14 @@ from datetime import datetime
 # ================== CONFIGURAZIONE ==================
 channels = [
     {
-        "name": "DAZN IT",
-        "url": "https://www.youtube.com/@skysport/videos"
+        "name": "Giampy",
+        "url": "https://www.youtube.com/@zGiampyTek/videos"
     },
     # Aggiungi altri canali qui
     # {"name": "Nome Canale", "url": "https://www.youtube.com/@AltroCanale/videos"},
 ]
 
-MAX_VIDEOS_PER_CHANNEL = 30
+MAX_VIDEOS_PER_CHANNEL = 50
 OUTPUT_TXT = "youtube.txt"
 # ====================================================
 
