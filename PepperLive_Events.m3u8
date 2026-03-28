@@ -1,13 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-27 23:54
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-28 01:44
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SPORTTENNIS" tvg-name="SPORTTENNIS" group-title="VENERDÌ 27/03", Zverev - Sinner • ATP - Miami Open (SPORTTENNIS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118b59519d9199b9187d437a72e7b4c:1f24a6f4ce7cad6cc4f6b67faa52acda
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774726656_f~0_g~1_s~b446c5fb-864c-4e18-8bfa-e1a88559663c_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~9c1f646e0cf04c835572946ad2a13450/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SPORTMOTOGP" tvg-name="SPORTMOTOGP" group-title="SABATO 28/03", Moto3 - prove libere 1 • Motomondiale - GP USA (SPORTMOTOGP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
