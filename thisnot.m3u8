@@ -1,24 +1,6 @@
 #EXTM3U
-# Generato 2026-03-29 20:42:45 – ThisNot solo MPD
+# Generato 2026-03-29 21:40:33 – ThisNot solo MPD
 # ck= rimosso dall'URL MPD | ClearKey gestito separatamente
-#EXTINF:-1 tvg-id="colombia_-_francia_ora:_21:00_(sport&bull;tv1)" group-title="Amichevoli Internazionali",Colombia - Francia Ora: 21:00 (Sport&bull;TV1)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd
-
-#EXTINF:-1 tvg-id="almería_-_real_sociedad_ii_ora:_21:00_(liga_hypermotion)" group-title="La Liga 2",Almería - Real Sociedad II Ora: 21:00 (Liga Hypermotion)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTINF:-1 tvg-id="motogp,_gara_ora:_22:00_(sky_sport_motogp)" group-title="Motomondiale, GP Americhe",MotoGP, Gara Ora: 22:00 (SKY Sport MotoGP)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118927071722742d13bcd3fd0e7fe9d:98bbe6f18a51647a206f401148773abb
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824064_f~0_g~1_s~3fb875e7-08e3-41cf-ba64-d5dca1390afd_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~07d180af3c90683c05f52a9c0411f5c7/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
-
 #EXTINF:-1 tvg-id="sinner_-_lehecka_ora:_22:30_(sky_sport_tennis)" group-title="ATP Miami Open, Finale",Sinner - Lehecka Ora: 22:30 (SKY Sport Tennis)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
