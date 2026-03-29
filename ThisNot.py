@@ -3,15 +3,16 @@
 
 """
 ThisNot M3U Generator – Solo MPD (DASH) – Marzo 2026
-- Corretto estrazione chrome-extension + pulizia URL
-- Rimuove </iframe>, &headers=... e altri parametri sporchi
+- Solo MPD (.mpd)
+- Estrae ck= per ClearKey MA NON lo mette nell'URL MPD
+- Gestisce bene sia ck= normale che ck= in formato JSON base64
 """
 
 import cloudscraper
 import re
 import base64
 import json
-from urllib.parse import urljoin, quote, urlparse, parse_qs, urlencode, urlunparse
+from urllib.parse import urljoin, quote, urlparse, urlunparse, parse_qs, urlencode
 import ssl
 import urllib3
 import time
@@ -58,37 +59,52 @@ def decode_clear_key(b64_str):
     if not b64_str:
         return None
     try:
+        # Aggiungi padding
         b64_str = b64_str + "=" * ((4 - len(b64_str) % 4) % 4)
         decoded_bytes = base64.b64decode(b64_str, validate=False)
         decoded = decoded_bytes.decode('utf-8', errors='ignore').strip()
 
+        # Caso JSON: {"kid":"...","key":"..."}
         if decoded.startswith('{'):
             d = json.loads(decoded)
             if isinstance(d, dict) and d:
                 kid, key = next(iter(d.items()))
                 return f"{kid.lower()}:{key.lower()}"
+
+        # Caso già kid:key
         if ':' in decoded:
             parts = decoded.split(':', 1)
             return f"{parts[0].lower()}:{parts[1].lower()}"
+
         return None
-    except:
+    except Exception as e:
+        print(f"  Errore decode ClearKey: {str(e)}")
         return None
 
 
 def clean_mpd_url(url):
-    """ Pulisce l'URL MPD rimuovendo tag HTML, &headers= e parametri sporchi """
+    """ Rimuove ck= dall'URL MPD + pulizia generale """
     if not url:
         return None
     
-    # Rimuove tutto dopo </iframe> o altri tag HTML
-    url = re.sub(r'</?iframe.*$', '', url, flags=re.IGNORECASE)
-    url = re.sub(r'&headers=.*$', '', url)
-    url = re.sub(r'\s.*$', '', url)          # tutto dopo uno spazio
+    # Rimuove tag HTML residui
+    url = re.sub(r'</?iframe.*$', '', url, flags=re.IGNORECASE | re.DOTALL)
+    url = url.strip('"\' \t\n\r')
     
-    # Rimuove eventuali " o ' alla fine
-    url = url.strip('"\' ')
+    # Parsa l'URL e rimuove il parametro ck=
+    parsed = urlparse(url)
+    query_params = parse_qs(parsed.query)
+    query_params.pop('ck', None)          # rimuove ck se presente
+    query_params.pop('CK', None)          # caso maiuscolo
     
-    return url.strip()
+    # Ricostruisce la query senza ck
+    new_query = urlencode(query_params, doseq=True)
+    cleaned_url = urlunparse((
+        parsed.scheme, parsed.netloc, parsed.path,
+        parsed.params, new_query, parsed.fragment
+    ))
+    
+    return cleaned_url.rstrip('?&')
 
 
 def request_url(url, method="GET", data=None, timeout=15):
@@ -97,7 +113,7 @@ def request_url(url, method="GET", data=None, timeout=15):
             r = scraper.get(url, timeout=timeout, allow_redirects=True)
         else:
             r = scraper.post(url, data=data, timeout=timeout, allow_redirects=True)
-        print(f"  → {method} {url:<75} → {r.status_code}")
+        print(f"  → {method} {url:<70} → {r.status_code}")
         return r
     except Exception as e:
         print(f"  Errore {url}: {str(e)[:100]}...")
@@ -122,47 +138,45 @@ def attempt_login(base_url):
     return False, None
 
 
-# ---------------- ESTRAI MPD (VERSIONE CORRETTA) ----------------
+# ---------------- ESTRAI MPD (VERSIONE FINALE) ----------------
 def extract_mpd(player_html, titolo):
-    # PRIORITÀ 1: chrome-extension pattern (il più importante)
+    # PRIORITÀ 1: Pattern chrome-extension (il più affidabile)
     pattern_chrome = r'chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player\.html#([^#]+)'
     m = re.search(pattern_chrome, player_html, re.IGNORECASE)
     
     if m:
         fragment = m.group(1).strip()
         
-        # Estrai URL MPD (deve finire con .mpd o contenere /cenc.mpd o manifest/index.mpd)
+        # Estrai URL MPD
         mpd_match = re.search(r'(https?://[^\s#"]+?\.mpd(?:\?[^\s#"]*)?)', fragment, re.IGNORECASE)
-        
         if mpd_match:
             raw_url = mpd_match.group(1)
             clean_url = clean_mpd_url(raw_url)
             
-            if clean_url:
-                # Estrai ck=
-                ck_match = re.search(r'[?&]ck=([A-Za-z0-9+/=_-]+)', fragment, re.IGNORECASE)
-                ck_value = ck_match.group(1) if ck_match else None
-                
-                clear_key = decode_clear_key(ck_value) if ck_value else None
-                
-                print(f"  → MPD chrome-extension OK → {clean_url[:120]}...")
-                if clear_key:
-                    print(f"      └─ ClearKey: {clear_key}")
-                
-                lines = [
-                    f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
-                    f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
-                ]
-                if clear_key:
-                    lines.extend([
-                        "#KODIPROP:inputstream.adaptive.license_type=clearkey",
-                        f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
-                    ])
-                lines.append(clean_url)
-                
-                return "\n".join(lines), "MPD chrome-extension"
+            # Estrai ck= dal fragment
+            ck_match = re.search(r'[?&]ck=([A-Za-z0-9+/=_-]+)', fragment, re.IGNORECASE)
+            ck_value = ck_match.group(1) if ck_match else None
+            
+            clear_key = decode_clear_key(ck_value) if ck_value else None
+            
+            print(f"  → MPD chrome-extension → {clean_url[:130]}...")
+            if clear_key:
+                print(f"      └─ ClearKey: {clear_key}")
+            
+            lines = [
+                f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
+                f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
+            ]
+            if clear_key:
+                lines.extend([
+                    "#KODIPROP:inputstream.adaptive.license_type=clearkey",
+                    f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
+                ])
+            lines.append(clean_url)
+            
+            return "\n".join(lines), "MPD chrome-extension"
     
-    # PRIORITÀ 2: Ricerca MPD generica
+    # PRIORITÀ 2: Ricerca MPD generica nell'HTML
     mpd_patterns = [
         r'(https?://[^\s"\'<>\]]+?\.mpd(?:\?[^\s"\'<>\]]*)?)',
     ]
@@ -173,6 +187,7 @@ def extract_mpd(player_html, titolo):
             raw_url = matches[0]
             clean_url = clean_mpd_url(raw_url)
             
+            # Cerca ck= nell'intero HTML del player
             ck_match = re.search(r'(?:ck|clearkey|key)=([A-Za-z0-9+/=_-]+)', player_html, re.IGNORECASE)
             clear_key = decode_clear_key(ck_match.group(1)) if ck_match else None
             
@@ -199,7 +214,7 @@ def extract_mpd(player_html, titolo):
 
 
 # ---------------- MAIN ----------------
-print("=== ThisNot – Solo MPD (no HLS/m3u8) - Versione Corretta ===\n")
+print("=== ThisNot – Solo MPD (ck rimosso dall'URL) ===\n")
 
 active_domain = None
 for dom in DOMAINS:
@@ -231,7 +246,7 @@ print(f"Trovati {len(eventi)} eventi\n")
 m3u_lines = [
     "#EXTM3U",
     f"# Generato {time.strftime('%Y-%m-%d %H:%M:%S')} – ThisNot solo MPD",
-    "# Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi",
+    "# ck= rimosso dall'URL MPD | ClearKey gestito separatamente",
 ]
 
 success = 0
@@ -281,4 +296,4 @@ with open(M3U_OUTPUT, "w", encoding="utf-8") as f:
 
 print(f"\nFile salvato → {M3U_OUTPUT}")
 print(f"Canali MPD aggiunti: {success} / {len(eventi)}")
-print("Script aggiornato - URL MPD ora puliti correttamente.\n")
+print("Script aggiornato: ck= rimosso dall'URL MPD.\n")
