@@ -1,25 +1,13 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-29 22:25
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-29 23:01
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SPORTMOTOGP" tvg-name="SPORTMOTOGP" group-title="DOMENICA 29/03", MotoGP - gara • Motomondiale - GP USA (SPORTMOTOGP)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118927071722742d13bcd3fd0e7fe9d:98bbe6f18a51647a206f401148773abb
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774734056_f~0_g~1_s~73dedb6b-16d9-4d08-a92b-9613f520382f_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~704865db08027e566d3c972426f1af6c/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="SportTV4" tvg-name="SportTV4" group-title="DOMENICA 29/03", MotoGP - gara • Motomondiale - GP USA (SportTV4)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="SPORTTENNIS" tvg-name="SPORTTENNIS" group-title="DOMENICA 29/03", Sinner - Lehecka • WTA - Miami Open (SPORTTENNIS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1118b59519d9199b9187d437a72e7b4c:1f24a6f4ce7cad6cc4f6b67faa52acda
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774726656_f~0_g~1_s~b446c5fb-864c-4e18-8bfa-e1a88559663c_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~9c1f646e0cf04c835572946ad2a13450/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774906666_f~0_g~1_s~d1d90c3d-ea66-4460-9d54-73002b51e17f_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~4fdc4f6551f5511f99e54855f6804ea2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 PT" group-title="LUNEDÌ 30/03", New York Knicks @ Oklahoma City Thunder • Basket - NBA (Sport TV 1 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -37,7 +25,7 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774284032_f~0_g~1_s~5dd08e26-751a-4aef-bb09-bbf9dca07bdb_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~0a4ac1aeb39595d60511836ca98c2ca5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824095_f~0_g~1_s~fbcf3cf7-7a48-4c76-82a6-30348219c56d_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~e37b77e159abc74a89d123a8b79ef066/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SportTV2" tvg-name="SportTV2" group-title="LUNEDÌ 30/03", Cipro - Moldavia • Amichevole (SportTV2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -49,7 +37,7 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774284032_f~0_g~1_s~5dd08e26-751a-4aef-bb09-bbf9dca07bdb_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~0a4ac1aeb39595d60511836ca98c2ca5/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824095_f~0_g~1_s~fbcf3cf7-7a48-4c76-82a6-30348219c56d_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~e37b77e159abc74a89d123a8b79ef066/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 PT" group-title="LUNEDÌ 30/03", Germania - Ghana • Amichevole (Sport TV 1 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
