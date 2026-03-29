@@ -1,13 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-29 06:43
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-29 07:49
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="SPORTF1" tvg-name="SPORTF1" group-title="DOMENICA 29/03", F1 – Race • Formula 1- GP Giappone (SPORTF1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118dc70d4ee2bb6e694b577f09d5294:3a2afc4bd8e28a212756bbc882e64292
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824923_f~0_g~1_s~1b5b32a5-a0a3-4988-a628-d694c288d887_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~56_x~a880c861e2c6e63bb19f1f1d495ad51f/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="SPORTMOTOGP" tvg-name="SPORTMOTOGP" group-title="DOMENICA 29/03", Moto3 - gara • Motomondiale - GP USA (SPORTMOTOGP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
