@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 group-title="Estero",Rai 1
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTINF:-1 group-title="Estero",Gumball
+https://videoserver.loonex.eu/episodi/gumball/lo%20strano%20e%20meraviglioso%20mondo%20di%20gumball/s1/1x01/output.m3u8?headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4wIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xIiwicmVmZXJlciI6Imh0dHBzOi8vdmlkZW9zZXJ2ZXIubG9vbmV4LmV1Iiwib3JpZ2luIjoiaHR0cHM6Ly92aWRlb3NlcnZlci5sb29uZXguZXUifQ==
 #EXTINF:-1 group-title="Estero",Rai 1 Europa
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:-1 group-title="Estero",Rai 2
