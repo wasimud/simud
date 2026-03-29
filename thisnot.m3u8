@@ -1,27 +1,47 @@
 #EXTM3U
-# Generato 2026-03-29 10:44:33 – ThisNot solo MPD
+# Generato 2026-03-29 11:09:17 – ThisNot solo MPD
 # Nota: contiene **solo** flussi DASH (.mpd) – HLS esclusi
-#EXTINF:-1 tvg-id="incontri_preliminari_ora:_23:00_(eurosport_1)" group-title="UFC Fight Night",Incontri Preliminari Ora: 23:00 (Eurosport 1)
+#EXTINF:-1 tvg-id="benevento_-_cosenza_ora:_12:30_(sky_sport_calcio)" group-title="Serie C",Benevento - Cosenza Ora: 12:30 (SKY Sport Calcio)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=46e559c2f9f645ce8d80c7fa20446bdb:597d214d66342ee042bccffeb165e750
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824095_f~0_g~1_s~fbcf3cf7-7a48-4c76-82a6-30348219c56d_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~e37b77e159abc74a89d123a8b79ef066/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
 
-#EXTINF:-1 tvg-id="main_event:_adesanya_-_pyfer_ora:_01:00_(eurosport_1)" group-title="UFC Fight Night",Main Event: Adesanya - Pyfer Ora: 01:00 (Eurosport 1)
+#EXTINF:-1 tvg-id="vicenza_-_union_brescia_ora:_14:30_(sky_sport_251)" group-title="Serie C",Vicenza - Union Brescia Ora: 14:30 (SKY Sport 251)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=46e559c2f9f645ce8d80c7fa20446bdb:597d214d66342ee042bccffeb165e750
-https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport1)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=11181e7f856e3b9eb0a315ca42e8d281:96bd93740aa0b2b3b10d6881bb806d1e
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824063_f~0_g~1_s~2f5201b8-006d-42e9-b741-f972cd05f05d_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~a1ef08342b2505869a133586900e8133/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport251)/master_2hr-all.mpd
 
-#EXTINF:-1 tvg-id="gara_ora:_07:00_(sky_sport_f1)" group-title="Formula 1, GP Giappone",Gara Ora: 07:00 (SKY Sport F1)
+#EXTINF:-1 tvg-id="foggia_-_trapani_1905_ora:_14:30_(sky_sport_252)" group-title="Serie C",Foggia - Trapani 1905 Ora: 14:30 (SKY Sport 252)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118dc70d4ee2bb6e694b577f09d5294:3a2afc4bd8e28a212756bbc882e64292
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824923_f~0_g~1_s~1b5b32a5-a0a3-4988-a628-d694c288d887_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~56_x~a880c861e2c6e63bb19f1f1d495ad51f/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
+#KODIPROP:inputstream.adaptive.license_key=1118d145e562fe621718609536e2c92d:33654c2f6657e630328e2c52896e6d37
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824052_f~0_g~1_s~a9829bc6-6bf0-4361-ba85-082c95904cb1_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~146ebec0761854648a609a1e88143d8d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport252)/master_2hr-all.mpd
 
-#EXTINF:-1 tvg-id="gara_ora:_07:00_(rsila2)" group-title="Formula 1, GP Giappone",Gara Ora: 07:00 (RSILA2)
+#EXTINF:-1 tvg-id="crotone_-_audace_cerignola_ora:_14:30_(sky_sport_253)" group-title="Serie C",Crotone - Audace Cerignola Ora: 14:30 (SKY Sport 253)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
-https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183684f58c54e0f13e4968c616bc3b:f7d71eec2e88d6ff1ec927fef643f8b4
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774826307_f~0_g~1_s~5bac523b-8565-4255-b56a-53e607945513_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~21503e42063562daa01a94cd9db43fe1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport253)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="team_altamura_-_siracusa_ora:_14:30_(sky_sport_254)" group-title="Serie C",Team Altamura - Siracusa Ora: 14:30 (SKY Sport 254)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118391dd81865c3f72d3bb51c50b129:4d1fdb4fc20d0bbe2cbadc793b1084bf
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824069_f~0_g~1_s~2fce6e3b-04c2-4b2f-94a1-10535ee46e85_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~17ac3ac18cad7b8757de9d3ebcc4b3b9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport254)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="pontedera_-_bra_ora:_14:30_(sky_sport_255)" group-title="Serie C",Pontedera - Bra Ora: 14:30 (SKY Sport 255)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118c2fc51580bcff0571f963bc3d5bd:985cf2b5fb1845a358a6e9cc48786a44
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824099_f~0_g~1_s~ee230ebe-535e-454d-bd10-e7fafefdab0f_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~0b9374ab8f9184193f22c5e4599cc6a2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport255)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="inter_-_roma_ora:_15:00_(sky_sport_calcio)" group-title="Coppa Italia Femminile",Inter - Roma Ora: 15:00 (SKY Sport Calcio)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824095_f~0_g~1_s~fbcf3cf7-7a48-4c76-82a6-30348219c56d_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~e37b77e159abc74a89d123a8b79ef066/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="venezia_-_trentino_ora:_16:00_(lbatv1)" group-title="LBA Serie A",Venezia - Trentino Ora: 16:00 (LBATV1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -41,11 +61,47 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-02-prd-l-v2/dash-ch-02-pr
 #KODIPROP:inputstream.adaptive.license_key=99f90205c24c319db57438296a95cea5:aaec695c88692ac9deb0c0a71a0aeb89
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-03-prd-l-v2/dash-ch-03-prd-l-hd/index.mpd
 
+#EXTINF:-1 tvg-id="cittadella_-_lecco_ora:_17:30_(sky_sport_251)" group-title="Serie C",Cittadella - Lecco Ora: 17:30 (SKY Sport 251)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11181e7f856e3b9eb0a315ca42e8d281:96bd93740aa0b2b3b10d6881bb806d1e
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824063_f~0_g~1_s~2f5201b8-006d-42e9-b741-f972cd05f05d_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~a1ef08342b2505869a133586900e8133/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport251)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="campobasso_-_nuova_monterosi_ora:_17:30_(sky_sport_252)" group-title="Serie C",Campobasso - Nuova Monterosi Ora: 17:30 (SKY Sport 252)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118d145e562fe621718609536e2c92d:33654c2f6657e630328e2c52896e6d37
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824052_f~0_g~1_s~a9829bc6-6bf0-4361-ba85-082c95904cb1_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~146ebec0761854648a609a1e88143d8d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport252)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="vis_pesaro_-_perugia_ora:_17:30_(sky_sport_253)" group-title="Serie C",Vis Pesaro - Perugia Ora: 17:30 (SKY Sport 253)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183684f58c54e0f13e4968c616bc3b:f7d71eec2e88d6ff1ec927fef643f8b4
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774826307_f~0_g~1_s~5bac523b-8565-4255-b56a-53e607945513_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~21503e42063562daa01a94cd9db43fe1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport253)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="virtus_casarano_-_giugliano_ora:_17:30_(sky_sport_254)" group-title="Serie C",Virtus Casarano - Giugliano Ora: 17:30 (SKY Sport 254)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118391dd81865c3f72d3bb51c50b129:4d1fdb4fc20d0bbe2cbadc793b1084bf
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824069_f~0_g~1_s~2fce6e3b-04c2-4b2f-94a1-10535ee46e85_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~17ac3ac18cad7b8757de9d3ebcc4b3b9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport254)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="forlì_-_pianese_ora:_17:30_(sky_sport_255)" group-title="Serie C",Forlì - Pianese Ora: 17:30 (SKY Sport 255)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118c2fc51580bcff0571f963bc3d5bd:985cf2b5fb1845a358a6e9cc48786a44
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824099_f~0_g~1_s~ee230ebe-535e-454d-bd10-e7fafefdab0f_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~0b9374ab8f9184193f22c5e4599cc6a2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport255)/master_2hr-all.mpd
+
 #EXTINF:-1 tvg-id="udine_-_ea7_milano_ora:_18:00_(lbatv4)" group-title="LBA Serie A",Udine - EA7 Milano Ora: 18:00 (LBATV4)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=744207283a9133ddb9ea79af52801893:d119b941bb2e1ec1cd46dbd7c5c3483e
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-prd-l-hd/index.mpd
+
+#EXTINF:-1 tvg-id="juventus_-_fiorentina_ora:_18:00_(sky_sport_calcio)" group-title="Coppa Italia Femminle",Juventus - Fiorentina Ora: 18:00 (SKY Sport Calcio)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824095_f~0_g~1_s~fbcf3cf7-7a48-4c76-82a6-30348219c56d_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~e37b77e159abc74a89d123a8b79ef066/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="cantù_-_trieste_ora:_18:30_(lbatv5)" group-title="LBA Serie A",Cantù - Trieste Ora: 18:30 (LBATV5)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
@@ -53,12 +109,52 @@ https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-04-prd-l-v2/dash-ch-04-pr
 #KODIPROP:inputstream.adaptive.license_key=4e22677e8aec3c93b92e9d45d2bca6de:764ce6e01d256388999b2f935b9c08a1
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-05-prd-l-v2/dash-ch-05-prd-l-hd/index.mpd
 
+#EXTINF:-1 tvg-id="paolini/errani_-_mertens/zhang_ora:_18:30_(sky_sport_tennis)" group-title="WTA Miami Open, Finale Doppio (F)",Paolini/Errani - Mertens/Zhang Ora: 18:30 (SKY Sport Tennis)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118b59519d9199b9187d437a72e7b4c:1f24a6f4ce7cad6cc4f6b67faa52acda
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774726656_f~0_g~1_s~b446c5fb-864c-4e18-8bfa-e1a88559663c_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~9c1f646e0cf04c835572946ad2a13450/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
+
 #EXTINF:-1 tvg-id="brescia_-_reggio_emilia_ora:_19:00_(lbatv6)" group-title="LBA Serie A",Brescia - Reggio Emilia Ora: 19:00 (LBATV6)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb6fce8df9b2300887c84f1aabf22319:3c49f225d443e1b27b85fa0731a75df2
 https://live-d-01-lba-ew.akamaized.net/out/v1/l-prd/ch-06-prd-l-v2/dash-ch-06-prd-l-hd/index.mpd
 
+#EXTINF:-1 tvg-id="gubbio_-_ravenna_ora:_20:30_(sky_sport_251)" group-title="Serie C",Gubbio - Ravenna Ora: 20:30 (SKY Sport 251)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11181e7f856e3b9eb0a315ca42e8d281:96bd93740aa0b2b3b10d6881bb806d1e
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824063_f~0_g~1_s~2f5201b8-006d-42e9-b741-f972cd05f05d_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~a1ef08342b2505869a133586900e8133/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport251)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="pineto_-_sambenedettese_ora:_20:30_(sky_sport_252)" group-title="Serie C",Pineto - Sambenedettese Ora: 20:30 (SKY Sport 252)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118d145e562fe621718609536e2c92d:33654c2f6657e630328e2c52896e6d37
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824052_f~0_g~1_s~a9829bc6-6bf0-4361-ba85-082c95904cb1_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~146ebec0761854648a609a1e88143d8d/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport252)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="picerno_-_monopoli_ora:_20:30_(sky_sport_253)" group-title="Serie C",Picerno - Monopoli Ora: 20:30 (SKY Sport 253)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183684f58c54e0f13e4968c616bc3b:f7d71eec2e88d6ff1ec927fef643f8b4
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774826307_f~0_g~1_s~5bac523b-8565-4255-b56a-53e607945513_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~21503e42063562daa01a94cd9db43fe1/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysport253)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="sinner_-_lehecka_ora:_21:00_(sky_sport_tennis)" group-title="ATP Miami Open, Finale",Sinner - Lehecka Ora: 21:00 (SKY Sport Tennis)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118b59519d9199b9187d437a72e7b4c:1f24a6f4ce7cad6cc4f6b67faa52acda
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774726656_f~0_g~1_s~b446c5fb-864c-4e18-8bfa-e1a88559663c_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~9c1f646e0cf04c835572946ad2a13450/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
+
 #EXTINF:-1 tvg-id="colombia_-_francia_ora:_21:00_(sport&bull;tv1)" group-title="Amichevoli Internazionali",Colombia - Francia Ora: 21:00 (Sport&bull;TV1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="motogp,_gara_ora:_22:00_(sky_sport_motogp)" group-title="Motomondiale, GP Americhe",MotoGP, Gara Ora: 22:00 (SKY Sport MotoGP)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1118927071722742d13bcd3fd0e7fe9d:98bbe6f18a51647a206f401148773abb
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774824064_f~0_g~1_s~3fb875e7-08e3-41cf-ba64-d5dca1390afd_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~07d180af3c90683c05f52a9c0411f5c7/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportmotogp)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="arezzo_-_ascoli_ora:_20:30_(raisport)" group-title="Serie C",Arezzo - Ascoli Ora: 20:30 (RaiSport)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/128.0.0.0%20Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
