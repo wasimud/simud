@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Estero",Gumball
 https://beautifulpeople.lovecdn.ru/SkySportUnoIT/index.m3u8?token=U2t5U3BvcnRVbm9JVHxub19jaGVja19pcHwxNzc0ODY4NjI0.3c7964bc9c1eb50ba3db9d2dca035bce2064c2f54439b06020683256d6c354a#EXTINF:-1 group-title="Estero",Rai 1 Europa
-https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:-1 group-title="Estero",Rai 2
 #EXTVLCOPT:http-referrer=https://beautifulpeople.lovecdn.ru
 #EXTVLCOPT:http-origin=https://beautifulpeople.lovecdn.ru
 https://beautifulpeople.lovecdn.ru/SkySportUnoIT/index.m3u8?token=U2t5U3BvcnRVbm9JVHxub19jaGVja19pcHwxNzc0ODY4NjI0.3c7964bc9c1eb50ba3db9d2dca035bce2064c2f54439b06020683256d6c354a#EXTINF:-1 group-title="Estero",Rai 2 Europa
-https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:-1 group-title="Estero",Rai 3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
 #EXTINF:-1 group-title="Estero",Rai 3 Europa
