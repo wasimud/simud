@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="Estero",Gumball
-https://videoserver.loonex.eu/episodi/gumball/lo%20strano%20e%20meraviglioso%20mondo%20di%20gumball/s1/1x01/output.m3u8?headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4wIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xIiwicmVmZXJlciI6Imh0dHBzOi8vdmlkZW9zZXJ2ZXIubG9vbmV4LmV1Iiwib3JpZ2luIjoiaHR0cHM6Ly92aWRlb3NlcnZlci5sb29uZXguZXUifQ==
-#EXTINF:-1 group-title="Estero",Rai 1 Europa
+https://beautifulpeople.lovecdn.ru/SkySportUnoIT/index.m3u8?token=U2t5U3BvcnRVbm9JVHxub19jaGVja19pcHwxNzc0ODY4NjI0.3c7964bc9c1eb50ba3db9d2dca035bce2064c2f54439b06020683256d6c354a#EXTINF:-1 group-title="Estero",Rai 1 Europa
 https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:-1 group-title="Estero",Rai 2
-https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
-#EXTINF:-1 group-title="Estero",Rai 2 Europa
+#EXTVLCOPT:http-referrer=https://beautifulpeople.lovecdn.ru
+#EXTVLCOPT:http-origin=https://beautifulpeople.lovecdn.ru
+https://beautifulpeople.lovecdn.ru/SkySportUnoIT/index.m3u8?token=U2t5U3BvcnRVbm9JVHxub19jaGVja19pcHwxNzc0ODY4NjI0.3c7964bc9c1eb50ba3db9d2dca035bce2064c2f54439b06020683256d6c354a#EXTINF:-1 group-title="Estero",Rai 2 Europa
 https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8
 #EXTINF:-1 group-title="Estero",Rai 3
 https://cloudflare-api.zappr.stream/api?https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
