@@ -1,12 +1,48 @@
 #EXTM3U
-# Generato 2026-03-30 10:46:24 – ThisNot solo MPD
+# Generato 2026-03-30 11:59:36 – ThisNot solo MPD
 # ck= rimosso dall'URL MPD | ClearKey gestito separatamente
-#EXTINF:-1 tvg-id="sinner_-_lehecka_ora:_22:30_(sky_sport_tennis)" group-title="ATP Miami Open, Finale",Sinner - Lehecka Ora: 22:30 (SKY Sport Tennis)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1118b59519d9199b9187d437a72e7b4c:1f24a6f4ce7cad6cc4f6b67faa52acda
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1774906666_f~0_g~1_s~d1d90c3d-ea66-4460-9d54-73002b51e17f_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~4fdc4f6551f5511f99e54855f6804ea2/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysporttennis)/master_2hr-all.mpd
-
 #EXTINF:-1 tvg-id="arezzo_-_ascoli_ora:_20:30_(raisport)" group-title="Serie C",Arezzo - Ascoli Ora: 20:30 (RaiSport)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:-1 tvg-id="kosovo_-_turchia_ora:_20:45_(sport&bull;tv5)" group-title="Qualificazioni Mondiali 2026",Kosovo - Turchia Ora: 20:45 (Sport&bull;TV5)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd
+
+#EXTINF:-1 tvg-id="repubblica_ceca_-_danimarca_ora:_20:45_(sport&bull;tv7)" group-title="Qualificazioni Mondiali 2026",Repubblica Ceca - Danimarca Ora: 20:45 (Sport&bull;TV7)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd
+
+#EXTINF:-1 tvg-id="bosnia_ed_erzegovina_-_italia_ora:_20:45_(rai1)" group-title="Qualificazioni Mondiali 2026",Bosnia ed Erzegovina - Italia Ora: 20:45 (Rai1)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f9f6e3c78b2486f9fe13e06bdb768d2:b341c1136a3738f3a6ea197d31fab35c
+https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09101/stb-dash-fhd-avc/SV09101.mpd
+
+#EXTINF:-1 tvg-id="bosnia_ed_erzegovina_-_italia_ora:_20:45_(sportklub_1)" group-title="Qualificazioni Mondiali 2026",Bosnia ed Erzegovina - Italia Ora: 20:45 (SportKlub 1)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=80119f3e574454218d31cf464b420c5e:d71e3186c4e037279b4c12197b860551,feb6a0d5bdf95721a695bdda83c3a945:a96bf27d36cd9ede447c5c392511ed5d
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk1/default/index.mpd?headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
+
+#EXTINF:-1 tvg-id="usa_-_portogallo_ora:_01:00_(sport&bull;tv1)" group-title="Amichevoli Internazionali",USA - Portogallo Ora: 01:00 (Sport&bull;TV1)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd
+
+#EXTINF:-1 tvg-id="argentina_-_zambia_ora:_01:15_(eleven_sport_1)" group-title="Amichevoli Internazionali",Argentina - Zambia Ora: 01:15 (Eleven Sport 1)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
+https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
+
+#EXTINF:-1 tvg-id="brasile_-_croazia_ora:_02:00_(sport&bull;tv4)" group-title="Amichevoli Internazionali",Brasile - Croazia Ora: 02:00 (Sport&bull;TV4)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd
