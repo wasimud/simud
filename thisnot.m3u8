@@ -1,12 +1,6 @@
 #EXTM3U
-# Generato 2026-03-31 17:59:39 – ThisNot solo MPD
+# Generato 2026-03-31 19:16:39 – ThisNot solo MPD
 # ck= rimosso dall'URL MPD | ClearKey separato | Fix Vodafone automatico
-#EXTINF:-1 tvg-id="norvegia_-_svizzera_ora:_18:00_(sky_sport_calcio)" group-title="Amichevoli Internazionali",Norvegia - Svizzera Ora: 18:00 (SKY Sport Calcio)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775041705_f~0_g~1_s~998e00ce-dc26-4872-89d4-62e627add251_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~17992c9fc0af26a10ae0cf0ad5074eb6/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
-
 #EXTINF:-1 tvg-id="diretta_gol_ora:_20:45_(sky_sport_calcio)" group-title="Qualificazioni Mondiali 2026",Diretta Gol Ora: 20:45 (SKY Sport Calcio)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
