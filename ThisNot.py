@@ -5,8 +5,8 @@
 ThisNot M3U Generator – Solo MPD (DASH) – Marzo 2026
 - Solo MPD (.mpd)
 - Estrae ck= per ClearKey MA NON lo mette nell'URL MPD
-- Gestisce bene sia ck= normale che ck= in formato JSON base64
 - Fix automatico per flussi Vodafone
+- Cerca fino a trovare il ClearKey
 """
 
 import cloudscraper
@@ -45,7 +45,7 @@ scraper.headers.update({
 
 USER_AGENT_QUOTED = quote(scraper.headers["User-Agent"])
 
-# ---------------- HELPER ----------------
+# ---------------- HELPER FUNCTIONS ----------------
 def remove_emoji(text):
     if not text:
         return ""
@@ -60,19 +60,16 @@ def decode_clear_key(b64_str):
     if not b64_str:
         return None
     try:
-        # Aggiungi padding
         b64_str = b64_str + "=" * ((4 - len(b64_str) % 4) % 4)
         decoded_bytes = base64.b64decode(b64_str, validate=False)
         decoded = decoded_bytes.decode('utf-8', errors='ignore').strip()
 
-        # Caso JSON: {"kid":"...","key":"..."}
         if decoded.startswith('{'):
             d = json.loads(decoded)
             if isinstance(d, dict) and d:
                 kid, key = next(iter(d.items()))
                 return f"{kid.lower()}:{key.lower()}"
 
-        # Caso già kid:key
         if ':' in decoded:
             parts = decoded.split(':', 1)
             return f"{parts[0].lower()}:{parts[1].lower()}"
@@ -84,67 +81,85 @@ def decode_clear_key(b64_str):
 
 
 def clean_mpd_url(url):
-    """ Rimuove ck= dall'URL MPD + pulizia generale """
     if not url:
         return None
-    
-    # Rimuove tag HTML residui
     url = re.sub(r'</?iframe.*$', '', url, flags=re.IGNORECASE | re.DOTALL)
     url = url.strip('"\' \t\n\r')
     
-    # Parsa l'URL e rimuove il parametro ck=
     parsed = urlparse(url)
     query_params = parse_qs(parsed.query)
     query_params.pop('ck', None)
     query_params.pop('CK', None)
     
-    # Ricostruisce la query senza ck
     new_query = urlencode(query_params, doseq=True)
     cleaned_url = urlunparse((
         parsed.scheme, parsed.netloc, parsed.path,
         parsed.params, new_query, parsed.fragment
     ))
-    
     return cleaned_url.rstrip('?&')
 
 
 def fix_vodafone_mpd(url):
-    """Aggiunge /Manifest + parametri solo per flussi Vodafone che ne hanno bisogno"""
+    """Fix automatico per flussi Vodafone"""
     if not url or "rr.cdn.vodafone.pt" not in url.lower():
         return url
-    
     if "/Manifest" in url:
         return url
-    
-    # Se finisce con index.mpd → aggiungiamo il percorso Manifest
     if url.rstrip("/").endswith("/index.mpd"):
         fixed = url.rstrip("/") + "/Manifest?start=LIVE&end=END&device=DASH_AVC_HD"
         print(f"  → Fix Vodafone applicato → {fixed}")
         return fixed
-    
     return url
 
 
 def build_m3u_entry(mpd_url, clear_key, titolo, competizione):
-    """Costruisce il blocco #EXTINF completo"""
     lines = [
         f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"{competizione}\",{titolo}",
         f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
     ]
-    
     if clear_key:
         lines.extend([
             "#KODIPROP:inputstream.adaptive.license_type=clearkey",
             f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
         ])
-    
     lines.append(mpd_url)
     return "\n".join(lines)
 
 
-# ---------------- ESTRAI MPD (VERSIONE AGGIORNATA) ----------------
+def request_url(url, method="GET", data=None, timeout=15):
+    try:
+        if method.upper() == "GET":
+            r = scraper.get(url, timeout=timeout, allow_redirects=True)
+        else:
+            r = scraper.post(url, data=data, timeout=timeout, allow_redirects=True)
+        print(f"  → {method} {url:<70} → {r.status_code}")
+        return r
+    except Exception as e:
+        print(f"  Errore {url}: {str(e)[:100]}...")
+        return None
+
+
+def attempt_login(base_url):
+    login_url = urljoin(base_url, "/index.php")
+    print(f"\nProvo dominio → {base_url}")
+    
+    resp = request_url(login_url)
+    if not resp or resp.status_code >= 400:
+        return False, None
+    
+    post_resp = request_url(login_url, "POST", {"password": PASSWORD})
+    
+    if post_resp and post_resp.status_code < 400 and "INSERIRE PASSWORD" not in post_resp.text.upper():
+        print("  LOGIN OK ✓")
+        return True, base_url
+    
+    print("  Login fallito")
+    return False, None
+
+
+# ---------------- ESTRAI MPD (VERSIONE FINALE) ----------------
 def extract_mpd(player_html, titolo):
-    # PRIORITÀ 1: Pattern chrome-extension
+    # PRIORITÀ 1: chrome-extension
     pattern_chrome = r'chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player\.html#([^#]+)'
     m = re.search(pattern_chrome, player_html, re.IGNORECASE)
     
@@ -164,23 +179,18 @@ def extract_mpd(player_html, titolo):
             print(f"  → MPD chrome-extension → {clean_url[:130]}...")
             if clear_key:
                 print(f"      └─ ClearKey: {clear_key}")
-            else:
-                print("      └─ Nessun ClearKey nel fragment")
             
             return build_m3u_entry(clean_url, clear_key, titolo, "ThisNot 2026"), "MPD chrome-extension"
     
-    # PRIORITÀ 2: Ricerca generica nell'HTML (continua fino a trovare ck)
-    mpd_patterns = [
-        r'(https?://[^\s"\'<>\]]+?\.mpd(?:\?[^\s"\'<>\]]*)?)',
-    ]
+    # PRIORITÀ 2: Ricerca generica (continua fino a trovare ck)
+    mpd_patterns = [r'(https?://[^\s"\'<>\]]+?\.mpd(?:\?[^\s"\'<>\]]*)?)']
     
     for pat in mpd_patterns:
         matches = re.findall(pat, player_html, re.IGNORECASE)
-        for raw_url in matches:   # controlla tutti i MPD trovati
+        for raw_url in matches:
             clean_url = clean_mpd_url(raw_url)
             clean_url = fix_vodafone_mpd(clean_url)
             
-            # Cerca ck= nell'intero HTML
             ck_match = re.search(r'(?:ck|clearkey|key)=([A-Za-z0-9+/=_-]+)', player_html, re.IGNORECASE)
             clear_key = decode_clear_key(ck_match.group(1)) if ck_match else None
             
@@ -188,10 +198,9 @@ def extract_mpd(player_html, titolo):
                 print(f"  → MPD generico trovato → {clean_url[:120]}...")
                 if clear_key:
                     print(f"      └─ ClearKey trovato: {clear_key}")
-                    # Trovato sia MPD che ClearKey → restituisci
                     return build_m3u_entry(clean_url, clear_key, titolo, "ThisNot 2026"), "MPD generico + ClearKey"
                 else:
-                    print("      └─ Nessun ClearKey per questo MPD, continuo a cercare...")
+                    print("      └─ Nessun ClearKey, continuo la ricerca...")
     
     print("  Nessun MPD valido con ClearKey trovato")
     return None, None
@@ -230,7 +239,7 @@ print(f"Trovati {len(eventi)} eventi\n")
 m3u_lines = [
     "#EXTM3U",
     f"# Generato {time.strftime('%Y-%m-%d %H:%M:%S')} – ThisNot solo MPD",
-    "# ck= rimosso dall'URL MPD | ClearKey gestito separatamente | Fix Vodafone",
+    "# ck= rimosso dall'URL MPD | ClearKey separato | Fix Vodafone automatico",
 ]
 
 success = 0
@@ -265,7 +274,6 @@ for ev in eventi:
     entry, typ = extract_mpd(p_resp.text, titolo)
 
     if entry:
-        # Aggiorna group-title con la competizione reale
         entry = entry.replace('group-title="ThisNot 2026"', f'group-title="{competizione}"')
         m3u_lines.append(entry)
         m3u_lines.append("")
@@ -281,4 +289,4 @@ with open(M3U_OUTPUT, "w", encoding="utf-8") as f:
 
 print(f"\nFile salvato → {M3U_OUTPUT}")
 print(f"Canali MPD aggiunti: {success} / {len(eventi)}")
-print("Script aggiornato: ck= rimosso | Fix Vodafone automatico\n")
+print("Script terminato correttamente.\n")
