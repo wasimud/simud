@@ -1,33 +1,33 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-03-31 22:05
+#PLAYLIST:PepperLive MPD Eventi - 2026-03-31 23:02
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 
-#EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 PT" group-title="MERCOLEDÌ 01/04", USA - Portogallo • Amichevoli (Sport TV 1 PT)
+#EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 PT" group-title="MERCOLEDÌ 01/04", Amichevoli (Sport TV 1 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
-#EXTINF:-1 tvg-id="ELEVEN1" tvg-name="ELEVEN1" group-title="MERCOLEDÌ 01/04", Argentina - Zambia • Amichevoli (ELEVEN1)
+#EXTINF:-1 tvg-id="ELEVEN1" tvg-name="ELEVEN1" group-title="MERCOLEDÌ 01/04", Amichevoli (ELEVEN1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 
-#EXTINF:-1 tvg-id="SportTV4" tvg-name="SportTV4" group-title="MERCOLEDÌ 01/04", Brasile - Croazia • Amichevoli (SportTV4)
+#EXTINF:-1 tvg-id="SportTV4" tvg-name="SportTV4" group-title="MERCOLEDÌ 01/04", Amichevoli (SportTV4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
-#EXTINF:-1 tvg-id="SportTV3" tvg-name="SportTV3" group-title="MERCOLEDÌ 01/04", New York Knicks @ Houston Rockets • Basket - NBA (SportTV3)
+#EXTINF:-1 tvg-id="SportTV3" tvg-name="SportTV3" group-title="MERCOLEDÌ 01/04", Basket - NBA (SportTV3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
-#EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 PT" group-title="GIOVEDÌ 02/04", Boston Celtics @ Miami Heat • Basket - NBA (Sport TV 1 PT)
+#EXTINF:-1 tvg-id="SportTV1" tvg-name="Sport TV 1 PT" group-title="GIOVEDÌ 02/04", Basket - NBA (Sport TV 1 PT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
