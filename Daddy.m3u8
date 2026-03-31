@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/SUGKuTWNdtUoctgfQV4Tp9.jpg",Sky Cinema Uno Italy
-#EXTVLCOPT:http-referrer=https://sec.ai-hls.site/
-#EXTVLCOPT:http-origin=https://sec.ai-hls.site/
 https://sec.ai-hls.site/proxy/wind/premium860/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mos.cms.futurecdn.net/SUGKuTWNdtUoctgfQV4Tp9.jpg",Sky Cinema Family Italy
