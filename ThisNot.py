@@ -6,6 +6,7 @@ ThisNot M3U Generator – Solo MPD (DASH) – Marzo 2026
 - Solo MPD (.mpd)
 - Estrae ck= per ClearKey MA NON lo mette nell'URL MPD
 - Gestisce bene sia ck= normale che ck= in formato JSON base64
+- Fix automatico per flussi Vodafone
 """
 
 import cloudscraper
@@ -94,8 +95,8 @@ def clean_mpd_url(url):
     # Parsa l'URL e rimuove il parametro ck=
     parsed = urlparse(url)
     query_params = parse_qs(parsed.query)
-    query_params.pop('ck', None)          # rimuove ck se presente
-    query_params.pop('CK', None)          # caso maiuscolo
+    query_params.pop('ck', None)
+    query_params.pop('CK', None)
     
     # Ricostruisce la query senza ck
     new_query = urlencode(query_params, doseq=True)
@@ -107,109 +108,92 @@ def clean_mpd_url(url):
     return cleaned_url.rstrip('?&')
 
 
-def request_url(url, method="GET", data=None, timeout=15):
-    try:
-        if method.upper() == "GET":
-            r = scraper.get(url, timeout=timeout, allow_redirects=True)
-        else:
-            r = scraper.post(url, data=data, timeout=timeout, allow_redirects=True)
-        print(f"  → {method} {url:<70} → {r.status_code}")
-        return r
-    except Exception as e:
-        print(f"  Errore {url}: {str(e)[:100]}...")
-        return None
+def fix_vodafone_mpd(url):
+    """Aggiunge /Manifest + parametri solo per flussi Vodafone che ne hanno bisogno"""
+    if not url or "rr.cdn.vodafone.pt" not in url.lower():
+        return url
+    
+    if "/Manifest" in url:
+        return url
+    
+    # Se finisce con index.mpd → aggiungiamo il percorso Manifest
+    if url.rstrip("/").endswith("/index.mpd"):
+        fixed = url.rstrip("/") + "/Manifest?start=LIVE&end=END&device=DASH_AVC_HD"
+        print(f"  → Fix Vodafone applicato → {fixed}")
+        return fixed
+    
+    return url
 
 
-def attempt_login(base_url):
-    login_url = urljoin(base_url, "/index.php")
-    print(f"\nProvo dominio → {base_url}")
+def build_m3u_entry(mpd_url, clear_key, titolo, competizione):
+    """Costruisce il blocco #EXTINF completo"""
+    lines = [
+        f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"{competizione}\",{titolo}",
+        f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
+    ]
     
-    resp = request_url(login_url)
-    if not resp or resp.status_code >= 400:
-        return False, None
+    if clear_key:
+        lines.extend([
+            "#KODIPROP:inputstream.adaptive.license_type=clearkey",
+            f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
+        ])
     
-    post_resp = request_url(login_url, "POST", {"password": PASSWORD})
-    
-    if post_resp and post_resp.status_code < 400 and "INSERIRE PASSWORD" not in post_resp.text.upper():
-        print("  LOGIN OK ✓")
-        return True, base_url
-    
-    print("  Login fallito")
-    return False, None
+    lines.append(mpd_url)
+    return "\n".join(lines)
 
 
-# ---------------- ESTRAI MPD (VERSIONE FINALE) ----------------
+# ---------------- ESTRAI MPD (VERSIONE AGGIORNATA) ----------------
 def extract_mpd(player_html, titolo):
-    # PRIORITÀ 1: Pattern chrome-extension (il più affidabile)
+    # PRIORITÀ 1: Pattern chrome-extension
     pattern_chrome = r'chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player\.html#([^#]+)'
     m = re.search(pattern_chrome, player_html, re.IGNORECASE)
     
     if m:
         fragment = m.group(1).strip()
-        
-        # Estrai URL MPD
         mpd_match = re.search(r'(https?://[^\s#"]+?\.mpd(?:\?[^\s#"]*)?)', fragment, re.IGNORECASE)
+        ck_match = re.search(r'[?&]ck=([A-Za-z0-9+/=_-]+)', fragment, re.IGNORECASE)
+        
         if mpd_match:
             raw_url = mpd_match.group(1)
             clean_url = clean_mpd_url(raw_url)
+            clean_url = fix_vodafone_mpd(clean_url)
             
-            # Estrai ck= dal fragment
-            ck_match = re.search(r'[?&]ck=([A-Za-z0-9+/=_-]+)', fragment, re.IGNORECASE)
             ck_value = ck_match.group(1) if ck_match else None
-            
             clear_key = decode_clear_key(ck_value) if ck_value else None
             
             print(f"  → MPD chrome-extension → {clean_url[:130]}...")
             if clear_key:
                 print(f"      └─ ClearKey: {clear_key}")
+            else:
+                print("      └─ Nessun ClearKey nel fragment")
             
-            lines = [
-                f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
-                f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
-            ]
-            if clear_key:
-                lines.extend([
-                    "#KODIPROP:inputstream.adaptive.license_type=clearkey",
-                    f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
-                ])
-            lines.append(clean_url)
-            
-            return "\n".join(lines), "MPD chrome-extension"
+            return build_m3u_entry(clean_url, clear_key, titolo, "ThisNot 2026"), "MPD chrome-extension"
     
-    # PRIORITÀ 2: Ricerca MPD generica nell'HTML
+    # PRIORITÀ 2: Ricerca generica nell'HTML (continua fino a trovare ck)
     mpd_patterns = [
         r'(https?://[^\s"\'<>\]]+?\.mpd(?:\?[^\s"\'<>\]]*)?)',
     ]
     
     for pat in mpd_patterns:
         matches = re.findall(pat, player_html, re.IGNORECASE)
-        if matches:
-            raw_url = matches[0]
+        for raw_url in matches:   # controlla tutti i MPD trovati
             clean_url = clean_mpd_url(raw_url)
+            clean_url = fix_vodafone_mpd(clean_url)
             
-            # Cerca ck= nell'intero HTML del player
+            # Cerca ck= nell'intero HTML
             ck_match = re.search(r'(?:ck|clearkey|key)=([A-Za-z0-9+/=_-]+)', player_html, re.IGNORECASE)
             clear_key = decode_clear_key(ck_match.group(1)) if ck_match else None
             
             if clean_url:
-                print(f"  → MPD generico trovato → {clean_url[:100]}...")
+                print(f"  → MPD generico trovato → {clean_url[:120]}...")
                 if clear_key:
-                    print(f"      └─ ClearKey: {clear_key}")
-                
-                lines = [
-                    f"#EXTINF:-1 tvg-id=\"{titolo.lower().replace(' ', '_')}\" group-title=\"ThisNot 2026\",{titolo}",
-                    f"#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3D{USER_AGENT_QUOTED}",
-                ]
-                if clear_key:
-                    lines.extend([
-                        "#KODIPROP:inputstream.adaptive.license_type=clearkey",
-                        f"#KODIPROP:inputstream.adaptive.license_key={clear_key}",
-                    ])
-                lines.append(clean_url)
-                
-                return "\n".join(lines), "MPD generico"
+                    print(f"      └─ ClearKey trovato: {clear_key}")
+                    # Trovato sia MPD che ClearKey → restituisci
+                    return build_m3u_entry(clean_url, clear_key, titolo, "ThisNot 2026"), "MPD generico + ClearKey"
+                else:
+                    print("      └─ Nessun ClearKey per questo MPD, continuo a cercare...")
     
-    print("  Nessun MPD valido trovato")
+    print("  Nessun MPD valido con ClearKey trovato")
     return None, None
 
 
@@ -246,7 +230,7 @@ print(f"Trovati {len(eventi)} eventi\n")
 m3u_lines = [
     "#EXTM3U",
     f"# Generato {time.strftime('%Y-%m-%d %H:%M:%S')} – ThisNot solo MPD",
-    "# ck= rimosso dall'URL MPD | ClearKey gestito separatamente",
+    "# ck= rimosso dall'URL MPD | ClearKey gestito separatamente | Fix Vodafone",
 ]
 
 success = 0
@@ -281,13 +265,14 @@ for ev in eventi:
     entry, typ = extract_mpd(p_resp.text, titolo)
 
     if entry:
+        # Aggiorna group-title con la competizione reale
         entry = entry.replace('group-title="ThisNot 2026"', f'group-title="{competizione}"')
         m3u_lines.append(entry)
         m3u_lines.append("")
         success += 1
         print(f"  OK → {typ}\n")
     else:
-        print("  Salto – nessun MPD\n")
+        print("  Salto – nessun MPD con ClearKey\n")
 
     time.sleep(1.2)
 
@@ -296,4 +281,4 @@ with open(M3U_OUTPUT, "w", encoding="utf-8") as f:
 
 print(f"\nFile salvato → {M3U_OUTPUT}")
 print(f"Canali MPD aggiunti: {success} / {len(eventi)}")
-print("Script aggiornato: ck= rimosso dall'URL MPD.\n")
+print("Script aggiornato: ck= rimosso | Fix Vodafone automatico\n")
