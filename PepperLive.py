@@ -16,7 +16,7 @@ import sys
 
 BASE_URLS = [
     "https://pepperlive.info",
-    "https://www.pepperlive.info",
+    "https://www..info",
 ]
 
 TIMEOUT = 12
@@ -217,7 +217,7 @@ def main():
 
         kid, key = extract_kid_key(ck)
 
-        m3u_lines.append(f'#EXTINF:-1 tvg-id="{orig_name}" group-title="PepperLive MPD", {display_name}')
+        m3u_lines.append(f'#EXTINF:-1 tvg-id="{orig_name}" group-title="Canali Sport MPD", {display_name}')
 
         if kid and key:
             m3u_lines.append("#KODIPROP:inputstream.adaptive.license_type=clearkey")
