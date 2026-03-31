@@ -1,6 +1,18 @@
 #EXTM3U
-# Generato 2026-03-31 10:35:43 – ThisNot solo MPD
+# Generato 2026-03-31 11:55:14 – ThisNot solo MPD
 # ck= rimosso dall'URL MPD | ClearKey gestito separatamente
+#EXTINF:-1 tvg-id="norvegia_-_svizzera_ora:_18:00_(sky_sport_calcio)" group-title="Amichevoli Internazionali",Norvegia - Svizzera Ora: 18:00 (SKY Sport Calcio)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775041705_f~0_g~1_s~998e00ce-dc26-4872-89d4-62e627add251_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~17992c9fc0af26a10ae0cf0ad5074eb6/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="diretta_gol_ora:_20:45_(sky_sport_calcio)" group-title="Qualificazioni Mondiali 2026",Diretta Gol Ora: 20:45 (SKY Sport Calcio)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775041705_f~0_g~1_s~998e00ce-dc26-4872-89d4-62e627add251_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~17992c9fc0af26a10ae0cf0ad5074eb6/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
+
 #EXTINF:-1 tvg-id="kosovo_-_turchia_ora:_20:45_(sport&bull;tv5)" group-title="Qualificazioni Mondiali 2026",Kosovo - Turchia Ora: 20:45 (Sport&bull;TV5)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -25,6 +37,22 @@ https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09101/st
 #KODIPROP:inputstream.adaptive.license_key=80119f3e574454218d31cf464b420c5e:d71e3186c4e037279b4c12197b860551,feb6a0d5bdf95721a695bdda83c3a945:a96bf27d36cd9ede447c5c392511ed5d
 https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk1/default/index.mpd?headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
 
+#EXTINF:-1 tvg-id="inghilterra_-_giappone_ora:_20:45_(sport&bull;tv2)" group-title="Amichevoli Internazionali",Inghilterra - Giappone Ora: 20:45 (Sport&bull;TV2)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd
+
+#EXTINF:-1 tvg-id="olanda_-_ecuador_ora:_20:45_(npo3)" group-title="Amichevoli Internazionali",Olanda - Ecuador Ora: 20:45 (NPO3)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw4240008001_49452605/PLTV/42/224/3221236925/3221236925.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=42&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~WT8U_eIPMrEB0VzaEZLkvwa139c373aff0583e17f836c6b13da447~4HwzslRM2LJqOUtjRoxETDI84kB_zyj8fvpIrE4B2b_bJ-CgXgGEqGL_ynGkCe1eafd8207ea60c3cb9450f1d10701960c8~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601192003%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601192003%2C3103_TV03%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_BasispakketTV%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&_=1717269603231&RTS=1717269603&from=16&hms_devid=894&online=1717269603&mag_hms=894%2C892%2C1048%2C1049
+
+#EXTINF:-1 tvg-id="spagna_-_egitto_ora:_21:00_(sport&bull;tv3)" group-title="Amichevoli Internazionali",Spagna - Egitto Ora: 21:00 (Sport&bull;TV3)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd
+
 #EXTINF:-1 tvg-id="usa_-_portogallo_ora:_01:00_(sport&bull;tv1)" group-title="Amichevoli Internazionali",USA - Portogallo Ora: 01:00 (Sport&bull;TV1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -42,3 +70,27 @@ https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd
+
+#EXTINF:-1 tvg-id="fc_andorra_-_málaga_ora:_19:00_(liga_hypermotion)" group-title="La Liga 2",FC Andorra - Málaga Ora: 19:00 (Liga Hypermotion)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="burgos_-_ceuta_ora:_20:00_(liga_hypermotion_3)" group-title="La Liga 2",Burgos - Ceuta Ora: 20:00 (Liga Hypermotion 3)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+
+#EXTINF:-1 tvg-id="huesca_-_cultural_leonesa_ora:_20:00_(liga_hypermotion_2)" group-title="La Liga 2",Huesca - Cultural Leonesa Ora: 20:00 (Liga Hypermotion 2)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29cd88140a812a06a8b7545c258235c9:e7cac95c5c591af733ab6e13892abc81
+http://a65aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tdk3bssrpb/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 tvg-id="racing_santander_-_sporting_gijón_ora:_21:30_(liga_hypermotion)" group-title="La Liga 2",Racing Santander - Sporting Gijón Ora: 21:30 (Liga Hypermotion)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
