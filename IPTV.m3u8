@@ -1,4 +1,90 @@
 #EXTM3U
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/238/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport Uno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/230/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport Calcio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/232/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/231/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport Moto GP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/234/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/236/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/241/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport Tennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/233/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport Basket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/239/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/235/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport Golf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/237/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Dazn 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://mediahosting.space/
+#EXTVLCOPT:http-origin=https://mediahosting.space
+#EXTVLCOPT:http-header=Origin: https://mediahosting.space
+https://cc1.screenistream.xyz:8080/stream/229/index.m3u8?token=T4Nz6WCt2Uwlqma4
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpskR8Yn/Chat-GPT-Image-26-feb-2026-13-03-20-removebg-preview.png" group-title="Sky Sport IPTV",DAZN 1
 https://cc3.screenistream.xyz:8080/stream/325/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
@@ -12,7 +98,7 @@ https://cc3.screenistream.xyz:8080/stream/331/index.m3u8?token=T4Nz6WCt2Uwlqma4
 https://cc3.screenistream.xyz:8080/stream/335/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpskR8Yn/Chat-GPT-Image-26-feb-2026-13-03-20-removebg-preview.png" group-title="Sky Sport IPTV",Sky Sport Calcio
-https://cc3.screenistream.xyz:8080/stream/328/index.m3u8?token=T4Nz6WCt2Uwlqma4
+https://cc3.screenistream.xyz:8080/stream/419/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpskR8Yn/Chat-GPT-Image-26-feb-2026-13-03-20-removebg-preview.png" group-title="Sky Sport IPTV",Sky Sport F1
 https://cc3.screenistream.xyz:8080/stream/327/index.m3u8?token=T4Nz6WCt2Uwlqma4
@@ -36,4 +122,4 @@ https://cc3.screenistream.xyz:8080/stream/330/index.m3u8?token=T4Nz6WCt2Uwlqma4
 https://cc3.screenistream.xyz:8080/stream/329/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpskR8Yn/Chat-GPT-Image-26-feb-2026-13-03-20-removebg-preview.png" group-title="MediaChannels",Sky Sport Uno
-https://cc3.screenistream.xyz:8080/stream/326/index.m3u8?token=T4Nz6WCt2Uwlqma4
+https://cc3.screenistream.xyz:8080/stream/420/index.m3u8?token=T4Nz6WCt2Uwlqma4
