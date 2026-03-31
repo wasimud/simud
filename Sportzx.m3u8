@@ -308,6 +308,15 @@ https://fifa.global.transmit.live/dash/68c40af04301491a9f4cfb58/2026_03_24_14_36
 #EXTINF:-1 tvg-id="haitivsiceland1730hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fifa friendlies",Haiti vs Iceland 17:30 (HD SERVER)
 https://live.alilicloud.com/live/a446134301aaea77f42c59a13d3949c4/playlist.m3u8
 
+#EXTINF:-1 tvg-id="jordanvsnigeria1830hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fifa friendlies",Jordan vs Nigeria 18:30 (HD SERVER)
+https://live.alilicloud.com/live/984214348ec7d453f71ab555ad2ba038/playlist.m3u8
+
+#EXTINF:-1 tvg-id="jordanvsnigeria1830sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fifa friendlies",Jordan vs Nigeria 18:30 (SD SERVER)
+http://93.123.109.249/hls/QFFFQQQ.m3u8
+
+#EXTINF:-1 tvg-id="russiavsmali1800sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fifa friendlies",Russia vs Mali 18:00 (SD SERVER)
+http://93.123.109.249/hls/QFFFQQ.m3u8
+
 #EXTINF:-1 tvg-id="peruvshonduras1900foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fifa friendlies",Peru vs Honduras 19:00 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
@@ -332,3 +341,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="hungaryvsgreece1800vixespanolaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fifa friendlies",Hungary vs Greece 18:00 (VIX ESPANOL - AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b6a50c5d0fa811db6eeacf5d2974bd3:7e8d91174fe61d56127dbd484ad0e5a5
+https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/chqjroxchb/out/v1/a9636c6c199b48608d18c61987bceebd/cenc.mpd
+
+#EXTINF:-1 tvg-id="hungaryvsgreece1800sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Fifa friendlies",Hungary vs Greece 18:00 (SD SERVER)
+http://93.123.109.249/hls/QFFFQ.m3u8
