@@ -1,6 +1,6 @@
 #EXTM3U
-# Generato 2026-03-31 16:35:01 – ThisNot solo MPD
-# ck= rimosso dall'URL MPD | ClearKey gestito separatamente
+# Generato 2026-03-31 16:55:33 – ThisNot solo MPD
+# ck= rimosso dall'URL MPD | ClearKey separato | Fix Vodafone automatico
 #EXTINF:-1 tvg-id="norvegia_-_svizzera_ora:_18:00_(sky_sport_calcio)" group-title="Amichevoli Internazionali",Norvegia - Svizzera Ora: 18:00 (SKY Sport Calcio)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -17,13 +17,13 @@ https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775041705_f~0_g~1
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81ca434c931a403e950df3d808c24c41:18548190cf3c8294096af8a2146e32a5
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$112/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="repubblica_ceca_-_danimarca_ora:_20:45_(sport&bull;tv7)" group-title="Qualificazioni Mondiali 2026",Repubblica Ceca - Danimarca Ora: 20:45 (Sport&bull;TV7)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=400957ac68d549fbbbbc668d3a9eb709:3dd351f1875b0dd40a4e392f06a29b29
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$597/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="bosnia_ed_erzegovina_-_italia_ora:_20:45_(rai1)" group-title="Qualificazioni Mondiali 2026",Bosnia ed Erzegovina - Italia Ora: 20:45 (Rai1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
@@ -41,7 +41,7 @@ https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk1/default/index.mpd?headers=eyJ1c2VyL
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="olanda_-_ecuador_ora:_20:45_(npo3)" group-title="Amichevoli Internazionali",Olanda - Ecuador Ora: 20:45 (NPO3)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
@@ -51,13 +51,13 @@ https://mag01.tvx.prd.tv.odido.nl/wh7f454c46tw4240008001_49452605/PLTV/42/224/32
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="usa_-_portogallo_ora:_01:00_(sport&bull;tv1)" group-title="Amichevoli Internazionali",USA - Portogallo Ora: 01:00 (Sport&bull;TV1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="argentina_-_zambia_ora:_01:15_(eleven_sport_1)" group-title="Amichevoli Internazionali",Argentina - Zambia Ora: 01:15 (Eleven Sport 1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
@@ -69,7 +69,7 @@ https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="fc_andorra_-_málaga_ora:_19:00_(liga_hypermotion)" group-title="La Liga 2",FC Andorra - Málaga Ora: 19:00 (Liga Hypermotion)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
