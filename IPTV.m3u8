@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Kvwg9t3F/3790038-logo-vetrina-dazn-sport-dazn-a-11563364038i3yzrattgk-removebg-preview.png" group-title="Eventi IPTV",Sky Sport 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
@@ -86,7 +85,7 @@ https://cc1.screenistream.xyz:8080/stream/237/index.m3u8?token=T4Nz6WCt2Uwlqma4
 https://cc1.screenistream.xyz:8080/stream/229/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpskR8Yn/Chat-GPT-Image-26-feb-2026-13-03-20-removebg-preview.png" group-title="Sky Sport IPTV",DAZN 1
-https://cc3.screenistream.xyz:8080/stream/325/index.m3u8?token=T4Nz6WCt2Uwlqma4
+https://cc3.screenistream.xyz:8080/stream/294/index.m3u8?token=T4Nz6WCt2Uwlqma4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GpskR8Yn/Chat-GPT-Image-26-feb-2026-13-03-20-removebg-preview.png" group-title="Sky Sport IPTV",Sky Sport 24
 https://cc3.screenistream.xyz:8080/stream/334/index.m3u8?token=T4Nz6WCt2Uwlqma4
