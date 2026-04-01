@@ -1,6 +1,12 @@
 #EXTM3U
-# Generato 2026-04-01 12:08:42 – ThisNot solo MPD
+# Generato 2026-04-01 17:05:49 – ThisNot solo MPD
 # ck= rimosso dall'URL MPD | ClearKey separato | Fix Vodafone automatico
+#EXTINF:-1 tvg-id="dwars_door_vlaanderen_ora:_13:00_(eurosport_2)" group-title="UCI Ciclismo",Dwars door Vlaanderen Ora: 13:00 (Eurosport 2)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e8372283a523444c84646c4172b1bc0f:969a90e1a1a6424a68fe4b5d776368ec
+https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel(eurosport2)/manifest.mpd
+
 #EXTINF:-1 tvg-id="fc_andorra_-_málaga_ora:_19:00_(liga_hypermotion)" group-title="La Liga 2",FC Andorra - Málaga Ora: 19:00 (Liga Hypermotion)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
