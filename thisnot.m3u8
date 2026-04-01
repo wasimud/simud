@@ -1,24 +1,6 @@
 #EXTM3U
-# Generato 2026-04-01 11:06:55 – ThisNot solo MPD
+# Generato 2026-04-01 12:08:42 – ThisNot solo MPD
 # ck= rimosso dall'URL MPD | ClearKey separato | Fix Vodafone automatico
-#EXTINF:-1 tvg-id="usa_-_portogallo_ora:_01:00_(sport&bull;tv1)" group-title="Amichevoli Internazionali",USA - Portogallo Ora: 01:00 (Sport&bull;TV1)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c2bac9c393f145fc924ce572ca99156f:45f6637eef80eafbe7e630231139df5b
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$151/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="argentina_-_zambia_ora:_01:15_(eleven_sport_1)" group-title="Amichevoli Internazionali",Argentina - Zambia Ora: 01:15 (Eleven Sport 1)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
-https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
-
-#EXTINF:-1 tvg-id="brasile_-_croazia_ora:_02:00_(sport&bull;tv4)" group-title="Amichevoli Internazionali",Brasile - Croazia Ora: 02:00 (Sport&bull;TV4)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc0b7ac31b5e42f8bf934f99acf71a8a:d76424d644a360056567a248d8b89b6c
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$10/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_HD
-
 #EXTINF:-1 tvg-id="fc_andorra_-_málaga_ora:_19:00_(liga_hypermotion)" group-title="La Liga 2",FC Andorra - Málaga Ora: 19:00 (Liga Hypermotion)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -42,3 +24,15 @@ http://a65aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tdk3b
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="psg_-_toulouse_ora:_20:45_(eleven_sport_1)" group-title="Ligue 1",PSG - Toulouse Ora: 20:45 (Eleven Sport 1)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
+https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
+
+#EXTINF:-1 tvg-id="rayo_vallecano_-_elche_ora:_21:00_(dazn_1)" group-title="La Liga",Rayo Vallecano - Elche Ora: 21:00 (Dazn 1)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_HD
