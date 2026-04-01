@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Estero",Gumball
-https://beautifulpeople.lovecdn.ru/SkySportUnoIT/index.m3u8?token=U2t5U3BvcnRVbm9JVHxub19jaGVja19pcHwxNzc0ODY4NjI0.3c7964bc9c1eb50ba3db9d2dca035bce2064c2f54439b06020683256d6c354a#EXTINF:-1 group-title="Estero",Rai 1 Europa
+#EXTINF:-1 group-title="Estero",Serie B
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c83f71744e40209ed12b1ce234d055:83279bd86c8f71656440af1abaf43f0a
+https://dctv.mocdn.tv/out/v1/53b5ed79722b4b23932dd86262242e03/manifest_L1.mpd
+
 #EXTINF:-1 group-title="Estero",Rai 2
 #EXTVLCOPT:http-referrer=https://beautifulpeople.lovecdn.ru
 #EXTVLCOPT:http-origin=https://beautifulpeople.lovecdn.ru
