@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato 2026-04-01 17:05:49 – ThisNot solo MPD
+# Generato 2026-04-01 18:11:05 – ThisNot solo MPD
 # ck= rimosso dall'URL MPD | ClearKey separato | Fix Vodafone automatico
 #EXTINF:-1 tvg-id="dwars_door_vlaanderen_ora:_13:00_(eurosport_2)" group-title="UCI Ciclismo",Dwars door Vlaanderen Ora: 13:00 (Eurosport 2)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
@@ -17,13 +17,13 @@ https://a172aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tcn
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
-http://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
 
 #EXTINF:-1 tvg-id="huesca_-_cultural_leonesa_ora:_20:00_(liga_hypermotion_2)" group-title="La Liga 2",Huesca - Cultural Leonesa Ora: 20:00 (Liga Hypermotion 2)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29cd88140a812a06a8b7545c258235c9:e7cac95c5c591af733ab6e13892abc81
-http://a65aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tdk3bssrpb/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+https://a65aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/tdk3bssrpb/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
 
 #EXTINF:-1 tvg-id="racing_santander_-_sporting_gijón_ora:_21:30_(liga_hypermotion)" group-title="La Liga 2",Racing Santander - Sporting Gijón Ora: 21:30 (Liga Hypermotion)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
