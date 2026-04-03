@@ -1,5 +1,5 @@
 #EXTM3U
-# Generato 2026-04-03 15:11:23 – ThisNot solo MPD
+# Generato 2026-04-03 16:03:52 – ThisNot solo MPD
 # ck= rimosso dall'URL MPD | ClearKey separato | Fix Vodafone automatico
 #EXTINF:-1 tvg-id="virtus_bologna_-_valencia_ora:_20:30_(sky_sport_basket)" group-title="ULEB Eurolega",Virtus Bologna - Valencia Ora: 20:30 (SKY Sport Basket)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
@@ -18,6 +18,12 @@ https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775259559_f~0_g~1_s~1bc64193-607e-4ef3-aa76-fc273c6f46ac_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~6bebdd6fe425299e8b3f18c503e0c194/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
+
+#EXTINF:-1 tvg-id="rayo_vallecano_-_elche_ora:_21:00_(dazn_1)" group-title="La Liga",Rayo Vallecano - Elche Ora: 21:00 (Dazn 1)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
+https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="manchester_city_-_liverpool_ora:_13:45_(tnt_sports_1)" group-title="FA CUP",Manchester City - Liverpool Ora: 13:45 (TNT Sports 1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
