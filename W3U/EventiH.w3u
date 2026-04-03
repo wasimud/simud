@@ -6,12 +6,72 @@
     "url": "https://raw.githubusercontent.com/wasimud/simud/refs/heads/main/W3U/EventiH.w3u",
     "stations": [
         {
-            "name": "Pechino Express - Live 2",
-            "info": "21:15 Â· TV",
+            "name": "Lecco - Vicenza - Calcio HD",
+            "info": "20:30 Â· Serie C",
             "online": "true",
-            "image": "https://media.giphy.com/avatars/Pex8/YZwnkBjyFTyG.png",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
             "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-            "url": "https://htsport.cc/live2.htm",
+            "url": "https://htsport.cc/calciohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lecco - Vicenza - Calcio HD (backup)",
+            "info": "20:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calciohdb.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Lecco - Vicenza - Calcio",
+            "info": "20:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/calcio.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Union Brescia - Cittadella - Sport Arena",
+            "info": "20:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/arena.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "Livorno - Gubbio - Sport Mix",
+            "info": "20:30 Â· Serie C",
+            "online": "true",
+            "image": "https://upload.wikimedia.org/wikipedia/it/3/3d/Serie_C_NOW_2024.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportmix.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "PSG - Tolosa - Sport Uno HD",
+            "info": "20:45 Â· Ligue 1",
+            "online": "true",
+            "image": "https://www.lfp.fr/assets/LFP_REVEAL_WEB_LFP_RS_1280x1600_b0591cf653.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/sportunohd.htm",
+            "embed": "true",
+            "isHost": ""
+        },
+        {
+            "name": "PSG - Tolosa - Sport Uno",
+            "info": "20:45 Â· Ligue 1",
+            "online": "true",
+            "image": "https://www.lfp.fr/assets/LFP_REVEAL_WEB_LFP_RS_1280x1600_b0591cf653.jpg",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/uno.htm",
             "embed": "true",
             "isHost": ""
         }
