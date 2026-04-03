@@ -74,6 +74,16 @@
             "url": "https://htsport.cc/uno.htm",
             "embed": "true",
             "isHost": ""
+        },
+        {
+            "name": "Rayo V. - Elche - Live 26",
+            "info": "21:00 Â· Liga",
+            "online": "true",
+            "image": "https://brandlogos.net/wp-content/uploads/2023/10/la_liga-logo_brandlogos.net_im3jl-512x468.png",
+            "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+            "url": "https://htsport.cc/live26.htm",
+            "embed": "true",
+            "isHost": ""
         }
     ]
 }
