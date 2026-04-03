@@ -1,23 +1,23 @@
 #EXTM3U
-# Generato 2026-04-03 10:53:51 – ThisNot solo MPD
+# Generato 2026-04-03 11:44:07 – ThisNot solo MPD
 # ck= rimosso dall'URL MPD | ClearKey separato | Fix Vodafone automatico
-#EXTINF:-1 tvg-id="paris_basketball_-_olimpia_milano_ora:_20:45_(sky_sport_basket)" group-title="ULEB Eurolega",Paris Basketball - Olimpia Milano Ora: 20:45 (SKY Sport Basket)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11183283bf44d99c8cbada10ed21dc2f:86dddd269a32c5035ef432b424d1b057
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775184116_f~0_g~1_s~e3bcc254-6eee-492a-8dd6-5e5908b6d2c9_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~89069448dab0cc0e500de0af0e74122f/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportbasket)/master_2hr-all.mpd
-
 #EXTINF:-1 tvg-id="virtus_bologna_-_valencia_ora:_20:30_(sky_sport_basket)" group-title="ULEB Eurolega",Virtus Bologna - Valencia Ora: 20:30 (SKY Sport Basket)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11183283bf44d99c8cbada10ed21dc2f:86dddd269a32c5035ef432b424d1b057
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775184116_f~0_g~1_s~e3bcc254-6eee-492a-8dd6-5e5908b6d2c9_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~89069448dab0cc0e500de0af0e74122f/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportbasket)/master_2hr-all.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775274120_f~0_g~1_s~23bd136b-1421-4771-83ee-e4c517889ab0_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~dd9f442f15b09ee5bdef1833a600183b/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportbasket)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="psg_-_toulouse_ora:_20:45_(eleven_sport_1)" group-title="Ligue 1",PSG - Toulouse Ora: 20:45 (Eleven Sport 1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
 https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
+
+#EXTINF:-1 tvg-id="psg_-_toulouse_ora:_20:45_(sky_sport_uno)" group-title="Ligue 1",PSG - Toulouse Ora: 20:45 (SKY Sport Uno)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11183de67c85ebe48beeabfde290a5ac:bd1189919644a22049e1915a359a5761
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775259559_f~0_g~1_s~1bc64193-607e-4ef3-aa76-fc273c6f46ac_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~57_x~6bebdd6fe425299e8b3f18c503e0c194/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportuno)/master_2hr-all.mpd
 
 #EXTINF:-1 tvg-id="rayo_vallecano_-_elche_ora:_21:00_(dazn_1)" group-title="La Liga",Rayo Vallecano - Elche Ora: 21:00 (Dazn 1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
