@@ -100,15 +100,27 @@ def clean_mpd_url(url):
 
 
 def fix_vodafone_mpd(url):
-    """Fix automatico per flussi Vodafone"""
+    """Fix automatico per flussi Vodafone - aggiunge .mpd dopo Manifest quando necessario"""
     if not url or "rr.cdn.vodafone.pt" not in url.lower():
         return url
-    if "/Manifest" in url:
+
+    # Se contiene già /Manifest.mpd → lascia invariato
+    if "/Manifest.mpd" in url:
         return url
-    if url.rstrip("/").endswith("/index.mpd"):
-        fixed = url.rstrip("/") + "/Manifest?start=LIVE&end=END&device=DASH_AVC_HD"
-        print(f"  → Fix Vodafone applicato → {fixed}")
+
+    # Caso principale: /index.mpd/Manifest?parametri  → diventa /index.mpd/Manifest.mpd?parametri
+    if "/Manifest?" in url or url.rstrip("/").endswith("/Manifest"):
+        fixed = re.sub(r'/Manifest(\?|$)', r'/Manifest.mpd\1', url, flags=re.IGNORECASE)
+        if fixed != url:
+            print(f"  → Fix Vodafone applicato (.mpd aggiunto) → {fixed}")
         return fixed
+
+    # Caso fallback che avevi già (per sicurezza)
+    if url.rstrip("/").endswith("/index.mpd"):
+        fixed = url.rstrip("/") + "/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD"
+        print(f"  → Fix Vodafone applicato (Manifest.mpd completo) → {fixed}")
+        return fixed
+
     return url
 
 
