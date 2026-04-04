@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1200realsociedadlevantempd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",12:00 Real Sociedad - Levante (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1775303404~exp%3D1775389804~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D2d9f3f7c60298d8910d8bde53698a9ff9e0d76a8059719131b5a334a0efff828~hmac%3Db6a8c02a61b493b69c4fd91d586e7a6ea31b522095b6c66c697338d71e22870c/13ewhwjzwoo6v1j19g79hrn9ml/web/stream.mpd?channel=9757&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1130conferenzastampagasperinimpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",11:30 Conferenza Stampa Gasperini (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db7ce81836c45a37acbe3df7e6b380b2:e19d6d5e59435fdf38537700e9dec20b
+https://dca-de-livedazn.daznedge.net/@tend%3A1775388605~geo%3AIT~asn%3A16232~path%3A1_1_63ea0478c4f658c59cc3c6ca9548e6994a419c132198c1e81ae206603bc23b83~id%3A9827c3cf91d3~tk3%3A845e8a343a153d1649871b6872f54774a5307e9d866ff52ba548c681d3d9768f/10ik3c2ozfp9e1gy12uoa0s25r/web/stream.mpd?channel=5074&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1241sassuolocagliarimpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",12:41 Sassuolo - Cagliari (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=380526779204553eb9abd9ab266359b4:712ec82d144779aaf9ed1a0180102460
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1775306703~exp%3D1775393103~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D72bd54925ef1016960959bfa49a5a5b3fb25d391790c07c90d184f00719c860a%23wm%3D0~hmac%3Dfc938e40d92c76e2cd950dd80355ca3b58aefa1375ee72caea39ea03f979c38e/h678fzz5a56q1y0921xlh6sv4/web/stream.mpd?channel=1348&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
