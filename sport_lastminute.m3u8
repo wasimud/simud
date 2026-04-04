@@ -6,6 +6,18 @@
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1775303404~exp%3D1775389804~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D2d9f3f7c60298d8910d8bde53698a9ff9e0d76a8059719131b5a334a0efff828~hmac%3Db6a8c02a61b493b69c4fd91d586e7a6ea31b522095b6c66c697338d71e22870c/13ewhwjzwoo6v1j19g79hrn9ml/web/stream.mpd?channel=9757&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 tvg-id="1415maiorcarealmadridmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",14:15 Maiorca - Real Madrid (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0b0f8c30b0d53d8b0eb437a530c1087:a11fc8dd017065c575d486fff162d4d0
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1775315707~exp%3D1775402107~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3Dadaeee9889cf67c8b236caa37b3b3deeaf9d90481c5001805c2db83a806131e8%23wm%3D0~hmac%3D7655ee52c57a1da5fc251cce2acd8509e491b3dba19007973232a55d1a616ed4/8ftjqye9z6ov1qrtasyl3jynj/web/stream.mpd?channel=3942&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1630realbetisespanyolmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",16:30 Real Betis - Espanyol (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9e54bb19e54521c82c4c0762f6d3262:af29e324667986a8024087a9bee94ea0
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1775319903~exp%3D1775406303~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D3d2222a2a665a3a99a92dca3dc450ee5c8ec459e6537fc94d3259a0d4c861aee%23wm%3D0~hmac%3D84f5d262ed2c9ab873c4fe8523b3c7f0af470e12e495b0bfd60c82e05fe80f23/zmiqufzfn1601v6gllqm9z0gv/web/stream.mpd?channel=6906&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="1130conferenzastampagasperinimpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",11:30 Conferenza Stampa Gasperini (MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -17,6 +29,18 @@ https://dca-de-livedazn.daznedge.net/@tend%3A1775388605~geo%3AIT~asn%3A16232~pat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=380526779204553eb9abd9ab266359b4:712ec82d144779aaf9ed1a0180102460
 https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1775306703~exp%3D1775393103~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D72bd54925ef1016960959bfa49a5a5b3fb25d391790c07c90d184f00719c860a%23wm%3D0~hmac%3Dfc938e40d92c76e2cd950dd80355ca3b58aefa1375ee72caea39ea03f979c38e/h678fzz5a56q1y0921xlh6sv4/web/stream.mpd?channel=1348&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1456hellasveronafiorentinampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",14:56 Hellas Verona - Fiorentina (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13ae24498d6a5068b3b3feb9c97cab5a:c6f09f24e06d175f3955ea8b32d3e6d2
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1775315702~exp%3D1775402102~acl%3D%2F*~id%3DHjBL5BodKG5pE6gKE9zUTY7wsPhLSGKTep-ZgGvjYQt2vf9lu473erqGJHO4qlTK~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D191ad164408e38aed6d8b1547096b73f208891d9f9418e200eaf430f92b0efa5%23wm%3D1%23wmd%3D1152~hmac%3D6ece3a225f5bd945f304e721d5610c191e11260cff590293575fe0d3d03bab63/1osotce7f7qdnz64630o9kcbh/web/stream.mpd?channel=1387&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1500conferenzastampalucianospallettimpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",15:00 Conferenza Stampa Luciano Spalletti (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff97d90785ef5c2c95aff06c7d4ed57d:d42b83bd7633f0e29e41f49ff520c014
+https://dca-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzU0MDIxMDUsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiODA2ZjFhZjg1NjZmMmNlNjBiMjkzOTFkODUxNDM1OTNlYmJlMGY0OSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJwcm90byI6ImRhc2giLCJnZW8iOiJpdCIsImFzbiI6WyIxNjIzMiJdLCJpYXQiOjE3NzUzMTU3MDV9.LNdYbFjamNWMYDBwn_Ixy1uf7Wd-qKC777IhRRlxiUQ/s2zwumenzpsy1vzctizvcgeyj/web/stream.mpd?channel=5065&mta=it&outlet=dazn-italy&plang=it
 
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
