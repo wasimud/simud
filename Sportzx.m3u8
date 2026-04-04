@@ -393,10 +393,8 @@ https://a4.kora-plus.dad/watch/bus.m3u8
 #EXTINF:-1 tvg-id="rcstrasbourgvsnice1600sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",RC Strasbourg vs Nice 16:00 (SD SERVER)
 https://smarthard.click/hls/Mdplz23MNkdi/index.m3u8
 
-#EXTINF:-1 tvg-id="psveindhovenvsutrecht1530sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",PSV Eindhoven vs Utrecht 15:30 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#EXTINF:-1 tvg-id="stadebrestoisvsstaderennais1800sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Stade Brestois vs Stade Rennais 18:00 (SD SERVER)
+https://smarthard.click/hls/Mdplz23MNkdi/index.m3u8
 
 #EXTINF:-1 tvg-id="azalkmaarvsfortunasittard1745sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",AZ Alkmaar vs Fortuna Sittard 17:45 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -415,9 +413,6 @@ https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
 
 #EXTINF:-1 tvg-id="trabzonsporvsgalatasaray1800beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Trabzonspor vs Galatasaray 18:00 (beIN SPORTS SD)
-https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
-
-#EXTINF:-1 tvg-id="gaziantepvsalanyaspor1500beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super lig",Gaziantep vs Alanyaspor 15:00 (beIN SPORTS SD)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
 #EXTINF:-1 tvg-id="deportivovsmlaga1730laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Laliga 2",Deportivo vs Málaga 17:30 (Laliga Hypermotion ES)
