@@ -1,6 +1,12 @@
 #EXTM3U
-# Generato 2026-04-04 11:36:15 – ThisNot solo MPD
+# Generato 2026-04-04 13:14:00 – ThisNot solo MPD
 # ck= rimosso dall'URL MPD | ClearKey separato | Fix Vodafone automatico
+#EXTINF:-1 tvg-id="manchester_city_-_liverpool_ora:_13:45_(dazn_(warp))" group-title="FA CUP",Manchester City - Liverpool Ora: 13:45 (Dazn (WARP))
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b206e9e65ff556ae9330c94c84630e9b:04c21035532d4254c16b44bac7ae8675
+https://dca-fs-live-dazn-cdn.dazn.com/qjs3gbbjfi7l1pqf6w7id1yvv/web/stream.mpd?channel=3956&outlet=dazn-italy&plang=en&headers=eyJkYXpuLXRva2VuIjoiZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmxlSEFpT2pFM056VXpPRGc0TnpBc0ltdHBaQ0k2SWpJd01qSXhNVEl6SWl3aWNHRjBhRjlrSWpveExDSndZWFJvSWpvaU5XSTVNek5tT1dFMVl6RmlaalU0WW1JMU1tSTNPRFkwWlRSaFpXTTNPR0V3TXpnMFpHTTFNQ0lzSW5OemFXUWlPaUl3WTJZMU1EYzBObU15WWpjaUxDSndjbTkwYnlJNkltUmhjMmdpTENKblpXOGlPaUpwZENJc0ltRnpiaUk2V3lJeE16TXpOU0pkTENKMVlTSTZJalk0TnpobU4ySmhZakZrWXpRME1qSmxaVEJrTlRCa01UZG1aR0UxWlRWallUazFOakEwWmpZaUxDSnBZWFFpT2pFM056VXpNREkwTnpCOS4yTU5zU3I2ZFZpZUIxVmtSNnlsYzJucDF1TVprMnBMaEh1d25WVmp0Ry1VIiwidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsInJlZmVyZXIiOiJodHRwczovL3d3dy5kYXpuLmNvbS8iLCJvcmlnaW4iOiJodHRwczovL3d3dy5kYXpuLmNvbSJ9
+
 #EXTINF:-1 tvg-id="manchester_city_-_liverpool_ora:_13:45_(tnt_sports_1)" group-title="FA CUP",Manchester City - Liverpool Ora: 13:45 (TNT Sports 1)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -246,3 +252,9 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39bcbc9418aa4d62b96b6a3eae2f6df0:a8f968b6a8ed7bfb17bf787b6c930c7e
 https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$521/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
+
+#EXTINF:-1 tvg-id="sky_calcio_club_ora:_22:45_(sky_sport_calcio)" group-title="Serie A",SKY Calcio Club Ora: 22:45 (SKY Sport Calcio)
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775369828_f~0_g~1_s~b3eb3fe7-ccfa-4484-99ba-0c6883d456ea_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~5435b5dd4554e18905f0f7edb4a37741/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
