@@ -42,6 +42,12 @@ https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1775315702~exp%3D1775402102~acl%3D%2
 #KODIPROP:inputstream.adaptive.license_key=ff97d90785ef5c2c95aff06c7d4ed57d:d42b83bd7633f0e29e41f49ff520c014
 https://dca-fs-live-dazn-cdn.dazn.com/@eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzU0MDIxMDUsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoxLCJwYXRoIjoiODA2ZjFhZjg1NjZmMmNlNjBiMjkzOTFkODUxNDM1OTNlYmJlMGY0OSIsInNzaWQiOiI5ODI3YzNjZjkxZDMiLCJwcm90byI6ImRhc2giLCJnZW8iOiJpdCIsImFzbiI6WyIxNjIzMiJdLCJpYXQiOjE3NzUzMTU3MDV9.LNdYbFjamNWMYDBwn_Ixy1uf7Wd-qKC777IhRRlxiUQ/s2zwumenzpsy1vzctizvcgeyj/web/stream.mpd?channel=5065&mta=it&outlet=dazn-italy&plang=it
 
+#EXTINF:-1 tvg-id="1811lazioparmampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",18:11 Lazio - Parma (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3e95b867c8895614acad107c81d48407:ae8c14b4bcf01cfe4592f57d7668d219
+https://dca-tm-livedazn.dazn.ticdn.it/@st%3D1775326805~exp%3D1775413205~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D161039ca029ebb8d9eac11e6736dee52c091740eb0cbbb7bc35c895e259ebbf4%23wm%3D0~hmac%3D00243574c7a20974f19a8c40b38ed63958206438d70da764b89892ddd8e9920a/1s2vir4hcp2lm1odtqgv5foegi/web/stream.mpd?channel=1388&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
