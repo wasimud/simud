@@ -125,12 +125,14 @@ def parse_homepage_for_events(html: str):
     while i < len(lines):
         line = lines[i].strip()
 
+        # Data (es. DOMENICA 05/04)
         m = re.search(r'<div class="date-header[^"]*">([^<]+)</div>', line, re.I)
         if m:
             current_date = m.group(1).strip().upper()
             i += 1
             continue
 
+        # Categoria (es. Italia - Serie A)
         m = re.search(r'<span class="category-label[^"]*">([^<]+)</span>', line, re.I)
         if m:
             current_cat = re.sub(r'\s+', ' ', m.group(1)).strip().rstrip('- ')
@@ -138,6 +140,7 @@ def parse_homepage_for_events(html: str):
             continue
 
         if '<div class="match-card' in line:
+            # Raccolgo tutto il blocco match-card
             card = line
             depth = 1
             i += 1
@@ -146,28 +149,49 @@ def parse_homepage_for_events(html: str):
                 depth += lines[i].count('<div') - lines[i].count('</div>')
                 i += 1
 
-            m_time = re.search(r'<span class="ora-txt[^"]*">(.*?)</span>', card, re.DOTALL | re.I)
+            # ================== ORARIO ==================
+            m_time = re.search(r'<span class="ora-txt[^"]*".*?>(.*?)</span>', card, re.DOTALL | re.I)
             orario = m_time.group(1).strip() if m_time else "??:??"
 
-            m_teams = re.search(r'<div class="teams-box[^"]*">(.*?)</div>', card, re.DOTALL | re.I)
+            # ================== SQUADRE ==================
             squadre = ""
-            if m_teams:
-                txt = re.sub(r'<[^>]+>', '', m_teams.group(1))
-                txt = re.sub(r'\s+', ' ', txt).strip()
-                squadre = txt.replace("VS", " - ").replace("vs", " - ").strip()
 
-            mpd_links = re.findall(r'href="live\.php\?ch=([^"]+)"[^>]*class="[^"]*btn-premium[^"]*"[^>]*>MPD</a>', card, re.I)
+            # Prima prova con data-sq1 e data-sq2 (più affidabile)
+            sq1 = re.search(r'data-sq1="([^"]+)"', card)
+            sq2 = re.search(r'data-sq2="([^"]+)"', card)
+            if sq1 and sq2:
+                squadre = f"{sq1.group(1).strip()} - {sq2.group(1).strip()}"
+            else:
+                # Fallback sul testo visibile
+                m_teams = re.search(r'<div class="teams-box[^"]*">(.*?)</div>', card, re.DOTALL | re.I)
+                if m_teams:
+                    txt = re.sub(r'<[^>]+>', '', m_teams.group(1))
+                    txt = re.sub(r'\s+', ' ', txt).strip()
+                    txt = txt.replace("VS", " - ").replace("vs", " - ").strip()
+                    if txt and len(txt) > 5:  # evita testi troppo corti
+                        squadre = txt
+
+            # ================== LINK MPD ==================
+            mpd_links = re.findall(r'href="live\.php\?ch=([^"]+)"[^>]*class="[^"]*btn-premium[^"]*"[^>]*>MPD</a>', 
+                                   card, re.I | re.DOTALL)
+
             for ch in mpd_links:
                 ch = ch.strip()
-                if not ch: continue
+                if not ch:
+                    continue
 
+                # Costruisco il titolo: "Cremonese - Bologna • 15:00 • Italia - Serie A"
                 parti = []
-                if squadre: parti.append(squadre)
-                if orario != "??:??": parti.append(orario)
-                if current_cat != "Sconosciuta": parti.append(current_cat)
+                if squadre:
+                    parti.append(squadre)
+                if orario and orario != "??:??":
+                    parti.append(orario)
+                if current_cat and current_cat != "Sconosciuta":
+                    parti.append(current_cat)
 
                 titolo = " • ".join(parti).strip()
-                if not titolo: titolo = f"Evento {ch}"
+                if not titolo:
+                    titolo = f"Evento {ch}"
 
                 events.append({
                     "ch": ch,
