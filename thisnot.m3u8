@@ -1,6 +1,6 @@
 #EXTM3U
-# Generato 2026-04-05 14:07:01 – ThisNot solo MPD
-# ck= rimosso dall'URL MPD | ClearKey separato | Fix Vodafone automatico
+# Generato 2026-04-05 14:14:00 – ThisNot solo MPD
+# zahs.tv: token ck= lasciato nell'URL | Altri flussi: ClearKey separato
 #EXTINF:-1 tvg-id="giro_delle_fiandre_ora:_13:00_(eurosport)" group-title="UCI Ciclismo",Giro delle Fiandre Ora: 13:00 (Eurosport)
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -15,9 +15,7 @@ https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE
 
 #EXTINF:-1 tvg-id="cremonese_-_bologna_ora:_15:00_(dazn_(ch))" group-title="Serie A",Cremonese - Bologna Ora: 15:00 (Dazn (CH))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09a19cc21a5492f034ae620f56c22e83:59bcc21f1bfcca1725e05a3530942057
-https://zh4-8-dashenc-live.zahs.tv/HD_dazn_event_6_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCBGMZTIQZTINBTCNBTGMYDCLJXIYYEGQRRGU3DSNBXIE3TQMJQEZSHE3J5MV4HA2LSMF2GS33OHIYTONZVHEZDKNBZGMTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRQL43GKMJWGUYWKYRSGQYDGM3GMQ4DAYRQGU2GMOLEGBSTQOJZHE4GCJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIZDCMBVGE2DKJTWHUYA
+https://zh4-8-dashenc-live.zahs.tv/HD_dazn_event_6_ch/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOCBGMZTIQZTINBTCNBTGMYDCLJXIYYEGQRRGU3DSNBXIE3TQMJQEZSHE3J5MV4HA2LSMF2GS33OHIYTONZVHEZDKNBZGMTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRQL43GKMJWGUYWKYRSGQYDGM3GMQ4DAYRQGU2GMOLEGBSTQOJZHE4GCJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIZDCMBVGE2DKJTWHUYA&ck=eyIwOWExOWNjMjFhNTQ5MmYwMzRhZTYyMGY1NmMyMmU4MyI6IjU5YmNjMjFmMWJmY2NhMTcyNWUwNWEzNTMwOTQyMDU3IiwiNDdmNTU1M2M1Y2EzNGViMjExNGY0MjdjZTc0M2YyMWYiOiIyZjZkZTAwMjBiNzkxNjY1ZGE1ZWQ1YjYzYzFmZmI1NyIsIjA0Y2RjNmU3YzM0NmYzZDc4YWQ0NmU2YjQ1MTMwNmM1IjoiZjQxYjVjMDhkM2E1ZDIxNTNhYjJiYTY2YzA1MDgxM2UiLCJiNGNjODVkZDJiMWM4M2NmMzA3MTM5ZDg2ZTM2NTg0MCI6ImRiZGUwZTExOTQ2YjM0ZGFkMmU4YTMxMjdiZjVkYWFhIn0
 
 #EXTINF:-1 tvg-id="cremonese_-_bologna_ora:_15:00_(dazn1_(warp))" group-title="Serie A",Cremonese - Bologna Ora: 15:00 (Dazn1 (WARP))
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
@@ -168,9 +166,3 @@ https://dcs-ak-livedazn.akamaized.net/dash/dazn-linear-206/stream.mpd?p=web&head
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
 https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
-
-#EXTINF:-1 tvg-id="(sportklub_1)" group-title="",(SportKlub 1)
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent%3DMozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/134.0.0.0%20Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80119f3e574454218d31cf464b420c5e:d71e3186c4e037279b4c12197b860551,feb6a0d5bdf95721a695bdda83c3a945:a96bf27d36cd9ede447c5c392511ed5d
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/sk1/default/index.mpd?headers=eyJ1c2VyLWFnZW50IjoiTW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiWC1Gb3J3YXJkZWQtRm9yIjoiMjEzLjE5MS4xMzMuMjAwIn0
