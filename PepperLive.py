@@ -15,7 +15,7 @@ import sys
 # =============================================
 
 BASE_URLS = [
-    "https://pepperlive.info",
+    "https://www.chilistream.net/",
     "https://www..info",
 ]
 
