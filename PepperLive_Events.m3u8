@@ -1,25 +1,7 @@
 #EXTM3U
-#PLAYLIST:PepperLive MPD Eventi - 2026-04-05 15:04
+#PLAYLIST:PepperLive MPD Eventi - 2026-04-05 15:59
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-
-#EXTINF:-1 tvg-id="Sport_DAZN" tvg-name="Sport_DAZN" group-title="DOMENICA 05/04", Cremonese - Bologna • 15:00 • Italia - Serie A (Sport_DAZN)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1af497cf8913612162889498b9527772:a316eae8fe63dbeadadb30aec2dcf90c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/mmd3uu1so9/out/v1/7e9f3994739f45d598c946b4e99d3428/cenc.mpd
-
-#EXTINF:-1 tvg-id="SportTV2" tvg-name="SportTV2" group-title="DOMENICA 05/04", Cremonese - Bologna • 15:00 • Italia - Serie A (SportTV2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d28edf4f055409bb12d6d0260b26b6b:bf69f8a33c39c31f5ff06ab52012e27c
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$152/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
-
-#EXTINF:-1 tvg-id="ELEVEN1" tvg-name="ELEVEN1" group-title="DOMENICA 05/04", Cremonese - Bologna • 15:00 • Italia - Serie A (ELEVEN1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=525a9da2120045a6973709dbcd685609:d8a7578d81ce754755a503ad8ac98ec0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://cdn-s-lb2.pluscdn.pl/ch/1457744/147/dash/4867711b/live.mpd
 
 #EXTINF:-1 tvg-id="SPORTCALCIO" tvg-name="Sky Sport Calcio" group-title="DOMENICA 05/04", Pisa - Torino • 18:00 • Italia - Serie A (Sky Sport Calcio)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -80,18 +62,6 @@ https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
 #KODIPROP:inputstream.adaptive.license_key=2cd12eaca5c14b30a3280b1a89484809:e2c14f6cc245c1a5ebbce8c8c704fc6c
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://cdn-s-lb2.pluscdn.pl/ch/1457734/144/dash/0be7047a/live.mpd
-
-#EXTINF:-1 tvg-id="SPORTCALCIO" tvg-name="Sky Sport Calcio" group-title="DOMENICA 05/04", Angers SCO - Olympique Lyonnais • 15:00 • Francia - Ligue 1 (Sky Sport Calcio)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11180b94694b74ad3b18dfd36e43051e:5fdf71587eea137167406c0816d6c80a
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1775459833_f~0_g~1_s~6c570e83-abbd-447e-a8cc-6cdf8b718948_u~fe423816729b2d0721877d76cb5fec61bc8b08906e5753a17738415918ac29d62bf11af71d79aa03c36506222ca810be_k~A_l~60_x~58ed15a13f723e15902b5c474fb46827/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportcalcio)/master_2hr-all.mpd
-
-#EXTINF:-1 tvg-id="SportTV3" tvg-name="SportTV3" group-title="DOMENICA 05/04", Angers SCO - Olympique Lyonnais • 15:00 • Francia - Ligue 1 (SportTV3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=206fec56f5b741e5aa81124895d9b592:27b91505aa6926f59199c828bc27767b
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE$153/index.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_AVC_HD
 
 #EXTINF:-1 tvg-id="SPORTCALCIO" tvg-name="Sky Sport Calcio" group-title="DOMENICA 05/04", Monaco - Olympique Marseille • 20:45 • Francia - Ligue 1 (Sky Sport Calcio)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
