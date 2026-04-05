@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="1200getafeathleticbilbaompd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",12:00 Getafe - Athletic Bilbao (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1775389804~exp%3D1775476204~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3D39c3d24a570d3b9f1c46ae92e072b4dec2109032a52ba1d9baceb9d30b349754~hmac%3D90544e7e258276014034eacda09dbd12be775e7bc7d7de5f5d4717854a11e489/utqiids7tm721pfuv8n4g2340/web/stream.mpd?channel=3739&mta=it&outlet=dazn-italy&plang=it
+
+#EXTINF:-1 tvg-id="1226cremonesebolognampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",12:26 Cremonese - Bologna (MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5a2bf4c7bda5349a8b391baa4e3c298:80953ed4e4fd9725b25ff66ee8baa525
+https://dcb-tm-livedazn.dazn.ticdn.it/@st%3D1775392203~exp%3D1775478603~acl%3D%2F*~id%3D9827c3cf91d3~data%3Dcountry%3Dit%23path%3D1s%2C1d%23hashp%3De548f4abafe10051102e6f0a5a497886e8ea82e12ffb2a4ee7a778a4f84838f5%23wm%3D0~hmac%3De6eb430d244db5a37da4d922d85f1bed4449d83d50730cdd47405a79d10128d2/siqvvzjesltd1jzwwmxzjywr3/web/stream.mpd?channel=1350&mta=it&outlet=dazn-italy&plang=it
+
 #EXTINF:-1 tvg-id="ch01itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 01  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
